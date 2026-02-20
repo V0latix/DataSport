@@ -210,6 +210,22 @@ python -m pipelines.init_databases
   - `data/raw/handball/ihf_world_men_handball_championship_top4_seed.csv`
   - `data/raw/handball/ihf_world_women_handball_championship_top4_seed.csv`
 
+## 9f) Cas ICC Cricket World Cup (historique, hommes + femmes)
+
+- connecteur: `icc_cricket_world_cup_history`
+- compétitions:
+  - `icc_cricket_world_cup_men`
+  - `icc_cricket_world_cup_women`
+- `event_id` par édition:
+  - `icc_cricket_world_cup_men_YY`
+  - `icc_cricket_world_cup_women_YY`
+- `results`: finale uniquement (rangs 1 et 2) par édition
+- `participant_id` = `country_id` (code pays, incluant `ENG` et `WIS`)
+- note métier: pas de match officiel 3e place sur la plupart des éditions -> top 2 retenu
+- seeds locaux:
+  - `data/raw/cricket/icc_cricket_world_cup_men_final_seed.csv`
+  - `data/raw/cricket/icc_cricket_world_cup_women_final_seed.csv`
+
 ## 10) Cas JO d'été Paris 2024
 
 - `competition_id` unique: `summer_olympics_paris_2024`
@@ -246,6 +262,7 @@ python -m pipelines.ingest --connector rugby_world_cup_history --year 2026
 python -m pipelines.ingest --connector fiba_ranking_history --year 2026
 python -m pipelines.ingest --connector fiba_basketball_world_cup_history --year 2026
 python -m pipelines.ingest --connector ihf_handball_world_championship_history --year 2026
+python -m pipelines.ingest --connector icc_cricket_world_cup_history --year 2026
 python -m pipelines.validate
 python -m pipelines.init_databases
 ```

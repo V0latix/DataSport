@@ -288,6 +288,24 @@ Comportement:
 - alimente le classement final top 4 par édition (1er, 2e, 3e, 4e)
 - `participant_id` est le code pays (avec mapping historique pour `URS`, `YUG`, `TCH`, `GDR`, `FRG`)
 
+### 8f) Ingest ICC Cricket World Cup (historique, hommes + femmes)
+
+```bash
+python -m pipelines.ingest --connector icc_cricket_world_cup_history --year 2026
+```
+
+Comportement:
+- ingère les seeds historiques locaux:
+  - `data/raw/cricket/icc_cricket_world_cup_men_final_seed.csv`
+  - `data/raw/cricket/icc_cricket_world_cup_women_final_seed.csv`
+- crée deux compétitions:
+  - `icc_cricket_world_cup_men`
+  - `icc_cricket_world_cup_women`
+- crée un event par édition (suffixe `YY`)
+- alimente la finale (rangs 1-2) par édition
+- note métier: pas de match officiel 3e place sur la majorité des éditions, donc top 2 stocké
+- `participant_id` est le code pays (incluant `ENG`, `WIS`)
+
 ### 9) Ingest JO d'été Paris 2024
 
 ```bash

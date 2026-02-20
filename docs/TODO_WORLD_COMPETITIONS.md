@@ -14,6 +14,8 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] FIBA Women's Basketball World Cup (`fiba_basketball_world_cup_history`)
 - [x] IHF Handball World Championship (men) (`ihf_handball_world_championship_history`)
 - [x] IHF Women's Handball World Championship (`ihf_handball_world_championship_history`)
+- [x] ICC Cricket World Cup (ODI men) (`icc_cricket_world_cup_history`)
+- [x] ICC Women's Cricket World Cup (`icc_cricket_world_cup_history`)
 - [x] Summer/Winter Olympics historiques (`olympics_keith_history`)
 - [x] Paris 2024 Summer Olympics (`paris_2024_summer_olympics`)
 
@@ -30,8 +32,6 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 
 ### Competitions mondiales
 
-- [ ] ICC Cricket World Cup (ODI men)
-- [ ] ICC Women's Cricket World Cup
 - [ ] World Athletics Championships
 - [ ] World Aquatics Championships
 - [ ] FIVB Volleyball World Championship (men)

@@ -32,3 +32,5 @@ fiba_men_ranking,basketball,FIBA Men's World Ranking,,national_team_ranking,2010
 fiba_women_ranking,basketball,FIBA Women's World Ranking,,national_team_ranking,2010-12-31,2025-08-08,fiba_ranking_history
 ihf_handball_world_championship_men,handball,IHF World Men's Handball Championship,,national_team_tournament,1938-12-31,2025-12-31,ihf_handball_world_championship_history
 ihf_handball_world_championship_women,handball,IHF Women's Handball World Championship,,national_team_tournament,1957-12-31,2025-12-31,ihf_handball_world_championship_history
+icc_cricket_world_cup_men,cricket,ICC Cricket World Cup (Men),,national_team_tournament,1975-12-31,2023-12-31,icc_cricket_world_cup_history
+icc_cricket_world_cup_women,cricket,ICC Women's Cricket World Cup,,national_team_tournament,1973-12-31,2022-12-31,icc_cricket_world_cup_history

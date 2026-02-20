@@ -1,0 +1,3 @@
+discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
+icc-cricket-world-cup-men-final-ranking,ICC Cricket World Cup Men Final Ranking,icc-cricket-world-cup-men-final-ranking,cricket,1.0,connector_icc_cricket_world_cup_history,2026-02-20T22:26:11+00:00
+icc-cricket-world-cup-women-final-ranking,ICC Cricket World Cup Women Final Ranking,icc-cricket-world-cup-women-final-ranking,cricket,1.0,connector_icc_cricket_world_cup_history,2026-02-20T22:26:11+00:00

@@ -1,0 +1,7 @@
+{
+  "mode": "local_seed",
+  "sources": {
+    "icc_cricket_world_cup_men_final_seed.csv": "/Users/romain/dev/DataSport/data/raw/cricket/icc_cricket_world_cup_men_final_seed.csv",
+    "icc_cricket_world_cup_women_final_seed.csv": "/Users/romain/dev/DataSport/data/raw/cricket/icc_cricket_world_cup_women_final_seed.csv"
+  }
+}
