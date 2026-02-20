@@ -1,0 +1,11 @@
+{
+  "mode": "icc_api",
+  "rows": 134,
+  "competitions": [
+    "odi",
+    "t20",
+    "test"
+  ],
+  "api_base": "https://assets-icc.sportz.io",
+  "errors": []
+}

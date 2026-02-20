@@ -27,6 +27,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] FIBA World Ranking (women) (`fiba_ranking_history`)
 - [x] World Rugby Rankings (men) (`world_rugby_ranking_history`)
 - [x] World Rugby Rankings (women) (`world_rugby_ranking_history`)
+- [x] ICC Men's Team Rankings (Test, ODI, T20I) (`icc_team_ranking_history`)
 
 ## Prochaine vague (priorite haute)
 
@@ -39,7 +40,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 
 ### Classements mondiaux (Top 10)
 
-- [ ] Top 10 ICC Team Rankings (Test, ODI, T20)
+- [ ] Top 10 ICC Women's Team Rankings (ODI, T20I)
 
 ## Backlog (priorite moyenne)
 

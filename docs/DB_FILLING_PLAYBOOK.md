@@ -147,6 +147,22 @@ python -m pipelines.init_databases
 - source principale: pages FIBA + endpoint `getgdapfederationsranking`
 - seed local fallback/cache: `data/raw/basketball/fiba_rankings_history_seed.csv`
 
+## 8e) Cas ICC Team Rankings (historique, hommes Test/ODI/T20I)
+
+- connecteur: `icc_team_ranking_history`
+- compétitions:
+  - `icc_men_test_team_ranking`
+  - `icc_men_odi_team_ranking`
+  - `icc_men_t20i_team_ranking`
+- `event_id` annuel:
+  - `icc_men_test_team_ranking_YY`
+  - `icc_men_odi_team_ranking_YY`
+  - `icc_men_t20i_team_ranking_YY`
+- `participant_id` = code pays
+- `results`: top 10 par année pour chaque format
+- source principale: endpoint ICC assets `assets-icc.sportz.io/cricket/v1/ranking`
+- seed local fallback/cache: `data/raw/cricket/icc_team_rankings_history_seed.csv`
+
 ## 9) Cas Coupe du Monde FIFA (historique)
 
 - `competition_id` unique: `fifa_world_cup`
@@ -260,6 +276,7 @@ python -m pipelines.ingest --connector fifa_women_world_cup_history --year 2026
 python -m pipelines.ingest --connector world_rugby_ranking_history --year 2026
 python -m pipelines.ingest --connector rugby_world_cup_history --year 2026
 python -m pipelines.ingest --connector fiba_ranking_history --year 2026
+python -m pipelines.ingest --connector icc_team_ranking_history --year 2026
 python -m pipelines.ingest --connector fiba_basketball_world_cup_history --year 2026
 python -m pipelines.ingest --connector ihf_handball_world_championship_history --year 2026
 python -m pipelines.ingest --connector icc_cricket_world_cup_history --year 2026

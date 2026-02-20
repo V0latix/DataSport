@@ -3458,3 +3458,6 @@ icc_cricket_world_cup_women_09,icc_cricket_world_cup_women,icc-cricket-world-cup
 icc_cricket_world_cup_women_13,icc_cricket_world_cup_women,icc-cricket-world-cup-women-final-ranking,women,final_ranking_top2,2013-12-31
 icc_cricket_world_cup_women_17,icc_cricket_world_cup_women,icc-cricket-world-cup-women-final-ranking,women,final_ranking_top2,2017-12-31
 icc_cricket_world_cup_women_22,icc_cricket_world_cup_women,icc-cricket-world-cup-women-final-ranking,women,final_ranking_top2,2022-12-31
+icc_men_test_team_ranking_26,icc_men_test_team_ranking,icc-men-test-team-ranking,men,ranking_release_top10,2026-01-08
+icc_men_odi_team_ranking_26,icc_men_odi_team_ranking,icc-men-odi-team-ranking,men,ranking_release_top10,2026-01-27
+icc_men_t20i_team_ranking_26,icc_men_t20i_team_ranking,icc-men-t20i-team-ranking,men,ranking_release_top10,2026-02-20

@@ -1,0 +1,4 @@
+competition_id,sport_id,name,season_year,level,start_date,end_date,source_id
+icc_men_test_team_ranking,cricket,ICC Men's Test Team Ranking,,national_team_ranking,2026-01-08,2026-01-08,icc_team_ranking_history
+icc_men_odi_team_ranking,cricket,ICC Men's ODI Team Ranking,,national_team_ranking,2026-01-27,2026-01-27,icc_team_ranking_history
+icc_men_t20i_team_ranking,cricket,ICC Men's T20I Team Ranking,,national_team_ranking,2026-02-20,2026-02-20,icc_team_ranking_history

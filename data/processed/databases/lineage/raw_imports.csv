@@ -62,3 +62,6 @@ import_8ef05516ff6c35826aab4d7dddc80c717e0d35e8,fiba_ranking_history,2026-02-20T
 import_d2bd130f949f725a58e09685760b5c5a732d7bb7,fiba_ranking_history,2026-02-20T21:54:37+00:00,/Users/romain/dev/DataSport/data/raw/fiba_ranking_history/20260220T215410Z,success,
 import_1f0997c78c89c26cab565b44ae329d5dd28275bb,ihf_handball_world_championship_history,2026-02-20T22:17:26+00:00,/Users/romain/dev/DataSport/data/raw/ihf_handball_world_championship_history/20260220T221726Z,success,
 import_d118d0b9ada9f7eab17a1cfd6a8b413b65b1f99b,icc_cricket_world_cup_history,2026-02-20T22:26:11+00:00,/Users/romain/dev/DataSport/data/raw/icc_cricket_world_cup_history/20260220T222611Z,success,
+import_4f7361eef721e4d31bc32fafd64b44abf3d70c70,icc_team_ranking_history,2026-02-20T22:47:10+00:00,/Users/romain/dev/DataSport/data/raw/icc_team_ranking_history/20260220T224709Z,success,
+import_75f06c1575f110f056d09aae28838aa04bab768f,icc_team_ranking_history,2026-02-20T22:47:34+00:00,/Users/romain/dev/DataSport/data/raw/icc_team_ranking_history/20260220T224733Z,success,
+import_81a546a63c57e2f5819f2ea86f280d44284734c1,icc_team_ranking_history,2026-02-20T22:49:21+00:00,/Users/romain/dev/DataSport/data/raw/icc_team_ranking_history/20260220T224918Z,success,

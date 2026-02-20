@@ -1,0 +1,4 @@
+event_id,competition_id,discipline_id,gender,event_class,event_date
+icc_men_test_team_ranking_26,icc_men_test_team_ranking,icc-men-test-team-ranking,men,ranking_release_top10,2026-01-08
+icc_men_odi_team_ranking_26,icc_men_odi_team_ranking,icc-men-odi-team-ranking,men,ranking_release_top10,2026-01-27
+icc_men_t20i_team_ranking_26,icc_men_t20i_team_ranking,icc-men-t20i-team-ranking,men,ranking_release_top10,2026-02-20

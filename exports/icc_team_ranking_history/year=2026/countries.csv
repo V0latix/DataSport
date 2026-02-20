@@ -1,0 +1,12 @@
+country_id,iso2,iso3,name_en,name_fr
+AUS,AU,AUS,Australia,
+ZAF,ZA,ZAF,South Africa,
+ENG,,ENG,England,
+IND,IN,IND,India,
+NZL,NZ,NZL,New Zealand,
+LKA,LK,LKA,Sri Lanka,
+PAK,PK,PAK,Pakistan,
+WIS,,WIS,West Indies,
+BGD,BD,BGD,Bangladesh,
+IRL,IE,IRL,Ireland,
+AFG,AF,AFG,Afghanistan,
