@@ -149,8 +149,8 @@ fiba-men-ranking,FIBA Men Ranking,fiba-men-ranking,basketball,1.0,connector_fiba
 fiba-women-ranking,FIBA Women Ranking,fiba-women-ranking,basketball,1.0,connector_fiba_ranking_history,2026-02-20T21:54:37+00:00
 ihf-handball-world-championship-men-final-ranking,IHF Handball World Championship Men Final Ranking,ihf-handball-world-championship-men-final-ranking,handball,1.0,connector_ihf_handball_world_championship_history,2026-02-20T22:17:26+00:00
 ihf-handball-world-championship-women-final-ranking,IHF Handball World Championship Women Final Ranking,ihf-handball-world-championship-women-final-ranking,handball,1.0,connector_ihf_handball_world_championship_history,2026-02-20T22:17:26+00:00
-icc-cricket-world-cup-men-final-ranking,ICC Cricket World Cup Men Final Ranking,icc-cricket-world-cup-men-final-ranking,cricket,1.0,connector_icc_cricket_world_cup_history,2026-02-20T22:26:11+00:00
-icc-cricket-world-cup-women-final-ranking,ICC Cricket World Cup Women Final Ranking,icc-cricket-world-cup-women-final-ranking,cricket,1.0,connector_icc_cricket_world_cup_history,2026-02-20T22:26:11+00:00
 icc-men-test-team-ranking,ICC Men Test Team Ranking,icc-men-test-team-ranking,cricket,1.0,connector_icc_team_ranking_history,2026-02-20T22:49:20+00:00
 icc-men-odi-team-ranking,ICC Men ODI Team Ranking,icc-men-odi-team-ranking,cricket,1.0,connector_icc_team_ranking_history,2026-02-20T22:49:20+00:00
 icc-men-t20i-team-ranking,ICC Men T20I Team Ranking,icc-men-t20i-team-ranking,cricket,1.0,connector_icc_team_ranking_history,2026-02-20T22:49:20+00:00
+icc-cricket-world-cup-men-final-ranking,ICC Cricket World Cup Men Final Ranking,icc-cricket-world-cup-men-final-ranking,cricket,1.0,connector_icc_cricket_world_cup_history,2026-02-20T23:02:54+00:00
+icc-cricket-world-cup-women-final-ranking,ICC Cricket World Cup Women Final Ranking,icc-cricket-world-cup-women-final-ranking,cricket,1.0,connector_icc_cricket_world_cup_history,2026-02-20T23:02:54+00:00

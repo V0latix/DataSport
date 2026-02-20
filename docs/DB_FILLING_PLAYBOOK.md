@@ -235,9 +235,9 @@ python -m pipelines.init_databases
 - `event_id` par édition:
   - `icc_cricket_world_cup_men_YY`
   - `icc_cricket_world_cup_women_YY`
-- `results`: finale uniquement (rangs 1 et 2) par édition
+- `results`: top 4 (rangs 1 a 4) par édition
 - `participant_id` = `country_id` (code pays, incluant `ENG` et `WIS`)
-- note métier: pas de match officiel 3e place sur la plupart des éditions -> top 2 retenu
+- note métier: pas de match officiel 3e place sur plusieurs éditions -> les rangs 3-4 proviennent des demi-finalistes
 - seeds locaux:
   - `data/raw/cricket/icc_cricket_world_cup_men_final_seed.csv`
   - `data/raw/cricket/icc_cricket_world_cup_women_final_seed.csv`

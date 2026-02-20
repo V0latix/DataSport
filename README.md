@@ -320,8 +320,8 @@ Comportement:
   - `icc_cricket_world_cup_men`
   - `icc_cricket_world_cup_women`
 - crée un event par édition (suffixe `YY`)
-- alimente la finale (rangs 1-2) par édition
-- note métier: pas de match officiel 3e place sur la majorité des éditions, donc top 2 stocké
+- alimente le classement final top 4 par édition (1er, 2e, 3e, 4e)
+- note métier: pas de match officiel 3e place sur plusieurs éditions, donc les rangs 3-4 proviennent des demi-finalistes
 - `participant_id` est le code pays (incluant `ENG`, `WIS`)
 
 ### 9) Ingest JO d'été Paris 2024

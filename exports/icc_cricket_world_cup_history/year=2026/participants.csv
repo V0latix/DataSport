@@ -2,7 +2,11 @@ participant_id,type,display_name,country_id
 WIS,team,West Indies,WIS
 AUS,team,Australia,AUS
 ENG,team,England,ENG
-IND,team,India,IND
-PAK,team,Pakistan,PAK
-LKA,team,Sri Lanka,LKA
 NZL,team,New Zealand,NZL
+PAK,team,Pakistan,PAK
+IND,team,India,IND
+ZAF,team,South Africa,ZAF
+LKA,team,Sri Lanka,LKA
+KEN,team,Kenya,KEN
+INT,team,International XI,INT
+IRL,team,Ireland,IRL

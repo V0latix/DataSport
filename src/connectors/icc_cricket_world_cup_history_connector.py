@@ -40,7 +40,7 @@ class IccCricketWorldCupHistoryConnector(Connector):
     name = "ICC Cricket World Cup Historical Results (Men/Women)"
     source_type = "csv"
     license_notes = (
-        "Historical finalists seeds curated from public ICC / Wikipedia references. "
+        "Historical top4 seeds curated from public ICC / Wikipedia references. "
         "Verify downstream redistribution requirements."
     )
     base_url = "https://en.wikipedia.org/wiki/Cricket_World_Cup"
@@ -51,11 +51,12 @@ class IccCricketWorldCupHistoryConnector(Connector):
             "source_name": self.name,
             "source_type": self.source_type,
             "license_notes": (
-                "Historical final seeds from local files "
+                "Historical top4 seeds from local files "
                 "data/raw/cricket/icc_cricket_world_cup_men_final_seed.csv and "
                 "data/raw/cricket/icc_cricket_world_cup_women_final_seed.csv "
                 "(curated from ICC / Wikipedia public information). "
-                "Most editions have no official 3rd-place playoff; only ranks 1-2 are stored."
+                "Many editions have no official 3rd-place playoff; ranks 3-4 are sourced from "
+                "semi-finalists when no official bronze match exists."
             ),
             "base_url": self.base_url,
         }
@@ -115,6 +116,8 @@ class IccCricketWorldCupHistoryConnector(Connector):
             annual_df["year"] = pd.to_numeric(annual_df["year"], errors="coerce")
             annual_df["rank"] = pd.to_numeric(annual_df["rank"], errors="coerce")
             annual_df["event_date"] = pd.to_datetime(annual_df["event_date"], errors="coerce")
+            annual_df["country_name"] = annual_df["country_name"].astype(str).str.replace(r"\[[^\]]+\]", "", regex=True)
+            annual_df["country_name"] = annual_df["country_name"].str.strip()
             annual_df = annual_df.dropna(subset=["year", "rank", "country_name", "event_date"])
             annual_df = annual_df.loc[annual_df["year"] <= season_year].copy()
             annual_df["year"] = annual_df["year"].astype(int)
@@ -122,7 +125,7 @@ class IccCricketWorldCupHistoryConnector(Connector):
             annual_df["event_date"] = annual_df["event_date"].dt.strftime("%Y-%m-%d")
             annual_df = annual_df.drop_duplicates(subset=["year", "rank", "country_name"])
             annual_df = annual_df.sort_values(["year", "rank", "country_name"]).reset_index(drop=True)
-            annual_df = annual_df.loc[annual_df["rank"] <= 2].copy()
+            annual_df = annual_df.loc[annual_df["rank"] <= 4].copy()
             parsed_by_gender[gender] = annual_df
 
         if not parsed_by_gender:
@@ -191,7 +194,7 @@ class IccCricketWorldCupHistoryConnector(Connector):
                         "competition_id": competition_id,
                         "discipline_id": discipline_id,
                         "gender": meta["gender"],
-                        "event_class": "final_ranking_top2",
+                        "event_class": "final_ranking_top4",
                         "event_date": event_date,
                     }
                 )
@@ -223,8 +226,8 @@ class IccCricketWorldCupHistoryConnector(Connector):
                         }
 
                     rank = int(row["rank"])
-                    points = {1: 10.0, 2: 7.0}.get(rank, None)
-                    medal = "gold" if rank == 1 else "silver" if rank == 2 else None
+                    points = {1: 10.0, 2: 7.0, 3: 5.0, 4: 4.0}.get(rank, None)
+                    medal = "gold" if rank == 1 else "silver" if rank == 2 else "bronze" if rank == 3 else None
                     results_rows.append(
                         {
                             "event_id": event_id,
