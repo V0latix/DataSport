@@ -1,3 +1,2 @@
 discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
-fiba-basketball-world-cup-men-final-ranking,FIBA Basketball World Cup Men Final Ranking,fiba-basketball-world-cup-men-final-ranking,basketball,1.0,connector_fiba_basketball_world_cup_history,2026-02-20T21:31:49+00:00
-fiba-basketball-world-cup-women-final-ranking,FIBA Basketball World Cup Women Final Ranking,fiba-basketball-world-cup-women-final-ranking,basketball,1.0,connector_fiba_basketball_world_cup_history,2026-02-20T21:31:49+00:00
+basketball,Basketball,basketball,basketball,1.0,connector_fiba_basketball_world_cup_history,2026-02-20T23:15:12+00:00

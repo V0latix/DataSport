@@ -1,17 +1,17 @@
 {
-  "generated_at_utc": "2026-02-20T23:02:54+00:00",
-  "git_hash": "675bebc",
+  "generated_at_utc": "2026-02-20T23:15:39+00:00",
+  "git_hash": "3376ab8",
   "db_path": "/Users/romain/dev/DataSport/data/processed/sports_nations.db",
   "row_counts": {
     "countries": 316,
     "sports": 83,
-    "disciplines": 155,
+    "disciplines": 142,
     "competitions": 38,
     "events": 3462,
     "participants": 12685,
     "results": 19780,
     "sources": 17,
-    "raw_imports": 68,
+    "raw_imports": 76,
     "sport_federations": 3
   },
   "pipeline": "ingest",

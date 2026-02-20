@@ -156,8 +156,8 @@ class IccCricketWorldCupHistoryConnector(Connector):
             if annual_df.empty:
                 continue
 
-            discipline_name = meta["discipline_name"]
-            discipline_id = slugify(discipline_name)
+            discipline_name = "Cricket"
+            discipline_id = sport_id
             competition_id = meta["competition_id"]
             competition_name = meta["competition_name"]
 

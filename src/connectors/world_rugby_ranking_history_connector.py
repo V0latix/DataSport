@@ -259,25 +259,17 @@ class WorldRugbyRankingHistoryConnector(Connector):
                 }
             ]
         )
-        discipline_rows = []
-        for sport_code, meta in SPORTS.items():
-            discipline_name = f"World Rugby {meta['gender'].title()} Ranking"
-            discipline_rows.append(
-                {
-                    "discipline_id": slugify(discipline_name),
-                    "discipline_name": discipline_name,
-                    "discipline_slug": slugify(discipline_name),
-                    "sport_id": sport_id,
-                    "confidence": 1.0,
-                    "mapping_source": "connector_world_rugby_ranking_history",
-                    "created_at_utc": timestamp,
-                    "sport_code": sport_code,
-                }
-            )
-        discipline_lookup = {
-            row["sport_code"]: {k: v for k, v in row.items() if k != "sport_code"} for row in discipline_rows
+        discipline_row = {
+            "discipline_id": "rugby-rugby",
+            "discipline_name": "Rugby (Rugby)",
+            "discipline_slug": "rugby-rugby",
+            "sport_id": sport_id,
+            "confidence": 1.0,
+            "mapping_source": "connector_world_rugby_ranking_history",
+            "created_at_utc": timestamp,
         }
-        disciplines_df = pd.DataFrame([{k: v for k, v in row.items() if k != "sport_code"} for row in discipline_rows])
+        discipline_lookup = {sport_code: discipline_row for sport_code in SPORTS}
+        disciplines_df = pd.DataFrame([discipline_row])
 
         known_country_codes: set[str] = set()
         pycountry_by_iso3: dict[str, Any] = {}

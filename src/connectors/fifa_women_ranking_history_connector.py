@@ -360,8 +360,8 @@ class FifaWomenRankingHistoryConnector(Connector):
 
         timestamp = utc_now_iso()
         sport_id = slugify("Football")
-        discipline_name = "FIFA Women Ranking"
-        discipline_id = slugify(discipline_name)
+        discipline_name = "Football"
+        discipline_id = sport_id
         competition_id = "fifa_women_ranking"
 
         sports_df = pd.DataFrame(

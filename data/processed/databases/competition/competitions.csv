@@ -20,6 +20,9 @@ olympics_winter_2018,olympic-games,Winter Olympics 2018,2018.0,multi_sport_games
 olympics_summer_2020,olympic-games,Summer Olympics 2020,2020.0,multi_sport_games,2020-01-01,2020-12-31,olympics_keith_history
 olympics_winter_2020,olympic-games,Winter Olympics 2020,2020.0,multi_sport_games,2020-01-01,2020-12-31,olympics_keith_history
 olympics_winter_2022,olympic-games,Winter Olympics 2022,2022.0,multi_sport_games,2022-01-01,2022-12-31,olympics_keith_history
+icc_men_test_team_ranking,cricket,ICC Men's Test Team Ranking,,national_team_ranking,2026-01-08,2026-01-08,icc_team_ranking_history
+icc_men_odi_team_ranking,cricket,ICC Men's ODI Team Ranking,,national_team_ranking,2026-01-27,2026-01-27,icc_team_ranking_history
+icc_men_t20i_team_ranking,cricket,ICC Men's T20I Team Ranking,,national_team_ranking,2026-02-20,2026-02-20,icc_team_ranking_history
 fifa_women_ranking,football,FIFA Women's Ranking,,national_team_ranking,2003-12-15,2025-12-11,fifa_women_ranking_history
 world_rugby_men_ranking,rugby,World Rugby Men's Rankings,,national_team_ranking,2003-11-24,2026-02-16,world_rugby_ranking_history
 world_rugby_women_ranking,rugby,World Rugby Women's Rankings,,national_team_ranking,2016-12-26,2026-02-16,world_rugby_ranking_history
@@ -32,8 +35,5 @@ fiba_men_ranking,basketball,FIBA Men's World Ranking,,national_team_ranking,2010
 fiba_women_ranking,basketball,FIBA Women's World Ranking,,national_team_ranking,2010-12-31,2025-08-08,fiba_ranking_history
 ihf_handball_world_championship_men,handball,IHF World Men's Handball Championship,,national_team_tournament,1938-12-31,2025-12-31,ihf_handball_world_championship_history
 ihf_handball_world_championship_women,handball,IHF Women's Handball World Championship,,national_team_tournament,1957-12-31,2025-12-31,ihf_handball_world_championship_history
-icc_men_test_team_ranking,cricket,ICC Men's Test Team Ranking,,national_team_ranking,2026-01-08,2026-01-08,icc_team_ranking_history
-icc_men_odi_team_ranking,cricket,ICC Men's ODI Team Ranking,,national_team_ranking,2026-01-27,2026-01-27,icc_team_ranking_history
-icc_men_t20i_team_ranking,cricket,ICC Men's T20I Team Ranking,,national_team_ranking,2026-02-20,2026-02-20,icc_team_ranking_history
 icc_cricket_world_cup_men,cricket,ICC Cricket World Cup (Men),,national_team_tournament,1975-12-31,2023-12-31,icc_cricket_world_cup_history
 icc_cricket_world_cup_women,cricket,ICC Women's Cricket World Cup,,national_team_tournament,1973-12-31,2022-12-31,icc_cricket_world_cup_history

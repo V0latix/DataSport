@@ -271,25 +271,17 @@ class FibaRankingHistoryConnector(Connector):
             ]
         )
 
-        discipline_rows: list[dict[str, Any]] = []
-        for sport_code, meta in COMPETITIONS.items():
-            discipline_name = meta["discipline_name"]
-            discipline_rows.append(
-                {
-                    "discipline_id": slugify(discipline_name),
-                    "discipline_name": discipline_name,
-                    "discipline_slug": slugify(discipline_name),
-                    "sport_id": sport_id,
-                    "confidence": 1.0,
-                    "mapping_source": "connector_fiba_ranking_history",
-                    "created_at_utc": timestamp,
-                    "sport_code": sport_code,
-                }
-            )
-        discipline_lookup = {
-            row["sport_code"]: {k: v for k, v in row.items() if k != "sport_code"} for row in discipline_rows
+        discipline_row = {
+            "discipline_id": sport_id,
+            "discipline_name": "Basketball",
+            "discipline_slug": sport_id,
+            "sport_id": sport_id,
+            "confidence": 1.0,
+            "mapping_source": "connector_fiba_ranking_history",
+            "created_at_utc": timestamp,
         }
-        disciplines_df = pd.DataFrame([{k: v for k, v in row.items() if k != "sport_code"} for row in discipline_rows])
+        discipline_lookup = {sport_code: discipline_row for sport_code in COMPETITIONS}
+        disciplines_df = pd.DataFrame([discipline_row])
 
         competitions_rows: list[dict[str, Any]] = []
         events_rows: list[dict[str, Any]] = []

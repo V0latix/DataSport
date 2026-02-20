@@ -1,2 +1,2 @@
 discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
-fifa-women-ranking,FIFA Women Ranking,fifa-women-ranking,football,1.0,connector_fifa_women_ranking_history,2026-02-20T20:38:44+00:00
+football,Football,football,football,1.0,connector_fifa_women_ranking_history,2026-02-20T23:14:41+00:00

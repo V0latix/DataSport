@@ -1,16 +1,16 @@
 sport_id,sport_name,sport_slug,created_at_utc
 athletics,Athletics,athletics,2026-02-20T19:47:06+00:00
-basketball,Basketball,basketball,2026-02-20T21:54:37+00:00
+basketball,Basketball,basketball,2026-02-20T23:15:38+00:00
 biathlon,Biathlon,biathlon,2026-02-20T19:47:06+00:00
 boxing,Boxing,boxing,2026-02-20T19:47:06+00:00
 cycling,Cycling,cycling,2026-02-20T19:47:06+00:00
 fencing,Fencing,fencing,2026-02-20T19:47:06+00:00
-football,Football,football,2026-02-20T21:09:01+00:00
+football,Football,football,2026-02-20T23:15:11+00:00
 gymnastics,Gymnastics,gymnastics,2026-02-20T19:05:58+00:00
-handball,Handball,handball,2026-02-20T22:17:26+00:00
+handball,Handball,handball,2026-02-20T23:15:38+00:00
 judo,Judo,judo,2026-02-20T19:47:06+00:00
 rowing,Rowing,rowing,2026-02-20T19:47:06+00:00
-rugby,Rugby,rugby,2026-02-20T21:20:14+00:00
+rugby,Rugby,rugby,2026-02-20T23:15:11+00:00
 skiing,Skiing,skiing,2026-02-20T19:47:06+00:00
 swimming,Swimming,swimming,2026-02-20T17:42:57+00:00
 taekwondo,Taekwondo,taekwondo,2026-02-20T19:47:06+00:00
@@ -50,7 +50,7 @@ basque-pelota,Basque pelota,basque-pelota,2026-02-20T19:43:38+00:00
 beach-volleyball-volleyball,Beach Volleyball (Volleyball),beach-volleyball-volleyball,2026-02-20T19:47:06+00:00
 bicycle-polo-cycling,Bicycle Polo (Cycling),bicycle-polo-cycling,2026-02-20T19:33:41+00:00
 bobsleigh-bobsleigh,Bobsleigh (Bobsleigh),bobsleigh-bobsleigh,2026-02-20T19:47:06+00:00
-cricket,Cricket,cricket,2026-02-20T23:02:54+00:00
+cricket,Cricket,cricket,2026-02-20T23:15:39+00:00
 croquet,Croquet,croquet,2026-02-20T19:43:38+00:00
 curling,Curling,curling,2026-02-20T19:47:06+00:00
 diving-aquatics,Diving (Aquatics),diving-aquatics,2026-02-20T19:47:06+00:00

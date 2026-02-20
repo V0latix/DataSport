@@ -1,0 +1,17 @@
+{
+  "mode": "fiba_api",
+  "sources": {
+    "men": "https://www.fiba.basketball/en/ranking/men",
+    "women": "https://www.fiba.basketball/en/ranking/women"
+  },
+  "rows": 6837,
+  "requests": 59,
+  "dates_by_gender": {
+    "men": 32,
+    "women": 27
+  },
+  "years_requested": {
+    "end": 2026
+  },
+  "errors": []
+}

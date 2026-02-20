@@ -97,7 +97,7 @@ class FifaWomenWorldCupHistoryConnector(Connector):
 
         timestamp = utc_now_iso()
         sport_id = slugify("Football")
-        discipline_id = slugify("FIFA Women's World Cup Final Ranking")
+        discipline_id = sport_id
         competition_id = "fifa_womens_world_cup"
 
         sports_df = pd.DataFrame(
@@ -114,7 +114,7 @@ class FifaWomenWorldCupHistoryConnector(Connector):
             [
                 {
                     "discipline_id": discipline_id,
-                    "discipline_name": "FIFA Women's World Cup Final Ranking",
+                    "discipline_name": "Football",
                     "discipline_slug": discipline_id,
                     "sport_id": sport_id,
                     "confidence": 1.0,

@@ -29,7 +29,7 @@ archery,Archery,archery,archery,0.95,connector_olympics_keith_history,2026-02-20
 athletics,Athletics,athletics,athletics,0.95,connector_olympics_keith_history,2026-02-20T19:47:06+00:00
 badminton,Badminton,badminton,badminton,0.95,connector_olympics_keith_history,2026-02-20T19:47:06+00:00
 3x3-basketball,3x3 Basketball,3x3-basketball,basketball,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:58+00:00
-basketball,Basketball,basketball,basketball,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:58+00:00
+basketball,Basketball,basketball,basketball,1.0,connector_fiba_ranking_history,2026-02-20T23:15:38+00:00
 boxing,Boxing,boxing,boxing,0.95,connector_olympics_keith_history,2026-02-20T19:47:06+00:00
 breaking,Breaking,breaking,breaking,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:58+00:00
 canoe-slalom,Canoe Slalom,canoe-slalom,canoe,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:58+00:00
@@ -41,12 +41,12 @@ road-cycling,Road Cycling,road-cycling,cycling,1.0,connector_paris_2024_summer_o
 track-cycling,Track Cycling,track-cycling,cycling,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:58+00:00
 equestrian,Equestrian,equestrian,equestrian,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:58+00:00
 fencing,Fencing,fencing,fencing,0.95,connector_olympics_keith_history,2026-02-20T19:47:06+00:00
-football,Football,football,football,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:58+00:00
+football,Football,football,football,1.0,connector_fifa_women_world_cup_history,2026-02-20T23:15:11+00:00
 golf,Golf,golf,golf,0.95,connector_olympics_keith_history,2026-02-20T19:47:06+00:00
 artistic-gymnastics,Artistic Gymnastics,artistic-gymnastics,gymnastics,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:58+00:00
 rhythmic-gymnastics,Rhythmic Gymnastics,rhythmic-gymnastics,gymnastics,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:58+00:00
 trampoline-gymnastics,Trampoline Gymnastics,trampoline-gymnastics,gymnastics,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:58+00:00
-handball,Handball,handball,handball,0.95,connector_olympics_keith_history,2026-02-20T19:47:06+00:00
+handball,Handball,handball,handball,1.0,connector_ihf_handball_world_championship_history,2026-02-20T23:15:38+00:00
 hockey,Hockey,hockey,hockey,0.95,connector_olympics_keith_history,2026-02-20T19:47:06+00:00
 judo,Judo,judo,judo,0.95,connector_olympics_keith_history,2026-02-20T19:47:06+00:00
 modern-pentathlon,Modern Pentathlon,modern-pentathlon,modern-pentathlon,0.95,connector_olympics_keith_history,2026-02-20T19:47:06+00:00
@@ -82,7 +82,7 @@ bobsleigh-bobsleigh,Bobsleigh (Bobsleigh),bobsleigh-bobsleigh,bobsleigh-bobsleig
 canoe-marathon-canoeing,Canoe Marathon (Canoeing),canoe-marathon-canoeing,canoe,0.95,connector_olympics_keith_history,2026-02-20T19:43:38+00:00
 canoe-slalom-canoeing,Canoe Slalom (Canoeing),canoe-slalom-canoeing,canoe,0.95,connector_olympics_keith_history,2026-02-20T19:47:06+00:00
 canoe-sprint-canoeing,Canoe Sprint (Canoeing),canoe-sprint-canoeing,canoe,0.95,connector_olympics_keith_history,2026-02-20T19:47:06+00:00
-cricket,Cricket,cricket,cricket,0.95,connector_olympics_keith_history,2026-02-20T19:43:38+00:00
+cricket,Cricket,cricket,cricket,1.0,connector_icc_cricket_world_cup_history,2026-02-20T23:15:39+00:00
 croquet,Croquet,croquet,croquet,0.95,connector_olympics_keith_history,2026-02-20T19:43:38+00:00
 curling,Curling,curling,curling,0.95,connector_olympics_keith_history,2026-02-20T19:47:06+00:00
 cycling-mountain-bike-cycling,Cycling Mountain Bike (Cycling),cycling-mountain-bike-cycling,cycling,0.95,connector_olympics_keith_history,2026-02-20T19:47:06+00:00
@@ -137,20 +137,6 @@ rugby-sevens-rugby,Rugby Sevens (Rugby),rugby-sevens-rugby,rugby-sevens-rugby,0.
 skateboarding-roller-sports,Skateboarding (Roller Sports),skateboarding-roller-sports,skateboarding-roller-sports,0.95,connector_olympics_keith_history,2026-02-20T19:47:06+00:00
 roller-skating-roller-sports,Roller Skating (Roller Sports),roller-skating-roller-sports,skating,0.95,connector_olympics_keith_history,2026-02-20T19:47:06+00:00
 ski-mountaineering,Ski Mountaineering,ski-mountaineering,skiing,0.95,connector_olympics_keith_history,2026-02-20T19:47:06+00:00
-fifa-women-ranking,FIFA Women Ranking,fifa-women-ranking,football,1.0,connector_fifa_women_ranking_history,2026-02-20T20:38:44+00:00
-world-rugby-men-ranking,World Rugby Men Ranking,world-rugby-men-ranking,rugby,1.0,connector_world_rugby_ranking_history,2026-02-20T21:03:40+00:00
-world-rugby-women-ranking,World Rugby Women Ranking,world-rugby-women-ranking,rugby,1.0,connector_world_rugby_ranking_history,2026-02-20T21:03:40+00:00
-fifa-women-s-world-cup-final-ranking,FIFA Women's World Cup Final Ranking,fifa-women-s-world-cup-final-ranking,football,1.0,connector_fifa_women_world_cup_history,2026-02-20T21:09:01+00:00
-rugby-world-cup-men-final-ranking,Rugby World Cup Men Final Ranking,rugby-world-cup-men-final-ranking,rugby,1.0,connector_rugby_world_cup_history,2026-02-20T21:20:14+00:00
-rugby-world-cup-women-final-ranking,Rugby World Cup Women Final Ranking,rugby-world-cup-women-final-ranking,rugby,1.0,connector_rugby_world_cup_history,2026-02-20T21:20:14+00:00
-fiba-basketball-world-cup-men-final-ranking,FIBA Basketball World Cup Men Final Ranking,fiba-basketball-world-cup-men-final-ranking,basketball,1.0,connector_fiba_basketball_world_cup_history,2026-02-20T21:31:49+00:00
-fiba-basketball-world-cup-women-final-ranking,FIBA Basketball World Cup Women Final Ranking,fiba-basketball-world-cup-women-final-ranking,basketball,1.0,connector_fiba_basketball_world_cup_history,2026-02-20T21:31:49+00:00
-fiba-men-ranking,FIBA Men Ranking,fiba-men-ranking,basketball,1.0,connector_fiba_ranking_history,2026-02-20T21:54:37+00:00
-fiba-women-ranking,FIBA Women Ranking,fiba-women-ranking,basketball,1.0,connector_fiba_ranking_history,2026-02-20T21:54:37+00:00
-ihf-handball-world-championship-men-final-ranking,IHF Handball World Championship Men Final Ranking,ihf-handball-world-championship-men-final-ranking,handball,1.0,connector_ihf_handball_world_championship_history,2026-02-20T22:17:26+00:00
-ihf-handball-world-championship-women-final-ranking,IHF Handball World Championship Women Final Ranking,ihf-handball-world-championship-women-final-ranking,handball,1.0,connector_ihf_handball_world_championship_history,2026-02-20T22:17:26+00:00
 icc-men-test-team-ranking,ICC Men Test Team Ranking,icc-men-test-team-ranking,cricket,1.0,connector_icc_team_ranking_history,2026-02-20T22:49:20+00:00
 icc-men-odi-team-ranking,ICC Men ODI Team Ranking,icc-men-odi-team-ranking,cricket,1.0,connector_icc_team_ranking_history,2026-02-20T22:49:20+00:00
 icc-men-t20i-team-ranking,ICC Men T20I Team Ranking,icc-men-t20i-team-ranking,cricket,1.0,connector_icc_team_ranking_history,2026-02-20T22:49:20+00:00
-icc-cricket-world-cup-men-final-ranking,ICC Cricket World Cup Men Final Ranking,icc-cricket-world-cup-men-final-ranking,cricket,1.0,connector_icc_cricket_world_cup_history,2026-02-20T23:02:54+00:00
-icc-cricket-world-cup-women-final-ranking,ICC Cricket World Cup Women Final Ranking,icc-cricket-world-cup-women-final-ranking,cricket,1.0,connector_icc_cricket_world_cup_history,2026-02-20T23:02:54+00:00

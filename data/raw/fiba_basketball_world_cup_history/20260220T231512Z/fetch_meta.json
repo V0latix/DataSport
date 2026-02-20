@@ -1,0 +1,7 @@
+{
+  "mode": "local_seed",
+  "sources": {
+    "fiba_world_cup_men_top4_seed.csv": "/Users/romain/dev/DataSport/data/raw/basketball/fiba_world_cup_men_top4_seed.csv",
+    "fiba_world_cup_women_top4_seed.csv": "/Users/romain/dev/DataSport/data/raw/basketball/fiba_world_cup_women_top4_seed.csv"
+  }
+}
