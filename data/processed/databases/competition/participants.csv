@@ -18,7 +18,7 @@ CZE,team,Czechia,CZE
 MEX,team,Mexico,MEX
 ROU,team,Romania,ROU
 HRV,team,Croatia,HRV
-YUG,team,Yugoslavia,YUG
+YUG,team,FR Yugoslavia,YUG
 PRT,team,Portugal,PRT
 PRY,team,Paraguay,PRY
 TUR,team,Türkiye,TUR
@@ -33,7 +33,7 @@ POL,team,Poland,POL
 TCH,team,Czechoslovakia,TCH
 HUN,team,Hungary,HUN
 63-,team,(63) 11 July Netherlands,63-
-KOR,team,Republic of Korea,KOR
+KOR,team,South Korea,KOR
 0-2,team,(0-2) Netherlands,0-2
 MAR,team,Morocco,MAR
 A-E,team,a.e.t. Argentina,A-E
@@ -12677,3 +12677,5 @@ GER,team,Germany,GER
 LAT,team,Latvia,LAT
 PUR,team,Puerto Rico,PUR
 NGR,team,Nigeria,NGR
+FRG,team,West Germany,FRG
+GDR,team,East Germany,GDR

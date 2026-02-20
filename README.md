@@ -181,7 +181,10 @@ python -m pipelines.ingest --connector fiba_ranking_history --year 2026
 ```
 
 Comportement:
-- ingère le seed historique local `data/raw/basketball/fiba_rankings_history_seed.csv`
+- récupère les dates de publication depuis les pages FIBA officielles (hommes/femmes)
+- interroge l'endpoint FIBA `getgdapfederationsranking` pour chaque snapshot disponible
+- met à jour le seed local `data/raw/basketball/fiba_rankings_history_seed.csv` après fetch réussi
+- fallback automatique sur seed local en cas d'échec distant
 - conserve une publication par année (la plus récente), puis le `top 10`
 - crée deux compétitions:
   - `fiba_men_ranking`
@@ -267,6 +270,23 @@ Comportement:
 - crée un event par édition (suffixe `YY`)
 - alimente le classement final top 4 par édition (1er, 2e, 3e, 4e)
 - `participant_id` est le code pays
+
+### 8e) Ingest IHF Handball World Championship (historique, hommes + femmes)
+
+```bash
+python -m pipelines.ingest --connector ihf_handball_world_championship_history --year 2026
+```
+
+Comportement:
+- ingère les seeds historiques locaux:
+  - `data/raw/handball/ihf_world_men_handball_championship_top4_seed.csv`
+  - `data/raw/handball/ihf_world_women_handball_championship_top4_seed.csv`
+- crée deux compétitions:
+  - `ihf_handball_world_championship_men`
+  - `ihf_handball_world_championship_women`
+- crée un event par édition (suffixe `YY`)
+- alimente le classement final top 4 par édition (1er, 2e, 3e, 4e)
+- `participant_id` est le code pays (avec mapping historique pour `URS`, `YUG`, `TCH`, `GDR`, `FRG`)
 
 ### 9) Ingest JO d'été Paris 2024
 

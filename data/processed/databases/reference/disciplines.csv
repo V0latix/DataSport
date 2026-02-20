@@ -147,3 +147,5 @@ fiba-basketball-world-cup-men-final-ranking,FIBA Basketball World Cup Men Final 
 fiba-basketball-world-cup-women-final-ranking,FIBA Basketball World Cup Women Final Ranking,fiba-basketball-world-cup-women-final-ranking,basketball,1.0,connector_fiba_basketball_world_cup_history,2026-02-20T21:31:49+00:00
 fiba-men-ranking,FIBA Men Ranking,fiba-men-ranking,basketball,1.0,connector_fiba_ranking_history,2026-02-20T21:54:37+00:00
 fiba-women-ranking,FIBA Women Ranking,fiba-women-ranking,basketball,1.0,connector_fiba_ranking_history,2026-02-20T21:54:37+00:00
+ihf-handball-world-championship-men-final-ranking,IHF Handball World Championship Men Final Ranking,ihf-handball-world-championship-men-final-ranking,handball,1.0,connector_ihf_handball_world_championship_history,2026-02-20T22:17:26+00:00
+ihf-handball-world-championship-women-final-ranking,IHF Handball World Championship Women Final Ranking,ihf-handball-world-championship-women-final-ranking,handball,1.0,connector_ihf_handball_world_championship_history,2026-02-20T22:17:26+00:00

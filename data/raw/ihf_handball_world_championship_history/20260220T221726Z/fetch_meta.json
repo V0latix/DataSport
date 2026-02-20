@@ -1,0 +1,7 @@
+{
+  "mode": "local_seed",
+  "sources": {
+    "ihf_world_men_handball_championship_top4_seed.csv": "/Users/romain/dev/DataSport/data/raw/handball/ihf_world_men_handball_championship_top4_seed.csv",
+    "ihf_world_women_handball_championship_top4_seed.csv": "/Users/romain/dev/DataSport/data/raw/handball/ihf_world_women_handball_championship_top4_seed.csv"
+  }
+}

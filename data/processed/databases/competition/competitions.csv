@@ -30,3 +30,5 @@ fiba_basketball_world_cup_men,basketball,FIBA Basketball World Cup (Men),,nation
 fiba_basketball_world_cup_women,basketball,FIBA Women's Basketball World Cup,,national_team_tournament,1953-12-31,2022-12-31,fiba_basketball_world_cup_history
 fiba_men_ranking,basketball,FIBA Men's World Ranking,,national_team_ranking,2010-12-31,2025-12-02,fiba_ranking_history
 fiba_women_ranking,basketball,FIBA Women's World Ranking,,national_team_ranking,2010-12-31,2025-08-08,fiba_ranking_history
+ihf_handball_world_championship_men,handball,IHF World Men's Handball Championship,,national_team_tournament,1938-12-31,2025-12-31,ihf_handball_world_championship_history
+ihf_handball_world_championship_women,handball,IHF Women's Handball World Championship,,national_team_tournament,1957-12-31,2025-12-31,ihf_handball_world_championship_history

@@ -144,7 +144,8 @@ python -m pipelines.init_databases
   - `fiba_women_ranking_YY`
 - `participant_id` = code pays
 - `results`: top 10 par année pour chaque genre
-- seed local: `data/raw/basketball/fiba_rankings_history_seed.csv`
+- source principale: pages FIBA + endpoint `getgdapfederationsranking`
+- seed local fallback/cache: `data/raw/basketball/fiba_rankings_history_seed.csv`
 
 ## 9) Cas Coupe du Monde FIFA (historique)
 
@@ -194,6 +195,21 @@ python -m pipelines.init_databases
   - `data/raw/basketball/fiba_world_cup_men_top4_seed.csv`
   - `data/raw/basketball/fiba_world_cup_women_top4_seed.csv`
 
+## 9e) Cas IHF Handball World Championship (historique, hommes + femmes)
+
+- connecteur: `ihf_handball_world_championship_history`
+- compétitions:
+  - `ihf_handball_world_championship_men`
+  - `ihf_handball_world_championship_women`
+- `event_id` par édition:
+  - `ihf_handball_world_championship_men_YY`
+  - `ihf_handball_world_championship_women_YY`
+- `results`: top 4 par édition (1 à 4), pas de doublons `(event_id, participant_id)`
+- `participant_id` = `country_id` (code pays, incluant codes historiques `URS`, `YUG`, `TCH`, `GDR`, `FRG`)
+- seeds locaux:
+  - `data/raw/handball/ihf_world_men_handball_championship_top4_seed.csv`
+  - `data/raw/handball/ihf_world_women_handball_championship_top4_seed.csv`
+
 ## 10) Cas JO d'été Paris 2024
 
 - `competition_id` unique: `summer_olympics_paris_2024`
@@ -229,6 +245,7 @@ python -m pipelines.ingest --connector world_rugby_ranking_history --year 2026
 python -m pipelines.ingest --connector rugby_world_cup_history --year 2026
 python -m pipelines.ingest --connector fiba_ranking_history --year 2026
 python -m pipelines.ingest --connector fiba_basketball_world_cup_history --year 2026
+python -m pipelines.ingest --connector ihf_handball_world_championship_history --year 2026
 python -m pipelines.validate
 python -m pipelines.init_databases
 ```
