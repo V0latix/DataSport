@@ -1,0 +1,12 @@
+participant_id,type,display_name,country_id
+NZL,team,New Zealand,NZL
+FRA,team,France,FRA
+WAL,team,Wales,WAL
+AUS,team,Australia,AUS
+ENG,team,England,ENG
+SCO,team,Scotland,SCO
+ZAF,team,South Africa,ZAF
+ARG,team,Argentina,ARG
+USA,team,United States,USA
+CAN,team,Canada,CAN
+IRL,team,Ireland,IRL

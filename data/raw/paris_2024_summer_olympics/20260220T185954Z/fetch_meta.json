@@ -1,0 +1,6 @@
+{
+  "mode": "local:keithgalli_results.csv, local:paris2024_medals_by_event.csv",
+  "keith_results_url": "https://raw.githubusercontent.com/KeithGalli/Olympics-Dataset/refs/heads/master/clean-data/results.csv",
+  "paris2024_medals_url": "https://raw.githubusercontent.com/taniki/paris2024-data/main/datasets/medals.csv",
+  "year": 2024
+}

@@ -1,0 +1,7 @@
+{
+  "mode": "local_seed",
+  "sources": {
+    "rugby_world_cup_top4_seed.csv": "/Users/romain/dev/DataSport/data/raw/world_rugby/rugby_world_cup_top4_seed.csv",
+    "womens_rugby_world_cup_top4_seed.csv": "/Users/romain/dev/DataSport/data/raw/world_rugby/womens_rugby_world_cup_top4_seed.csv"
+  }
+}

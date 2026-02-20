@@ -1,0 +1,2 @@
+discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
+fifa-men-ranking,FIFA Men Ranking,fifa-men-ranking,football,1.0,connector_fifa_ranking_history,2026-02-20T17:54:56+00:00

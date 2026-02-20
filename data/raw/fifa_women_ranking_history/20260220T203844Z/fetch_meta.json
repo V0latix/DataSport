@@ -1,0 +1,7 @@
+{
+  "mode": "local_seed",
+  "sources": [
+    "/Users/romain/dev/DataSport/data/raw/fifa_women/fifa_w_ranking_historical.csv"
+  ],
+  "files": 1
+}

@@ -1,0 +1,41 @@
+sport,effective_date,country_name,country_code,source_rank,points
+men,2025-02-25,United States,USA,1,840.1
+men,2025-02-25,Serbia,SRB,2,761.1
+men,2025-02-25,Germany,DEU,3,757.3
+men,2025-02-25,France,FRA,4,753.4
+men,2025-02-25,Spain,ESP,5,745.7
+men,2025-02-25,Canada,CAN,6,744.9
+men,2025-02-25,Australia,AUS,7,733.1
+men,2025-02-25,Argentina,ARG,8,732.5
+men,2025-02-25,Latvia,LVA,9,716.3
+men,2025-02-25,Lithuania,LTU,10,702.8
+men,2025-12-02,United States,USA,1,871.8
+men,2025-12-02,Germany,DEU,2,794.2
+men,2025-12-02,Serbia,SRB,3,788.8
+men,2025-12-02,France,FRA,4,780.1
+men,2025-12-02,Canada,CAN,5,778.8
+men,2025-12-02,Australia,AUS,6,758.8
+men,2025-12-02,Spain,ESP,7,748.2
+men,2025-12-02,Argentina,ARG,8,733.7
+men,2025-12-02,Lithuania,LTU,9,726.6
+men,2025-12-02,Brazil,BRA,10,725.5
+women,2025-02-09,United States,USA,1,888.2
+women,2025-02-09,Australia,AUS,2,716.2
+women,2025-02-09,France,FRA,3,715.5
+women,2025-02-09,China,CHN,4,709.9
+women,2025-02-09,Spain,ESP,5,702.2
+women,2025-02-09,Belgium,BEL,6,690.5
+women,2025-02-09,Canada,CAN,7,660.3
+women,2025-02-09,Serbia,SRB,8,631.4
+women,2025-02-09,Japan,JPN,9,614.5
+women,2025-02-09,Brazil,BRA,10,590.2
+women,2025-08-08,United States,USA,1,880.9
+women,2025-08-08,Australia,AUS,2,719.6
+women,2025-08-08,France,FRA,3,719.2
+women,2025-08-08,China,CHN,4,712.7
+women,2025-08-08,Belgium,BEL,5,702.1
+women,2025-08-08,Spain,ESP,6,698.2
+women,2025-08-08,Canada,CAN,7,661.6
+women,2025-08-08,Nigeria,NGA,8,640.1
+women,2025-08-08,Brazil,BRA,9,637.8
+women,2025-08-08,Serbia,SRB,10,615.2

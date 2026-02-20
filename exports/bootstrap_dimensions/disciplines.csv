@@ -1,0 +1,24 @@
+discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
+100m,100m,100m,athletics,0.99,yaml_override,2026-02-20T17:42:57+00:00
+110m-hurdles,110m hurdles,110m-hurdles,athletics,0.99,yaml_override,2026-02-20T17:42:57+00:00
+200m,200m,200m,athletics,0.99,yaml_override,2026-02-20T17:42:57+00:00
+4x100m-relay,4x100m Relay,4x100m-relay,athletics,0.99,yaml_override,2026-02-20T17:42:57+00:00
+marathon,Marathon,marathon,athletics,0.99,yaml_override,2026-02-20T17:42:57+00:00
+bmx-racing,BMX Racing,bmx-racing,cycling,0.99,yaml_override,2026-02-20T17:42:57+00:00
+road-race,Road Race,road-race,cycling,0.99,yaml_override,2026-02-20T17:42:57+00:00
+time-trial,Time Trial,time-trial,cycling,0.99,yaml_override,2026-02-20T17:42:57+00:00
+epee,Epee,epee,fencing,0.99,yaml_override,2026-02-20T17:42:57+00:00
+foil,Foil,foil,fencing,0.99,yaml_override,2026-02-20T17:42:57+00:00
+sabre,Sabre,sabre,fencing,0.99,yaml_override,2026-02-20T17:42:57+00:00
+artistic-gymnastics,Artistic Gymnastics,artistic-gymnastics,gymnastics,0.99,yaml_override,2026-02-20T17:42:57+00:00
+rhythmic-gymnastics,Rhythmic Gymnastics,rhythmic-gymnastics,gymnastics,0.99,yaml_override,2026-02-20T17:42:57+00:00
+double-sculls,Double Sculls,double-sculls,rowing,0.99,yaml_override,2026-02-20T17:42:57+00:00
+single-sculls,Single Sculls,single-sculls,rowing,0.99,yaml_override,2026-02-20T17:42:57+00:00
+rugby-sevens,Rugby Sevens,rugby-sevens,rugby,0.99,yaml_override,2026-02-20T17:42:57+00:00
+alpine-skiing,Alpine skiing,alpine-skiing,skiing,0.99,yaml_override,2026-02-20T17:42:57+00:00
+cross-country-skiing,Cross-country skiing,cross-country-skiing,skiing,0.99,yaml_override,2026-02-20T17:42:57+00:00
+100m-butterfly,100m Butterfly,100m-butterfly,swimming,0.99,yaml_override,2026-02-20T17:42:57+00:00
+200m-breaststroke,200m Breaststroke,200m-breaststroke,swimming,0.99,yaml_override,2026-02-20T17:42:57+00:00
+50m-freestyle,50m Freestyle,50m-freestyle,swimming,0.99,yaml_override,2026-02-20T17:42:57+00:00
+wrestling-freestyle,Wrestling Freestyle,wrestling-freestyle,wrestling,0.99,yaml_override,2026-02-20T17:42:57+00:00
+wrestling-greco-roman,Wrestling Greco-Roman,wrestling-greco-roman,wrestling,0.99,yaml_override,2026-02-20T17:42:57+00:00

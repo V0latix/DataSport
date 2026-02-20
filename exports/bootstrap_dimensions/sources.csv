@@ -1,0 +1,5 @@
+source_id,source_name,source_type,license_notes,base_url
+local_seed,Local sport_name seed list,seed,User-provided seed list for normalization bootstrap.,/Users/romain/dev/DataSport/data/raw/sport_name_seed.txt
+wikidata,Wikidata SPARQL,sparql,"CC0 (Wikidata), verify downstream license compatibility.",https://query.wikidata.org/sparql
+football_data,football-data.org,api,Free tier terms apply; do not republish restricted payloads.,https://api.football-data.org/v4
+balldontlie_nba,balldontlie NBA,api,"API terms apply; mostly club data, country mapping is heuristic.",https://api.balldontlie.io/v1

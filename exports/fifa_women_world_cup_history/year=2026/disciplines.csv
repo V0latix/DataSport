@@ -1,0 +1,2 @@
+discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
+fifa-women-s-world-cup-final-ranking,FIFA Women's World Cup Final Ranking,fifa-women-s-world-cup-final-ranking,football,1.0,connector_fifa_women_world_cup_history,2026-02-20T21:09:01+00:00

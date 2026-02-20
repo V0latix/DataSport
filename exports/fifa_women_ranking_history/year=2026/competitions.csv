@@ -1,0 +1,2 @@
+competition_id,sport_id,name,season_year,level,start_date,end_date,source_id
+fifa_women_ranking,football,FIFA Women's Ranking,,national_team_ranking,2003-12-15,2025-12-11,fifa_women_ranking_history

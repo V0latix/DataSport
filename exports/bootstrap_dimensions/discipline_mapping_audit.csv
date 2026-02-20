@@ -1,0 +1,41 @@
+seed_entry,resolved_type,mapped_sport,sport_id,confidence,mapping_source
+100m,discipline,Athletics,athletics,0.99,yaml_override
+100m Butterfly,discipline,Swimming,swimming,0.99,yaml_override
+110m hurdles,discipline,Athletics,athletics,0.99,yaml_override
+200m,discipline,Athletics,athletics,0.99,yaml_override
+200m Breaststroke,discipline,Swimming,swimming,0.99,yaml_override
+4x100m Relay,discipline,Athletics,athletics,0.99,yaml_override
+50m Freestyle,discipline,Swimming,swimming,0.99,yaml_override
+Alpine skiing,discipline,Skiing,skiing,0.99,yaml_override
+Artistic Gymnastics,discipline,Gymnastics,gymnastics,0.99,yaml_override
+Athletics,sport,Athletics,athletics,1.0,exact_sport
+BMX Racing,discipline,Cycling,cycling,0.99,yaml_override
+Basketball,sport,Basketball,basketball,1.0,exact_sport
+Biathlon,sport,Biathlon,biathlon,1.0,exact_sport
+Boxing,sport,Boxing,boxing,1.0,exact_sport
+Cross-country skiing,discipline,Skiing,skiing,0.99,yaml_override
+Cycling,sport,Cycling,cycling,1.0,exact_sport
+Double Sculls,discipline,Rowing,rowing,0.99,yaml_override
+Epee,discipline,Fencing,fencing,0.99,yaml_override
+Fencing,sport,Fencing,fencing,1.0,exact_sport
+Foil,discipline,Fencing,fencing,0.99,yaml_override
+Football,sport,Football,football,1.0,exact_sport
+Gymnastics,sport,Gymnastics,gymnastics,1.0,exact_sport
+Handball,sport,Handball,handball,1.0,exact_sport
+Judo,sport,Judo,judo,1.0,exact_sport
+Marathon,discipline,Athletics,athletics,0.99,yaml_override
+Rhythmic Gymnastics,discipline,Gymnastics,gymnastics,0.99,yaml_override
+Road Race,discipline,Cycling,cycling,0.99,yaml_override
+Rowing,sport,Rowing,rowing,1.0,exact_sport
+Rugby Sevens,discipline,Rugby,rugby,0.99,yaml_override
+Sabre,discipline,Fencing,fencing,0.99,yaml_override
+Single Sculls,discipline,Rowing,rowing,0.99,yaml_override
+Swimming,sport,Swimming,swimming,1.0,exact_sport
+Taekwondo,sport,Taekwondo,taekwondo,1.0,exact_sport
+Tennis,sport,Tennis,tennis,1.0,exact_sport
+Time Trial,discipline,Cycling,cycling,0.99,yaml_override
+Volleyball,sport,Volleyball,volleyball,1.0,exact_sport
+Weightlifting,sport,Weightlifting,weightlifting,1.0,exact_sport
+Wrestling,sport,Wrestling,wrestling,1.0,exact_sport
+Wrestling Freestyle,discipline,Wrestling,wrestling,0.99,yaml_override
+Wrestling Greco-Roman,discipline,Wrestling,wrestling,0.99,yaml_override

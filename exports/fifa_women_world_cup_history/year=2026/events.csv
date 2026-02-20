@@ -1,0 +1,10 @@
+event_id,competition_id,discipline_id,gender,event_class,event_date
+fifa_womens_world_cup_91,fifa_womens_world_cup,fifa-women-s-world-cup-final-ranking,women,final_ranking_top4,1991-11-30
+fifa_womens_world_cup_95,fifa_womens_world_cup,fifa-women-s-world-cup-final-ranking,women,final_ranking_top4,1995-06-18
+fifa_womens_world_cup_99,fifa_womens_world_cup,fifa-women-s-world-cup-final-ranking,women,final_ranking_top4,1999-07-10
+fifa_womens_world_cup_03,fifa_womens_world_cup,fifa-women-s-world-cup-final-ranking,women,final_ranking_top4,2003-10-12
+fifa_womens_world_cup_07,fifa_womens_world_cup,fifa-women-s-world-cup-final-ranking,women,final_ranking_top4,2007-09-30
+fifa_womens_world_cup_11,fifa_womens_world_cup,fifa-women-s-world-cup-final-ranking,women,final_ranking_top4,2011-07-17
+fifa_womens_world_cup_15,fifa_womens_world_cup,fifa-women-s-world-cup-final-ranking,women,final_ranking_top4,2015-07-05
+fifa_womens_world_cup_19,fifa_womens_world_cup,fifa-women-s-world-cup-final-ranking,women,final_ranking_top4,2019-07-07
+fifa_womens_world_cup_23,fifa_womens_world_cup,fifa-women-s-world-cup-final-ranking,women,final_ranking_top4,2023-08-20

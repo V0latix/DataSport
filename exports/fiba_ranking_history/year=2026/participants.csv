@@ -1,0 +1,27 @@
+participant_id,type,display_name,country_id
+USA,team,USA,USA
+ESP,team,Spain,ESP
+ARG,team,Argentina,ARG
+GRE,team,Greece,GRE
+LTU,team,Lithuania,LTU
+TUR,team,Türkiye,TUR
+ITA,team,Italy,ITA
+SRB,team,Serbia,SRB
+AUS,team,Australia,AUS
+CHN,team,People 's Republic of China,CHN
+RUS,team,Russia,RUS
+FRA,team,France,FRA
+BRA,team,Brazil,BRA
+SLO,team,Slovenia,SLO
+CRO,team,Croatia,CRO
+CZE,team,Czechia,CZE
+GER,team,Germany,GER
+CAN,team,Canada,CAN
+LAT,team,Latvia,LAT
+KOR,team,Republic of Korea,KOR
+CUB,team,Cuba,CUB
+BLR,team,Belarus,BLR
+JPN,team,Japan,JPN
+BEL,team,Belgium,BEL
+PUR,team,Puerto Rico,PUR
+NGR,team,Nigeria,NGR

@@ -1,0 +1,66 @@
+{
+  "results": {
+    "bindings": [
+      {
+        "sport": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q349"
+        },
+        "sportLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sport"
+        },
+        "federation": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5296"
+        },
+        "federationLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "International Olympic Committee"
+        }
+      },
+      {
+        "sport": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2736"
+        },
+        "sportLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Association football"
+        },
+        "federation": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q186854"
+        },
+        "federationLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "FIFA"
+        }
+      },
+      {
+        "sport": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5372"
+        },
+        "sportLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Basketball"
+        },
+        "federation": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1140110"
+        },
+        "federationLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "FIBA"
+        }
+      }
+    ]
+  }
+}

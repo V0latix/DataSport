@@ -1,0 +1,7 @@
+{
+  "mode": "download_github_listing",
+  "source": "https://api.github.com/repos/hericlibong/FifaWomen_Ranking_ApiScrapy/contents/soccerwomen/spiders",
+  "files": [
+    "data.csv"
+  ]
+}

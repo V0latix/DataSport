@@ -1,0 +1,22 @@
+{
+  "generated_at_utc": "2026-02-20T21:54:37+00:00",
+  "git_hash": null,
+  "db_path": "/Users/romain/dev/DataSport/data/processed/sports_nations.db",
+  "row_counts": {
+    "countries": 312,
+    "sports": 83,
+    "disciplines": 148,
+    "competitions": 31,
+    "events": 3378,
+    "participants": 12678,
+    "results": 19426,
+    "sources": 14,
+    "raw_imports": 61,
+    "sport_federations": 3
+  },
+  "pipeline": "ingest",
+  "connector": "fiba_ranking_history",
+  "year": 2026,
+  "status": "success",
+  "validation_passed": true
+}

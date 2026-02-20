@@ -1,0 +1,2 @@
+competition_id,sport_id,name,season_year,level,start_date,end_date,source_id
+fifa_ranking,football,FIFA Men's Ranking,,national_team_ranking,1992-12-31,2024-09-19,fifa_ranking_history

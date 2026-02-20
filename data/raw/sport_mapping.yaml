@@ -1,0 +1,46 @@
+explicit_sports:
+  - Athletics
+  - Swimming
+  - Wrestling
+  - Football
+  - Basketball
+  - Cycling
+  - Judo
+  - Boxing
+  - Tennis
+  - Rowing
+  - Fencing
+  - Gymnastics
+  - Weightlifting
+  - Taekwondo
+  - Volleyball
+  - Handball
+  - Biathlon
+  - Rugby
+  - Skiing
+
+overrides:
+  100m: Athletics
+  200m: Athletics
+  Marathon: Athletics
+  110m hurdles: Athletics
+  4x100m Relay: Athletics
+  50m Freestyle: Swimming
+  100m Butterfly: Swimming
+  200m Breaststroke: Swimming
+  Wrestling Greco-Roman: Wrestling
+  Wrestling Freestyle: Wrestling
+  Road Race: Cycling
+  Time Trial: Cycling
+  BMX Racing: Cycling
+  Single Sculls: Rowing
+  Double Sculls: Rowing
+  Sabre: Fencing
+  Foil: Fencing
+  Epee: Fencing
+  Artistic Gymnastics: Gymnastics
+  Rhythmic Gymnastics: Gymnastics
+  Rugby Sevens: Rugby
+  Cross-country skiing: Skiing
+  Alpine skiing: Skiing
+

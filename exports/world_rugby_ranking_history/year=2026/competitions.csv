@@ -1,0 +1,3 @@
+competition_id,sport_id,name,season_year,level,start_date,end_date,source_id
+world_rugby_men_ranking,rugby,World Rugby Men's Rankings,,national_team_ranking,2003-11-24,2026-02-16,world_rugby_ranking_history
+world_rugby_women_ranking,rugby,World Rugby Women's Rankings,,national_team_ranking,2016-12-26,2026-02-16,world_rugby_ranking_history

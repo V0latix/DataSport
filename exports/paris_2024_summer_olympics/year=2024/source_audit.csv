@@ -1,0 +1,3 @@
+source,summer_2024_rows,note
+keithgalli_results.csv,0,0 means dataset currently has no Paris 2024 rows.
+paris2024_medals_by_event.csv,1044,Event-level medal slots (event + medal color + country) used for results.

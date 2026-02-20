@@ -1,0 +1,42 @@
+# Mixed list: sports + disciplines/events
+Athletics
+100m
+200m
+Marathon
+110m hurdles
+4x100m Relay
+Swimming
+50m Freestyle
+100m Butterfly
+200m Breaststroke
+Wrestling
+Wrestling Greco-Roman
+Wrestling Freestyle
+Football
+Basketball
+Cycling
+Road Race
+Time Trial
+BMX Racing
+Judo
+Boxing
+Tennis
+Rowing
+Single Sculls
+Double Sculls
+Fencing
+Sabre
+Foil
+Epee
+Gymnastics
+Artistic Gymnastics
+Rhythmic Gymnastics
+Weightlifting
+Taekwondo
+Volleyball
+Handball
+Rugby Sevens
+Biathlon
+Cross-country skiing
+Alpine skiing
+

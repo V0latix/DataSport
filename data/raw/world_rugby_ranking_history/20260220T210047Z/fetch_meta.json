@@ -1,0 +1,18 @@
+{
+  "mode": "api_plus_legacy",
+  "sources": [
+    "https://api.wr-rims-prod.pulselive.com/rugby/v3/rankings",
+    "https://raw.githubusercontent.com/dfhampshire/irb_rank_scraper/master/rankings.csv"
+  ],
+  "requests": 74,
+  "rows": 49004,
+  "sports": [
+    "mru",
+    "wru"
+  ],
+  "years_requested": {
+    "start": 1990,
+    "end": 2026
+  },
+  "errors": []
+}

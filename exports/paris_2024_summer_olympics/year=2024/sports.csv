@@ -1,0 +1,34 @@
+sport_id,sport_name,sport_slug,created_at_utc
+olympic-games,Olympic Games,olympic-games,2026-02-20T19:05:15+00:00
+aquatics,Aquatics,aquatics,2026-02-20T19:05:15+00:00
+archery,Archery,archery,2026-02-20T19:05:15+00:00
+athletics,Athletics,athletics,2026-02-20T19:05:15+00:00
+badminton,Badminton,badminton,2026-02-20T19:05:15+00:00
+basketball,Basketball,basketball,2026-02-20T19:05:15+00:00
+boxing,Boxing,boxing,2026-02-20T19:05:15+00:00
+breaking,Breaking,breaking,2026-02-20T19:05:15+00:00
+canoe,Canoe,canoe,2026-02-20T19:05:15+00:00
+cycling,Cycling,cycling,2026-02-20T19:05:15+00:00
+equestrian,Equestrian,equestrian,2026-02-20T19:05:15+00:00
+fencing,Fencing,fencing,2026-02-20T19:05:15+00:00
+football,Football,football,2026-02-20T19:05:15+00:00
+golf,Golf,golf,2026-02-20T19:05:15+00:00
+gymnastics,Gymnastics,gymnastics,2026-02-20T19:05:15+00:00
+handball,Handball,handball,2026-02-20T19:05:15+00:00
+hockey,Hockey,hockey,2026-02-20T19:05:15+00:00
+judo,Judo,judo,2026-02-20T19:05:15+00:00
+modern-pentathlon,Modern Pentathlon,modern-pentathlon,2026-02-20T19:05:15+00:00
+rowing,Rowing,rowing,2026-02-20T19:05:15+00:00
+rugby,Rugby,rugby,2026-02-20T19:05:15+00:00
+sailing,Sailing,sailing,2026-02-20T19:05:15+00:00
+shooting,Shooting,shooting,2026-02-20T19:05:15+00:00
+skateboarding,Skateboarding,skateboarding,2026-02-20T19:05:15+00:00
+sport-climbing,Sport Climbing,sport-climbing,2026-02-20T19:05:15+00:00
+surfing,Surfing,surfing,2026-02-20T19:05:15+00:00
+table-tennis,Table Tennis,table-tennis,2026-02-20T19:05:15+00:00
+taekwondo,Taekwondo,taekwondo,2026-02-20T19:05:15+00:00
+tennis,Tennis,tennis,2026-02-20T19:05:15+00:00
+triathlon,Triathlon,triathlon,2026-02-20T19:05:15+00:00
+volleyball,Volleyball,volleyball,2026-02-20T19:05:15+00:00
+weightlifting,Weightlifting,weightlifting,2026-02-20T19:05:15+00:00
+wrestling,Wrestling,wrestling,2026-02-20T19:05:15+00:00

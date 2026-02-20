@@ -1,0 +1,46 @@
+discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
+artistic-swimming,Artistic Swimming,artistic-swimming,aquatics,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+diving,Diving,diving,aquatics,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+marathon-swimming,Marathon Swimming,marathon-swimming,aquatics,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+swimming,Swimming,swimming,aquatics,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+water-polo,Water Polo,water-polo,aquatics,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+archery,Archery,archery,archery,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+athletics,Athletics,athletics,athletics,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+badminton,Badminton,badminton,badminton,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+3x3-basketball,3x3 Basketball,3x3-basketball,basketball,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+basketball,Basketball,basketball,basketball,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+boxing,Boxing,boxing,boxing,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+breaking,Breaking,breaking,breaking,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+canoe-slalom,Canoe Slalom,canoe-slalom,canoe,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+canoe-sprint,Canoe Sprint,canoe-sprint,canoe,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+bmx-freestyle,BMX Freestyle,bmx-freestyle,cycling,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+bmx-racing,BMX Racing,bmx-racing,cycling,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+mountain-bike,Mountain Bike,mountain-bike,cycling,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+road-cycling,Road Cycling,road-cycling,cycling,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+track-cycling,Track Cycling,track-cycling,cycling,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+equestrian,Equestrian,equestrian,equestrian,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+fencing,Fencing,fencing,fencing,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+football,Football,football,football,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+golf,Golf,golf,golf,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+artistic-gymnastics,Artistic Gymnastics,artistic-gymnastics,gymnastics,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+rhythmic-gymnastics,Rhythmic Gymnastics,rhythmic-gymnastics,gymnastics,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+trampoline-gymnastics,Trampoline Gymnastics,trampoline-gymnastics,gymnastics,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+handball,Handball,handball,handball,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+hockey,Hockey,hockey,hockey,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+judo,Judo,judo,judo,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+modern-pentathlon,Modern Pentathlon,modern-pentathlon,modern-pentathlon,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+rowing,Rowing,rowing,rowing,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+rugby-sevens,Rugby Sevens,rugby-sevens,rugby,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+sailing,Sailing,sailing,sailing,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+shooting,Shooting,shooting,shooting,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+skateboarding,Skateboarding,skateboarding,skateboarding,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+sport-climbing,Sport Climbing,sport-climbing,sport-climbing,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+surfing,Surfing,surfing,surfing,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+table-tennis,Table Tennis,table-tennis,table-tennis,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+taekwondo,Taekwondo,taekwondo,taekwondo,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+tennis,Tennis,tennis,tennis,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+triathlon,Triathlon,triathlon,triathlon,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+beach-volleyball,Beach Volleyball,beach-volleyball,volleyball,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+volleyball,Volleyball,volleyball,volleyball,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+weightlifting,Weightlifting,weightlifting,weightlifting,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00
+wrestling,Wrestling,wrestling,wrestling,1.0,connector_paris_2024_summer_olympics,2026-02-20T19:05:15+00:00

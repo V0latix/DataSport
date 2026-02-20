@@ -1,0 +1,3 @@
+competition_id,sport_id,name,season_year,level,start_date,end_date,source_id
+rugby_world_cup_men,rugby,Rugby World Cup (Men),,national_team_tournament,1987-06-20,2023-10-28,rugby_world_cup_history
+rugby_world_cup_women,rugby,Rugby World Cup (Women),,national_team_tournament,1991-04-14,2025-09-27,rugby_world_cup_history

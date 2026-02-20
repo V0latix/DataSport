@@ -1,0 +1,14 @@
+participant_id,type,display_name,country_id
+USA,team,United States,USA
+NOR,team,Norway,NOR
+SWE,team,Sweden,SWE
+DEU,team,Germany,DEU
+CHN,team,China PR,CHN
+BRA,team,Brazil,BRA
+CAN,team,Canada,CAN
+JPN,team,Japan,JPN
+FRA,team,France,FRA
+ENG,team,England,ENG
+NLD,team,Netherlands,NLD
+ESP,team,Spain,ESP
+AUS,team,Australia,AUS

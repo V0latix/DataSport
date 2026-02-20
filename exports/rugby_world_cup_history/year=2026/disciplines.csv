@@ -1,0 +1,3 @@
+discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
+rugby-world-cup-men-final-ranking,Rugby World Cup Men Final Ranking,rugby-world-cup-men-final-ranking,rugby,1.0,connector_rugby_world_cup_history,2026-02-20T21:20:14+00:00
+rugby-world-cup-women-final-ranking,Rugby World Cup Women Final Ranking,rugby-world-cup-women-final-ranking,rugby,1.0,connector_rugby_world_cup_history,2026-02-20T21:20:14+00:00

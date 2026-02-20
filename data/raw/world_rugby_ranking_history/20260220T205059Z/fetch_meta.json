@@ -1,0 +1,14 @@
+{
+  "mode": "api",
+  "source": "https://api.wr-rims-prod.pulselive.com/rugby/v3/rankings",
+  "requests": 74,
+  "rows": 1431,
+  "sports": [
+    "mru",
+    "wru"
+  ],
+  "years_requested": {
+    "start": 1990,
+    "end": 2026
+  }
+}

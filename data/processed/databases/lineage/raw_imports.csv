@@ -1,0 +1,62 @@
+import_id,source_id,fetched_at_utc,raw_path,status,error
+import_8e52e81b9d99dd0503e071456e8938aa202c4ad3,local_seed,2026-02-20T17:02:15+00:00,/Users/romain/dev/DataSport/data/raw/sport_name_seed.txt,success,
+import_e8b97ef7bd93c81c3a953080ae2b396258fef7a6,wikidata,2026-02-20T17:02:25+00:00,/Users/romain/dev/DataSport/data/raw/wikidata/20260220T170221Z,success,
+import_d35b56223245ff61d4b358489ecfc634ad954015,football_data,2026-02-20T17:02:29+00:00,/Users/romain/dev/DataSport/data/raw/football_data/20260220T170229Z,skipped,FOOTBALL_DATA_TOKEN is missing; connector skipped.
+import_1a53f581e3310bee46877636d3169a22abb9dbab,balldontlie_nba,2026-02-20T17:02:29+00:00,/Users/romain/dev/DataSport/data/raw/balldontlie_nba/20260220T170229Z,skipped,BALDONTLIE_API_KEY is missing; connector skipped.
+import_ba142ed4a7ba95d028b655f74ddf2ff6518e1cb7,local_seed,2026-02-20T17:02:58+00:00,/Users/romain/dev/DataSport/data/raw/sport_name_seed.txt,success,
+import_b05c840ba69d6779cbd83c18ebee8710d9fa47f0,wikidata,2026-02-20T17:03:03+00:00,/Users/romain/dev/DataSport/data/raw/wikidata/20260220T170258Z,success,
+import_69988a50b53b134d6f8cecf900568130c4895f4b,football_data,2026-02-20T17:03:06+00:00,/Users/romain/dev/DataSport/data/raw/football_data/20260220T170306Z,skipped,FOOTBALL_DATA_TOKEN is missing; connector skipped.
+import_1bfb26e647f1bbd458de1153191a5496c3b73258,balldontlie_nba,2026-02-20T17:03:07+00:00,/Users/romain/dev/DataSport/data/raw/balldontlie_nba/20260220T170307Z,skipped,BALDONTLIE_API_KEY is missing; connector skipped.
+import_7484a4d285492aa7f87f5b0060ee2133ff28e88b,local_seed,2026-02-20T17:07:39+00:00,/Users/romain/dev/DataSport/data/raw/sport_name_seed.txt,success,
+import_71e7d84e357a2141f9257b0a0badc29a02ddfce7,wikidata,2026-02-20T17:07:44+00:00,/Users/romain/dev/DataSport/data/raw/wikidata/20260220T170739Z,success,
+import_b6f6ce6b7036607be6da858fd0885bbc33c05de3,football_data,2026-02-20T17:07:44+00:00,/Users/romain/dev/DataSport/data/raw/football_data/20260220T170744Z,skipped,FOOTBALL_DATA_TOKEN is missing; connector skipped.
+import_b15bf69b911387a4793b900cc8346a1d1a48ecc5,balldontlie_nba,2026-02-20T17:07:44+00:00,/Users/romain/dev/DataSport/data/raw/balldontlie_nba/20260220T170744Z,skipped,BALDONTLIE_API_KEY is missing; connector skipped.
+import_9218079560d2e60cd263fbdeb56d432d22d7c8c4,local_seed,2026-02-20T17:12:11+00:00,/Users/romain/dev/DataSport/data/raw/sport_name_seed.txt,success,
+import_c70a66fba1f1f8d4625c300306089558330df459,wikidata,2026-02-20T17:12:16+00:00,/Users/romain/dev/DataSport/data/raw/wikidata/20260220T171212Z,success,
+import_6fd3272827af632cc75b66d13ce44f957ac67dcf,local_seed,2026-02-20T17:42:57+00:00,/Users/romain/dev/DataSport/data/raw/sport_name_seed.txt,success,
+import_b72ab23e7593f88bd472c7bc00a9d848dda12e29,fifa_ranking_history,2026-02-20T17:42:58+00:00,/Users/romain/dev/DataSport/data/raw/fifa_ranking_history/20260220T174258Z,success,
+import_68832c14e68575094a2c9a3957e64ac36c81357c,fifa_ranking_history,2026-02-20T17:43:44+00:00,/Users/romain/dev/DataSport/data/raw/fifa_ranking_history/20260220T174343Z,success,
+import_0468e3270e0dc7d348c1a4084a853f9901eff7c7,fifa_ranking_history,2026-02-20T17:44:03+00:00,/Users/romain/dev/DataSport/data/raw/fifa_ranking_history/20260220T174402Z,success,
+import_abd1a65443d6736de15e728a5f2389c050710b14,fifa_ranking_history,2026-02-20T17:44:34+00:00,/Users/romain/dev/DataSport/data/raw/fifa_ranking_history/20260220T174434Z,success,
+import_5a567936b9a27fdacdf88367c4bec9e7b948fca9,fifa_ranking_history,2026-02-20T17:48:46+00:00,/Users/romain/dev/DataSport/data/raw/fifa_ranking_history/20260220T174846Z,success,
+import_96ccbb831905265bfa0be8a410066e33893dcd5f,fifa_ranking_history,2026-02-20T17:54:56+00:00,/Users/romain/dev/DataSport/data/raw/fifa_ranking_history/20260220T175456Z,success,
+import_715d1509f44fcd46000894e275420d08ea42da49,world_cup_history,2026-02-20T18:14:26+00:00,/Users/romain/dev/DataSport/data/raw/world_cup_history/20260220T181423Z,error,"HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/openfootball/world-cup/contents (Caused by NameResolutionError(""HTTPSConnection(host='api.github.com', port=443): Failed to resolve 'api.github.com' ([Errno 8] nodename nor servname provided, or not known)""))"
+import_3c468e288d9db3f3799559553dd993f384e0dc17,world_cup_history,2026-02-20T18:15:29+00:00,/Users/romain/dev/DataSport/data/raw/world_cup_history/20260220T181523Z,success,
+import_3e7106ec5cec19ef66130da8409e8c4b30fdc72d,world_cup_history,2026-02-20T18:17:45+00:00,/Users/romain/dev/DataSport/data/raw/world_cup_history/20260220T181740Z,success,
+import_84ffabd6472b1bf533cb96389735065577294a4a,world_cup_history,2026-02-20T18:18:29+00:00,/Users/romain/dev/DataSport/data/raw/world_cup_history/20260220T181829Z,error,No World Cup source files could be downloaded.
+import_e531fe806a1d697b2ea7dd592ccf397d78139b51,world_cup_history,2026-02-20T18:19:07+00:00,/Users/romain/dev/DataSport/data/raw/world_cup_history/20260220T181903Z,success,
+import_cde4952a855a2455a5fc7609f108e21abe5547f9,world_cup_history,2026-02-20T18:22:35+00:00,/Users/romain/dev/DataSport/data/raw/world_cup_history/20260220T182235Z,success,
+import_200e6730d468594610b9a3cc266b731f733155e3,world_cup_history,2026-02-20T18:23:53+00:00,/Users/romain/dev/DataSport/data/raw/world_cup_history/20260220T182353Z,success,
+import_b77b5b13b7446d11fba6cbfc17acdda66d6d25b5,world_cup_history,2026-02-20T18:24:54+00:00,/Users/romain/dev/DataSport/data/raw/world_cup_history/20260220T182454Z,success,
+import_234069e115f91726dd19a22bf4acd23cc08516cc,paris_2024_summer_olympics,2026-02-20T18:39:05+00:00,/Users/romain/dev/DataSport/data/raw/paris_2024_summer_olympics/20260220T183905Z,success,
+import_865099554c87ba6e4d42212f1e2f9fed41471e09,paris_2024_summer_olympics,2026-02-20T18:52:06+00:00,/Users/romain/dev/DataSport/data/raw/paris_2024_summer_olympics/20260220T185206Z,success,
+import_06e1014e252b002db127a380c2f990ac549376f4,paris_2024_summer_olympics,2026-02-20T18:53:29+00:00,/Users/romain/dev/DataSport/data/raw/paris_2024_summer_olympics/20260220T185329Z,success,
+import_c85b5f76aa053c6183681dd22035289a66504a24,paris_2024_summer_olympics,2026-02-20T18:59:01+00:00,/Users/romain/dev/DataSport/data/raw/paris_2024_summer_olympics/20260220T185901Z,success,
+import_b5ad4d92b5a457de830d36ec0781e6bea3ddf266,paris_2024_summer_olympics,2026-02-20T18:59:25+00:00,/Users/romain/dev/DataSport/data/raw/paris_2024_summer_olympics/20260220T185925Z,success,
+import_92385718dba786a5a595dc2352b92005491937fb,paris_2024_summer_olympics,2026-02-20T18:59:54+00:00,/Users/romain/dev/DataSport/data/raw/paris_2024_summer_olympics/20260220T185954Z,success,
+import_f2f6f022fd1d36be4363e6fdc3028ebeb43022e8,world_cup_history,2026-02-20T19:01:26+00:00,/Users/romain/dev/DataSport/data/raw/world_cup_history/20260220T190126Z,success,
+import_5ba3945c636b5b9f8f869922c726384c00425248,paris_2024_summer_olympics,2026-02-20T19:01:26+00:00,/Users/romain/dev/DataSport/data/raw/paris_2024_summer_olympics/20260220T190126Z,success,
+import_7ac67cfe840141e3854e1905d1dfe893e4517041,world_cup_history,2026-02-20T19:02:00+00:00,/Users/romain/dev/DataSport/data/raw/world_cup_history/20260220T190200Z,success,
+import_aa3e76699fb680ffae82c72e20038f4009ee1df8,paris_2024_summer_olympics,2026-02-20T19:05:15+00:00,/Users/romain/dev/DataSport/data/raw/paris_2024_summer_olympics/20260220T190515Z,success,
+import_dae9abe7f5465c8f44d37cb0183c8a9889a941a0,olympics_keith_history,2026-02-20T19:33:24+00:00,/Users/romain/dev/DataSport/data/raw/olympics_keith_history/20260220T193320Z,error,FOREIGN KEY constraint failed
+import_fa4ca61a72d76fca7c24c42f46a8d2b2a81dd307,olympics_keith_history,2026-02-20T19:34:02+00:00,/Users/romain/dev/DataSport/data/raw/olympics_keith_history/20260220T193339Z,success,
+import_05789f0b2f3470dd909fdc6ad8a702a217771eb8,olympics_keith_history,2026-02-20T19:43:45+00:00,/Users/romain/dev/DataSport/data/raw/olympics_keith_history/20260220T194336Z,success,
+import_a88a2448b967e41d898827ea8c4a1c44b3a1c8de,olympics_keith_history,2026-02-20T19:46:32+00:00,/Users/romain/dev/DataSport/data/raw/olympics_keith_history/20260220T194631Z,error,'float' object has no attribute 'strip'
+import_5e43b3cce8286333b37f2b22bf4cd35c39f87022,olympics_keith_history,2026-02-20T19:47:08+00:00,/Users/romain/dev/DataSport/data/raw/olympics_keith_history/20260220T194705Z,success,
+import_9360fbc244c0ba857c051c6984c6fe4e2e6be75c,fifa_women_ranking_history,2026-02-20T20:26:17+00:00,/Users/romain/dev/DataSport/data/raw/fifa_women_ranking_history/20260220T202615Z,error,"Unable to fetch FIFA women ranking source. Provide local seed(s) in data/raw/fifa_women/ (fifa_w_ranking_historical.csv or fifa_w_ranking-YYYY-MM-DD.csv). Last error: HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /Dato-Futbol/fifa-ranking/master/ranking_fifa_women_historical.csv (Caused by NameResolutionError(""HTTPSConnection(host='raw.githubusercontent.com', port=443): Failed to resolve 'raw.githubusercontent.com' ([Errno 8] nodename nor servname provided, or not known)""))"
+import_176f360ad5870995dba8e38e1ff9e2962bd46ae1,fifa_women_ranking_history,2026-02-20T20:26:48+00:00,/Users/romain/dev/DataSport/data/raw/fifa_women_ranking_history/20260220T202646Z,error,Unable to fetch FIFA women ranking source. Provide local seed(s) in data/raw/fifa_women/ (fifa_w_ranking_historical.csv or fifa_w_ranking-YYYY-MM-DD.csv). Last error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/Dato-Futbol/fifa-ranking/master/ranking_fifa_women_historical.csv
+import_e459c8dda532aa4cb6c191274d0cb52470d4c5e1,fifa_women_ranking_history,2026-02-20T20:32:32+00:00,/Users/romain/dev/DataSport/data/raw/fifa_women_ranking_history/20260220T203231Z,success,
+import_03525c89b0b2c933c6ee1c24dd24dffdca2c0688,fifa_women_ranking_history,2026-02-20T20:38:05+00:00,/Users/romain/dev/DataSport/data/raw/fifa_women_ranking_history/20260220T203805Z,success,
+import_f49540c93060c342e1ca3b3e4c0aa7b1c675c93c,fifa_women_ranking_history,2026-02-20T20:38:44+00:00,/Users/romain/dev/DataSport/data/raw/fifa_women_ranking_history/20260220T203844Z,success,
+import_cdf88ed9995999d8982bed3a24c06a72850cb41c,world_rugby_ranking_history,2026-02-20T20:51:13+00:00,/Users/romain/dev/DataSport/data/raw/world_rugby_ranking_history/20260220T205059Z,success,
+import_f88f9049b6fadb4d62fd6b4a214dcf190c28e27f,world_rugby_ranking_history,2026-02-20T21:01:07+00:00,/Users/romain/dev/DataSport/data/raw/world_rugby_ranking_history/20260220T210047Z,success,
+import_d341e93756cf9732ac69d29f0c62ca7c7add225b,world_rugby_ranking_history,2026-02-20T21:02:38+00:00,/Users/romain/dev/DataSport/data/raw/world_rugby_ranking_history/20260220T210219Z,success,
+import_50905354f5ea5e2ac7e909a163e0c609b3756556,world_rugby_ranking_history,2026-02-20T21:02:58+00:00,/Users/romain/dev/DataSport/data/raw/world_rugby_ranking_history/20260220T210246Z,success,
+import_7c6d6b95d2ad30a36fee62dd9a0da8071a40d318,world_rugby_ranking_history,2026-02-20T21:03:40+00:00,/Users/romain/dev/DataSport/data/raw/world_rugby_ranking_history/20260220T210328Z,success,
+import_781566aa504c1b60638c2304ae1c3aa2490705f7,fifa_women_world_cup_history,2026-02-20T21:09:02+00:00,/Users/romain/dev/DataSport/data/raw/fifa_women_world_cup_history/20260220T210901Z,success,
+import_ead62488e62d70206bc63b3f1841c0b1f28fb69e,rugby_world_cup_history,2026-02-20T21:19:44+00:00,/Users/romain/dev/DataSport/data/raw/rugby_world_cup_history/20260220T211944Z,success,
+import_1f2e28da8040844e8b0fdda63acfba184b1f95f7,rugby_world_cup_history,2026-02-20T21:20:14+00:00,/Users/romain/dev/DataSport/data/raw/rugby_world_cup_history/20260220T212014Z,success,
+import_8c1fb81d8799cf5b88c61c3eb84271a83ab3183f,fiba_ranking_history,2026-02-20T21:31:38+00:00,/Users/romain/dev/DataSport/data/raw/fiba_ranking_history/20260220T213138Z,success,
+import_25e994a97ce7d5466f68ac4502efe6d370c72ec1,fiba_basketball_world_cup_history,2026-02-20T21:31:49+00:00,/Users/romain/dev/DataSport/data/raw/fiba_basketball_world_cup_history/20260220T213149Z,success,
+import_8ef05516ff6c35826aab4d7dddc80c717e0d35e8,fiba_ranking_history,2026-02-20T21:51:17+00:00,/Users/romain/dev/DataSport/data/raw/fiba_ranking_history/20260220T215048Z,success,
+import_d2bd130f949f725a58e09685760b5c5a732d7bb7,fiba_ranking_history,2026-02-20T21:54:37+00:00,/Users/romain/dev/DataSport/data/raw/fiba_ranking_history/20260220T215410Z,success,

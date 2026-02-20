@@ -1,0 +1,16 @@
+import_id,source_id,fetched_at_utc,raw_path,status,error
+import_8e52e81b9d99dd0503e071456e8938aa202c4ad3,local_seed,2026-02-20T17:02:15+00:00,/Users/romain/dev/DataSport/data/raw/sport_name_seed.txt,success,
+import_e8b97ef7bd93c81c3a953080ae2b396258fef7a6,wikidata,2026-02-20T17:02:25+00:00,/Users/romain/dev/DataSport/data/raw/wikidata/20260220T170221Z,success,
+import_d35b56223245ff61d4b358489ecfc634ad954015,football_data,2026-02-20T17:02:29+00:00,/Users/romain/dev/DataSport/data/raw/football_data/20260220T170229Z,skipped,FOOTBALL_DATA_TOKEN is missing; connector skipped.
+import_1a53f581e3310bee46877636d3169a22abb9dbab,balldontlie_nba,2026-02-20T17:02:29+00:00,/Users/romain/dev/DataSport/data/raw/balldontlie_nba/20260220T170229Z,skipped,BALDONTLIE_API_KEY is missing; connector skipped.
+import_ba142ed4a7ba95d028b655f74ddf2ff6518e1cb7,local_seed,2026-02-20T17:02:58+00:00,/Users/romain/dev/DataSport/data/raw/sport_name_seed.txt,success,
+import_b05c840ba69d6779cbd83c18ebee8710d9fa47f0,wikidata,2026-02-20T17:03:03+00:00,/Users/romain/dev/DataSport/data/raw/wikidata/20260220T170258Z,success,
+import_69988a50b53b134d6f8cecf900568130c4895f4b,football_data,2026-02-20T17:03:06+00:00,/Users/romain/dev/DataSport/data/raw/football_data/20260220T170306Z,skipped,FOOTBALL_DATA_TOKEN is missing; connector skipped.
+import_1bfb26e647f1bbd458de1153191a5496c3b73258,balldontlie_nba,2026-02-20T17:03:07+00:00,/Users/romain/dev/DataSport/data/raw/balldontlie_nba/20260220T170307Z,skipped,BALDONTLIE_API_KEY is missing; connector skipped.
+import_7484a4d285492aa7f87f5b0060ee2133ff28e88b,local_seed,2026-02-20T17:07:39+00:00,/Users/romain/dev/DataSport/data/raw/sport_name_seed.txt,success,
+import_71e7d84e357a2141f9257b0a0badc29a02ddfce7,wikidata,2026-02-20T17:07:44+00:00,/Users/romain/dev/DataSport/data/raw/wikidata/20260220T170739Z,success,
+import_b6f6ce6b7036607be6da858fd0885bbc33c05de3,football_data,2026-02-20T17:07:44+00:00,/Users/romain/dev/DataSport/data/raw/football_data/20260220T170744Z,skipped,FOOTBALL_DATA_TOKEN is missing; connector skipped.
+import_b15bf69b911387a4793b900cc8346a1d1a48ecc5,balldontlie_nba,2026-02-20T17:07:44+00:00,/Users/romain/dev/DataSport/data/raw/balldontlie_nba/20260220T170744Z,skipped,BALDONTLIE_API_KEY is missing; connector skipped.
+import_9218079560d2e60cd263fbdeb56d432d22d7c8c4,local_seed,2026-02-20T17:12:11+00:00,/Users/romain/dev/DataSport/data/raw/sport_name_seed.txt,success,
+import_c70a66fba1f1f8d4625c300306089558330df459,wikidata,2026-02-20T17:12:16+00:00,/Users/romain/dev/DataSport/data/raw/wikidata/20260220T171212Z,success,
+import_6fd3272827af632cc75b66d13ce44f957ac67dcf,local_seed,2026-02-20T17:42:57+00:00,/Users/romain/dev/DataSport/data/raw/sport_name_seed.txt,success,

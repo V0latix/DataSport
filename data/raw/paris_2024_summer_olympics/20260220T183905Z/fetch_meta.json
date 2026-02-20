@@ -1,0 +1,6 @@
+{
+  "mode": "local_seed",
+  "source_sports_disciplines": "https://www.data.gouv.fr/datasets/paris-2024-calendrier-des-sessions-version-simplifiee-eng",
+  "source_medals": "https://gist.github.com/patwardhanj/3cfc9a5ab91fe9425c31dde826e959b3",
+  "year": 2024
+}

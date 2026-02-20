@@ -1,0 +1,54 @@
+sport_id,sport_name,sport_slug,created_at_utc
+olympic-games,Olympic Games,olympic-games,2026-02-20T19:47:06+00:00
+3x3-basketball-basketball,3x3 Basketball (Basketball),3x3-basketball-basketball,2026-02-20T19:47:06+00:00
+archery,Archery,archery,2026-02-20T19:47:06+00:00
+artistic-gymnastics-gymnastics,Artistic Gymnastics (Gymnastics),artistic-gymnastics-gymnastics,2026-02-20T19:47:06+00:00
+artistic-swimming-aquatics,Artistic Swimming (Aquatics),artistic-swimming-aquatics,2026-02-20T19:47:06+00:00
+athletics,Athletics,athletics,2026-02-20T19:47:06+00:00
+badminton,Badminton,badminton,2026-02-20T19:47:06+00:00
+baseball-baseball-softball,Baseball (Baseball/Softball),baseball-baseball-softball,2026-02-20T19:47:06+00:00
+basketball-basketball,Basketball (Basketball),basketball-basketball,2026-02-20T19:47:06+00:00
+beach-volleyball-volleyball,Beach Volleyball (Volleyball),beach-volleyball-volleyball,2026-02-20T19:47:06+00:00
+biathlon,Biathlon,biathlon,2026-02-20T19:47:06+00:00
+bobsleigh-bobsleigh,Bobsleigh (Bobsleigh),bobsleigh-bobsleigh,2026-02-20T19:47:06+00:00
+boxing,Boxing,boxing,2026-02-20T19:47:06+00:00
+canoe,Canoe,canoe,2026-02-20T19:47:06+00:00
+curling,Curling,curling,2026-02-20T19:47:06+00:00
+cycling,Cycling,cycling,2026-02-20T19:47:06+00:00
+diving-aquatics,Diving (Aquatics),diving-aquatics,2026-02-20T19:47:06+00:00
+equestrian,Equestrian,equestrian,2026-02-20T19:47:06+00:00
+fencing,Fencing,fencing,2026-02-20T19:47:06+00:00
+football-football,Football (Football),football-football,2026-02-20T19:47:06+00:00
+golf,Golf,golf,2026-02-20T19:47:06+00:00
+handball,Handball,handball,2026-02-20T19:47:06+00:00
+hockey,Hockey,hockey,2026-02-20T19:47:06+00:00
+hockey-5s,Hockey 5s,hockey-5s,2026-02-20T19:47:06+00:00
+ice-hockey,Ice Hockey,ice-hockey,2026-02-20T19:47:06+00:00
+judo,Judo,judo,2026-02-20T19:47:06+00:00
+karate,Karate,karate,2026-02-20T19:47:06+00:00
+luge,Luge,luge,2026-02-20T19:47:06+00:00
+marathon-swimming-aquatics,Marathon Swimming (Aquatics),marathon-swimming-aquatics,2026-02-20T19:47:06+00:00
+mixed-sports,Mixed Sports,mixed-sports,2026-02-20T19:47:06+00:00
+modern-pentathlon,Modern Pentathlon,modern-pentathlon,2026-02-20T19:47:06+00:00
+rhythmic-gymnastics-gymnastics,Rhythmic Gymnastics (Gymnastics),rhythmic-gymnastics-gymnastics,2026-02-20T19:47:06+00:00
+rowing,Rowing,rowing,2026-02-20T19:47:06+00:00
+rugby-sevens-rugby,Rugby Sevens (Rugby),rugby-sevens-rugby,2026-02-20T19:47:06+00:00
+sailing,Sailing,sailing,2026-02-20T19:47:06+00:00
+shooting,Shooting,shooting,2026-02-20T19:47:06+00:00
+skateboarding-roller-sports,Skateboarding (Roller Sports),skateboarding-roller-sports,2026-02-20T19:47:06+00:00
+skating,Skating,skating,2026-02-20T19:47:06+00:00
+skeleton-bobsleigh,Skeleton (Bobsleigh),skeleton-bobsleigh,2026-02-20T19:47:06+00:00
+skiing,Skiing,skiing,2026-02-20T19:47:06+00:00
+softball-baseball-softball,Softball (Baseball/Softball),softball-baseball-softball,2026-02-20T19:47:06+00:00
+sport-climbing,Sport Climbing,sport-climbing,2026-02-20T19:47:06+00:00
+surfing,Surfing,surfing,2026-02-20T19:47:06+00:00
+swimming-aquatics,Swimming (Aquatics),swimming-aquatics,2026-02-20T19:47:06+00:00
+table-tennis,Table Tennis,table-tennis,2026-02-20T19:47:06+00:00
+taekwondo,Taekwondo,taekwondo,2026-02-20T19:47:06+00:00
+tennis,Tennis,tennis,2026-02-20T19:47:06+00:00
+trampolining-gymnastics,Trampolining (Gymnastics),trampolining-gymnastics,2026-02-20T19:47:06+00:00
+triathlon,Triathlon,triathlon,2026-02-20T19:47:06+00:00
+volleyball-volleyball,Volleyball (Volleyball),volleyball-volleyball,2026-02-20T19:47:06+00:00
+water-polo-aquatics,Water Polo (Aquatics),water-polo-aquatics,2026-02-20T19:47:06+00:00
+weightlifting,Weightlifting,weightlifting,2026-02-20T19:47:06+00:00
+wrestling,Wrestling,wrestling,2026-02-20T19:47:06+00:00

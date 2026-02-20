@@ -1,0 +1,22 @@
+sport_id,sport_name,sport_slug,created_at_utc
+athletics,Athletics,athletics,2026-02-20T17:42:57+00:00
+basketball,Basketball,basketball,2026-02-20T17:42:57+00:00
+biathlon,Biathlon,biathlon,2026-02-20T17:42:57+00:00
+boxing,Boxing,boxing,2026-02-20T17:42:57+00:00
+cycling,Cycling,cycling,2026-02-20T17:42:57+00:00
+fencing,Fencing,fencing,2026-02-20T17:42:57+00:00
+football,Football,football,2026-02-20T17:42:57+00:00
+gymnastics,Gymnastics,gymnastics,2026-02-20T17:42:57+00:00
+handball,Handball,handball,2026-02-20T17:42:57+00:00
+judo,Judo,judo,2026-02-20T17:42:57+00:00
+rowing,Rowing,rowing,2026-02-20T17:42:57+00:00
+rugby,Rugby,rugby,2026-02-20T17:42:57+00:00
+skiing,Skiing,skiing,2026-02-20T17:42:57+00:00
+swimming,Swimming,swimming,2026-02-20T17:42:57+00:00
+taekwondo,Taekwondo,taekwondo,2026-02-20T17:42:57+00:00
+tennis,Tennis,tennis,2026-02-20T17:42:57+00:00
+volleyball,Volleyball,volleyball,2026-02-20T17:42:57+00:00
+weightlifting,Weightlifting,weightlifting,2026-02-20T17:42:57+00:00
+wrestling,Wrestling,wrestling,2026-02-20T17:42:57+00:00
+sport,Sport,sport,2026-02-20T17:12:16+00:00
+association-football,Association football,association-football,2026-02-20T17:12:16+00:00

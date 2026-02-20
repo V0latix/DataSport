@@ -1,0 +1,2 @@
+competition_id,sport_id,name,season_year,level,start_date,end_date,source_id
+fifa_womens_world_cup,football,FIFA Women's World Cup,,national_team_tournament,1991-11-30,2023-08-20,fifa_women_world_cup_history

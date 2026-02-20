@@ -1,0 +1,4 @@
+{
+  "mode": "fallback_sample (HTTPSConnectionPool(host='query.wikidata.org', port=443): Max retries exceeded with url: /sparql?query=%0ASELECT+%3Fsport+%3FsportLabel+%3Ffederation+%3FfederationLabel+WHERE+%7B%0A++%3Fsport+wdt%3AP31%2Fwdt%3AP279%2A+wd%3AQ31629.%0A++OPTIONAL+%7B+%3Fsport+wdt%3AP2416+%3Ffederation.+%7D%0A++SERVICE+wikibase%3Alabel+%7B+bd%3AserviceParam+wikibase%3Alanguage+%22en%22.+%7D%0A%7D%0ALIMIT+500%0A&format=json (Caused by NameResolutionError(\"HTTPSConnection(host='query.wikidata.org', port=443): Failed to resolve 'query.wikidata.org' ([Errno 8] nodename nor servname provided, or not known)\")))",
+  "fetched_at_utc": "2026-02-20T17:02:25+00:00"
+}
