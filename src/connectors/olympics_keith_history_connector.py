@@ -15,8 +15,12 @@ from .base import Connector
 
 
 KEITH_RESULTS_URL = "https://raw.githubusercontent.com/KeithGalli/Olympics-Dataset/refs/heads/master/clean-data/results.csv"
+PARIS2024_MEDALS_URL = "https://raw.githubusercontent.com/taniki/paris2024-data/main/datasets/medals.csv"
+WINTER_2026_MEDAL_TABLE_URL = "https://en.wikipedia.org/wiki/2026_Winter_Olympics_medal_table"
 MEDAL_TEXT_TO_VALUE = {"Gold": "gold", "Silver": "silver", "Bronze": "bronze"}
 MEDAL_TO_POINTS = {"gold": 3.0, "silver": 2.0, "bronze": 1.0}
+PARIS_COLOR_TO_MEDAL = {"G": "Gold", "S": "Silver", "B": "Bronze"}
+PARIS_COLOR_TO_RANK = {"G": 1, "S": 2, "B": 3}
 
 
 class OlympicsKeithHistoryConnector(Connector):
@@ -26,8 +30,27 @@ class OlympicsKeithHistoryConnector(Connector):
     license_notes = "KeithGalli Olympics Dataset (repository indicates CC BY 4.0); check redistribution requirements."
     base_url = KEITH_RESULTS_URL
 
+    def source_row(self) -> dict[str, str]:
+        return {
+            "source_id": self.id,
+            "source_name": self.name,
+            "source_type": self.source_type,
+            "license_notes": (
+                "Primary historical source: KeithGalli Olympics Dataset (repository indicates CC BY 4.0). "
+                "Supplementary sources: taniki/paris2024-data for Paris 2024 event medals and "
+                "Wikipedia 2026 Winter Olympics medal table seed."
+            ),
+            "base_url": f"{KEITH_RESULTS_URL} | {PARIS2024_MEDALS_URL} | {WINTER_2026_MEDAL_TABLE_URL}",
+        }
+
     def _local_seed_path(self) -> Path:
         return Path(__file__).resolve().parents[2] / "data" / "raw" / "olympics" / "keithgalli_results.csv"
+
+    def _local_paris_medals_path(self) -> Path:
+        return Path(__file__).resolve().parents[2] / "data" / "raw" / "olympics" / "paris2024_medals_by_event.csv"
+
+    def _local_winter_2026_medal_table_path(self) -> Path:
+        return Path(__file__).resolve().parents[2] / "data" / "raw" / "olympics" / "winter2026_medal_table_seed.csv"
 
     @staticmethod
     def _download_csv(url: str, out_path: Path) -> Path:
@@ -39,23 +62,53 @@ class OlympicsKeithHistoryConnector(Connector):
 
     def fetch(self, season_year: int, out_dir: Path) -> list[Path]:
         del season_year
-        out_file = out_dir / "keithgalli_results.csv"
+        raw_paths: list[Path] = []
+        mode_parts: list[str] = []
+        source_refs: dict[str, str] = {}
+
+        out_keith = out_dir / "keithgalli_results.csv"
         local_seed = self._local_seed_path()
         if local_seed.exists():
-            shutil.copy2(local_seed, out_file)
-            mode = "local_seed"
+            shutil.copy2(local_seed, out_keith)
+            mode_parts.append("keith:local_seed")
+            source_refs["keith"] = str(local_seed)
         else:
-            self._download_csv(self.base_url, out_file)
-            mode = "download"
+            self._download_csv(self.base_url, out_keith)
+            mode_parts.append("keith:download")
+            source_refs["keith"] = self.base_url
+        raw_paths.append(out_keith)
+
+        out_paris = out_dir / "paris2024_medals_by_event.csv"
+        local_paris = self._local_paris_medals_path()
+        if local_paris.exists():
+            shutil.copy2(local_paris, out_paris)
+            mode_parts.append("paris2024:local_seed")
+            source_refs["paris2024"] = str(local_paris)
+        else:
+            self._download_csv(PARIS2024_MEDALS_URL, out_paris)
+            mode_parts.append("paris2024:download")
+            source_refs["paris2024"] = PARIS2024_MEDALS_URL
+        raw_paths.append(out_paris)
+
+        out_winter_2026 = out_dir / "winter2026_medal_table_seed.csv"
+        local_winter_2026 = self._local_winter_2026_medal_table_path()
+        if local_winter_2026.exists():
+            shutil.copy2(local_winter_2026, out_winter_2026)
+            mode_parts.append("winter2026:local_seed")
+            source_refs["winter2026"] = str(local_winter_2026)
+            raw_paths.append(out_winter_2026)
+        else:
+            mode_parts.append("winter2026:missing_seed")
+            source_refs["winter2026"] = WINTER_2026_MEDAL_TABLE_URL
 
         self._write_json(
             out_dir / "fetch_meta.json",
             {
-                "mode": mode,
-                "source": self.base_url,
+                "mode": ", ".join(mode_parts),
+                "sources": source_refs,
             },
         )
-        return [out_file]
+        return raw_paths
 
     @staticmethod
     def _parse_gender(event_name: str) -> str | None:
@@ -79,8 +132,8 @@ class OlympicsKeithHistoryConnector(Connector):
         return f"olympics_{olympic_type}_{year}_{slugify(discipline)}_{slugify(event)}"
 
     @staticmethod
-    def _competition_id(olympic_type: str, year: int) -> str:
-        return f"olympics_{olympic_type}_{year}"
+    def _competition_id(olympic_type: str) -> str:
+        return f"olympics_{olympic_type}"
 
     @staticmethod
     def _infer_sport_name(discipline_name: str, mapping: dict[str, str]) -> str:
@@ -133,13 +186,128 @@ class OlympicsKeithHistoryConnector(Connector):
             return None
         return rank
 
+    @staticmethod
+    def _resolve_country_code(country_name: str) -> str:
+        cleaned = str(country_name).replace("*", "").strip()
+        try:
+            import pycountry
+
+            country = pycountry.countries.lookup(cleaned)
+            code = getattr(country, "alpha_3", None)
+            if code:
+                return str(code)
+        except Exception:
+            pass
+        aliases = {
+            "United States": "USA",
+            "Great Britain": "GBR",
+            "ROC": "RUS",
+        }
+        if cleaned in aliases:
+            return aliases[cleaned]
+        return slugify(cleaned)[:3].upper()
+
+    def _build_paris_2024_rows(self, paris_path: Path) -> pd.DataFrame:
+        medals = pd.read_csv(paris_path).rename(columns={"code": "noc", "name": "athlete_name"}).copy()
+        medals["noc"] = medals["noc"].fillna("").astype(str).str.strip().str.upper()
+        medals["athlete_name"] = medals["athlete_name"].fillna("").astype(str).str.strip()
+        medals["discipline"] = medals["discipline"].fillna("").astype(str).str.strip()
+        medals["event"] = medals["event"].fillna("").astype(str).str.strip()
+        medals["color"] = medals["color"].fillna("").astype(str).str.strip().str.upper()
+        medals = medals.loc[
+            (medals["noc"] != "")
+            & (medals["discipline"] != "")
+            & (medals["event"] != "")
+            & (medals["color"].isin(["G", "S", "B"]))
+        ].copy()
+
+        grouped = (
+            medals.groupby(["discipline", "event", "color", "noc"], as_index=False)
+            .agg(athletes_count=("athlete_name", "count"), representative_name=("athlete_name", "first"))
+            .sort_values(["discipline", "event", "color", "noc"])
+            .reset_index(drop=True)
+        )
+        tie_counts = grouped.groupby(["discipline", "event", "color"]).size().to_dict()
+
+        rows: list[dict[str, Any]] = []
+        for row in grouped.itertuples(index=False):
+            color = str(row.color).upper()
+            rank = PARIS_COLOR_TO_RANK.get(color)
+            medal = PARIS_COLOR_TO_MEDAL.get(color)
+            if rank is None or medal is None:
+                continue
+            participant_name = str(row.representative_name).strip() if int(row.athletes_count) == 1 else ""
+            rows.append(
+                {
+                    "year": 2024,
+                    "type": "Summer",
+                    "discipline": str(row.discipline),
+                    "event": str(row.event),
+                    "as": participant_name,
+                    "athlete_id": None,
+                    "noc": str(row.noc),
+                    "team": None,
+                    "place": rank,
+                    "tied": bool(tie_counts.get((row.discipline, row.event, row.color), 0) > 1),
+                    "medal": medal,
+                }
+            )
+        return pd.DataFrame(rows)
+
+    def _build_winter_2026_rows(self, winter_path: Path) -> pd.DataFrame:
+        seed = pd.read_csv(winter_path)
+        required = {"rank", "country_name"}
+        if not required.issubset(set(seed.columns)):
+            raise RuntimeError(f"Unsupported Winter 2026 medal table seed format: {list(seed.columns)}")
+
+        rows: list[dict[str, Any]] = []
+        for row in seed.itertuples(index=False):
+            rank = pd.to_numeric(getattr(row, "rank"), errors="coerce")
+            if pd.isna(rank):
+                continue
+            rank_int = int(rank)
+            if rank_int < 1:
+                continue
+            country_name = str(getattr(row, "country_name", "")).replace("*", "").strip()
+            if not country_name:
+                continue
+            country_code = self._resolve_country_code(country_name)
+            medal = "Gold" if rank_int == 1 else "Silver" if rank_int == 2 else "Bronze" if rank_int == 3 else ""
+            rows.append(
+                {
+                    "year": 2026,
+                    "type": "Winter",
+                    "discipline": "Winter Olympics Medal Table",
+                    "event": "Nation medal table (Winter Olympics 2026)",
+                    "as": "",
+                    "athlete_id": None,
+                    "noc": country_code,
+                    "team": None,
+                    "place": rank_int,
+                    "tied": False,
+                    "medal": medal,
+                }
+            )
+        return pd.DataFrame(rows)
+
     def parse(self, raw_paths: list[Path], season_year: int) -> dict[str, pd.DataFrame]:
-        csv_path = next(path for path in raw_paths if path.name.endswith(".csv"))
+        csv_path = next(path for path in raw_paths if path.name == "keithgalli_results.csv")
+        paris_path = next((path for path in raw_paths if path.name == "paris2024_medals_by_event.csv"), None)
+        winter_2026_path = next((path for path in raw_paths if path.name == "winter2026_medal_table_seed.csv"), None)
+
         frame = pd.read_csv(csv_path)
         required = {"year", "type", "discipline", "event", "as", "athlete_id", "noc", "place", "tied", "medal"}
         missing = required - set(frame.columns)
         if missing:
             raise RuntimeError(f"Missing required columns in Keith dataset: {sorted(missing)}")
+
+        supplements: list[pd.DataFrame] = []
+        if paris_path is not None and paris_path.exists():
+            supplements.append(self._build_paris_2024_rows(paris_path))
+        if winter_2026_path is not None and winter_2026_path.exists():
+            supplements.append(self._build_winter_2026_rows(winter_2026_path))
+        if supplements:
+            frame = pd.concat([frame, *supplements], ignore_index=True, sort=False)
 
         frame = frame.copy()
         frame["year"] = pd.to_numeric(frame["year"], errors="coerce")
@@ -167,14 +335,12 @@ class OlympicsKeithHistoryConnector(Connector):
             lambda row: self._event_id(row["olympic_type"], int(row["year"]), row["discipline"], row["event"]),
             axis=1,
         )
-        frame["competition_id"] = frame.apply(
-            lambda row: self._competition_id(row["olympic_type"], int(row["year"])),
-            axis=1,
-        )
+        frame["competition_id"] = frame["olympic_type"].map(self._competition_id)
         frame["medal_norm"] = frame["medal"].map(self._normalize_medal)
         frame["rank_norm"] = frame["place"].map(self._normalize_rank)
+        frame["is_ranking_row"] = frame["event"].astype(str).str.contains("medal table", case=False, na=False)
         frame["points_awarded"] = frame["medal_norm"].map(MEDAL_TO_POINTS)
-        medals_frame = frame.loc[frame["medal_norm"].notna()].copy()
+        medals_frame = frame.loc[frame["medal_norm"].notna() | (frame["is_ranking_row"] & frame["rank_norm"].notna())].copy()
 
         timestamp = utc_now_iso()
         olympic_games_sport_id = slugify("Olympic Games")
@@ -218,21 +384,18 @@ class OlympicsKeithHistoryConnector(Connector):
             )
 
         competitions_rows: list[dict[str, Any]] = []
-        for olympic_type, year in (
-            medals_frame[["olympic_type", "year"]]
-            .drop_duplicates()
-            .sort_values(["year", "olympic_type"])
-            .itertuples(index=False)
-        ):
+        for olympic_type, group in medals_frame.groupby("olympic_type", sort=True):
+            min_year = int(group["year"].min())
+            max_year = int(group["year"].max())
             competitions_rows.append(
                 {
-                    "competition_id": self._competition_id(str(olympic_type), int(year)),
+                    "competition_id": self._competition_id(str(olympic_type)),
                     "sport_id": olympic_games_sport_id,
-                    "name": f"{str(olympic_type).capitalize()} Olympics {int(year)}",
-                    "season_year": int(year),
+                    "name": f"{str(olympic_type).capitalize()} Olympics",
+                    "season_year": None,
                     "level": "multi_sport_games",
-                    "start_date": f"{int(year)}-01-01",
-                    "end_date": f"{int(year)}-12-31",
+                    "start_date": f"{min_year}-01-01",
+                    "end_date": f"{max_year}-12-31",
                     "source_id": self.id,
                 }
             )
@@ -247,7 +410,7 @@ class OlympicsKeithHistoryConnector(Connector):
             events_rows.append(
                 {
                     "event_id": str(event_id),
-                    "competition_id": self._competition_id(str(olympic_type), int(year)),
+                    "competition_id": self._competition_id(str(olympic_type)),
                     "discipline_id": slugify(str(discipline_name)),
                     "gender": self._parse_gender(str(event_name)),
                     "event_class": "olympic_event",
@@ -378,6 +541,27 @@ class OlympicsKeithHistoryConnector(Connector):
                 (self.id,),
             )
             conn.execute("DELETE FROM competitions WHERE source_id = ?", (self.id,))
+            conn.execute(
+                """
+                DELETE FROM results
+                WHERE event_id IN (
+                    SELECT e.event_id
+                    FROM events e
+                    JOIN competitions c ON c.competition_id = e.competition_id
+                    WHERE c.source_id = 'paris_2024_summer_olympics'
+                )
+                """
+            )
+            conn.execute(
+                """
+                DELETE FROM events
+                WHERE competition_id IN (
+                    SELECT competition_id FROM competitions WHERE source_id = 'paris_2024_summer_olympics'
+                )
+                """
+            )
+            conn.execute("DELETE FROM competitions WHERE source_id = 'paris_2024_summer_olympics'")
+            conn.execute("DELETE FROM disciplines WHERE mapping_source = 'connector_paris_2024_summer_olympics'")
             conn.execute(
                 """
                 DELETE FROM participants

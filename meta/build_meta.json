@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-02-24T23:10:19+00:00",
-  "git_hash": "628e6a7",
+  "generated_at_utc": "2026-02-24T23:35:08+00:00",
+  "git_hash": "1446eea",
   "db_path": "/Users/romain/dev/DataSport/data/processed/sports_nations.db",
   "row_counts": {
     "countries": 316,
-    "sports": 83,
-    "disciplines": 194,
-    "competitions": 39,
-    "events": 4076,
-    "participants": 13278,
-    "results": 21522,
+    "sports": 84,
+    "disciplines": 195,
+    "competitions": 22,
+    "events": 4077,
+    "participants": 13339,
+    "results": 21551,
     "sources": 18,
-    "raw_imports": 80,
+    "raw_imports": 83,
     "sport_federations": 3
   },
   "pipeline": "ingest",
-  "connector": "world_athletics_championships_history",
-  "year": 2026,
+  "connector": "olympics_keith_history",
+  "year": 2000,
   "status": "success",
   "validation_passed": true
 }

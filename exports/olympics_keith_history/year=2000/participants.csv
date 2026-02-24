@@ -11810,3 +11810,767 @@ athlete_Juraj_Slafkovský_SVK_148979,athlete,Juraj Slafkovský,SVK
 athlete_Samuel_Taká_SVK_148980,athlete,Samuel Takáč,SVK
 athlete_Matej_Tomek_SVK_148981,athlete,Matej Tomek,SVK
 athlete_Peter_Zuzin_SVK_148982,athlete,Peter Zuzin,SVK
+nation_LTU,team,LTU nation team,LTU
+nation_NED,team,NED nation team,NED
+nation_FRA,team,FRA nation team,FRA
+nation_USA,team,USA nation team,USA
+nation_GER,team,GER nation team,GER
+nation_ESP,team,ESP nation team,ESP
+athlete_LEE_Wooseok_KOR_none,athlete,LEE Wooseok,KOR
+athlete_KIM_Woojin_KOR_none,athlete,KIM Woojin,KOR
+athlete_ELLISON_Brady_USA_none,athlete,ELLISON Brady,USA
+nation_TUR,team,TUR nation team,TUR
+nation_KOR,team,KOR nation team,KOR
+athlete_BARBELIN_Lisa_FRA_none,athlete,BARBELIN Lisa,FRA
+athlete_LIM_Sihyeon_KOR_none,athlete,LIM Sihyeon,KOR
+athlete_NAM_Suhyeon_KOR_none,athlete,NAM Suhyeon,KOR
+nation_MEX,team,MEX nation team,MEX
+nation_CHN,team,CHN nation team,CHN
+athlete_XIAO_Ruoteng_CHN_none,athlete,XIAO Ruoteng,CHN
+athlete_OKA_Shinnosuke_JPN_none,athlete,OKA Shinnosuke,JPN
+athlete_ZHANG_Boheng_CHN_none,athlete,ZHANG Boheng,CHN
+athlete_JARMAN_Jake_GBR_none,athlete,JARMAN Jake,GBR
+athlete_YULO_Carlos_Edriel_PHI_none,athlete,YULO Carlos Edriel,PHI
+athlete_DOLGOPYAT_Artem_ISR_none,athlete,DOLGOPYAT Artem,ISR
+athlete_TANG_Chia-Hung_TPE_none,athlete,TANG Chia-Hung,TPE
+athlete_BARAJAS_Angel_COL_none,athlete,BARAJAS Angel,COL
+athlete_ZOU_Jingyuan_CHN_none,athlete,ZOU Jingyuan,CHN
+athlete_KOVTUN_Illia_UKR_none,athlete,KOVTUN Illia,UKR
+athlete_NEDOROSCIK_Stephen_USA_none,athlete,NEDOROSCIK Stephen,USA
+athlete_Mc_CLENAGHAN_Rhys_IRL_none,athlete,Mc CLENAGHAN Rhys,IRL
+athlete_KURBANOV_Nariman_KAZ_none,athlete,KURBANOV Nariman,KAZ
+athlete_PETROUNIAS_Eleftherios_GRE_none,athlete,PETROUNIAS Eleftherios,GRE
+athlete_LIU_Yang_CHN_none,athlete,LIU Yang,CHN
+nation_JPN,team,JPN nation team,JPN
+athlete_HEPWORTH_Harry_GBR_none,athlete,HEPWORTH Harry,GBR
+athlete_DAVTYAN_Artur_ARM_none,athlete,DAVTYAN Artur,ARM
+athlete_LEE_Sunisa_USA_none,athlete,LEE Sunisa,USA
+athlete_BILES_Simone_USA_none,athlete,BILES Simone,USA
+athlete_ANDRADE_Rebeca_BRA_none,athlete,ANDRADE Rebeca,BRA
+athlete_ESPOSITO_Manila_ITA_none,athlete,ESPOSITO Manila,ITA
+athlete_DAMATO_Alice_ITA_none,athlete,D'AMATO Alice,ITA
+athlete_ZHOU_Yaqin_CHN_none,athlete,ZHOU Yaqin,CHN
+athlete_BARBOSU_Ana_ROU_none,athlete,BARBOSU Ana,ROU
+nation_BRA,team,BRA nation team,BRA
+nation_ITA,team,ITA nation team,ITA
+athlete_NEMOUR_Kaylia_ALG_none,athlete,NEMOUR Kaylia,ALG
+athlete_QIU_Qiyuan_CHN_none,athlete,QIU Qiyuan,CHN
+athlete_CAREY_Jade_USA_none,athlete,CAREY Jade,USA
+nation_GBR,team,GBR nation team,GBR
+nation_AUS,team,AUS nation team,AUS
+nation_ECU,team,ECU nation team,ECU
+athlete_FISHER_Grant_USA_none,athlete,FISHER Grant,USA
+athlete_CHEPTEGEI_Joshua_UGA_none,athlete,CHEPTEGEI Joshua,UGA
+athlete_AREGAWI_Berihu_ETH_none,athlete,AREGAWI Berihu,ETH
+athlete_KERLEY_Fred_USA_none,athlete,KERLEY Fred,USA
+athlete_LYLES_Noah_USA_none,athlete,LYLES Noah,USA
+athlete_THOMPSON_Kishane_JAM_none,athlete,THOMPSON Kishane,JAM
+athlete_BROADBELL_Rasheed_JAM_none,athlete,BROADBELL Rasheed,JAM
+athlete_HOLLOWAY_Grant_USA_none,athlete,HOLLOWAY Grant,USA
+athlete_ROBERTS_Daniel_USA_none,athlete,ROBERTS Daniel,USA
+athlete_NUGUSE_Yared_USA_none,athlete,NUGUSE Yared,USA
+athlete_HOCKER_Cole_USA_none,athlete,HOCKER Cole,USA
+athlete_KERR_Josh_GBR_none,athlete,KERR Josh,GBR
+athlete_TEBOGO_Letsile_BOT_none,athlete,TEBOGO Letsile,BOT
+athlete_BEDNAREK_Kenneth_USA_none,athlete,BEDNAREK Kenneth,USA
+athlete_MARTIN_Alvaro_ESP_none,athlete,MARTIN Alvaro,ESP
+athlete_PINTADO_Brian_Daniel_ECU_none,athlete,PINTADO Brian Daniel,ECU
+athlete_BONFIM_Caio_BRA_none,athlete,BONFIM Caio,BRA
+athlete_KIBIWOT_Abraham_KEN_none,athlete,KIBIWOT Abraham,KEN
+athlete_EL_BAKKALI_Soufiane_MAR_none,athlete,EL BAKKALI Soufiane,MAR
+athlete_ROOKS_Kenneth_USA_none,athlete,ROOKS Kenneth,USA
+nation_CAN,team,CAN nation team,CAN
+nation_RSA,team,RSA nation team,RSA
+nation_BOT,team,BOT nation team,BOT
+athlete_SAMUKONGA_Muzala_ZAM_none,athlete,SAMUKONGA Muzala,ZAM
+athlete_HALL_Quincy_USA_none,athlete,HALL Quincy,USA
+athlete_HUDSON-SMITH_Matthew_GBR_none,athlete,HUDSON-SMITH Matthew,GBR
+athlete_dos_SANTOS_Alison_BRA_none,athlete,dos SANTOS Alison,BRA
+athlete_BENJAMIN_Rai_USA_none,athlete,BENJAMIN Rai,USA
+athlete_WARHOLM_Karsten_NOR_none,athlete,WARHOLM Karsten,NOR
+athlete_INGEBRIGTSEN_Jakob_NOR_none,athlete,INGEBRIGTSEN Jakob,NOR
+athlete_KWEMOI_Ronald_KEN_none,athlete,KWEMOI Ronald,KEN
+athlete_SEDJATI_Djamel_ALG_none,athlete,SEDJATI Djamel,ALG
+athlete_WANYONYI_Emmanuel_KEN_none,athlete,WANYONYI Emmanuel,KEN
+athlete_AROP_Marco_CAN_none,athlete,AROP Marco,CAN
+athlete_VICTOR_Lindon_GRN_none,athlete,VICTOR Lindon,GRN
+athlete_ROOTH_Markus_NOR_none,athlete,ROOTH Markus,NOR
+athlete_NEUGEBAUER_Leo_GER_none,athlete,NEUGEBAUER Leo,GER
+athlete_DENNY_Matthew_AUS_none,athlete,DENNY Matthew,AUS
+athlete_STONA_Roje_JAM_none,athlete,STONA Roje,JAM
+athlete_ALEKNA_Mykolas_LTU_none,athlete,ALEKNA Mykolas,LTU
+athlete_KOKHAN_Mykhaylo_UKR_none,athlete,KOKHAN Mykhaylo,UKR
+athlete_KATZBERG_Ethan_CAN_none,athlete,KATZBERG Ethan,CAN
+athlete_HALASZ_Bence_HUN_none,athlete,HALASZ Bence,HUN
+athlete_BARSHIM_Mutaz_Essa_QAT_none,athlete,BARSHIM Mutaz Essa,QAT
+athlete_KERR_Hamish_NZL_none,athlete,KERR Hamish,NZL
+athlete_McEWEN_Shelby_USA_none,athlete,McEWEN Shelby,USA
+athlete_PETERS_Anderson_GRN_none,athlete,PETERS Anderson,GRN
+athlete_NADEEM_Arshad_PAK_none,athlete,NADEEM Arshad,PAK
+athlete_CHOPRA_Neeraj_IND_none,athlete,CHOPRA Neeraj,IND
+athlete_FURLANI_Mattia_ITA_none,athlete,FURLANI Mattia,ITA
+athlete_TENTOGLOU_Miltiadis_GRE_none,athlete,TENTOGLOU Miltiadis,GRE
+athlete_PINNOCK_Wayne_JAM_none,athlete,PINNOCK Wayne,JAM
+athlete_KIPRUTO_Benson_KEN_none,athlete,KIPRUTO Benson,KEN
+athlete_TOLA_Tamirat_ETH_none,athlete,TOLA Tamirat,ETH
+athlete_ABDI_Bashir_BEL_none,athlete,ABDI Bashir,BEL
+athlete_KARALIS_Emmanouil_GRE_none,athlete,KARALIS Emmanouil,GRE
+athlete_DUPLANTIS_Armand_SWE_none,athlete,DUPLANTIS Armand,SWE
+athlete_KENDRICKS_Sam_USA_none,athlete,KENDRICKS Sam,USA
+athlete_CAMPBELL_Rajindra_JAM_none,athlete,CAMPBELL Rajindra,JAM
+athlete_CROUSER_Ryan_USA_none,athlete,CROUSER Ryan,USA
+athlete_KOVACS_Joe_USA_none,athlete,KOVACS Joe,USA
+athlete_DIAZ_HERNANDEZ_Andy_ITA_none,athlete,DIAZ HERNANDEZ Andy,ITA
+athlete_DIAZ_FORTUN_Jordan_Alejandro_ESP_none,athlete,DIAZ FORTUN Jordan Alejandro,ESP
+athlete_PICHARDO_Pedro_POR_none,athlete,PICHARDO Pedro,POR
+athlete_HASSAN_Sifan_NED_none,athlete,HASSAN Sifan,NED
+athlete_CHEBET_Beatrice_KEN_none,athlete,CHEBET Beatrice,KEN
+athlete_BATTOCLETTI_Nadia_ITA_none,athlete,BATTOCLETTI Nadia,ITA
+athlete_JEFFERSON_Melissa_USA_none,athlete,JEFFERSON Melissa,USA
+athlete_ALFRED_Julien_LCA_none,athlete,ALFRED Julien,LCA
+athlete_RICHARDSON_Shacarri_USA_none,athlete,RICHARDSON Sha'carri,USA
+athlete_CAMACHO-QUINN_Jasmine_PUR_none,athlete,CAMACHO-QUINN Jasmine,PUR
+athlete_RUSSELL_Masai_USA_none,athlete,RUSSELL Masai,USA
+athlete_SAMBA-MAYELA_Cyrena_FRA_none,athlete,SAMBA-MAYELA Cyrena,FRA
+athlete_BELL_Georgia_GBR_none,athlete,BELL Georgia,GBR
+athlete_KIPYEGON_Faith_KEN_none,athlete,KIPYEGON Faith,KEN
+athlete_HULL_Jessica_AUS_none,athlete,HULL Jessica,AUS
+athlete_BROWN_Brittany_USA_none,athlete,BROWN Brittany,USA
+athlete_THOMAS_Gabrielle_USA_none,athlete,THOMAS Gabrielle,USA
+athlete_MONTAG_Jemima_AUS_none,athlete,MONTAG Jemima,AUS
+athlete_YANG_Jiayu_CHN_none,athlete,YANG Jiayu,CHN
+athlete_PEREZ_Maria_ESP_none,athlete,PEREZ Maria,ESP
+athlete_CHEROTICH_Faith_KEN_none,athlete,CHEROTICH Faith,KEN
+athlete_YAVI_Winfred_BRN_none,athlete,YAVI Winfred,BRN
+athlete_CHEMUTAI_Peruth_UGA_none,athlete,CHEMUTAI Peruth,UGA
+athlete_KACZMAREK_Natalia_POL_none,athlete,KACZMAREK Natalia,POL
+athlete_PAULINO_Marileidy_DOM_none,athlete,PAULINO Marileidy,DOM
+athlete_NASER_Salwa_Eid_BRN_none,athlete,NASER Salwa Eid,BRN
+athlete_BOL_Femke_NED_none,athlete,BOL Femke,NED
+athlete_McLAUGHLIN-LEVRONE_Sydney_USA_none,athlete,McLAUGHLIN-LEVRONE Sydney,USA
+athlete_COCKRELL_Anna_USA_none,athlete,COCKRELL Anna,USA
+athlete_MORAA_Mary_KEN_none,athlete,MORAA Mary,KEN
+athlete_HODGKINSON_Keely_GBR_none,athlete,HODGKINSON Keely,GBR
+athlete_DUGUMA_Tsige_ETH_none,athlete,DUGUMA Tsige,ETH
+athlete_ELKASEVIC_Sandra_CRO_none,athlete,ELKASEVIC Sandra,CRO
+athlete_ALLMAN_Valarie_USA_none,athlete,ALLMAN Valarie,USA
+athlete_FENG_Bin_CHN_none,athlete,FENG Bin,CHN
+athlete_ZHAO_Jie_CHN_none,athlete,ZHAO Jie,CHN
+athlete_ROGERS_Camryn_CAN_none,athlete,ROGERS Camryn,CAN
+athlete_ECHIKUNWOKE_Annette_Nneka_USA_none,athlete,ECHIKUNWOKE Annette Nneka,USA
+athlete_VIDTS_Noor_BEL_none,athlete,VIDTS Noor,BEL
+athlete_THIAM_Nafissatou_BEL_none,athlete,THIAM Nafissatou,BEL
+athlete_JOHNSON-THOMPSON_Katarina_GBR_none,athlete,JOHNSON-THOMPSON Katarina,GBR
+athlete_PATTERSON_Eleanor_AUS_none,athlete,PATTERSON Eleanor,AUS
+athlete_GERASHCHENKO_Iryna_UKR_none,athlete,GERASHCHENKO Iryna,UKR
+athlete_MAHUCHIKH_Yaroslava_UKR_none,athlete,MAHUCHIKH Yaroslava,UKR
+athlete_OLYSLAGERS_Nicola_AUS_none,athlete,OLYSLAGERS Nicola,AUS
+athlete_OGRODNIKOVA_Nikola_CZE_none,athlete,OGRODNIKOVA Nikola,CZE
+athlete_KITAGUCHI_Haruka_JPN_none,athlete,KITAGUCHI Haruka,JPN
+athlete_van_DYK_Jo-Ane_RSA_none,athlete,van DYK Jo-Ane,RSA
+athlete_MOORE_Jasmine_USA_none,athlete,MOORE Jasmine,USA
+athlete_DAVIS-WOODHALL_Tara_USA_none,athlete,DAVIS-WOODHALL Tara,USA
+athlete_MIHAMBO_Malaika_GER_none,athlete,MIHAMBO Malaika,GER
+athlete_OBIRI_Hellen_KEN_none,athlete,OBIRI Hellen,KEN
+athlete_ASSEFA_Tigst_ETH_none,athlete,ASSEFA Tigst,ETH
+athlete_NEWMAN_Alysha_CAN_none,athlete,NEWMAN Alysha,CAN
+athlete_KENNEDY_Nina_AUS_none,athlete,KENNEDY Nina,AUS
+athlete_MOON_Katie_USA_none,athlete,MOON Katie,USA
+athlete_SONG_Jiayuan_CHN_none,athlete,SONG Jiayuan,CHN
+athlete_OGUNLEYE_Yemisi_GER_none,athlete,OGUNLEYE Yemisi,GER
+athlete_WESCHE_Maddison-Lee_NZL_none,athlete,WESCHE Maddison-Lee,NZL
+athlete_LAFOND_Thea_DMA_none,athlete,LAFOND Thea,DMA
+athlete_RICKETTS_Shanieka_JAM_none,athlete,RICKETTS Shanieka,JAM
+nation_MAS,team,MAS nation team,MAS
+nation_TPE,team,TPE nation team,TPE
+athlete_LEE_Zii_Jia_MAS_none,athlete,LEE Zii Jia,MAS
+athlete_AXELSEN_Viktor_DEN_none,athlete,AXELSEN Viktor,DEN
+athlete_VITIDSARN_Kunlavut_THA_none,athlete,VITIDSARN Kunlavut,THA
+athlete_TUNJUNG_Gregoria_Mariska_INA_none,athlete,TUNJUNG Gregoria Mariska,INA
+athlete_AN_Se_Young_KOR_none,athlete,AN Se Young,KOR
+athlete_HE_Bing_Jiao_CHN_none,athlete,HE Bing Jiao,CHN
+nation_SRB,team,SRB nation team,SRB
+nation_NOR,team,NOR nation team,NOR
+nation_SWE,team,SWE nation team,SWE
+nation_SUI,team,SUI nation team,SUI
+athlete_ABOUDOU_MOINDZE_Djamili-Dini_FRA_none,athlete,ABOUDOU MOINDZE Djamili-Dini,FRA
+athlete_TIAFACK_Nelvie_Raman_GER_none,athlete,TIAFACK Nelvie Raman,GER
+athlete_JALOLOV_Bakhodir_UZB_none,athlete,JALOLOV Bakhodir,UZB
+athlete_GHADFA_DRISSI_EL_AISSAOUI_Ayoub_ESP_none,athlete,GHADFA DRISSI EL AISSAOUI Ayoub,ESP
+athlete_de_PINA_David_CPV_none,athlete,de PINA David,CPV
+athlete_ALCANTARA_REYES_Yunior_DOM_none,athlete,ALCANTARA REYES Yunior,DOM
+athlete_DUSMATOV_Hasanboy_UZB_none,athlete,DUSMATOV Hasanboy,UZB
+athlete_BENNAMA_Billal_FRA_none,athlete,BENNAMA Billal,FRA
+athlete_SENIOR_Charlie_AUS_none,athlete,SENIOR Charlie,AUS
+athlete_IBANEZ_DIAZ_Javier_BUL_none,athlete,IBANEZ DIAZ Javier,BUL
+athlete_KHALOKOV_Abdumalik_UZB_none,athlete,KHALOKOV Abdumalik,UZB
+athlete_SEIITBEK_UULU_Munarbek_KGZ_none,athlete,SEIITBEK UULU Munarbek,KGZ
+athlete_SANFORD_Wyatt_CAN_none,athlete,SANFORD Wyatt,CAN
+athlete_GURULI_Lasha_GEO_none,athlete,GURULI Lasha,GEO
+athlete_ALVAREZ_BORGES_Erislandy_CUB_none,athlete,ALVAREZ BORGES Erislandy,CUB
+athlete_OUMIHA_Sofiane_FRA_none,athlete,OUMIHA Sofiane,FRA
+athlete_RICHARDSON_Lewis_GBR_none,athlete,RICHARDSON Lewis,GBR
+athlete_JONES_Omari_USA_none,athlete,JONES Omari,USA
+athlete_MUYDINKHUJAEV_Asadkhuja_UZB_none,athlete,MUYDINKHUJAEV Asadkhuja,UZB
+athlete_VERDE_ALVAREZ_Marco_Alonso_MEX_none,athlete,VERDE ALVAREZ Marco Alonso,MEX
+athlete_LOPEZ_CARDONA_Arlen_CUB_none,athlete,LOPEZ CARDONA Arlen,CUB
+athlete_PINALES_Cristian_Javier_DOM_none,athlete,PINALES Cristian Javier,DOM
+athlete_KHYZHNIAK_Oleksandr_UKR_none,athlete,KHYZHNIAK Oleksandr,UKR
+athlete_ORALBAY_Nurbek_KAZ_none,athlete,ORALBAY Nurbek,KAZ
+athlete_REYES_PLA_Enmanuel_ESP_none,athlete,REYES PLA Enmanuel,ESP
+athlete_BOLTAEV_Davlat_TJK_none,athlete,BOLTAEV Davlat,TJK
+athlete_MULLOJONOV_Lazizbek_UZB_none,athlete,MULLOJONOV Lazizbek,UZB
+athlete_ALFONSO_DOMINGUEZ_Loren_Berto_AZE_none,athlete,ALFONSO DOMINGUEZ Loren Berto,AZE
+athlete_KYZAIBAY_Nazym_KAZ_none,athlete,KYZAIBAY Nazym,KAZ
+athlete_VILLEGAS_Aira_PHI_none,athlete,VILLEGAS Aira,PHI
+athlete_WU_Yu_CHN_none,athlete,WU Yu,CHN
+athlete_CAKIROGLU_Buse_Naz_TUR_none,athlete,CAKIROGLU Buse Naz,TUR
+athlete_IM_Aeji_KOR_none,athlete,IM Aeji,KOR
+athlete_PANG_Cholmi_PRK_none,athlete,PANG Cholmi,PRK
+athlete_CHANG_Yuan_CHN_none,athlete,CHANG Yuan,CHN
+athlete_AKBAS_Hatice_TUR_none,athlete,AKBAS Hatice,TUR
+athlete_PETECIO_Nesthy_PHI_none,athlete,PETECIO Nesthy,PHI
+athlete_YILDIZ_KAHRAMAN_Esra_TUR_none,athlete,YILDIZ KAHRAMAN Esra,TUR
+athlete_LIN_Yu_Ting_TPE_none,athlete,LIN Yu Ting,TPE
+athlete_SZEREMETA_Julia_POL_none,athlete,SZEREMETA Julia,POL
+athlete_SOARES_FERREIRA_Beatriz_Iasmin_BRA_none,athlete,SOARES FERREIRA Beatriz Iasmin,BRA
+athlete_WU_Shih_Yi_TPE_none,athlete,WU Shih Yi,TPE
+athlete_HARRINGTON_Kellie_IRL_none,athlete,HARRINGTON Kellie,IRL
+athlete_YANG_Wenlu_CHN_none,athlete,YANG Wenlu,CHN
+athlete_SUWANNAPHENG_Janjaem_THA_none,athlete,SUWANNAPHENG Janjaem,THA
+athlete_CHEN_Nien_Chin_TPE_none,athlete,CHEN Nien Chin,TPE
+athlete_KHELIF_Imane_ALG_none,athlete,KHELIF Imane,ALG
+athlete_YANG_Liu_CHN_none,athlete,YANG Liu,CHN
+athlete_PARKER_Caitlin_AUS_none,athlete,PARKER Caitlin,AUS
+athlete_DJANKEU_NGAMBA_Cindy_Winner_EOR_none,athlete,DJANKEU NGAMBA Cindy Winner,EOR
+athlete_LI_Qian_CHN_none,athlete,LI Qian,CHN
+athlete_BYLON_Atheyna_Bibeichi_PAN_none,athlete,BYLON Atheyna Bibeichi,PAN
+athlete_VICTOR_USA_none,athlete,VICTOR,USA
+athlete_PHIL_WIZARD_CAN_none,athlete,PHIL WIZARD,CAN
+athlete_DANY_DANN_FRA_none,athlete,DANY DANN,FRA
+athlete_671_CHN_none,athlete,671,CHN
+athlete_AMI_JPN_none,athlete,AMI,JPN
+athlete_NICKA_LTU_none,athlete,NICKA,LTU
+athlete_BENUS_Matej_SVK_none,athlete,BENUS Matej,SVK
+athlete_GESTIN_Nicolas_FRA_none,athlete,GESTIN Nicolas,FRA
+athlete_BURGESS_Adam_GBR_none,athlete,BURGESS Adam,GBR
+athlete_HEGGE_Noah_GER_none,athlete,HEGGE Noah,GER
+athlete_BUTCHER_Finn_NZL_none,athlete,BUTCHER Finn,NZL
+athlete_CLARKE_Joseph_GBR_none,athlete,CLARKE Joseph,GBR
+athlete_ECHANIZ_Pau_ESP_none,athlete,ECHANIZ Pau,ESP
+athlete_de_GENNARO_Giovanni_ITA_none,athlete,de GENNARO Giovanni,ITA
+athlete_CASTRYCK_Titouan_FRA_none,athlete,CASTRYCK Titouan,FRA
+athlete_LEIBFARTH_Evy_USA_none,athlete,LEIBFARTH Evy,USA
+athlete_FOX_Jessica_AUS_none,athlete,FOX Jessica,AUS
+athlete_LILIK_Elena_GER_none,athlete,LILIK Elena,GER
+athlete_WOODS_Kimberley_GBR_none,athlete,WOODS Kimberley,GBR
+athlete_FOX_Noemie_AUS_none,athlete,FOX Noemie,AUS
+athlete_HUG_Angele_FRA_none,athlete,HUG Angele,FRA
+athlete_ZWOLINSKA_Klaudia_POL_none,athlete,ZWOLINSKA Klaudia,POL
+athlete_TARNOVSCHI_Serghei_MDA_none,athlete,TARNOVSCHI Serghei,MDA
+athlete_FUKSA_Martin_CZE_none,athlete,FUKSA Martin,CZE
+athlete_QUEIROZ_Isaquias_BRA_none,athlete,QUEIROZ Isaquias,BRA
+nation_HUN,team,HUN nation team,HUN
+athlete_KOPASZ_Balint_HUN_none,athlete,KOPASZ Balint,HUN
+athlete_DOSTAL_Josef_CZE_none,athlete,DOSTAL Josef,CZE
+athlete_VARGA_Adam_HUN_none,athlete,VARGA Adam,HUN
+nation_UKR,team,UKR nation team,UKR
+athlete_CIRILO_DUBOYS_Yarisleidis_CUB_none,athlete,CIRILO DUBOYS Yarisleidis,CUB
+athlete_VINCENT_Katie_CAN_none,athlete,VINCENT Katie,CAN
+athlete_HARRISON_Nevin_USA_none,athlete,HARRISON Nevin,USA
+nation_NZL,team,NZL nation team,NZL
+athlete_JORGENSEN_Emma_Aastrand_DEN_none,athlete,JORGENSEN Emma Aastrand,DEN
+athlete_CARRINGTON_Lisa_NZL_none,athlete,CARRINGTON Lisa,NZL
+athlete_CSIPES_Tamara_HUN_none,athlete,CSIPES Tamara,HUN
+athlete_JEANJEAN_Anthony_FRA_none,athlete,JEANJEAN Anthony,FRA
+athlete_TORRES_GIL_Jose_ARG_none,athlete,TORRES GIL Jose,ARG
+athlete_REILLY_Kieran_Darren_David_GBR_none,athlete,REILLY Kieran Darren David,GBR
+athlete_DIEHM_Natalya_AUS_none,athlete,DIEHM Natalya,AUS
+athlete_DENG_Yawen_CHN_none,athlete,DENG Yawen,CHN
+athlete_BENEGAS_Perris_USA_none,athlete,BENEGAS Perris,USA
+athlete_MAHIEU_Romain_FRA_none,athlete,MAHIEU Romain,FRA
+athlete_DAUDET_Joris_FRA_none,athlete,DAUDET Joris,FRA
+athlete_ANDRE_Sylvain_FRA_none,athlete,ANDRE Sylvain,FRA
+athlete_CLAESSENS_Zoe_SUI_none,athlete,CLAESSENS Zoe,SUI
+athlete_SAKAKIBARA_Saya_AUS_none,athlete,SAKAKIBARA Saya,AUS
+athlete_VEENSTRA_Manon_NED_none,athlete,VEENSTRA Manon,NED
+athlete_HATHERLY_Alan_RSA_none,athlete,HATHERLY Alan,RSA
+athlete_PIDCOCK_Thomas_GBR_none,athlete,PIDCOCK Thomas,GBR
+athlete_KORETZKY_Victor_FRA_none,athlete,KORETZKY Victor,FRA
+athlete_RISSVEDS_Jenny_SWE_none,athlete,RISSVEDS Jenny,SWE
+athlete_FERRAND_PREVOT_Pauline_FRA_none,athlete,FERRAND PREVOT Pauline,FRA
+athlete_BATTEN_Haley_USA_none,athlete,BATTEN Haley,USA
+athlete_van_AERT_Wout_BEL_none,athlete,van AERT Wout,BEL
+athlete_EVENEPOEL_Remco_BEL_none,athlete,EVENEPOEL Remco,BEL
+athlete_GANNA_Filippo_ITA_none,athlete,GANNA Filippo,ITA
+athlete_LAPORTE_Christophe_FRA_none,athlete,LAPORTE Christophe,FRA
+athlete_MADOUAS_Valentin_FRA_none,athlete,MADOUAS Valentin,FRA
+athlete_DYGERT_Chloe_USA_none,athlete,DYGERT Chloe,USA
+athlete_BROWN_Grace_AUS_none,athlete,BROWN Grace,AUS
+athlete_HENDERSON_Anna_GBR_none,athlete,HENDERSON Anna,GBR
+athlete_KOPECKY_Lotte_BEL_none,athlete,KOPECKY Lotte,BEL
+athlete_FAULKNER_Kristen_USA_none,athlete,FAULKNER Kristen,USA
+athlete_VOS_Marianne_NED_none,athlete,VOS Marianne,NED
+athlete_GLAETZER_Matthew_AUS_none,athlete,GLAETZER Matthew,AUS
+athlete_LAVREYSEN_Harrie_NED_none,athlete,LAVREYSEN Harrie,NED
+athlete_RICHARDSON_Matthew_AUS_none,athlete,RICHARDSON Matthew,AUS
+nation_DEN,team,DEN nation team,DEN
+nation_POR,team,POR nation team,POR
+athlete_van_den_BOSSCHE_Fabio_BEL_none,athlete,van den BOSSCHE Fabio,BEL
+athlete_THOMAS_Benjamin_FRA_none,athlete,THOMAS Benjamin,FRA
+athlete_LEITAO_Iuri_POR_none,athlete,LEITAO Iuri,POR
+athlete_CARLIN_Jack_GBR_none,athlete,CARLIN Jack,GBR
+athlete_FINUCANE_Emma_GBR_none,athlete,FINUCANE Emma,GBR
+athlete_ANDREWS_Ellesse_NZL_none,athlete,ANDREWS Ellesse,NZL
+athlete_van_de_WOUW_Hetty_NED_none,athlete,van de WOUW Hetty,NED
+athlete_WOLLASTON_Ally_NZL_none,athlete,WOLLASTON Ally,NZL
+athlete_VALENTE_Jennifer_USA_none,athlete,VALENTE Jennifer,USA
+athlete_PIKULIK_Daria_POL_none,athlete,PIKULIK Daria,POL
+athlete_FRIEDRICH_Lea_GER_none,athlete,FRIEDRICH Lea,GER
+athlete_WILLIAMS_Noah_GBR_none,athlete,WILLIAMS Noah,GBR
+athlete_CAO_Yuan_CHN_none,athlete,CAO Yuan,CHN
+athlete_TAMAI_Rikuto_JPN_none,athlete,TAMAI Rikuto,JPN
+athlete_OLVERA_IBARRA_Osmar_MEX_none,athlete,OLVERA IBARRA Osmar,MEX
+athlete_XIE_Siyi_CHN_none,athlete,XIE Siyi,CHN
+athlete_WANG_Zongyuan_CHN_none,athlete,WANG Zongyuan,CHN
+athlete_KIM_Mi_Rae_PRK_none,athlete,KIM Mi Rae,PRK
+athlete_QUAN_Hongchan_CHN_none,athlete,QUAN Hongchan,CHN
+athlete_CHEN_Yuxi_CHN_none,athlete,CHEN Yuxi,CHN
+athlete_CHANG_Yani_CHN_none,athlete,CHANG Yani,CHN
+athlete_CHEN_Yiwen_CHN_none,athlete,CHEN Yiwen,CHN
+athlete_KEENEY_Maddison_AUS_none,athlete,KEENEY Maddison,AUS
+nation_PRK,team,PRK nation team,PRK
+athlete_FRY_Charlotte_GBR_none,athlete,FRY Charlotte,GBR
+athlete_von_BREDOW-WERNDL_Jessica_GER_none,athlete,von BREDOW-WERNDL Jessica,GER
+athlete_WERTH_Isabell_GER_none,athlete,WERTH Isabell,GER
+athlete_COLLETT_Laura_GBR_none,athlete,COLLETT Laura,GBR
+athlete_JUNG_Michael_GER_none,athlete,JUNG Michael,GER
+athlete_BURTON_Christopher_AUS_none,athlete,BURTON Christopher,AUS
+athlete_van_der_VLEUTEN_Maikel_NED_none,athlete,van der VLEUTEN Maikel,NED
+athlete_KUKUK_Christian_GER_none,athlete,KUKUK Christian,GER
+athlete_GUERDAT_Steve_SUI_none,athlete,GUERDAT Steve,SUI
+athlete_ITKIN_Nick_USA_none,athlete,ITKIN Nick,USA
+athlete_CHEUNG_Ka_Long_HKG_none,athlete,CHEUNG Ka Long,HKG
+athlete_MACCHI_Filippo_ITA_none,athlete,MACCHI Filippo,ITA
+athlete_SAMELE_Luigi_ITA_none,athlete,SAMELE Luigi,ITA
+athlete_OH_Sanguk_KOR_none,athlete,OH Sanguk,KOR
+athlete_FERJANI_Fares_TUN_none,athlete,FERJANI Fares,TUN
+athlete_ELSAYED_Mohamed_EGY_none,athlete,ELSAYED Mohamed,EGY
+athlete_KANO_Koki_JPN_none,athlete,KANO Koki,JPN
+athlete_BOREL_Yannick_FRA_none,athlete,BOREL Yannick,FRA
+nation_CZE,team,CZE nation team,CZE
+athlete_HARVEY_Eleanor_CAN_none,athlete,HARVEY Eleanor,CAN
+athlete_KIEFER_Lee_USA_none,athlete,KIEFER Lee,USA
+athlete_SCRUGGS_Lauren_USA_none,athlete,SCRUGGS Lauren,USA
+athlete_KHARLAN_Olga_UKR_none,athlete,KHARLAN Olga,UKR
+athlete_APITHY-BRUNET_Manon_FRA_none,athlete,APITHY-BRUNET Manon,FRA
+athlete_BALZER_Sara_FRA_none,athlete,BALZER Sara,FRA
+athlete_MUHARI_Eszter_HUN_none,athlete,MUHARI Eszter,HUN
+athlete_KONG_Man_Wai_Vivian_HKG_none,athlete,KONG Man Wai Vivian,HKG
+athlete_MALLO-BRETON_Auriane_FRA_none,athlete,MALLO-BRETON Auriane,FRA
+nation_POL,team,POL nation team,POL
+nation_MAR,team,MAR nation team,MAR
+athlete_MATSUYAMA_Hideki_JPN_none,athlete,MATSUYAMA Hideki,JPN
+athlete_SCHEFFLER_Scottie_USA_none,athlete,SCHEFFLER Scottie,USA
+athlete_FLEETWOOD_Tommy_GBR_none,athlete,FLEETWOOD Tommy,GBR
+athlete_LIN_Xiyu_Janet_CHN_none,athlete,LIN Xiyu Janet,CHN
+athlete_KO_Lydia_NZL_none,athlete,KO Lydia,NZL
+athlete_HENSELEIT_Esther_GER_none,athlete,HENSELEIT Esther,GER
+nation_IND,team,IND nation team,IND
+nation_ARG,team,ARG nation team,ARG
+athlete_RAKHIMOV_Temur_TJK_none,athlete,RAKHIMOV Temur,TJK
+athlete_YUSUPOV_Alisher_UZB_none,athlete,YUSUPOV Alisher,UZB
+athlete_RINER_Teddy_FRA_none,athlete,RINER Teddy,FRA
+athlete_KIM_Minjong_KOR_none,athlete,KIM Minjong,KOR
+athlete_PALTCHIK_Peter_ISR_none,athlete,PALTCHIK Peter,ISR
+athlete_TUROBOYEV_Muzaffarbek_UZB_none,athlete,TUROBOYEV Muzaffarbek,UZB
+athlete_KOTSOIEV_Zelym_AZE_none,athlete,KOTSOIEV Zelym,AZE
+athlete_SULAMANIDZE_Ilia_GEO_none,athlete,SULAMANIDZE Ilia,GEO
+athlete_GARRIGOS_Francisco_ESP_none,athlete,GARRIGOS Francisco,ESP
+athlete_NAGAYAMA_Ryuju_JPN_none,athlete,NAGAYAMA Ryuju,JPN
+athlete_SMETOV_Yeldos_KAZ_none,athlete,SMETOV Yeldos,KAZ
+athlete_MKHEIDZE_Luka_FRA_none,athlete,MKHEIDZE Luka,FRA
+athlete_KYRGYZBAYEV_Gusman_KAZ_none,athlete,KYRGYZBAYEV Gusman,KAZ
+athlete_VIERU_Denis_MDA_none,athlete,VIERU Denis,MDA
+athlete_ABE_Hifumi_JPN_none,athlete,ABE Hifumi,JPN
+athlete_LIMA_Willian_BRA_none,athlete,LIMA Willian,BRA
+athlete_HASHIMOTO_Soichi_JPN_none,athlete,HASHIMOTO Soichi,JPN
+athlete_OSMANOV_Adil_MDA_none,athlete,OSMANOV Adil,MDA
+athlete_HEYDAROV_Hidayat_AZE_none,athlete,HEYDAROV Hidayat,AZE
+athlete_GABA_Joan-Benjamin_FRA_none,athlete,GABA Joan-Benjamin,FRA
+athlete_LEE_Joonhwan_KOR_none,athlete,LEE Joonhwan,KOR
+athlete_MAKHMADBEKOV_Somon_TJK_none,athlete,MAKHMADBEKOV Somon,TJK
+athlete_NAGASE_Takanori_JPN_none,athlete,NAGASE Takanori,JPN
+athlete_GRIGALASHVILI_Tato_GEO_none,athlete,GRIGALASHVILI Tato,GEO
+athlete_NGAYAP_HAMBOU_Maxime-Gael_FRA_none,athlete,NGAYAP HAMBOU Maxime-Gael,FRA
+athlete_TSELIDIS_Theodoros_GRE_none,athlete,TSELIDIS Theodoros,GRE
+athlete_BEKAURI_Lasha_GEO_none,athlete,BEKAURI Lasha,GEO
+athlete_MURAO_Sanshiro_JPN_none,athlete,MURAO Sanshiro,JPN
+athlete_DICKO_Romane_FRA_none,athlete,DICKO Romane,FRA
+athlete_KIM_Hayun_KOR_none,athlete,KIM Hayun,KOR
+athlete_SOUZA_Beatriz_BRA_none,athlete,SOUZA Beatriz,BRA
+athlete_HERSHKO_Raz_ISR_none,athlete,HERSHKO Raz,ISR
+athlete_BOUKLI_Shirine_FRA_none,athlete,BOUKLI Shirine,FRA
+athlete_BABULFATH_Tara_SWE_none,athlete,BABULFATH Tara,SWE
+athlete_TSUNODA_Natsumi_JPN_none,athlete,TSUNODA Natsumi,JPN
+athlete_BAVUUDORJ_Baasankhuu_MGL_none,athlete,BAVUUDORJ Baasankhuu,MGL
+athlete_PIMENTA_Larissa_BRA_none,athlete,PIMENTA Larissa,BRA
+athlete_BUCHARD_Amandine_FRA_none,athlete,BUCHARD Amandine,FRA
+athlete_KELDIYOROVA_Diyora_UZB_none,athlete,KELDIYOROVA Diyora,UZB
+athlete_KRASNIQI_Distria_KOS_none,athlete,KRASNIQI Distria,KOS
+athlete_CYSIQUE_Sarah_Leonie_FRA_none,athlete,CYSIQUE Sarah Leonie,FRA
+athlete_FUNAKUBO_Haruka_JPN_none,athlete,FUNAKUBO Haruka,JPN
+athlete_DEGUCHI_Christa_CAN_none,athlete,DEGUCHI Christa,CAN
+athlete_HUH_Mimi_KOR_none,athlete,HUH Mimi,KOR
+athlete_AGBEGNENOU_Clarisse_FRA_none,athlete,AGBEGNENOU Clarisse,FRA
+athlete_FAZLIU_Laura_KOS_none,athlete,FAZLIU Laura,KOS
+athlete_LESKI_Andreja_SLO_none,athlete,LESKI Andreja,SLO
+athlete_AWITI_ALCARAZ_Prisca_MEX_none,athlete,AWITI ALCARAZ Prisca,MEX
+athlete_POLLERES_Michaela_AUT_none,athlete,POLLERES Michaela,AUT
+athlete_WILLEMS_Gabriella_BEL_none,athlete,WILLEMS Gabriella,BEL
+athlete_MATIC_Barbara_CRO_none,athlete,MATIC Barbara,CRO
+athlete_BUTKEREIT_Miriam_GER_none,athlete,BUTKEREIT Miriam,GER
+athlete_MA_Zhenzhao_CHN_none,athlete,MA Zhenzhao,CHN
+athlete_SAMPAIO_Patricia_POR_none,athlete,SAMPAIO Patricia,POR
+athlete_BELLANDI_Alice_ITA_none,athlete,BELLANDI Alice,ITA
+athlete_LANIR_Inbar_ISR_none,athlete,LANIR Inbar,ISR
+athlete_BETLEHEM_David_HUN_none,athlete,BETLEHEM David,HUN
+athlete_RASOVSZKY_Kristof_HUN_none,athlete,RASOVSZKY Kristof,HUN
+athlete_KLEMET_Oliver_GER_none,athlete,KLEMET Oliver,GER
+athlete_TADDEUCCI_Ginevra_ITA_none,athlete,TADDEUCCI Ginevra,ITA
+athlete_van_ROUWENDAAL_Sharon_NED_none,athlete,van ROUWENDAAL Sharon,NED
+athlete_JOHNSON_Moesha_AUS_none,athlete,JOHNSON Moesha,AUS
+athlete_MALAN_Giorgio_ITA_none,athlete,MALAN Giorgio,ITA
+athlete_ELGENDY_Ahmed_EGY_none,athlete,ELGENDY Ahmed,EGY
+athlete_SATO_Taishu_JPN_none,athlete,SATO Taishu,JPN
+athlete_SEONG_Seungmin_KOR_none,athlete,SEONG Seungmin,KOR
+athlete_GULYAS_Michelle_HUN_none,athlete,GULYAS Michelle,HUN
+athlete_CLOUVEL_Elodie_FRA_none,athlete,CLOUVEL Elodie,FRA
+nation_ISR,team,ISR nation team,ISR
+athlete_RAFFAELI_Sofia_ITA_none,athlete,RAFFAELI Sofia,ITA
+athlete_VARFOLOMEEV_Darja_GER_none,athlete,VARFOLOMEEV Darja,GER
+athlete_KALEYN_Boryana_BUL_none,athlete,KALEYN Boryana,BUL
+nation_GRE,team,GRE nation team,GRE
+nation_IRL,team,IRL nation team,IRL
+nation_ROU,team,ROU nation team,ROU
+nation_CRO,team,CRO nation team,CRO
+athlete_van_DORP_Simon_NED_none,athlete,van DORP Simon,NED
+athlete_ZEIDLER_Oliver_GER_none,athlete,ZEIDLER Oliver,GER
+athlete_ZALATY_Yauheni_AIN_none,athlete,ZALATY Yauheni,AIN
+athlete_SENKUTE_Viktorija_LTU_none,athlete,SENKUTE Viktorija,LTU
+athlete_FLORIJN_Karolien_NED_none,athlete,FLORIJN Karolien,NED
+athlete_TWIGG_Emma_NZL_none,athlete,TWIGG Emma,NZL
+nation_FIJ,team,FIJ nation team,FIJ
+athlete_PESCHIERA_Stefano_PER_none,athlete,PESCHIERA Stefano,PER
+athlete_WEARN_Matt_AUS_none,athlete,WEARN Matt,AUS
+athlete_KONTIDES_Pavlos_CYP_none,athlete,KONTIDES Pavlos,CYP
+athlete_MAEDER_Maximilian_SGP_none,athlete,MAEDER Maximilian,SGP
+athlete_BONTUS_Valentin_AUT_none,athlete,BONTUS Valentin,AUT
+athlete_VODISEK_Toni_SLO_none,athlete,VODISEK Toni,SLO
+athlete_van_OPZEELAND_Luuc_NED_none,athlete,van OPZEELAND Luuc,NED
+athlete_REUVENY_Tom_ISR_none,athlete,REUVENY Tom,ISR
+athlete_MORRIS_Grae_AUS_none,athlete,MORRIS Grae,AUS
+nation_AUT,team,AUT nation team,AUT
+athlete_HOEST_Line_Flem_NOR_none,athlete,HOEST Line Flem,NOR
+athlete_BOUWMEESTER_Marit_NED_none,athlete,BOUWMEESTER Marit,NED
+athlete_RINDOM_Anne-Marie_DEN_none,athlete,RINDOM Anne-Marie,DEN
+athlete_LAMMERTS_Annelous_NED_none,athlete,LAMMERTS Annelous,NED
+athlete_ALDRIDGE_Eleanor_GBR_none,athlete,ALDRIDGE Eleanor,GBR
+athlete_NOLOT_Lauriane_FRA_none,athlete,NOLOT Lauriane,FRA
+athlete_WILSON_Emma_GBR_none,athlete,WILSON Emma,GBR
+athlete_MAGGETTI_Marta_ITA_none,athlete,MAGGETTI Marta,ITA
+athlete_KANTOR_Sharon_ISR_none,athlete,KANTOR Sharon,ISR
+athlete_MONNA_Paolo_ITA_none,athlete,MONNA Paolo,ITA
+athlete_XIE_Yu_CHN_none,athlete,XIE Yu,CHN
+athlete_MALDINI_Federico_Nilo_ITA_none,athlete,MALDINI Federico Nilo,ITA
+athlete_BHAKER_Manu_IND_none,athlete,BHAKER Manu,IND
+athlete_OH_Ye_Jin_KOR_none,athlete,OH Ye Jin,KOR
+athlete_KIM_Yeji_KOR_none,athlete,KIM Yeji,KOR
+athlete_MARICIC_Miran_CRO_none,athlete,MARICIC Miran,CRO
+athlete_SHENG_Lihao_CHN_none,athlete,SHENG Lihao,CHN
+athlete_LINDGREN_Victor_SWE_none,athlete,LINDGREN Victor,SWE
+nation_KAZ,team,KAZ nation team,KAZ
+athlete_GOGNIAT_Audrey_SUI_none,athlete,GOGNIAT Audrey,SUI
+athlete_BAN_Hyojin_KOR_none,athlete,BAN Hyojin,KOR
+athlete_HUANG_Yuting_CHN_none,athlete,HUANG Yuting,CHN
+athlete_MAJOR_Veronika_HUN_none,athlete,MAJOR Veronika,HUN
+athlete_YANG_Jiin_KOR_none,athlete,YANG Jiin,KOR
+athlete_JEDRZEJEWSKI_Camille_FRA_none,athlete,JEDRZEJEWSKI Camille,FRA
+athlete_WANG_Xinjie_CHN_none,athlete,WANG Xinjie,CHN
+athlete_LI_Yuehong_CHN_none,athlete,LI Yuehong,CHN
+athlete_CHO_Yeongjae_KOR_none,athlete,CHO Yeongjae,KOR
+athlete_KUSALE_Swapnil_IND_none,athlete,KUSALE Swapnil,IND
+athlete_LIU_Yukun_CHN_none,athlete,LIU Yukun,CHN
+athlete_KULISH_Serhiy_UKR_none,athlete,KULISH Serhiy,UKR
+athlete_ZHANG_Qiongyue_CHN_none,athlete,ZHANG Qiongyue,CHN
+athlete_LEONE_Chiara_SUI_none,athlete,LEONE Chiara,SUI
+athlete_MADDALENA_Sagen_USA_none,athlete,MADDALENA Sagen,USA
+athlete_LEE_Meng_Yuan_TPE_none,athlete,LEE Meng Yuan,TPE
+athlete_HANCOCK_Vincent_USA_none,athlete,HANCOCK Vincent,USA
+athlete_PRINCE_Conner_Lynn_USA_none,athlete,PRINCE Conner Lynn,USA
+athlete_SMITH_Austen_Jewell_USA_none,athlete,SMITH Austen Jewell,USA
+athlete_CROVETTO_CHADID_Francisca_CHI_none,athlete,CROVETTO CHADID Francisca,CHI
+athlete_RUTTER_Amber_Jo_GBR_none,athlete,RUTTER Amber Jo,GBR
+athlete_BROL_CARDENAS_Jean_Pierre_GUA_none,athlete,BROL CARDENAS Jean Pierre,GUA
+athlete_HALES_Nathan_GBR_none,athlete,HALES Nathan,GBR
+athlete_QI_Ying_CHN_none,athlete,QI Ying,CHN
+athlete_SMITH_Penny_AUS_none,athlete,SMITH Penny,AUS
+athlete_RUANO_OLIVA_Adriana_GUA_none,athlete,RUANO OLIVA Adriana,GUA
+athlete_STANCO_Silvana_Maria_ITA_none,athlete,STANCO Silvana Maria,ITA
+athlete_AKIO_Augusto_BRA_none,athlete,AKIO Augusto,BRA
+athlete_PALMER_Keegan_AUS_none,athlete,PALMER Keegan,AUS
+athlete_SCHAAR_Tom_USA_none,athlete,SCHAAR Tom,USA
+athlete_HUSTON_Nyjah_USA_none,athlete,HUSTON Nyjah,USA
+athlete_HORIGOME_Yuto_JPN_none,athlete,HORIGOME Yuto,JPN
+athlete_EATON_Jagger_USA_none,athlete,EATON Jagger,USA
+athlete_BROWN_Sky_GBR_none,athlete,BROWN Sky,GBR
+athlete_TREW_Arisa_AUS_none,athlete,TREW Arisa,AUS
+athlete_HIRAKI_Cocona_JPN_none,athlete,HIRAKI Cocona,JPN
+athlete_LEAL_Rayssa_BRA_none,athlete,LEAL Rayssa,BRA
+athlete_YOSHIZAWA_Coco_JPN_none,athlete,YOSHIZAWA Coco,JPN
+athlete_AKAMA_Liz_JPN_none,athlete,AKAMA Liz,JPN
+athlete_SCHUBERT_Jakob_AUT_none,athlete,SCHUBERT Jakob,AUT
+athlete_ROBERTS_Toby_GBR_none,athlete,ROBERTS Toby,GBR
+athlete_ANRAKU_Sorato_JPN_none,athlete,ANRAKU Sorato,JPN
+athlete_WATSON_Sam_USA_none,athlete,WATSON Sam,USA
+athlete_LEONARDO_Veddriq_INA_none,athlete,LEONARDO Veddriq,INA
+athlete_WU_Peng_CHN_none,athlete,WU Peng,CHN
+athlete_PILZ_Jessica_AUT_none,athlete,PILZ Jessica,AUT
+athlete_GARNBRET_Janja_SLO_none,athlete,GARNBRET Janja,SLO
+athlete_RABOUTOU_Brooke_USA_none,athlete,RABOUTOU Brooke,USA
+athlete_KALUCKA_Aleksandra_POL_none,athlete,KALUCKA Aleksandra,POL
+athlete_MIROSLAW_Aleksandra_POL_none,athlete,MIROSLAW Aleksandra,POL
+athlete_DENG_Lijuan_CHN_none,athlete,DENG Lijuan,CHN
+athlete_MEDINA_Gabriel_BRA_none,athlete,MEDINA Gabriel,BRA
+athlete_VAAST_Kauli_FRA_none,athlete,VAAST Kauli,FRA
+athlete_ROBINSON_Jack_AUS_none,athlete,ROBINSON Jack,AUS
+athlete_DEFAY_Johanne_FRA_none,athlete,DEFAY Johanne,FRA
+athlete_MARKS_Caroline_USA_none,athlete,MARKS Caroline,USA
+athlete_WESTON-WEBB_Tatiana_BRA_none,athlete,WESTON-WEBB Tatiana,BRA
+athlete_MURPHY_Ryan_USA_none,athlete,MURPHY Ryan,USA
+athlete_CECCON_Thomas_ITA_none,athlete,CECCON Thomas,ITA
+athlete_XU_Jiayu_CHN_none,athlete,XU Jiayu,CHN
+athlete_MARTINENGHI_Nicolo_ITA_none,athlete,MARTINENGHI Nicolo,ITA
+athlete_PEATY_Adam_GBR_none,athlete,PEATY Adam,GBR
+athlete_FINK_Nic_USA_none,athlete,FINK Nic,USA
+athlete_KHARUN_Ilya_CAN_none,athlete,KHARUN Ilya,CAN
+athlete_MILAK_Kristof_HUN_none,athlete,MILAK Kristof,HUN
+athlete_LIENDO_Josh_CAN_none,athlete,LIENDO Josh,CAN
+athlete_POPOVICI_David_ROU_none,athlete,POPOVICI David,ROU
+athlete_PAN_Zhanle_CHN_none,athlete,PAN Zhanle,CHN
+athlete_CHALMERS_Kyle_AUS_none,athlete,CHALMERS Kyle,AUS
+athlete_WIFFEN_Daniel_IRL_none,athlete,WIFFEN Daniel,IRL
+athlete_FINKE_Bobby_USA_none,athlete,FINKE Bobby,USA
+athlete_PALTRINIERI_Gregorio_ITA_none,athlete,PALTRINIERI Gregorio,ITA
+athlete_MITYUKOV_Roman_SUI_none,athlete,MITYUKOV Roman,SUI
+athlete_KOS_Hubert_HUN_none,athlete,KOS Hubert,HUN
+athlete_CHRISTOU_Apostolos_GRE_none,athlete,CHRISTOU Apostolos,GRE
+athlete_CORBEAU_Caspar_NED_none,athlete,CORBEAU Caspar,NED
+athlete_MARCHAND_Leon_FRA_none,athlete,MARCHAND Leon,FRA
+athlete_STUBBLETY-COOK_Zac_AUS_none,athlete,STUBBLETY-COOK Zac,AUS
+athlete_HOBSON_Luke_USA_none,athlete,HOBSON Luke,USA
+athlete_RICHARDS_Matthew_GBR_none,athlete,RICHARDS Matthew,GBR
+athlete_WANG_Shun_CHN_none,athlete,WANG Shun,CHN
+athlete_SCOTT_Duncan_GBR_none,athlete,SCOTT Duncan,GBR
+athlete_KIM_Woomin_KOR_none,athlete,KIM Woomin,KOR
+athlete_MAERTENS_Lukas_GER_none,athlete,MAERTENS Lukas,GER
+athlete_WINNINGTON_Elijah_AUS_none,athlete,WINNINGTON Elijah,AUS
+athlete_FOSTER_Carson_USA_none,athlete,FOSTER Carson,USA
+athlete_MATSUSHITA_Tomoyuki_JPN_none,athlete,MATSUSHITA Tomoyuki,JPN
+athlete_MANAUDOU_Florent_FRA_none,athlete,MANAUDOU Florent,FRA
+athlete_McEVOY_Cameron_AUS_none,athlete,McEVOY Cameron,AUS
+athlete_PROUD_Benjamin_GBR_none,athlete,PROUD Benjamin,GBR
+athlete_BERKOFF_Katharine_USA_none,athlete,BERKOFF Katharine,USA
+athlete_McKEOWN_Kaylee_AUS_none,athlete,McKEOWN Kaylee,AUS
+athlete_SMITH_Regan_USA_none,athlete,SMITH Regan,USA
+athlete_Mc_SHARRY_Mona_IRL_none,athlete,Mc SHARRY Mona,IRL
+athlete_SMITH_Tatjana_RSA_none,athlete,SMITH Tatjana,RSA
+athlete_TANG_Qianting_CHN_none,athlete,TANG Qianting,CHN
+athlete_ZHANG_Yufei_CHN_none,athlete,ZHANG Yufei,CHN
+athlete_HUSKE_Torri_USA_none,athlete,HUSKE Torri,USA
+athlete_WALSH_Gretchen_USA_none,athlete,WALSH Gretchen,USA
+athlete_HAUGHEY_Siobhan_Bernadette_HKG_none,athlete,HAUGHEY Siobhan Bernadette,HKG
+athlete_SJOESTROEM_Sarah_SWE_none,athlete,SJOESTROEM Sarah,SWE
+athlete_GOSE_Isabel_GER_none,athlete,GOSE Isabel,GER
+athlete_LEDECKY_Katie_USA_none,athlete,LEDECKY Katie,USA
+athlete_KIRPICHNIKOVA_Anastasiia_FRA_none,athlete,KIRPICHNIKOVA Anastasiia,FRA
+athlete_MASSE_Kylie_CAN_none,athlete,MASSE Kylie,CAN
+athlete_SCHOUTEN_Tes_NED_none,athlete,SCHOUTEN Tes,NED
+athlete_DOUGLASS_Kate_USA_none,athlete,DOUGLASS Kate,USA
+athlete_McINTOSH_Summer_CAN_none,athlete,McINTOSH Summer,CAN
+athlete_OCALLAGHAN_Mollie_AUS_none,athlete,O'CALLAGHAN Mollie,AUS
+athlete_TITMUS_Ariarne_AUS_none,athlete,TITMUS Ariarne,AUS
+athlete_WEYANT_Emma_USA_none,athlete,WEYANT Emma,USA
+athlete_GRIMES_Katie_USA_none,athlete,GRIMES Katie,USA
+athlete_HARRIS_Meg_AUS_none,athlete,HARRIS Meg,AUS
+athlete_MADDEN_Paige_USA_none,athlete,MADDEN Paige,USA
+athlete_LEBRUN_Felix_FRA_none,athlete,LEBRUN Felix,FRA
+athlete_FAN_Zhendong_CHN_none,athlete,FAN Zhendong,CHN
+athlete_MOREGARD_Truls_SWE_none,athlete,MOREGARD Truls,SWE
+athlete_HAYATA_Hina_JPN_none,athlete,HAYATA Hina,JPN
+athlete_CHEN_Meng_CHN_none,athlete,CHEN Meng,CHN
+athlete_SUN_Yingsha_CHN_none,athlete,SUN Yingsha,CHN
+athlete_CISSE_Cheick_Sallah_CIV_none,athlete,CISSE Cheick Sallah,CIV
+athlete_ALBA_Rafael_CUB_none,athlete,ALBA Rafael,CUB
+athlete_SALIMI_Arian_IRI_none,athlete,SALIMI Arian,IRI
+athlete_CUNNINGHAM_Caden_GBR_none,athlete,CUNNINGHAM Caden,GBR
+athlete_RAVET_Cyrian_FRA_none,athlete,RAVET Cyrian,FRA
+athlete_JENDOUBI_Mohamed_Khalil_TUN_none,athlete,JENDOUBI Mohamed Khalil,TUN
+athlete_PARK_Taejoon_KOR_none,athlete,PARK Taejoon,KOR
+athlete_MAGOMEDOV_Gashim_AZE_none,athlete,MAGOMEDOV Gashim,AZE
+athlete_PONTES_Edival_BRA_none,athlete,PONTES Edival,BRA
+athlete_LIANG_Yushuai_CHN_none,athlete,LIANG Yushuai,CHN
+athlete_RASHITOV_Ulugbek_UZB_none,athlete,RASHITOV Ulugbek,UZB
+athlete_KAREEM_Zaid_JOR_none,athlete,KAREEM Zaid,JOR
+athlete_HRNIC_Edi_DEN_none,athlete,HRNIC Edi,DEN
+athlete_ALESSIO_Simone_ITA_none,athlete,ALESSIO Simone,ITA
+athlete_KATOUSSI_Firas_TUN_none,athlete,KATOUSSI Firas,TUN
+athlete_BARKHORDARI_Mehran_IRI_none,athlete,BARKHORDARI Mehran,IRI
+athlete_LEE_Dabin_KOR_none,athlete,LEE Dabin,KOR
+athlete_KUS_AYDIN_Nafia_TUR_none,athlete,KUS AYDIN Nafia,TUR
+athlete_LAURIN_Althea_FRA_none,athlete,LAURIN Althea,FRA
+athlete_OSIPOVA_Svetlana_UZB_none,athlete,OSIPOVA Svetlana,UZB
+athlete_STOJKOVIC_Lena_CRO_none,athlete,STOJKOVIC Lena,CRO
+athlete_NEMATZADEH_Mobina_IRI_none,athlete,NEMATZADEH Mobina,IRI
+athlete_WONGPATTANAKIT_Panipak_THA_none,athlete,WONGPATTANAKIT Panipak,THA
+athlete_GUO_Qing_CHN_none,athlete,GUO Qing,CHN
+athlete_KIMIA_Alizadeh_BUL_none,athlete,KIMIA Alizadeh,BUL
+athlete_PARK_Skylar_CAN_none,athlete,PARK Skylar,CAN
+athlete_KIM_Yujin_KOR_none,athlete,KIM Yujin,KOR
+athlete_KIYANICHANDEH_Nahid_IRI_none,athlete,KIYANICHANDEH Nahid,IRI
+athlete_CHAARI_Sarah_BEL_none,athlete,CHAARI Sarah,BEL
+athlete_TEACHOUT_Kristina_USA_none,athlete,TEACHOUT Kristina,USA
+athlete_MARTON_Viviana_HUN_none,athlete,MARTON Viviana,HUN
+athlete_PERISIC_Aleksandra_SRB_none,athlete,PERISIC Aleksandra,SRB
+athlete_MUSETTI_Lorenzo_ITA_none,athlete,MUSETTI Lorenzo,ITA
+athlete_DJOKOVIC_Novak_SRB_none,athlete,DJOKOVIC Novak,SRB
+athlete_ALCARAZ_Carlos_ESP_none,athlete,ALCARAZ Carlos,ESP
+nation_AIN,team,AIN nation team,AIN
+athlete_SWIATEK_Iga_POL_none,athlete,SWIATEK Iga,POL
+athlete_ZHENG_Qinwen_CHN_none,athlete,ZHENG Qinwen,CHN
+athlete_VEKIC_Donna_CRO_none,athlete,VEKIC Donna,CRO
+athlete_YAN_Langyu_CHN_none,athlete,YAN Langyu,CHN
+athlete_LITVINOVICH_Ivan_AIN_none,athlete,LITVINOVICH Ivan,AIN
+athlete_WANG_Zisai_CHN_none,athlete,WANG Zisai,CHN
+athlete_METHOT_Sophiane_CAN_none,athlete,METHOT Sophiane,CAN
+athlete_PAGE_Bryony_GBR_none,athlete,PAGE Bryony,GBR
+athlete_BARDZILOUSKAYA_Viyaleta_AIN_none,athlete,BARDZILOUSKAYA Viyaleta,AIN
+athlete_BERGERE_Leo_FRA_none,athlete,BERGERE Leo,FRA
+athlete_YEE_Alex_GBR_none,athlete,YEE Alex,GBR
+athlete_WILDE_Hayden_NZL_none,athlete,WILDE Hayden,NZL
+athlete_POTTER_Beth_GBR_none,athlete,POTTER Beth,GBR
+athlete_BEAUGRAND_Cassandre_FRA_none,athlete,BEAUGRAND Cassandre,FRA
+athlete_DERRON_Julie_SUI_none,athlete,DERRON Julie,SUI
+athlete_MINASYAN_Gor_BRN_none,athlete,MINASYAN Gor,BRN
+athlete_TALAKHADZE_Lasha_GEO_none,athlete,TALAKHADZE Lasha,GEO
+athlete_LALAYAN_Varazdat_ARM_none,athlete,LALAYAN Varazdat,ARM
+athlete_TSIKHANTSOU_Yauheni_AIN_none,athlete,TSIKHANTSOU Yauheni,AIN
+athlete_LIU_Huanhua_CHN_none,athlete,LIU Huanhua,CHN
+athlete_DJURAEV_Akbar_UZB_none,athlete,DJURAEV Akbar,UZB
+athlete_MORRIS_Hampton_USA_none,athlete,MORRIS Hampton,USA
+athlete_LI_Fabin_CHN_none,athlete,LI Fabin,CHN
+athlete_SILACHAI_Theerapong_THA_none,athlete,SILACHAI Theerapong,THA
+athlete_ANDREEV_Bozhidar_Dimitrov_BUL_none,athlete,ANDREEV Bozhidar Dimitrov,BUL
+athlete_JUNIANSYAH_Rizki_INA_none,athlete,JUNIANSYAH Rizki,INA
+athlete_WICHUMA_Weeraphon_THA_none,athlete,WICHUMA Weeraphon,THA
+athlete_PIZZOLATO_Antonino_ITA_none,athlete,PIZZOLATO Antonino,ITA
+athlete_NASAR_Karlos_May_BUL_none,athlete,NASAR Karlos May,BUL
+athlete_LOPEZ_Yeison_COL_none,athlete,LOPEZ Yeison,COL
+athlete_CAMPBELL_Emily_GBR_none,athlete,CAMPBELL Emily,GBR
+athlete_LI_Wenwen_CHN_none,athlete,LI Wenwen,CHN
+athlete_PARK_Hyejeong_KOR_none,athlete,PARK Hyejeong,KOR
+athlete_KHAMBAO_Surodchana_THA_none,athlete,KHAMBAO Surodchana,THA
+athlete_HOU_Zhihui_CHN_none,athlete,HOU Zhihui,CHN
+athlete_CAMBEI_Mihaela_Valentina_ROU_none,athlete,CAMBEI Mihaela Valentina,ROU
+athlete_KUO_Hsing-Chun_TPE_none,athlete,KUO Hsing-Chun,TPE
+athlete_LUO_Shifang_CHN_none,athlete,LUO Shifang,CHN
+athlete_CHARRON_Maude_CAN_none,athlete,CHARRON Maude,CAN
+athlete_PALACIOS_DAJOMES_Angie_Paola_ECU_none,athlete,PALACIOS DAJOMES Angie Paola,ECU
+athlete_REEVES_Olivia_USA_none,athlete,REEVES Olivia,USA
+athlete_SANCHEZ_Mari_Leivis_COL_none,athlete,SANCHEZ Mari Leivis,COL
+athlete_DAJOMES_BARRERA_Neisi_Patricia_ECU_none,athlete,DAJOMES BARRERA Neisi Patricia,ECU
+athlete_KOANDA_Solfrid_Eila_Amena_NOR_none,athlete,KOANDA Solfrid Eila Amena,NOR
+athlete_AHMED_Sara_EGY_none,athlete,AHMED Sara,EGY
+athlete_MESHVILDISHVILI_Giorgi_AZE_none,athlete,MESHVILDISHVILI Giorgi,AZE
+athlete_AKGUL_Taha_TUR_none,athlete,AKGUL Taha,TUR
+athlete_PETRIASHVILI_Geno_GEO_none,athlete,PETRIASHVILI Geno,GEO
+athlete_ZARE_Amir_Hossein_IRI_none,athlete,ZARE Amir Hossein,IRI
+athlete_AMAN_Aman_IND_none,athlete,AMAN Aman,IND
+athlete_ABDULLAEV_Gulomjon_UZB_none,athlete,ABDULLAEV Gulomjon,UZB
+athlete_HIGUCHI_Rei_JPN_none,athlete,HIGUCHI Rei,JPN
+athlete_LEE_Spencer_Richard_USA_none,athlete,LEE Spencer Richard,USA
+athlete_DUDAEV_Islam_ALB_none,athlete,DUDAEV Islam,ALB
+athlete_RIVERA_Sebastian_C_PUR_none,athlete,RIVERA Sebastian C,PUR
+athlete_KIYOOKA_Kotaro_JPN_none,athlete,KIYOOKA Kotaro,JPN
+athlete_AMOUZADKHALILI_Rahman_IRI_none,athlete,AMOUZADKHALILI Rahman,IRI
+athlete_VALIEV_Chermen_ALB_none,athlete,VALIEV Chermen,ALB
+athlete_DAKE_Kyle_Douglas_USA_none,athlete,DAKE Kyle Douglas,USA
+athlete_JAMALOV_Razambek_Salambekovitch_UZB_none,athlete,JAMALOV Razambek Salambekovitch,UZB
+athlete_TAKATANI_Daichi_JPN_none,athlete,TAKATANI Daichi,JPN
+athlete_KURUGLIEV_Dauren_GRE_none,athlete,KURUGLIEV Dauren,GRE
+athlete_BROOKS_Aaron_Marquel_USA_none,athlete,BROOKS Aaron Marquel,USA
+athlete_RAMAZANOV_Magomed_Eldarovitch_BUL_none,athlete,RAMAZANOV Magomed Eldarovitch,BUL
+athlete_YAZDANICHARATI_Hassan_IRI_none,athlete,YAZDANICHARATI Hassan,IRI
+athlete_MAGOMEDOV_Magomedkhan_AZE_none,athlete,MAGOMEDOV Magomedkhan,AZE
+athlete_AZARPIRA_Amirali_IRI_none,athlete,AZARPIRA Amirali,IRI
+athlete_TAZHUDINOV_Akhmed_BRN_none,athlete,TAZHUDINOV Akhmed,BRN
+athlete_MATCHARASHVILI_Givi_GEO_none,athlete,MATCHARASHVILI Givi,GEO
+athlete_MENG_Lingzhe_CHN_none,athlete,MENG Lingzhe,CHN
+athlete_MIRZAZADEH_Amin_IRI_none,athlete,MIRZAZADEH Amin,IRI
+athlete_LOPEZ_NUNEZ_Mijain_CUB_none,athlete,LOPEZ NUNEZ Mijain,CUB
+athlete_ACOSTA_FERNANDEZ_Yasmani_CHI_none,athlete,ACOSTA FERNANDEZ Yasmani,CHI
+athlete_SHARSHENBEKOV_Zholaman_KGZ_none,athlete,SHARSHENBEKOV Zholaman,KGZ
+athlete_RI_Se_Ung_PRK_none,athlete,RI Se Ung,PRK
+athlete_FUMITA_Kenichiro_JPN_none,athlete,FUMITA Kenichiro,JPN
+athlete_CAO_Liguo_CHN_none,athlete,CAO Liguo,CHN
+athlete_JAFAROV_Hasrat_AZE_none,athlete,JAFAROV Hasrat,AZE
+athlete_ORTA_SANCHEZ_Luis_Alberto_CUB_none,athlete,ORTA SANCHEZ Luis Alberto,CUB
+athlete_ESMAEILI_LEIVESI_Saeid_IRI_none,athlete,ESMAEILI LEIVESI Saeid,IRI
+athlete_NASIBOV_Parviz_UKR_none,athlete,NASIBOV Parviz,UKR
+athlete_AMOYAN_Malkhas_ARM_none,athlete,AMOYAN Malkhas,ARM
+athlete_MAKHMUDOV_Akzhol_KGZ_none,athlete,MAKHMUDOV Akzhol,KGZ
+athlete_KUSAKA_Nao_JPN_none,athlete,KUSAKA Nao,JPN
+athlete_ZHADRAYEV_Demeu_KAZ_none,athlete,ZHADRAYEV Demeu,KAZ
+athlete_BISULTANOV_Turpal_Ali_DEN_none,athlete,BISULTANOV Turpal Ali,DEN
+athlete_BELENIUK_Zhan_UKR_none,athlete,BELENIUK Zhan,UKR
+athlete_NOVIKOV_Semen_Sergeevich_BUL_none,athlete,NOVIKOV Semen Sergeevich,BUL
+athlete_MOHMADIPIANI_Alireza_IRI_none,athlete,MOHMADIPIANI Alireza,IRI
+athlete_ROSILLO_KINDELAN_Gabriel_Alejandro_CUB_none,athlete,ROSILLO KINDELAN Gabriel Alejandro,CUB
+athlete_DZHUZUPBEKOV_Uzur_KGZ_none,athlete,DZHUZUPBEKOV Uzur,KGZ
+athlete_SARAVI_Mohammadhadi_IRI_none,athlete,SARAVI Mohammadhadi,IRI
+athlete_ALEKSANYAN_Artur_ARM_none,athlete,ALEKSANYAN Artur,ARM
+athlete_FENG_Ziqi_CHN_none,athlete,FENG Ziqi,CHN
+athlete_SUSAKI_Yui_JPN_none,athlete,SUSAKI Yui,JPN
+athlete_HILDEBRANDT_Sarah_Ann_USA_none,athlete,HILDEBRANDT Sarah Ann,USA
+athlete_GUZMAN_LOPEZ_Yusneylis_CUB_none,athlete,GUZMAN LOPEZ Yusneylis,CUB
+athlete_PANG_Qianyu_CHN_none,athlete,PANG Qianyu,CHN
+athlete_CHOE_Hyo_Gyong_PRK_none,athlete,CHOE Hyo Gyong,PRK
+athlete_FUJINAMI_Akari_JPN_none,athlete,FUJINAMI Akari,JPN
+athlete_YEPEZ_GUZMAN_Lucia_Yamileth_ECU_none,athlete,YEPEZ GUZMAN Lucia Yamileth,ECU
+athlete_HONG_Kexin_CHN_none,athlete,HONG Kexin,CHN
+athlete_MAROULIS_Helen_Louise_USA_none,athlete,MAROULIS Helen Louise,USA
+athlete_SAKURAI_Tsugumi_JPN_none,athlete,SAKURAI Tsugumi,JPN
+athlete_NICHITA_Anastasia_MDA_none,athlete,NICHITA Anastasia,MDA
+athlete_TYNYBEKOVA_Aisuluu_KGZ_none,athlete,TYNYBEKOVA Aisuluu,KGZ
+athlete_BULLEN_Grace_Jacob_NOR_none,athlete,BULLEN Grace Jacob,NOR
+athlete_MOTOKI_Sakura_JPN_none,athlete,MOTOKI Sakura,JPN
+athlete_KOLIADENKO_Iryna_UKR_none,athlete,KOLIADENKO Iryna,UKR
+athlete_OZAKI_Nonoka_JPN_none,athlete,OZAKI Nonoka,JPN
+athlete_CAVUSOGLU_TOSUN_Buse_TUR_none,athlete,CAVUSOGLU TOSUN Buse,TUR
+athlete_ELOR_Amit_USA_none,athlete,ELOR Amit,USA
+athlete_ZHUMANAZAROVA_Meerim_KGZ_none,athlete,ZHUMANAZAROVA Meerim,KGZ
+athlete_RENTERIA_RENTERIA_Tatiana_COL_none,athlete,RENTERIA RENTERIA Tatiana,COL
+athlete_MARIN_POTRILLE_Milaimy_de_la_Carid_CUB_none,athlete,MARIN POTRILLE Milaimy de la Carid.,CUB
+athlete_KAGAMI_Yuka_JPN_none,athlete,KAGAMI Yuka,JPN
+athlete_BLADES_Kennedy_Alexis_USA_none,athlete,BLADES Kennedy Alexis,USA
+nation_NLD,team,NLD nation team,NLD
+nation_DEU,team,DEU nation team,DEU
+nation_CHE,team,CHE nation team,CHE
+nation_SVN,team,SVN nation team,SVN
+nation_FIN,team,FIN nation team,FIN
+nation_LVA,team,LVA nation team,LVA
+nation_DNK,team,DNK nation team,DNK
+nation_EST,team,EST nation team,EST
+nation_GEO,team,GEO nation team,GEO
+nation_BGR,team,BGR nation team,BGR
+nation_BEL,team,BEL nation team,BEL

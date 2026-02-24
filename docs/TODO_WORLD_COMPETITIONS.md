@@ -11,6 +11,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] ICC Men's Team Rankings (Test/ODI/T20I) ajoute via `icc_team_ranking_history` (commit `675bebc`, 2026-02-20)
 - [x] Harmonisation disciplines/sports sur competitions deja ingerees (rugby, fiba, fifa women, cricket, handball) (commit `79d7145`, 2026-02-21)
 - [x] World Athletics Championships (top 3 par discipline) ajoute via `world_athletics_championships_history` (2026-02-24)
+- [x] JO unifies: Paris 2024 integre dans `olympics_summer` + JO hiver 2026 ajoutes dans `olympics_winter` (medal table national) via `olympics_keith_history` (2026-02-24)
 
 ### Competitions mondiales
 
@@ -27,38 +28,9 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] World Athletics Championships (`world_athletics_championships_history`)
 - [x] Summer/Winter Olympics historiques (`olympics_keith_history`)
 - [x] Paris 2024 Summer Olympics (`paris_2024_summer_olympics`)
-
-### Classements mondiaux (Top 10)
-
-- [x] FIFA Men's Ranking (`fifa_ranking_history`)
-- [x] FIFA Women's Ranking (`fifa_women_ranking_history`)
-- [x] FIBA World Ranking (men) (`fiba_ranking_history`)
-- [x] FIBA World Ranking (women) (`fiba_ranking_history`)
-- [x] World Rugby Rankings (men) (`world_rugby_ranking_history`)
-- [x] World Rugby Rankings (women) (`world_rugby_ranking_history`)
-- [x] ICC Men's Team Rankings (Test, ODI, T20I) (`icc_team_ranking_history`)
-
-## Prochaine vague (priorite haute)
-
-### Qualite des donnees `competition/events`
-
-- [ ] Bien dissocier les disciplines/formats du cricket (Test, ODI, T20I, T10, The Hundred, etc.) dans `sports`/`competitions`/`events`.
-- [ ] Faire une distinction stricte entre `competition` JO (ex: `olympics_summer_2028`) et `event` JO (ex: `cricket-men-t20-olympic`) pour eviter les melanges de granularite.
-
-### Competitions mondiales
-
 - [ ] World Aquatics Championships
 - [ ] FIVB Volleyball World Championship (men)
 - [ ] FIVB Women's Volleyball World Championship
-
-### Classements mondiaux (Top 10)
-
-- [ ] Top 10 ICC Women's Team Rankings (ODI, T20I)
-
-## Backlog (priorite moyenne)
-
-### Competitions mondiales
-
 - [ ] FIFA Club World Cup (clubs)
 - [ ] ICC Champions Trophy
 - [ ] Rugby World Cup Sevens
@@ -68,26 +40,33 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [ ] UCI Road World Championships (cyclisme)
 - [ ] World Judo Championships
 - [ ] World Wrestling Championships
-
-### Classements mondiaux (Top 10)
-
-- [ ] Top 10 World Baseball Softball Confederation rankings
-- [ ] Top 10 BWF World Ranking (joueurs/paires -> agreger par nation)
-- [ ] Top 10 ITTF World Ranking (joueurs -> agreger par nation)
-- [ ] Top 10 UCI Nation Ranking (route)
-
-## Backlog (priorite basse)
-
-### Competitions mondiales
-
 - [ ] Formula 1 World Championship (pilotes + constructeurs)
 - [ ] Formula E World Championship
 - [ ] Sailing World Championships (selon classes)
 
+
 ### Classements mondiaux (Top 10)
 
+- [x] FIFA Men's Ranking (`fifa_ranking_history`)
+- [x] FIFA Women's Ranking (`fifa_women_ranking_history`)
+- [x] FIBA World Ranking (men) (`fiba_ranking_history`)
+- [x] FIBA World Ranking (women) (`fiba_ranking_history`)
+- [x] World Rugby Rankings (men) (`world_rugby_ranking_history`)
+- [x] World Rugby Rankings (women) (`world_rugby_ranking_history`)
+- [ ] ICC Men's Team Rankings (Test, ODI, T20I) (`icc_team_ranking_history`)
+- [ ] ICC Women's Team Rankings (ODI, T20I)
+- [ ] Top 10 World Baseball Softball Confederation rankings
+- [ ] Top 10 BWF World Ranking (joueurs/paires -> agreger par nation)
+- [ ] Top 10 ITTF World Ranking (joueurs -> agreger par nation)
+- [ ] Top 10 UCI Nation Ranking (route)
 - [ ] Top 10 ATP ranking / WTA ranking (joueurs -> agreger par nation)
 - [ ] Top 10 World Sailing rankings (selon classes)
+
+
+### Qualite des donnees `competition/events`
+
+- [ ] Bien dissocier les disciplines/formats du cricket (Test, ODI, T20I, T10, The Hundred, etc.) dans `sports`/`competitions`/`events`.
+- [x] Faire une distinction stricte entre `competition` JO (ex: `olympics_summer`) et `event` JO (ex: `olympics_summer_athletics_100m__men_2020`) pour eviter les melanges de granularite.
 
 ## Regles de selection
 
@@ -99,10 +78,10 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 
 ## Definition of done (nouvel ajout)
 
-- [ ] Connecteur cree dans `src/connectors/<connector>.py`
-- [ ] Enregistrement dans `src/connectors/registry.py`
-- [ ] Source tracee dans `sources` + `raw_imports`
-- [ ] Ingestion OK: `python -m pipelines.ingest --connector <id> --year <YYYY>`
-- [ ] Validation OK: `python -m pipelines.validate`
-- [ ] Synchronisation CSV OK: `python -m pipelines.init_databases`
-- [ ] Documentation mise a jour (`README.md`, playbook si necessaire)
+- Connecteur cree dans `src/connectors/<connector>.py`
+- Enregistrement dans `src/connectors/registry.py`
+- Source tracee dans `sources` + `raw_imports`
+- Ingestion OK: `python -m pipelines.ingest --connector <id> --year <YYYY>`
+- Validation OK: `python -m pipelines.validate`
+- Synchronisation CSV OK: `python -m pipelines.init_databases`
+- Documentation mise a jour (`README.md`, playbook si necessaire, TODO)

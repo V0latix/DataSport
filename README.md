@@ -47,11 +47,10 @@ Voir `meta/data_dictionary.md` pour les colonnes détaillées.
 
 ## Architecture des bases
 
-Le projet utilise une base maître + 3 bases spécialisées au format CSV:
+Le projet utilise une base maître + 2 bases spécialisées au format CSV:
 - `data/processed/sports_nations.db` (base maître unifiée)
-- `data/processed/databases/reference/*.csv` (dimensions et référentiels)
-- `data/processed/databases/competition/*.csv` (compétitions, events, participants, résultats)
-- `data/processed/databases/lineage/*.csv` (provenance `sources` et `raw_imports`)
+- `data/processed/databases/competition/*.csv` (dimensions, compétitions, events, participants, résultats)
+- `data/processed/databases/lineage/*.csv` (provenance `raw_imports`)
 
 Génération/synchronisation depuis la base maître:
 
@@ -346,7 +345,7 @@ Comportement:
   - relais/mixed: code pays (`country_id`)
 - contrainte d'upsert: réutilise un `participant_id` athlète déjà existant (match nom + pays), n'ajoute pas de doublons
 
-### 9) Ingest JO d'été Paris 2024
+### 9) Ingest JO d'été Paris 2024 (connecteur dédié, optionnel)
 
 ```bash
 python -m pipelines.ingest --connector paris_2024_summer_olympics --year 2024
@@ -365,6 +364,9 @@ Comportement:
   - `athlete_<nom_prenom>_<noc>`
   - `nation_<noc>`
 
+Note:
+- ce connecteur reste disponible, mais le flux recommandé est `olympics_keith_history` (section suivante), qui intègre désormais Paris 2024 dans `olympics_summer`.
+
 ### 10) Ingest JO historiques (jusqu'à une année cible)
 
 ```bash
@@ -374,8 +376,13 @@ python -m pipelines.ingest --connector olympics_keith_history --year 2000
 Comportement:
 - ingère les résultats historiques du dataset KeithGalli
 - charge les éditions Summer + Winter depuis `--year` (ex: 2000)
-- crée une compétition par édition (`olympics_summer_1996`, etc.)
+- crée une compétition par type JO:
+  - `olympics_summer`
+  - `olympics_winter`
+- intègre Paris 2024 dans `olympics_summer` via `data/raw/olympics/paris2024_medals_by_event.csv`
+- ajoute les JO d'hiver 2026 dans `olympics_winter` via le seed `data/raw/olympics/winter2026_medal_table_seed.csv` (event national `medal table`)
 - crée un event par épreuve et ne conserve que les résultats médaillés (or/argent/bronze)
+- `event_id` porte le niveau édition+épreuve (ex: `olympics_summer_2020_athletics_100m-men`)
 - conserve des IDs explicites (`athlete_*` / `nation_*`)
 
 ## Politique licences et partage data

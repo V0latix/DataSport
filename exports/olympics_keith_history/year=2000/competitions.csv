@@ -1,19 +1,3 @@
 competition_id,sport_id,name,season_year,level,start_date,end_date,source_id
-olympics_summer_2000,olympic-games,Summer Olympics 2000,2000,multi_sport_games,2000-01-01,2000-12-31,olympics_keith_history
-olympics_winter_2002,olympic-games,Winter Olympics 2002,2002,multi_sport_games,2002-01-01,2002-12-31,olympics_keith_history
-olympics_summer_2004,olympic-games,Summer Olympics 2004,2004,multi_sport_games,2004-01-01,2004-12-31,olympics_keith_history
-olympics_winter_2006,olympic-games,Winter Olympics 2006,2006,multi_sport_games,2006-01-01,2006-12-31,olympics_keith_history
-olympics_summer_2008,olympic-games,Summer Olympics 2008,2008,multi_sport_games,2008-01-01,2008-12-31,olympics_keith_history
-olympics_summer_2010,olympic-games,Summer Olympics 2010,2010,multi_sport_games,2010-01-01,2010-12-31,olympics_keith_history
-olympics_winter_2010,olympic-games,Winter Olympics 2010,2010,multi_sport_games,2010-01-01,2010-12-31,olympics_keith_history
-olympics_summer_2012,olympic-games,Summer Olympics 2012,2012,multi_sport_games,2012-01-01,2012-12-31,olympics_keith_history
-olympics_winter_2012,olympic-games,Winter Olympics 2012,2012,multi_sport_games,2012-01-01,2012-12-31,olympics_keith_history
-olympics_summer_2014,olympic-games,Summer Olympics 2014,2014,multi_sport_games,2014-01-01,2014-12-31,olympics_keith_history
-olympics_winter_2014,olympic-games,Winter Olympics 2014,2014,multi_sport_games,2014-01-01,2014-12-31,olympics_keith_history
-olympics_summer_2016,olympic-games,Summer Olympics 2016,2016,multi_sport_games,2016-01-01,2016-12-31,olympics_keith_history
-olympics_winter_2016,olympic-games,Winter Olympics 2016,2016,multi_sport_games,2016-01-01,2016-12-31,olympics_keith_history
-olympics_summer_2018,olympic-games,Summer Olympics 2018,2018,multi_sport_games,2018-01-01,2018-12-31,olympics_keith_history
-olympics_winter_2018,olympic-games,Winter Olympics 2018,2018,multi_sport_games,2018-01-01,2018-12-31,olympics_keith_history
-olympics_summer_2020,olympic-games,Summer Olympics 2020,2020,multi_sport_games,2020-01-01,2020-12-31,olympics_keith_history
-olympics_winter_2020,olympic-games,Winter Olympics 2020,2020,multi_sport_games,2020-01-01,2020-12-31,olympics_keith_history
-olympics_winter_2022,olympic-games,Winter Olympics 2022,2022,multi_sport_games,2022-01-01,2022-12-31,olympics_keith_history
+olympics_summer,olympic-games,Summer Olympics,,multi_sport_games,2000-01-01,2024-12-31,olympics_keith_history
+olympics_winter,olympic-games,Winter Olympics,,multi_sport_games,2002-01-01,2026-12-31,olympics_keith_history

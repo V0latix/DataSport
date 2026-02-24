@@ -1,6 +1,6 @@
 # Playbook - Remplissage des bases DataSport
 
-Ce document définit la façon correcte de remplir les bases pour éviter les incohérences dans `competition`, `reference` et `lineage`.
+Ce document définit la façon correcte de remplir les bases pour éviter les incohérences dans `competition` et `lineage`.
 
 ## 1) Principes obligatoires
 
@@ -14,7 +14,6 @@ Ce document définit la façon correcte de remplir les bases pour éviter les in
 
 - Base maître: `data/processed/sports_nations.db`
 - Bases CSV spécialisées (générées depuis la base maître):
-  - `data/processed/databases/reference/*.csv`
   - `data/processed/databases/competition/*.csv`
   - `data/processed/databases/lineage/*.csv`
 
@@ -101,7 +100,6 @@ python -m pipelines.init_databases
 ```
 6. Vérifier les CSV dans:
   - `data/processed/databases/competition/`
-  - `data/processed/databases/reference/`
   - `data/processed/databases/lineage/`
 
 ## 8) Cas FIFA (référence actuelle)
@@ -261,7 +259,7 @@ python -m pipelines.init_databases
   - `data/raw/athletics/world_athletics_championships_top3_seed.csv`
   - couverture actuelle: editions >= 2000 (2001, 2003, ..., 2019, 2022, 2023, 2025)
 
-## 10) Cas JO d'été Paris 2024
+## 10) Cas JO d'été Paris 2024 (connecteur dédié, optionnel)
 
 - `competition_id` unique: `summer_olympics_paris_2024`
 - `event_id` par épreuve: `paris2024_<discipline>_<event>`
@@ -272,13 +270,17 @@ python -m pipelines.init_databases
 - `participant_id` explicite:
   - athlete: `athlete_<nom_prenom>_<noc>`
   - team: `nation_<noc>`
+- note: ce connecteur est optionnel; le flux JO unifié recommandé est `olympics_keith_history` (section suivante)
 
 ## 11) Cas JO historiques (KeithGalli)
 
 - connecteur: `olympics_keith_history`
 - source: `data/raw/olympics/keithgalli_results.csv` (fallback download depuis GitHub)
+- sources complémentaires intégrées:
+  - `data/raw/olympics/paris2024_medals_by_event.csv` (Paris 2024)
+  - `data/raw/olympics/winter2026_medal_table_seed.csv` (JO hiver 2026, event national)
 - filtre temporel: toutes les éditions `>= --year` (exemple `--year 2000`)
-- `competition_id`: `olympics_<summer|winter>_<year>`
+- `competition_id`: `olympics_<summer|winter>`
 - `event_id`: `olympics_<summer|winter>_<year>_<discipline>_<event>`
 - `results`: conserver uniquement les lignes avec médaille (`gold`, `silver`, `bronze`)
 - `participant_id` explicite:

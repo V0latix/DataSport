@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import shutil
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Iterable
@@ -24,10 +25,6 @@ class DatabaseArchitecture:
         return self.root_dir / "databases"
 
     @property
-    def reference_base(self) -> Path:
-        return self.bases_dir / "reference"
-
-    @property
     def competition_base(self) -> Path:
         return self.bases_dir / "competition"
 
@@ -37,16 +34,29 @@ class DatabaseArchitecture:
 
 
 def _cleanup_legacy_db_files(architecture: DatabaseArchitecture) -> None:
-    for name in ("reference.db", "competition.db", "lineage.db"):
+    for name in ("competition.db", "lineage.db"):
         legacy_path = architecture.bases_dir / name
         if legacy_path.exists():
             legacy_path.unlink()
 
 
+def _cleanup_stale_csv_bases(architecture: DatabaseArchitecture, active_bases: set[str]) -> None:
+    for base_dir in architecture.bases_dir.iterdir():
+        if not base_dir.is_dir():
+            continue
+        if base_dir.name not in active_bases:
+            shutil.rmtree(base_dir)
+
+
 def _export_tables_to_csv_base(master: SQLiteDB, base_dir: Path, tables: Iterable[str]) -> dict[str, int]:
     safe_mkdir(base_dir)
+    table_list = list(tables)
+    expected_files = {f"{table}.csv" for table in table_list}
+    for existing_file in base_dir.glob("*.csv"):
+        if existing_file.name not in expected_files:
+            existing_file.unlink()
     table_counts: dict[str, int] = {}
-    for table in tables:
+    for table in table_list:
         frame = master.read_table(table)
         frame.to_csv(base_dir / f"{table}.csv", index=False)
         table_counts[table] = len(frame)
@@ -59,34 +69,30 @@ def build_multi_database_architecture(processed_dir: Path, master_db_path: Path 
     architecture = DatabaseArchitecture(root_dir=processed_dir)
     safe_mkdir(architecture.bases_dir)
     _cleanup_legacy_db_files(architecture)
+    _cleanup_stale_csv_bases(architecture, active_bases={"competition", "lineage"})
 
     master_path = master_db_path.resolve() if master_db_path else architecture.master_db
     master = SQLiteDB(master_path)
     master.create_schema()
 
-    reference_tables = ["countries", "sports", "disciplines", "sources", "sport_federations"]
     competition_tables = [
         "countries",
         "sports",
         "disciplines",
         "sources",
+        "sport_federations",
         "competitions",
         "events",
         "participants",
         "results",
     ]
-    lineage_tables = ["sources", "raw_imports"]
+    lineage_tables = ["raw_imports"]
 
     payload = {
         "generated_at_utc": utc_now_iso(),
         "master_db": str(master_path),
         "format": "csv",
         "databases": {
-            "reference": {
-                "path": str(architecture.reference_base),
-                "tables": reference_tables,
-                "rows_synced": _export_tables_to_csv_base(master, architecture.reference_base, reference_tables),
-            },
             "competition": {
                 "path": str(architecture.competition_base),
                 "tables": competition_tables,

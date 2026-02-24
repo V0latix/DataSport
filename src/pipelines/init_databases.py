@@ -32,7 +32,6 @@ def main() -> None:
 
     print("[init_databases] multi-base CSV architecture ready")
     print(f"[init_databases] master: {payload['master_db']}")
-    print(f"[init_databases] reference csv base: {payload['databases']['reference']['path']}")
     print(f"[init_databases] competition csv base: {payload['databases']['competition']['path']}")
     print(f"[init_databases] lineage csv base: {payload['databases']['lineage']['path']}")
     print(f"[init_databases] architecture csv: {csv_path}")

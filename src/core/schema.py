@@ -105,53 +105,6 @@ CREATE INDEX IF NOT EXISTS idx_raw_imports_source ON raw_imports(source_id);
 """
 
 
-REFERENCE_SCHEMA_SQL = """
-PRAGMA foreign_keys = ON;
-
-CREATE TABLE IF NOT EXISTS countries (
-    country_id TEXT PRIMARY KEY,
-    iso2 TEXT,
-    iso3 TEXT,
-    name_en TEXT NOT NULL,
-    name_fr TEXT
-);
-
-CREATE TABLE IF NOT EXISTS sports (
-    sport_id TEXT PRIMARY KEY,
-    sport_name TEXT NOT NULL,
-    sport_slug TEXT NOT NULL UNIQUE,
-    created_at_utc TEXT NOT NULL
-);
-
-CREATE TABLE IF NOT EXISTS disciplines (
-    discipline_id TEXT PRIMARY KEY,
-    discipline_name TEXT NOT NULL,
-    discipline_slug TEXT NOT NULL,
-    sport_id TEXT NOT NULL,
-    confidence REAL,
-    mapping_source TEXT,
-    created_at_utc TEXT NOT NULL,
-    FOREIGN KEY (sport_id) REFERENCES sports(sport_id)
-);
-
-CREATE TABLE IF NOT EXISTS sources (
-    source_id TEXT PRIMARY KEY,
-    source_name TEXT NOT NULL,
-    source_type TEXT,
-    license_notes TEXT,
-    base_url TEXT
-);
-
-CREATE TABLE IF NOT EXISTS sport_federations (
-    sport_id TEXT NOT NULL,
-    federation_qid TEXT NOT NULL,
-    federation_name TEXT,
-    PRIMARY KEY (sport_id, federation_qid),
-    FOREIGN KEY (sport_id) REFERENCES sports(sport_id)
-);
-"""
-
-
 COMPETITION_SCHEMA_SQL = """
 PRAGMA foreign_keys = ON;
 
