@@ -1,0 +1,899 @@
+year,event_date,gender,discipline_name,rank,medal,participant_type,athlete_name,country_name,country_code,performance
+2001,2001-12-31,men,"10,000 m",1,gold,athlete,Charles Kamathi,Kenya,KEN,27:53.25
+2001,2001-12-31,men,"10,000 m",2,silver,athlete,Assefa Mezgebu,Ethiopia,ETH,27:53.97
+2001,2001-12-31,men,"10,000 m",3,bronze,athlete,Haile Gebrselassie,Ethiopia,ETH,27:54.41
+2001,2001-12-31,men,100 m,1,gold,athlete,Maurice Greene,United States,USA,9.82 (WL)
+2001,2001-12-31,men,100 m,2,silver,athlete,Bernard Williams,United States,USA,9.94 2 (PB)
+2001,2001-12-31,men,100 m,3,bronze,athlete,Ato Boldon,Trinidad and Tobago,TTO,9.98
+2001,2001-12-31,men,110 m hurdles,1,gold,athlete,Allen Johnson,United States,USA,13.04 (WL)
+2001,2001-12-31,men,110 m hurdles,2,silver,athlete,Anier García,Cuba,CUB,13.07 (SB)
+2001,2001-12-31,men,110 m hurdles,3,bronze,athlete,Dudley Dorival,Haiti,HTI,13.25 (NR)
+2001,2001-12-31,men,1500 m,1,gold,athlete,Hicham El Guerrouj,Morocco,MAR,3:30.68
+2001,2001-12-31,men,1500 m,2,silver,athlete,Bernard Lagat,Kenya,KEN,3:31.10
+2001,2001-12-31,men,1500 m,3,bronze,athlete,Driss Maazouzi,France,FRA,3:31.54 (SB)
+2001,2001-12-31,men,200 m,1,gold,athlete,Konstantinos Kenteris,Greece,GRC,20.04
+2001,2001-12-31,men,200 m,2,silver,athlete,Christopher Williams,Jamaica,JAM,20.20
+2001,2001-12-31,men,200 m,3,bronze,athlete,Kim Collins,Saint Kitts and Nevis,KNA,20.30 (NR St.Kitts)
+2001,2001-12-31,men,3000 m st.,1,gold,athlete,Reuben Kosgei,Kenya,KEN,8:15.16
+2001,2001-12-31,men,3000 m st.,2,silver,athlete,Ali Ezzine,Morocco,MAR,8:16.21
+2001,2001-12-31,men,3000 m st.,3,bronze,athlete,Bernard Barmasai,Kenya,KEN,8:16.59
+2001,2001-12-31,men,4 × 100 m relay,1,gold,team,,South Africa,ZAF,38.47 (NR)
+2001,2001-12-31,men,4 × 100 m relay,2,silver,team,,Trinidad and Tobago,TTO,38.58 (NR)
+2001,2001-12-31,men,4 × 100 m relay,3,bronze,team,,Australia,AUS,38.83 (SB)
+2001,2001-12-31,men,4 × 400 m relay,1,gold,team,,Bahamas,BHS,2:58.19 4 (NR)
+2001,2001-12-31,men,4 × 400 m relay,2,silver,team,,Jamaica,JAM,2:58.39 (SB)
+2001,2001-12-31,men,4 × 400 m relay,3,bronze,team,,Poland,POL,2:59.71 (SB)
+2001,2001-12-31,men,400 m,1,gold,athlete,Avard Moncur,Bahamas,BHS,44.64
+2001,2001-12-31,men,400 m,2,silver,athlete,Ingo Schultz,Germany,DEU,44.87
+2001,2001-12-31,men,400 m,3,bronze,athlete,Greg Haughton,Jamaica,JAM,44.98
+2001,2001-12-31,men,400 m hurdles,1,gold,athlete,Félix Sánchez,Dominican Republic,DOM,47.49 (WL)
+2001,2001-12-31,men,400 m hurdles,2,silver,athlete,Fabrizio Mori,Italy,ITA,47.54 (NR)
+2001,2001-12-31,men,400 m hurdles,3,bronze,athlete,Dai Tamesue,Japan,JPN,47.89 (NR)
+2001,2001-12-31,men,50 km walk,1,gold,athlete,Robert Korzeniowski,Poland,POL,3:42.08 (WL)
+2001,2001-12-31,men,50 km walk,2,silver,athlete,Jesús Ángel García,Spain,ESP,3:43:07 (SB)
+2001,2001-12-31,men,50 km walk,3,bronze,athlete,Edgar Hernández,Mexico,MEX,3:46:12 (PB)
+2001,2001-12-31,men,5000 m,1,gold,athlete,Richard Limo,Kenya,KEN,13:00.77
+2001,2001-12-31,men,5000 m,2,silver,athlete,Million Wolde,Ethiopia,ETH,13:03.47 1
+2001,2001-12-31,men,5000 m,3,bronze,athlete,John Kibowen,Kenya,KEN,13:05.20
+2001,2001-12-31,men,800 m,1,gold,athlete,André Bucher,Switzerland,CHE,1:43.70
+2001,2001-12-31,men,800 m,2,silver,athlete,Wilfred Bungei,Kenya,KEN,1:44.55
+2001,2001-12-31,men,800 m,3,bronze,athlete,Paweł Czapiewski,Poland,POL,1:44.63 (PB)
+2001,2001-12-31,men,Decathlon,1,gold,athlete,Tomáš Dvořák,Czech Republic,CZE,8902 ( CR )
+2001,2001-12-31,men,Decathlon,2,silver,athlete,Erki Nool,Estonia,EST,8815 (NR)
+2001,2001-12-31,men,Decathlon,3,bronze,athlete,Dean Macey,Great Britain and Northern Ireland,GBR,8603 (PB)
+2001,2001-12-31,men,Discus throw,1,gold,athlete,Lars Riedel,Germany,DEU,69.72 ( CR )
+2001,2001-12-31,men,Discus throw,2,silver,athlete,Virgilijus Alekna,Lithuania,LTU,69.40
+2001,2001-12-31,men,Discus throw,3,bronze,athlete,Michael Möllenbeck,Germany,DEU,67.61 (PB)
+2001,2001-12-31,men,Hammer throw,1,gold,athlete,Szymon Ziółkowski,Poland,POL,83.38 ( CR )
+2001,2001-12-31,men,Hammer throw,2,silver,athlete,Koji Murofushi,Japan,JPN,82.92
+2001,2001-12-31,men,Javelin throw,1,gold,athlete,Jan Železný,Czech Republic,CZE,92.80 ( CR )
+2001,2001-12-31,men,Javelin throw,2,silver,athlete,Aki Parviainen,Finland,FIN,91.31
+2001,2001-12-31,men,Javelin throw,3,bronze,athlete,Konstadinos Gatsioudis,Greece,GRC,89.95
+2001,2001-12-31,men,Long jump,1,gold,athlete,Iván Pedroso,Cuba,CUB,8.40
+2001,2001-12-31,men,Long jump,2,silver,athlete,Savanté Stringfellow,United States,USA,8.24
+2001,2001-12-31,men,Long jump,3,bronze,athlete,Carlos Calado,Portugal,PRT,8.21 (SB)
+2001,2001-12-31,men,Marathon,1,gold,athlete,Gezahegne Abera,Ethiopia,ETH,2:12:42 (SB)
+2001,2001-12-31,men,Marathon,2,silver,athlete,Simon Biwott,Kenya,KEN,2:12:43
+2001,2001-12-31,men,Marathon,3,bronze,athlete,Stefano Baldini,Italy,ITA,2:13:18
+2001,2001-12-31,men,Pole vault,1,gold,athlete,Dmitri Markov,Australia,AUS,6.05 ( CR )
+2001,2001-12-31,men,Pole vault,2,silver,athlete,Aleksandr Averbukh,Israel,ISR,5.85
+2001,2001-12-31,men,Pole vault,3,bronze,athlete,Nick Hysong,United States,USA,5.85 (SB)
+2001,2001-12-31,men,Shot put,1,gold,athlete,John Godina,United States,USA,21.87
+2001,2001-12-31,men,Shot put,2,silver,athlete,Adam Nelson,United States,USA,21.24
+2001,2001-12-31,men,Shot put,3,bronze,athlete,Arsi Harju,Finland,FIN,20.93 (SB)
+2001,2001-12-31,men,Triple jump,1,gold,athlete,Jonathan Edwards,Great Britain and Northern Ireland,GBR,17.92 (WL)
+2001,2001-12-31,men,Triple jump,2,silver,athlete,Christian Olsson,Sweden,SWE,17.47
+2001,2001-12-31,women,"10,000 m",1,gold,athlete,Derartu Tulu,Ethiopia,ETH,31:48.81
+2001,2001-12-31,women,"10,000 m",2,silver,athlete,Berhane Adere,Ethiopia,ETH,31:48.85
+2001,2001-12-31,women,"10,000 m",3,bronze,athlete,Gete Wami,Ethiopia,ETH,31:49.98
+2001,2001-12-31,women,100 m,1,gold,athlete,Zhanna Pintusevich,Ukraine,UKR,10.82 (WL)
+2001,2001-12-31,women,100 m,2,silver,athlete,Ekaterini Thanou,Greece,GRC,10.91 2 (SB)
+2001,2001-12-31,women,100 m,3,bronze,athlete,Chandra Sturrup,Bahamas,BHS,11.02
+2001,2001-12-31,women,100 m hurdles,1,gold,athlete,Anjanette Kirkland,United States,USA,12.42 (WL)
+2001,2001-12-31,women,100 m hurdles,2,silver,athlete,Gail Devers,United States,USA,12.54 SB
+2001,2001-12-31,women,100 m hurdles,3,bronze,athlete,Olga Shishigina,Kazakhstan,KAZ,12.58 (SB)
+2001,2001-12-31,women,1500 m,1,gold,athlete,Gabriela Szabo,Romania,ROU,4:00.57 (SB)
+2001,2001-12-31,women,1500 m,2,silver,athlete,Violeta Szekely,Romania,ROU,4:01.70
+2001,2001-12-31,women,20 km walk,2,silver,athlete,Valentina Tsybulskaya,Belarus,BLR,1:28:49 (PB)
+2001,2001-12-31,women,20 km walk,3,bronze,athlete,Elisabetta Perrone,Italy,ITA,1:28:56
+2001,2001-12-31,women,200 m,1,gold,athlete,Debbie Ferguson,Bahamas,BHS,22.52 1
+2001,2001-12-31,women,200 m,2,silver,athlete,LaTasha Jenkins,United States,USA,22.85
+2001,2001-12-31,women,200 m,3,bronze,athlete,Cydonie Mothersille,Cayman Islands,CYM,22.88 2
+2001,2001-12-31,women,4 × 100 m relay,1,gold,team,,Germany,DEU,42.32 3 (SB)
+2001,2001-12-31,women,4 × 100 m relay,2,silver,team,,France,FRA,42.39 (SB)
+2001,2001-12-31,women,4 × 100 m relay,3,bronze,team,,Jamaica,JAM,42.40 (SB)
+2001,2001-12-31,women,4 × 400 m relay,1,gold,team,,Jamaica,JAM,3:20.65 (WL)
+2001,2001-12-31,women,4 × 400 m relay,2,silver,team,,Germany,DEU,3:21.97 (SB)
+2001,2001-12-31,women,400 m,1,gold,athlete,Amy Mbacké Thiam,Senegal,SEN,49.86 (NR)
+2001,2001-12-31,women,400 m,2,silver,athlete,Lorraine Fenton,Jamaica,JAM,49.88 (SB)
+2001,2001-12-31,women,400 m,3,bronze,athlete,Ana Guevara,Mexico,MEX,49.97 SB
+2001,2001-12-31,women,400 m hurdles,1,gold,athlete,Nezha Bidouane,Morocco,MAR,53.34 (WL)
+2001,2001-12-31,women,400 m hurdles,3,bronze,athlete,Daimí Pernía,Cuba,CUB,54.51
+2001,2001-12-31,women,5000 m,2,silver,athlete,Marta Domínguez,Spain,ESP,15:06.59
+2001,2001-12-31,women,5000 m,3,bronze,athlete,Ayelech Worku,Ethiopia,ETH,15:10.17
+2001,2001-12-31,women,800 m,1,gold,athlete,Maria Mutola,Mozambique,MOZ,1:57.17
+2001,2001-12-31,women,800 m,2,silver,athlete,Stephanie Graf,Austria,AUT,1:57.20 (SB)
+2001,2001-12-31,women,800 m,3,bronze,athlete,Letitia Vriesde,Suriname,SUR,1:57.35 (SB)
+2001,2001-12-31,women,Discus throw,1,gold,athlete,Ellina Zvereva,Belarus,BLR,67.10 1
+2001,2001-12-31,women,Discus throw,2,silver,athlete,Nicoleta Grasu,Romania,ROU,66.24
+2001,2001-12-31,women,Discus throw,3,bronze,athlete,Anastasia Kelesidou,Greece,GRC,65.50 (SB)
+2001,2001-12-31,women,Hammer throw,1,gold,athlete,Yipsi Moreno,Cuba,CUB,70.65 (AR)
+2001,2001-12-31,women,Hammer throw,3,bronze,athlete,Bronwyn Eagles,Australia,AUS,68.87
+2001,2001-12-31,women,Heptathlon,2,silver,athlete,Natallia Sazanovich,Belarus,BLR,6539 (SB)
+2001,2001-12-31,women,Heptathlon,3,bronze,athlete,Shelia Burrell,United States,USA,6472 (PB)
+2001,2001-12-31,women,High jump,1,gold,athlete,Hestrie Cloete,South Africa,ZAF,2.00 (SB)
+2001,2001-12-31,women,High jump,2,silver,athlete,Inha Babakova,Ukraine,UKR,2.00
+2001,2001-12-31,women,High jump,3,bronze,athlete,Kajsa Bergqvist,Sweden,SWE,1.97
+2001,2001-12-31,women,Javelin throw,1,gold,athlete,Osleidys Menéndez,Cuba,CUB,69.53 ( CR )
+2001,2001-12-31,women,Javelin throw,2,silver,athlete,Mirela Maniani,Greece,GRC,65.78
+2001,2001-12-31,women,Javelin throw,3,bronze,athlete,Sonia Bisset,Cuba,CUB,64.69
+2001,2001-12-31,women,Long jump,1,gold,athlete,Fiona May,Italy,ITA,7.02
+2001,2001-12-31,women,Long jump,3,bronze,athlete,Niurka Montalvo,Spain,ESP,6.88
+2001,2001-12-31,women,Marathon,1,gold,athlete,Lidia Șimon,Romania,ROU,2:26:01
+2001,2001-12-31,women,Marathon,2,silver,athlete,Reiko Tosa,Japan,JPN,2:26:06
+2001,2001-12-31,women,Pole vault,1,gold,athlete,Stacy Dragila,United States,USA,4.75 ( CR )
+2001,2001-12-31,women,Pole vault,3,bronze,athlete,Monika Pyrek,Poland,POL,4.55
+2001,2001-12-31,women,Shot put,1,gold,athlete,Yanina Karolchik,Belarus,BLR,20.61 (NR)
+2001,2001-12-31,women,Shot put,2,silver,athlete,Nadine Kleinert,Germany,DEU,19.86 (PB)
+2001,2001-12-31,women,Shot put,3,bronze,athlete,Vita Pavlysh,Ukraine,UKR,19.41
+2001,2001-12-31,women,Triple jump,2,silver,athlete,Françoise Mbango-Etone,Cameroon,CMR,14.60
+2001,2001-12-31,women,Triple jump,3,bronze,athlete,Tereza Marinova,Bulgaria,BGR,14.58
+2003,2003-12-31,men,"10,000 m",1,gold,athlete,Kenenisa Bekele,Ethiopia,ETH,26:49.57 (CR)
+2003,2003-12-31,men,"10,000 m",2,silver,athlete,Haile Gebrselassie,Ethiopia,ETH,26:50.77 (SB)
+2003,2003-12-31,men,"10,000 m",3,bronze,athlete,Sileshi Sihine,Ethiopia,ETH,27:01.44
+2003,2003-12-31,men,100 m,1,gold,athlete,Kim Collins,Saint Kitts and Nevis,KNA,10.07
+2003,2003-12-31,men,100 m,2,silver,athlete,Darrel Brown,Trinidad and Tobago,TTO,10.08
+2003,2003-12-31,men,100 m,3,bronze,athlete,Darren Campbell,Great Britain,GBR,10.08 (SB)
+2003,2003-12-31,men,110 m hurdles,1,gold,athlete,Allen Johnson,United States,USA,13.12
+2003,2003-12-31,men,110 m hurdles,2,silver,athlete,Terrence Trammell,United States,USA,13.20 (SB)
+2003,2003-12-31,men,110 m hurdles,3,bronze,athlete,Liu Xiang,China,CHN,13.23
+2003,2003-12-31,men,1500 m,1,gold,athlete,Hicham El Guerrouj,Morocco,MAR,3:31.77
+2003,2003-12-31,men,1500 m,2,silver,athlete,Mehdi Baala,France,FRA,3:32.31
+2003,2003-12-31,men,1500 m,3,bronze,athlete,Ivan Heshko,Ukraine,UKR,3:33.17
+2003,2003-12-31,men,20 km race walk,1,gold,athlete,Jefferson Pérez,Ecuador,ECU,1:17:21 (WBP)
+2003,2003-12-31,men,20 km race walk,2,silver,athlete,Paquillo Fernández,Spain,ESP,1:18:00 (SB)
+2003,2003-12-31,men,200 m,1,gold,athlete,John Capel,United States,USA,20.30
+2003,2003-12-31,men,200 m,2,silver,athlete,Darvis Patton,United States,USA,20.31
+2003,2003-12-31,men,200 m,3,bronze,athlete,Shingo Suetsugu,Japan,JPN,20.38
+2003,2003-12-31,men,3000 m steeplechase,1,gold,athlete,Saif Saaeed Shaheen,Qatar,QAT,8:04.39
+2003,2003-12-31,men,3000 m steeplechase,2,silver,athlete,Ezekiel Kemboi,Kenya,KEN,8:05.11
+2003,2003-12-31,men,3000 m steeplechase,3,bronze,athlete,Eliseo Martin,Spain,ESP,8:09.09 (PB)
+2003,2003-12-31,men,4 × 100 m relay,1,gold,team,,United States,USA,38.06
+2003,2003-12-31,men,4 × 100 m relay,2,silver,team,,Brazil,BRA,38.26 (SB)
+2003,2003-12-31,men,4 × 100 m relay,3,bronze,team,,Netherlands,NLD,38.87
+2003,2003-12-31,men,4 × 400 m relay,1,gold,team,,France,FRA,2:58.96 2 (NR)
+2003,2003-12-31,men,4 × 400 m relay,2,silver,team,,Jamaica,JAM,2:59.60 (SB)
+2003,2003-12-31,men,4 × 400 m relay,3,bronze,team,,Bahamas,BHS,3:00.53 (SB)
+2003,2003-12-31,men,400 m,1,gold,athlete,Tyree Washington,United States,USA,44.77 1
+2003,2003-12-31,men,400 m,2,silver,athlete,Marc Raquil,France,FRA,44.79 (NR)
+2003,2003-12-31,men,400 m,3,bronze,athlete,Michael Blackwood,Jamaica,JAM,44.80
+2003,2003-12-31,men,400 m hurdles,1,gold,athlete,Félix Sánchez,Dominican Republic,DOM,47.25 (WL)
+2003,2003-12-31,men,400 m hurdles,2,silver,athlete,Joey Woody,United States,USA,48.18 (SB)
+2003,2003-12-31,men,400 m hurdles,3,bronze,athlete,Periklís Iakovákis,Greece,GRC,48.24
+2003,2003-12-31,men,50 km race walk,1,gold,athlete,Robert Korzeniowski,Poland,POL,3:36:03 (WBP)
+2003,2003-12-31,men,50 km race walk,3,bronze,athlete,Andreas Erm,Germany,DEU,3:37:46 (NR)
+2003,2003-12-31,men,5000 m,1,gold,athlete,Eliud Kipchoge,Kenya,KEN,12:52.79 (CR)
+2003,2003-12-31,men,5000 m,2,silver,athlete,Hicham El Guerrouj,Morocco,MAR,12:52.83
+2003,2003-12-31,men,5000 m,3,bronze,athlete,Kenenisa Bekele,Ethiopia,ETH,12:53.12
+2003,2003-12-31,men,800 m,1,gold,athlete,Djabir Saïd-Guerni,Algeria,DZA,1:44.81
+2003,2003-12-31,men,800 m,3,bronze,athlete,Mbulaeni Mulaudzi,South Africa,ZAF,1:44.90
+2003,2003-12-31,men,Decathlon,1,gold,athlete,Tom Pappas,United States,USA,8750
+2003,2003-12-31,men,Decathlon,2,silver,athlete,Roman Šebrle,Czech Republic,CZE,8634
+2003,2003-12-31,men,Decathlon,3,bronze,athlete,Dmitry Karpov,Kazakhstan,KAZ,8374 (NR)
+2003,2003-12-31,men,Discus,1,gold,athlete,Virgilijus Alekna,Lithuania,LTU,69.69 (SB)
+2003,2003-12-31,men,Discus,2,silver,athlete,Róbert Fazekas,Hungary,HUN,69.01
+2003,2003-12-31,men,Discus,3,bronze,athlete,Vasiliy Kaptyukh,Belarus,BLR,66.51 (SB)
+2003,2003-12-31,men,Hammer,1,gold,athlete,Ivan Tikhon,Belarus,BLR,83.05
+2003,2003-12-31,men,Hammer,2,silver,athlete,Adrián Annus,Hungary,HUN,80.36
+2003,2003-12-31,men,Hammer,3,bronze,athlete,Koji Murofushi,Japan,JPN,80.12
+2003,2003-12-31,men,High jump,1,gold,athlete,Jacques Freitag,South Africa,ZAF,2.35 (SB)
+2003,2003-12-31,men,High jump,2,silver,athlete,Stefan Holm,Sweden,SWE,2.32
+2003,2003-12-31,men,High jump,3,bronze,athlete,Mark Boswell,Canada,CAN,2.32 (SB)
+2003,2003-12-31,men,Javelin,2,silver,athlete,Andrus Värnik,Estonia,EST,85.17
+2003,2003-12-31,men,Javelin,3,bronze,athlete,Boris Henry,Germany,DEU,84.74
+2003,2003-12-31,men,Long jump,1,gold,athlete,Dwight Phillips,United States,USA,8.32
+2003,2003-12-31,men,Long jump,2,silver,athlete,James Beckford,Jamaica,JAM,8.28 (SB)
+2003,2003-12-31,men,Long jump,3,bronze,athlete,Yago Lamela,Spain,ESP,8.22
+2003,2003-12-31,men,Marathon,1,gold,athlete,Jaouad Gharib,Morocco,MAR,2:08:31 (CR)
+2003,2003-12-31,men,Marathon,2,silver,athlete,Julio Rey,Spain,ESP,2:08:38
+2003,2003-12-31,men,Marathon,3,bronze,athlete,Stefano Baldini,Italy,ITA,2:09:14
+2003,2003-12-31,men,Pole vault,1,gold,athlete,Giuseppe Gibilisco,Italy,ITA,5.90 (NR)
+2003,2003-12-31,men,Pole vault,2,silver,athlete,Okkert Brits,South Africa,ZAF,5.85 (SB)
+2003,2003-12-31,men,Pole vault,3,bronze,athlete,Patrik Kristiansson,Sweden,SWE,5.85 (PB)
+2003,2003-12-31,men,Shot put,1,gold,athlete,Andrei Mikhnevich,Belarus,BLR,21.69 (PB)
+2003,2003-12-31,men,Shot put,2,silver,athlete,Adam Nelson,United States,USA,21.26
+2003,2003-12-31,men,Shot put,3,bronze,athlete,Yuriy Bilonoh,Ukraine,UKR,21.10
+2003,2003-12-31,men,Triple jump,1,gold,athlete,Christian Olsson,Sweden,SWE,17.72
+2003,2003-12-31,men,Triple jump,2,silver,athlete,Yoandri Betanzos,Cuba,CUB,17.28 (SB)
+2003,2003-12-31,men,Triple jump,3,bronze,athlete,Leevan Sands,Bahamas,BHS,17.26
+2003,2003-12-31,women,"10,000 m",1,gold,athlete,Berhane Adere,Ethiopia,ETH,30:04.18 (CR)
+2003,2003-12-31,women,"10,000 m",2,silver,athlete,Werknesh Kidane,Ethiopia,ETH,30:07.15 (PB)
+2003,2003-12-31,women,"10,000 m",3,bronze,athlete,Sun Yingjie,China,CHN,30:07.20 (PB)
+2003,2003-12-31,women,100 m,1,gold,athlete,Torri Edwards,United States,USA,10.93 (PB)
+2003,2003-12-31,women,100 m,2,silver,athlete,Chandra Sturrup,Bahamas,BHS,11.02
+2003,2003-12-31,women,100 m,3,bronze,athlete,Ekaterini Thanou,Greece,GRC,11.03 (SB)
+2003,2003-12-31,women,100 m hurdles,1,gold,athlete,Perdita Felicien,Canada,CAN,12.53 (NR)
+2003,2003-12-31,women,100 m hurdles,2,silver,athlete,Brigitte Foster,Jamaica,JAM,12.57
+2003,2003-12-31,women,100 m hurdles,3,bronze,athlete,Miesha McKelvy,United States,USA,12.67
+2003,2003-12-31,women,1500 m,3,bronze,athlete,Hayley Tullett,Great Britain,GBR,3:59.95 (PB)
+2003,2003-12-31,women,20 km walk,2,silver,athlete,Gillian O'Sullivan,Ireland,IRL,1:27:34
+2003,2003-12-31,women,20 km walk,3,bronze,athlete,Valentina Tsybulskaya,Belarus,BLR,1:28:10 (NR)
+2003,2003-12-31,women,200 m,2,silver,athlete,Torri Edwards,United States,USA,22.47
+2003,2003-12-31,women,200 m,3,bronze,athlete,Muriel Hurtis,France,FRA,22.59
+2003,2003-12-31,women,4 × 100 m relay,1,gold,team,,France,FRA,41.78 (WL)
+2003,2003-12-31,women,4 × 100 m relay,2,silver,team,,United States,USA,41.83 (SB)
+2003,2003-12-31,women,4 × 400 m relay,1,gold,team,,United States,USA,3:22.63 (WL)
+2003,2003-12-31,women,4 × 400 m relay,3,bronze,team,,Jamaica,JAM,3:22.92 (SB)
+2003,2003-12-31,women,400 m,1,gold,athlete,Ana Guevara,Mexico,MEX,48.89 (PB)
+2003,2003-12-31,women,400 m,2,silver,athlete,Lorraine Fenton,Jamaica,JAM,49.43 (SB)
+2003,2003-12-31,women,400 m,3,bronze,athlete,Amy Mbacké Thiam,Senegal,SEN,49.95 (SB)
+2003,2003-12-31,women,400 m hurdles,1,gold,athlete,Jana Pittman,Australia,AUS,53.22 (PB)
+2003,2003-12-31,women,400 m hurdles,2,silver,athlete,Sandra Glover,United States,USA,53.65 (SB)
+2003,2003-12-31,women,5000 m,1,gold,athlete,Tirunesh Dibaba,Ethiopia,ETH,14:51.72
+2003,2003-12-31,women,5000 m,2,silver,athlete,Marta Domínguez,Spain,ESP,14:52.26
+2003,2003-12-31,women,5000 m,3,bronze,athlete,Edith Masai,Kenya,KEN,14:52.30
+2003,2003-12-31,women,800 m,1,gold,athlete,Maria Mutola,Mozambique,MOZ,1:59.89
+2003,2003-12-31,women,800 m,2,silver,athlete,Kelly Holmes,Great Britain,GBR,2:00.18
+2003,2003-12-31,women,Discus throw,1,gold,athlete,Irina Yatchenko,Belarus,BLR,67.32 (SB)
+2003,2003-12-31,women,Discus throw,2,silver,athlete,Anastasia Kelesidou,Greece,GRC,67.14 (SB)
+2003,2003-12-31,women,Discus throw,3,bronze,athlete,Ekaterini Voggoli,Greece,GRC,66.73 (PB)
+2003,2003-12-31,women,Hammer throw,1,gold,athlete,Yipsi Moreno,Cuba,CUB,73.33
+2003,2003-12-31,women,Hammer throw,3,bronze,athlete,Manuela Montebrun,France,FRA,70.92
+2003,2003-12-31,women,Heptathlon,1,gold,athlete,Carolina Klüft,Sweden,SWE,7001 (WL)
+2003,2003-12-31,women,Heptathlon,2,silver,athlete,Eunice Barber,France,FRA,6755 (SB)
+2003,2003-12-31,women,Heptathlon,3,bronze,athlete,Natallia Sazanovich,Belarus,BLR,6524 (SB)
+2003,2003-12-31,women,High jump,1,gold,athlete,Hestrie Cloete,South Africa,ZAF,"2.06 (WL, AR)"
+2003,2003-12-31,women,High jump,3,bronze,athlete,Kajsa Bergqvist,Sweden,SWE,2.00
+2003,2003-12-31,women,Javelin throw,1,gold,athlete,Mirela Manjani,Greece,GRC,66.52 (WL)
+2003,2003-12-31,women,Javelin throw,3,bronze,athlete,Steffi Nerius,Germany,DEU,62.70
+2003,2003-12-31,women,Long jump,1,gold,athlete,Eunice Barber,France,FRA,6.99 (SB)
+2003,2003-12-31,women,Long jump,3,bronze,athlete,Anju Bobby George,India,IND,6.70 (SB)
+2003,2003-12-31,women,Marathon,1,gold,athlete,Catherine Ndereba,Kenya,KEN,2:23:55 (CR)
+2003,2003-12-31,women,Marathon,2,silver,athlete,Mizuki Noguchi,Japan,JPN,2:24:14
+2003,2003-12-31,women,Marathon,3,bronze,athlete,Masako Chiba,Japan,JPN,2:25:09
+2003,2003-12-31,women,Pole vault,2,silver,athlete,Annika Becker,Germany,DEU,4.70 (SB)
+2003,2003-12-31,women,Shot put,2,silver,athlete,Nadzeya Astapchuk,Belarus,BLR,20.12 (PB)
+2003,2003-12-31,women,Shot put,3,bronze,athlete,Vita Pavlysh,Ukraine,UKR,20.08 (SB)
+2003,2003-12-31,women,Triple jump,2,silver,athlete,Françoise Mbango Etone,Cameroon,CMR,15.05 (AR)
+2003,2003-12-31,women,Triple jump,3,bronze,athlete,Magdelín Martínez,Italy,ITA,14.90 (NR)
+2005,2005-12-31,men,"10,000 m",1,gold,athlete,Kenenisa Bekele,Ethiopia,ETH,27:08.33
+2005,2005-12-31,men,"10,000 m",2,silver,athlete,Sileshi Sihine,Ethiopia,ETH,27:08.87
+2005,2005-12-31,men,"10,000 m",3,bronze,athlete,Moses Mosop,Kenya,KEN,27:08.96 PB
+2005,2005-12-31,men,100 m,1,gold,athlete,Justin Gatlin,United States,USA,9.88 SB
+2005,2005-12-31,men,100 m,2,silver,athlete,Michael Frater,Jamaica,JAM,10.05
+2005,2005-12-31,men,100 m,3,bronze,athlete,Kim Collins,Saint Kitts and Nevis,KNA,10.05
+2005,2005-12-31,men,110 m hurdles,1,gold,athlete,Ladji Doucouré,France,FRA,13.07
+2005,2005-12-31,men,110 m hurdles,2,silver,athlete,Liu Xiang,China,CHN,13.08
+2005,2005-12-31,men,110 m hurdles,3,bronze,athlete,Allen Johnson,United States,USA,13.10
+2005,2005-12-31,men,1500 m,1,gold,athlete,Rashid Ramzi,Bahrain,BHR,3:37.88
+2005,2005-12-31,men,1500 m,2,silver,athlete,Adil Kaouch,Morocco,MAR,3:38.00 SB
+2005,2005-12-31,men,1500 m,3,bronze,athlete,Rui Silva,Portugal,PRT,3:38.02
+2005,2005-12-31,men,20 km walk,1,gold,athlete,Jefferson Pérez,Ecuador,ECU,1:18:35 SB
+2005,2005-12-31,men,20 km walk,2,silver,athlete,Paquillo Fernández,Spain,ESP,1:19:36
+2005,2005-12-31,men,20 km walk,3,bronze,athlete,Juan Manuel Molina,Spain,ESP,1:19:44 PB
+2005,2005-12-31,men,200 m,1,gold,athlete,Justin Gatlin,United States,USA,20.04
+2005,2005-12-31,men,200 m,2,silver,athlete,Wallace Spearmon,United States,USA,20.20
+2005,2005-12-31,men,200 m,3,bronze,athlete,John Capel,United States,USA,20.31 SB
+2005,2005-12-31,men,3000 m s'chase,1,gold,athlete,Saif Saaeed Shaheen,Qatar,QAT,8:13.31
+2005,2005-12-31,men,3000 m s'chase,2,silver,athlete,Ezekiel Kemboi,Kenya,KEN,8:14.95
+2005,2005-12-31,men,3000 m s'chase,3,bronze,athlete,Brimin Kipruto,Kenya,KEN,8:15.30
+2005,2005-12-31,men,400 m,1,gold,athlete,Jeremy Wariner,United States,USA,43.93 WL
+2005,2005-12-31,men,400 m,2,silver,athlete,Andrew Rock,United States,USA,44.35 PB
+2005,2005-12-31,men,400 m,3,bronze,athlete,Tyler Christopher,Canada,CAN,44.44 NR
+2005,2005-12-31,men,400 m hurdles,1,gold,athlete,Bershawn Jackson,United States,USA,47.30 PB
+2005,2005-12-31,men,400 m hurdles,2,silver,athlete,James Carter,United States,USA,47.43 PB
+2005,2005-12-31,men,400 m hurdles,3,bronze,athlete,Dai Tamesue,Japan,JPN,48.10 SB
+2005,2005-12-31,men,50 km walk,3,bronze,athlete,Alex Schwazer,Italy,ITA,3:41:54 NR
+2005,2005-12-31,men,5000 m,1,gold,athlete,Benjamin Limo,Kenya,KEN,13:32.55
+2005,2005-12-31,men,5000 m,2,silver,athlete,Sileshi Sihine,Ethiopia,ETH,13:32.81
+2005,2005-12-31,men,5000 m,3,bronze,athlete,Craig Mottram,Australia,AUS,13:32.96
+2005,2005-12-31,men,800 m,1,gold,athlete,Rashid Ramzi,Bahrain,BHR,1:44.24 PB
+2005,2005-12-31,men,800 m,3,bronze,athlete,William Yiampoy,Kenya,KEN,1:44.55
+2005,2005-12-31,men,Decathlon,1,gold,athlete,Bryan Clay,United States,USA,8732 WL
+2005,2005-12-31,men,Decathlon,2,silver,athlete,Roman Šebrle,Czech Republic,CZE,8521
+2005,2005-12-31,men,Decathlon,3,bronze,athlete,Attila Zsivoczky,Hungary,HUN,8385
+2005,2005-12-31,men,Discus throw,1,gold,athlete,Virgilijus Alekna,Lithuania,LTU,70.17 CR
+2005,2005-12-31,men,Discus throw,2,silver,athlete,Gerd Kanter,Estonia,EST,68.57
+2005,2005-12-31,men,Discus throw,3,bronze,athlete,Michael Möllenbeck,Germany,DEU,65.95
+2005,2005-12-31,men,Hammer throw,1,gold,athlete,Vadim Devyatovskiy,Belarus,BLR,82.60
+2005,2005-12-31,men,Hammer throw,2,silver,athlete,Szymon Ziółkowski,Poland,POL,79.35 SB
+2005,2005-12-31,men,Hammer throw,3,bronze,athlete,Markus Esser,Germany,DEU,79.16
+2005,2005-12-31,men,Javelin throw,1,gold,athlete,Andrus Värnik,Estonia,EST,87.17
+2005,2005-12-31,men,Javelin throw,2,silver,athlete,Andreas Thorkildsen,Norway,NOR,86.18
+2005,2005-12-31,men,Long jump,1,gold,athlete,Dwight Phillips,United States,USA,8.60 WL
+2005,2005-12-31,men,Long jump,2,silver,athlete,Ignisious Gaisah,Ghana,GHA,8.34 NR
+2005,2005-12-31,men,Long jump,3,bronze,athlete,Tommi Evilä,Finland,FIN,8.25
+2005,2005-12-31,men,Marathon,1,gold,athlete,Jaouad Gharib,Morocco,MAR,2:10:10
+2005,2005-12-31,men,Marathon,2,silver,athlete,Christopher Isengwe,Tanzania,TZA,2:10:21 PB
+2005,2005-12-31,men,Marathon,3,bronze,athlete,Tsuyoshi Ogata,Japan,JPN,2:11:16 SB
+2005,2005-12-31,men,Pole vault,1,gold,athlete,Rens Blom,Netherlands,NLD,5.80 SB
+2005,2005-12-31,men,Pole vault,2,silver,athlete,Brad Walker,United States,USA,5.75
+2005,2005-12-31,men,Shot put,1,gold,athlete,Adam Nelson,United States,USA,21.73 SB
+2005,2005-12-31,men,Shot put,2,silver,athlete,Rutger Smith,Netherlands,NLD,21.29
+2005,2005-12-31,men,Shot put,3,bronze,athlete,Ralf Bartels,Germany,DEU,20.99
+2005,2005-12-31,men,Triple jump,1,gold,athlete,Walter Davis,United States,USA,17.57 SB
+2005,2005-12-31,men,Triple jump,2,silver,athlete,Yoandri Betanzos,Cuba,CUB,17.42 SB
+2005,2005-12-31,men,Triple jump,3,bronze,athlete,Marian Oprea,Romania,ROU,17.40
+2005,2005-12-31,women,"10,000 m",1,gold,athlete,Tirunesh Dibaba,Ethiopia,ETH,30:24.02
+2005,2005-12-31,women,"10,000 m",2,silver,athlete,Berhane Adere,Ethiopia,ETH,30:25.41 SB
+2005,2005-12-31,women,"10,000 m",3,bronze,athlete,Ejegayehu Dibaba,Ethiopia,ETH,30:26.00
+2005,2005-12-31,women,100 m,1,gold,athlete,Lauryn Williams,United States,USA,10.93
+2005,2005-12-31,women,100 m,2,silver,athlete,Veronica Campbell,Jamaica,JAM,10.95 SB
+2005,2005-12-31,women,100 m,3,bronze,athlete,Christine Arron,France,FRA,10.98
+2005,2005-12-31,women,100 m hurdles,1,gold,athlete,Michelle Perry,United States,USA,12.66
+2005,2005-12-31,women,100 m hurdles,2,silver,athlete,Delloreen Ennis-London,Jamaica,JAM,12.76
+2005,2005-12-31,women,100 m hurdles,3,bronze,athlete,Brigitte Foster-Hylton,Jamaica,JAM,12.76
+2005,2005-12-31,women,1500 m,3,bronze,athlete,Bouchra Ghezielle,France,FRA,4:02.45
+2005,2005-12-31,women,20 km walk,2,silver,athlete,Ryta Turava,Belarus,BLR,1:27:05 NR
+2005,2005-12-31,women,20 km walk,3,bronze,athlete,Susana Feitor,Portugal,PRT,1:28:44 SB
+2005,2005-12-31,women,200 m,1,gold,athlete,Allyson Felix,United States,USA,22.16
+2005,2005-12-31,women,200 m,2,silver,athlete,Rachelle Boone-Smith,United States,USA,22.31
+2005,2005-12-31,women,200 m,3,bronze,athlete,Christine Arron,France,FRA,22.31 SB
+2005,2005-12-31,women,3000 m s'chase,1,gold,athlete,Dorcus Inzikuru,Uganda,UGA,9:18.24 CR
+2005,2005-12-31,women,3000 m s'chase,3,bronze,athlete,Jeruto Kiptum,Kenya,KEN,9:26.95 NR
+2005,2005-12-31,women,4 × 100 m relay,1,gold,team,,United States,USA,41.78 WL
+2005,2005-12-31,women,4 × 100 m relay,2,silver,team,,Jamaica,JAM,41.99 SB
+2005,2005-12-31,women,4 × 100 m relay,3,bronze,team,,Belarus,BLR,42.56 NR
+2005,2005-12-31,women,4 × 400 m relay,2,silver,team,,Jamaica,JAM,3:23.29 SB
+2005,2005-12-31,women,4 × 400 m relay,3,bronze,team,,Great Britain,GBR,3:24.44 SB
+2005,2005-12-31,women,400 m,1,gold,athlete,Tonique Williams-Darling,Bahamas,BHS,49.55 SB
+2005,2005-12-31,women,400 m,2,silver,athlete,Sanya Richards,United States,USA,49.74
+2005,2005-12-31,women,400 m,3,bronze,athlete,Ana Guevara,Mexico,MEX,49.81
+2005,2005-12-31,women,400 m hurdles,2,silver,athlete,Lashinda Demus,United States,USA,53.27 PB
+2005,2005-12-31,women,400 m hurdles,3,bronze,athlete,Sandra Glover,United States,USA,53.32 PB
+2005,2005-12-31,women,5000 m,1,gold,athlete,Tirunesh Dibaba,Ethiopia,ETH,14:38.59 CR
+2005,2005-12-31,women,5000 m,2,silver,athlete,Meseret Defar,Ethiopia,ETH,14:39.54
+2005,2005-12-31,women,5000 m,3,bronze,athlete,Ejegayehu Dibaba,Ethiopia,ETH,14:42.47
+2005,2005-12-31,women,800 m,1,gold,athlete,Zulia Calatayud,Cuba,CUB,1:58.82
+2005,2005-12-31,women,800 m,2,silver,athlete,Hasna Benhassi,Morocco,MAR,1:59.42
+2005,2005-12-31,women,Discus throw,1,gold,athlete,Franka Dietzsch,Germany,DEU,66.56 SB
+2005,2005-12-31,women,Discus throw,3,bronze,athlete,Věra Pospíšilová-Cechlová,Czech Republic,CZE,63.19
+2005,2005-12-31,women,Hammer throw,1,gold,athlete,Yipsi Moreno,Cuba,CUB,73.08
+2005,2005-12-31,women,Hammer throw,3,bronze,athlete,Manuela Montebrun,France,FRA,71.41
+2005,2005-12-31,women,Heptathlon,1,gold,athlete,Carolina Klüft,Sweden,SWE,6887 SB
+2005,2005-12-31,women,Heptathlon,2,silver,athlete,Eunice Barber,France,FRA,6824
+2005,2005-12-31,women,Heptathlon,3,bronze,athlete,Margaret Simpson,Ghana,GHA,6375
+2005,2005-12-31,women,High jump,1,gold,athlete,Kajsa Bergqvist,Sweden,SWE,2.02 WL
+2005,2005-12-31,women,High jump,2,silver,athlete,Chaunte Howard,United States,USA,2.00 PB
+2005,2005-12-31,women,High jump,3,bronze,athlete,Emma Green,Sweden,SWE,1.96 PB
+2005,2005-12-31,women,Javelin throw,1,gold,athlete,Osleidys Menéndez,Cuba,CUB,71.70 WR
+2005,2005-12-31,women,Javelin throw,2,silver,athlete,Christina Obergföll,Germany,DEU,70.03 AR
+2005,2005-12-31,women,Javelin throw,3,bronze,athlete,Steffi Nerius,Germany,DEU,65.96
+2005,2005-12-31,women,Long jump,1,gold,athlete,Tianna Madison,United States,USA,6.89 PB
+2005,2005-12-31,women,Long jump,2,silver,athlete,Eunice Barber,France,FRA,6.76
+2005,2005-12-31,women,Long jump,3,bronze,athlete,Yargelis Savigne,Cuba,CUB,6.69
+2005,2005-12-31,women,Marathon,1,gold,athlete,Paula Radcliffe,Great Britain,GBR,2:20:57 CR
+2005,2005-12-31,women,Marathon,2,silver,athlete,Catherine Ndereba,Kenya,KEN,2:22:01 SB
+2005,2005-12-31,women,Marathon,3,bronze,athlete,Constantina Tomescu,Romania,ROU,2:23:19
+2005,2005-12-31,women,Pole vault,2,silver,athlete,Monika Pyrek,Poland,POL,4.60
+2005,2005-12-31,women,Pole vault,3,bronze,athlete,Pavla Hamáčková,Czech Republic,CZE,4.50
+2005,2005-12-31,women,Shot put,2,silver,athlete,Valerie Vili,New Zealand,NZL,19.62
+2005,2005-12-31,women,Shot put,3,bronze,athlete,Nadine Kleinert,Germany,DEU,19.07
+2005,2005-12-31,women,T12 Visually impaired 200 m women,1,gold,athlete,Adria Santos,Brazil,BRA,26.99
+2005,2005-12-31,women,T12 Visually impaired 200 m women,2,silver,athlete,Purificacion Santamarta,Spain,ESP,27.08
+2005,2005-12-31,women,T12 Visually impaired 200 m women,3,bronze,athlete,Paraskeví Kantza,Greece,GRC,28.32 (PB)
+2005,2005-12-31,women,T54 Wheelchair racing 100 m men,1,gold,athlete,David Weir,United Kingdom,GBR,14.15 NR
+2005,2005-12-31,women,T54 Wheelchair racing 100 m men,2,silver,athlete,Kenny van Weeghel,Netherlands,NLD,14.19
+2005,2005-12-31,women,T54 Wheelchair racing 100 m men,3,bronze,athlete,Leo-Pekka Tähti,Finland,FIN,14.22
+2005,2005-12-31,women,T54 Wheelchair racing 200 m men,1,gold,athlete,David Weir,United Kingdom,GBR,25.47
+2005,2005-12-31,women,T54 Wheelchair racing 200 m men,2,silver,athlete,Kenny van Weeghel,Netherlands,NLD,25.80
+2005,2005-12-31,women,T54 Wheelchair racing 200 m men,3,bronze,athlete,Supachai Koysub,Thailand,THA,26.03
+2005,2005-12-31,women,Triple jump,1,gold,athlete,Trecia Smith,Jamaica,JAM,15.11 WL
+2005,2005-12-31,women,Triple jump,2,silver,athlete,Yargelis Savigne,Cuba,CUB,14.82 PB
+2005,2005-12-31,women,Wheelchair javelin men,1,gold,athlete,Jacques Martin,Canada,CAN,24.97
+2005,2005-12-31,women,Wheelchair javelin men,2,silver,athlete,Markku Niinimäki,Finland,FIN,23.82
+2005,2005-12-31,women,Wheelchair javelin men,3,bronze,athlete,Gerasimos Vrionis,Greece,GRC,16.75
+2007,2007-12-31,men,4 × 100 metres relay,1,gold,team,,United States,USA,37.78 WL
+2007,2007-12-31,men,4 × 100 metres relay,2,silver,team,,Jamaica,JAM,37.89 NR
+2007,2007-12-31,men,4 × 100 metres relay,3,bronze,team,,Great Britain & N.I.,GBR,37.90 SB
+2007,2007-12-31,men,4 × 400 metres relay,1,gold,team,,United States,USA,2:55.56 WL
+2007,2007-12-31,men,4 × 400 metres relay,2,silver,team,,Bahamas,BHS,2:59.18 SB
+2007,2007-12-31,men,4 × 400 metres relay,3,bronze,team,,Poland,POL,3:00.05 SB
+2007,2007-12-31,women,4 × 100 metres relay,1,gold,team,,United States,USA,41.98 WL
+2007,2007-12-31,women,4 × 100 metres relay,2,silver,team,,Jamaica,JAM,42.01 SB
+2007,2007-12-31,women,4 × 100 metres relay,3,bronze,team,,Belgium,BEL,42.75 NR
+2007,2007-12-31,women,4 × 400 metres relay,1,gold,team,,United States,USA,3:18.55 WL
+2007,2007-12-31,women,4 × 400 metres relay,2,silver,team,,Jamaica,JAM,3:19.73 NR
+2007,2007-12-31,women,4 × 400 metres relay,3,bronze,team,,Great Britain & N.I.,GBR,3:20.04 NR
+2009,2009-12-31,men,4 × 100 metres relay,1,gold,team,,Jamaica,JAM,37.31 WR
+2009,2009-12-31,men,4 × 100 metres relay,2,silver,team,,Trinidad and Tobago,TTO,37.62 NR
+2009,2009-12-31,men,4 × 100 metres relay,3,bronze,team,,Great Britain & N.I.,GBR,38.02 SB
+2009,2009-12-31,men,4 × 400 metres relay,1,gold,team,,United States,USA,2:57.86 WL
+2009,2009-12-31,men,4 × 400 metres relay,2,silver,team,,Great Britain & N.I.,GBR,3:00.53 SB
+2009,2009-12-31,men,4 × 400 metres relay,3,bronze,team,,Australia,AUS,3:00.90 SB
+2009,2009-12-31,women,4 × 100 metres relay,1,gold,team,,Jamaica,JAM,42.06
+2009,2009-12-31,women,4 × 100 metres relay,2,silver,team,,Bahamas,BHS,42.29 SB
+2009,2009-12-31,women,4 × 100 metres relay,3,bronze,team,,Germany,DEU,42.87 SB
+2009,2009-12-31,women,4 × 400 metres relay,1,gold,team,,United States,USA,3:17.83 WL
+2009,2009-12-31,women,4 × 400 metres relay,2,silver,team,,Jamaica,JAM,3:21.15 SB
+2009,2009-12-31,women,4 × 400 metres relay,3,bronze,team,,Great Britain & N.I.,GBR,3:25.16
+2011,2011-12-31,men,4 × 100 metres relay,1,gold,team,,Jamaica,JAM,37.04 WR
+2011,2011-12-31,men,4 × 100 metres relay,2,silver,team,,France,FRA,38.20 SB
+2011,2011-12-31,men,4 × 100 metres relay,3,bronze,team,,Saint Kitts and Nevis,KNA,38.49
+2011,2011-12-31,men,4 × 400 metres relay,1,gold,team,,United States,USA,2:59.31 WL
+2011,2011-12-31,men,4 × 400 metres relay,2,silver,team,,South Africa,ZAF,2:59.87
+2011,2011-12-31,men,4 × 400 metres relay,3,bronze,team,,Jamaica,JAM,3:00.10
+2011,2011-12-31,women,4 × 100 metres relay,1,gold,team,,United States,USA,41.56 WL
+2011,2011-12-31,women,4 × 100 metres relay,2,silver,team,,Jamaica,JAM,41.70 NR
+2011,2011-12-31,women,4 × 100 metres relay,3,bronze,team,,Ukraine,UKR,42.51 SB
+2011,2011-12-31,women,4 × 400 metres relay,1,gold,team,,United States,USA,3:18.09 WL
+2011,2011-12-31,women,4 × 400 metres relay,2,silver,team,,Jamaica,JAM,3:18.71 NR
+2011,2011-12-31,women,4 × 400 metres relay,3,bronze,team,,Great Britain & N.I.,GBR,3:23.63
+2013,2013-12-31,men,4 × 100 metres relay,1,gold,team,,Jamaica,JAM,37.36 WL
+2013,2013-12-31,men,4 × 100 metres relay,2,silver,team,,United States,USA,37.66
+2013,2013-12-31,men,4 × 100 metres relay,3,bronze,team,,Canada,CAN,37.92 SB
+2013,2013-12-31,men,4 × 400 metres relay,1,gold,team,,United States,USA,2:58.71 WL
+2013,2013-12-31,men,4 × 400 metres relay,2,silver,team,,Jamaica,JAM,2:59.88 SB
+2013,2013-12-31,men,4 × 400 metres relay,3,bronze,team,,Great Britain & N.I.,GBR,3:00.88
+2013,2013-12-31,women,4 × 100 metres relay,1,gold,team,,Jamaica,JAM,"41.29 WL , CR"
+2013,2013-12-31,women,4 × 100 metres relay,2,silver,team,,United States,USA,42.75
+2013,2013-12-31,women,4 × 100 metres relay,3,bronze,team,,Great Britain & N.I.,GBR,42.87
+2013,2013-12-31,women,4 × 400 metres relay,1,gold,team,,United States,USA,3:20.41 SB
+2013,2013-12-31,women,4 × 400 metres relay,2,silver,team,,Great Britain & N.I.,GBR,3:22.61 SB
+2013,2013-12-31,women,4 × 400 metres relay,3,bronze,team,,France,FRA,3:24.21
+2015,2015-12-31,men,4 × 100 metres relay,1,gold,team,,Jamaica,JAM,37.36 WL
+2015,2015-12-31,men,4 × 100 metres relay,2,silver,team,,China,CHN,38.01
+2015,2015-12-31,men,4 × 100 metres relay,3,bronze,team,,Canada,CAN,38.13
+2015,2015-12-31,men,4 × 400 metres relay,1,gold,team,,United States,USA,2:57.82 WL
+2015,2015-12-31,men,4 × 400 metres relay,2,silver,team,,Trinidad and Tobago,TTO,2:58.20 NR
+2015,2015-12-31,men,4 × 400 metres relay,3,bronze,team,,Great Britain & N.I.,GBR,2:58.51
+2015,2015-12-31,women,4 × 100 metres relay,1,gold,team,,Jamaica,JAM,41.07 CR WL
+2015,2015-12-31,women,4 × 100 metres relay,2,silver,team,,United States,USA,41.68
+2015,2015-12-31,women,4 × 100 metres relay,3,bronze,team,,Trinidad and Tobago,TTO,42.03 NR
+2015,2015-12-31,women,4 × 400 metres relay,1,gold,team,,Jamaica,JAM,3:19.13 WL
+2015,2015-12-31,women,4 × 400 metres relay,2,silver,team,,United States,USA,3:19.44
+2015,2015-12-31,women,4 × 400 metres relay,3,bronze,team,,Great Britain & N.I.,GBR,3:23.62
+2017,2017-12-31,men,4 × 100 metres relay,1,gold,team,,Great Britain & N.I.,GBR,"37.47 WL , AR"
+2017,2017-12-31,men,4 × 100 metres relay,2,silver,team,,United States,USA,37.52 SB
+2017,2017-12-31,men,4 × 100 metres relay,3,bronze,team,,Japan,JPN,38.04 SB
+2017,2017-12-31,men,4 × 400 metres relay,1,gold,team,,Trinidad and Tobago,TTO,"2:58.12 WL , NR"
+2017,2017-12-31,men,4 × 400 metres relay,2,silver,team,,United States,USA,2:58.61 SB
+2017,2017-12-31,men,4 × 400 metres relay,3,bronze,team,,Great Britain & N.I.,GBR,2:59.00 SB
+2017,2017-12-31,women,4 × 100 metres relay,1,gold,team,,United States,USA,41.82 WL
+2017,2017-12-31,women,4 × 100 metres relay,2,silver,team,,Great Britain & N.I.,GBR,42.12
+2017,2017-12-31,women,4 × 100 metres relay,3,bronze,team,,Jamaica,JAM,42.19 SB
+2017,2017-12-31,women,4 × 400 metres relay,1,gold,team,,United States,USA,3:19:02 WL
+2017,2017-12-31,women,4 × 400 metres relay,2,silver,team,,Great Britain & N.I.,GBR,3:25:00
+2017,2017-12-31,women,4 × 400 metres relay,3,bronze,team,,Poland,POL,3:25:41 SB
+2019,2019-12-31,men,4 × 100 metres relay,1,gold,team,,United States,USA,37.10 WL
+2019,2019-12-31,men,4 × 100 metres relay,2,silver,team,,Great Britain,GBR,37.36 AR
+2019,2019-12-31,men,4 × 100 metres relay,3,bronze,team,,Japan,JPN,37.43 AR
+2019,2019-12-31,men,4 × 400 metres relay,1,gold,team,,United States,USA,2:56.69 WL
+2019,2019-12-31,men,4 × 400 metres relay,2,silver,team,,Jamaica,JAM,2:57.90 SB
+2019,2019-12-31,men,4 × 400 metres relay,3,bronze,team,,Belgium,BEL,2:58.78 SB
+2019,2019-12-31,mixed,4 × 400 metres relay,1,gold,team,,United States,USA,3:09.34 WR
+2019,2019-12-31,mixed,4 × 400 metres relay,2,silver,team,,Jamaica,JAM,3:11.78 NR
+2019,2019-12-31,mixed,4 × 400 metres relay,3,bronze,team,,Bahrain,BHR,3:11.82 AR
+2019,2019-12-31,women,4 × 100 metres relay,1,gold,team,,Jamaica,JAM,41.44 WL
+2019,2019-12-31,women,4 × 100 metres relay,2,silver,team,,Great Britain,GBR,41.85 SB
+2019,2019-12-31,women,4 × 100 metres relay,3,bronze,team,,United States,USA,42.10 SB
+2019,2019-12-31,women,4 × 400 metres relay,1,gold,team,,United States,USA,3:18.92 WL
+2019,2019-12-31,women,4 × 400 metres relay,2,silver,team,,Poland,POL,3:21.89 NR
+2019,2019-12-31,women,4 × 400 metres relay,3,bronze,team,,Jamaica,JAM,3:22.37 SB
+2022,2022-12-31,men,"10,000 metres",1,gold,athlete,Joshua Cheptegei,Uganda,UGA,27:27.43 SB
+2022,2022-12-31,men,"10,000 metres",2,silver,athlete,Stanley Mburu,Kenya,KEN,27:27.90 SB
+2022,2022-12-31,men,"10,000 metres",3,bronze,athlete,Jacob Kiplimo,Uganda,UGA,27:27.97 SB
+2022,2022-12-31,men,100 metres,1,gold,athlete,Fred Kerley,United States,USA,9.86
+2022,2022-12-31,men,100 metres,2,silver,athlete,Marvin Bracy,United States,USA,9.88
+2022,2022-12-31,men,100 metres,3,bronze,athlete,Trayvon Bromell,United States,USA,9.88
+2022,2022-12-31,men,110 metres hurdles,1,gold,athlete,Grant Holloway,United States,USA,13.03
+2022,2022-12-31,men,110 metres hurdles,2,silver,athlete,Trey Cunningham,United States,USA,13.08
+2022,2022-12-31,men,110 metres hurdles,3,bronze,athlete,Asier Martínez,Spain,ESP,13.17 PB
+2022,2022-12-31,men,1500 metres,1,gold,athlete,Jake Wightman,Great Britain and Northern Ireland,GBR,"3:29.23 WL , PB"
+2022,2022-12-31,men,1500 metres,2,silver,athlete,Jakob Ingebrigtsen,Norway,NOR,3:29.47 SB
+2022,2022-12-31,men,1500 metres,3,bronze,athlete,Mohamed Katir,Spain,ESP,3:29.90 SB
+2022,2022-12-31,men,20 kilometres walk,1,gold,athlete,Toshikazu Yamanishi,Japan,JPN,1:19:07
+2022,2022-12-31,men,20 kilometres walk,2,silver,athlete,Koki Ikeda,Japan,JPN,1:19:14
+2022,2022-12-31,men,20 kilometres walk,3,bronze,athlete,Perseus Karlström,Sweden,SWE,1:19:18
+2022,2022-12-31,men,200 metres,1,gold,athlete,Noah Lyles,United States,USA,"19.31 NR , WL"
+2022,2022-12-31,men,200 metres,2,silver,athlete,Kenny Bednarek,United States,USA,19.77 SB
+2022,2022-12-31,men,200 metres,3,bronze,athlete,Erriyon Knighton,United States,USA,19.80
+2022,2022-12-31,men,3000 metres steeplechase,1,gold,athlete,Soufiane El Bakkali,Morocco,MAR,8:25.13
+2022,2022-12-31,men,3000 metres steeplechase,2,silver,athlete,Lamecha Girma,Ethiopia,ETH,8:26.01
+2022,2022-12-31,men,3000 metres steeplechase,3,bronze,athlete,Conseslus Kipruto,Kenya,KEN,8:27.92
+2022,2022-12-31,men,35 kilometres walk,1,gold,athlete,Massimo Stano,Italy,ITA,"2:23:14 CR , AR"
+2022,2022-12-31,men,35 kilometres walk,2,silver,athlete,Masatora Kawano,Japan,JPN,2:23:15 AR
+2022,2022-12-31,men,35 kilometres walk,3,bronze,athlete,Perseus Karlström,Sweden,SWE,2:23:44 PB
+2022,2022-12-31,men,4 × 100 metres relay,1,gold,team,,Canada,CAN,"37.48 NR , WL"
+2022,2022-12-31,men,4 × 100 metres relay,2,silver,team,,United States,USA,37.55 SB
+2022,2022-12-31,men,4 × 100 metres relay,3,bronze,team,,Great Britain and Northern Ireland,GBR,37.83 SB
+2022,2022-12-31,men,4 × 400 metres relay,1,gold,team,,United States,USA,2:56.17 WL
+2022,2022-12-31,men,4 × 400 metres relay,2,silver,team,,Jamaica,JAM,2:58.58
+2022,2022-12-31,men,4 × 400 metres relay,3,bronze,team,,Belgium,BEL,2:58.72
+2022,2022-12-31,men,400 metres,1,gold,athlete,Michael Norman,United States,USA,44.29
+2022,2022-12-31,men,400 metres,2,silver,athlete,Kirani James,Grenada,GRD,44.48
+2022,2022-12-31,men,400 metres,3,bronze,athlete,Matthew Hudson-Smith,Great Britain and Northern Ireland,GBR,44.66
+2022,2022-12-31,men,400 metres hurdles,1,gold,athlete,Alison dos Santos,Brazil,BRA,"46.29 CR , AR , WL"
+2022,2022-12-31,men,400 metres hurdles,2,silver,athlete,Rai Benjamin,United States,USA,46.89 SB
+2022,2022-12-31,men,400 metres hurdles,3,bronze,athlete,Trevor Bassitt,United States,USA,47.39 PB
+2022,2022-12-31,men,5000 metres,1,gold,athlete,Jakob Ingebrigtsen,Norway,NOR,13:09.24
+2022,2022-12-31,men,5000 metres,2,silver,athlete,Jacob Krop,Kenya,KEN,13:09.98
+2022,2022-12-31,men,5000 metres,3,bronze,athlete,Oscar Chelimo,Uganda,UGA,13:10.20 SB
+2022,2022-12-31,men,800 metres,1,gold,athlete,Emmanuel Korir,Kenya,KEN,1:43.71 SB
+2022,2022-12-31,men,800 metres,2,silver,athlete,Djamel Sedjati,Algeria,DZA,1:44.14
+2022,2022-12-31,men,800 metres,3,bronze,athlete,Marco Arop,Canada,CAN,1:44.28
+2022,2022-12-31,men,Decathlon,1,gold,athlete,Kevin Mayer,France,FRA,8816 SB
+2022,2022-12-31,men,Decathlon,2,silver,athlete,Pierce LePage,Canada,CAN,8701 PB
+2022,2022-12-31,men,Decathlon,3,bronze,athlete,Zach Ziemek,United States,USA,8676 PB
+2022,2022-12-31,men,Discus throw,1,gold,athlete,Kristjan Čeh,Slovenia,SVN,71.13 m CR
+2022,2022-12-31,men,Discus throw,2,silver,athlete,Mykolas Alekna,Lithuania,LTU,69.27 m
+2022,2022-12-31,men,Discus throw,3,bronze,athlete,Andrius Gudžius,Lithuania,LTU,67.55 m
+2022,2022-12-31,men,Hammer throw,1,gold,athlete,Paweł Fajdek,Poland,POL,81.98 m WL
+2022,2022-12-31,men,Hammer throw,2,silver,athlete,Wojciech Nowicki,Poland,POL,81.03 m
+2022,2022-12-31,men,Hammer throw,3,bronze,athlete,Eivind Henriksen,Norway,NOR,80.87 m SB
+2022,2022-12-31,men,High jump,1,gold,athlete,Mutaz Essa Barshim,Qatar,QAT,2.37 m WL
+2022,2022-12-31,men,High jump,2,silver,athlete,Woo Sang-hyeok,South Korea,KOR,2.35 m NR
+2022,2022-12-31,men,High jump,3,bronze,athlete,Andriy Protsenko,Ukraine,UKR,2.33 m SB
+2022,2022-12-31,men,Javelin throw,1,gold,athlete,Anderson Peters,Grenada,GRD,90.54 m
+2022,2022-12-31,men,Javelin throw,2,silver,athlete,Neeraj Chopra,India,IND,88.13 m
+2022,2022-12-31,men,Javelin throw,3,bronze,athlete,Jakub Vadlejch,Czech Republic,CZE,88.09 m
+2022,2022-12-31,men,Long jump,1,gold,athlete,Wang Jianan,China,CHN,8.36 m SB
+2022,2022-12-31,men,Long jump,2,silver,athlete,Miltiadis Tentoglou,Greece,GRC,8.32 m
+2022,2022-12-31,men,Long jump,3,bronze,athlete,Simon Ehammer,Switzerland,CHE,8.16 m
+2022,2022-12-31,men,Marathon,1,gold,athlete,Tamirat Tola,Ethiopia,ETH,2:05:36 CR
+2022,2022-12-31,men,Marathon,2,silver,athlete,Mosinet Geremew,Ethiopia,ETH,2:06:44
+2022,2022-12-31,men,Marathon,3,bronze,athlete,Bashir Abdi,Belgium,BEL,2:06:48
+2022,2022-12-31,men,Pole vault,1,gold,athlete,Armand Duplantis,Sweden,SWE,6.21 m WR
+2022,2022-12-31,men,Pole vault,2,silver,athlete,Chris Nilsen,United States,USA,5.94 m
+2022,2022-12-31,men,Pole vault,3,bronze,athlete,Ernest John Obiena,Philippines,PHL,5.94 m AR
+2022,2022-12-31,men,Shot put,1,gold,athlete,Ryan Crouser,United States,USA,22.94 m CR
+2022,2022-12-31,men,Shot put,2,silver,athlete,Joe Kovacs,United States,USA,22.89 m SB
+2022,2022-12-31,men,Shot put,3,bronze,athlete,Josh Awotunde,United States,USA,22.29 m PB
+2022,2022-12-31,men,Triple jump,1,gold,athlete,Pedro Pichardo,Portugal,PRT,17.95 m WL
+2022,2022-12-31,men,Triple jump,2,silver,athlete,Hugues Fabrice Zango,Burkina Faso,BFA,17.55 m SB
+2022,2022-12-31,men,Triple jump,3,bronze,athlete,Zhu Yaming,China,CHN,17.31 m SB
+2022,2022-12-31,mixed,4 × 400 metres relay,1,gold,team,,Dominican Republic,DOM,3:09.82 WL
+2022,2022-12-31,mixed,4 × 400 metres relay,2,silver,team,,Netherlands,NLD,3:09.90 NR
+2022,2022-12-31,mixed,4 × 400 metres relay,3,bronze,team,,United States,USA,3:10.16 SB
+2022,2022-12-31,mixed,World Team,1,gold,team,,United States,USA,328 pts
+2022,2022-12-31,mixed,World Team,2,silver,team,,Jamaica,JAM,110 pts
+2022,2022-12-31,mixed,World Team,3,bronze,team,,Ethiopia,ETH,106 pts
+2022,2022-12-31,women,"10,000 metres",1,gold,athlete,Letesenbet Gidey,Ethiopia,ETH,30:09.94 WL
+2022,2022-12-31,women,"10,000 metres",2,silver,athlete,Hellen Obiri,Kenya,KEN,30:10.02 PB
+2022,2022-12-31,women,"10,000 metres",3,bronze,athlete,Margaret Kipkemboi,Kenya,KEN,30:10.07 PB
+2022,2022-12-31,women,100 metres,1,gold,athlete,Shelly-Ann Fraser-Pryce,Jamaica,JAM,"10.67 CR , WL"
+2022,2022-12-31,women,100 metres,2,silver,athlete,Shericka Jackson,Jamaica,JAM,10.73 PB
+2022,2022-12-31,women,100 metres,3,bronze,athlete,Elaine Thompson-Herah,Jamaica,JAM,10.81
+2022,2022-12-31,women,100 metres hurdles,1,gold,athlete,Tobi Amusan,Nigeria,NGA,12.06 w
+2022,2022-12-31,women,100 metres hurdles,2,silver,athlete,Britany Anderson,Jamaica,JAM,12.23 w
+2022,2022-12-31,women,100 metres hurdles,3,bronze,athlete,Jasmine Camacho-Quinn,Puerto Rico,PUR,12.23 w
+2022,2022-12-31,women,1500 metres,1,gold,athlete,Faith Kipyegon,Kenya,KEN,3:52.96
+2022,2022-12-31,women,1500 metres,2,silver,athlete,Gudaf Tsegay,Ethiopia,ETH,3:54.52
+2022,2022-12-31,women,1500 metres,3,bronze,athlete,Laura Muir,Great Britain and Northern Ireland,GBR,3:55.28 SB
+2022,2022-12-31,women,20 kilometres walk,1,gold,athlete,Kimberly García,Peru,PER,1:26:58 NR
+2022,2022-12-31,women,20 kilometres walk,2,silver,athlete,Katarzyna Zdziebło,Poland,POL,1:27:31 NR
+2022,2022-12-31,women,20 kilometres walk,3,bronze,athlete,Qieyang Shijie,China,CHN,1:27:56
+2022,2022-12-31,women,200 metres,1,gold,athlete,Shericka Jackson,Jamaica,JAM,"21.45 CR , NR , WL"
+2022,2022-12-31,women,200 metres,2,silver,athlete,Shelly-Ann Fraser-Pryce,Jamaica,JAM,21.81 SB
+2022,2022-12-31,women,200 metres,3,bronze,athlete,Dina Asher-Smith,Great Britain and Northern Ireland,GBR,22.02
+2022,2022-12-31,women,3000 metres steeplechase,1,gold,athlete,Norah Jeruto,Kazakhstan,KAZ,"8:53.02 CR , WL"
+2022,2022-12-31,women,3000 metres steeplechase,2,silver,athlete,Werkuha Getachew,Ethiopia,ETH,8:54.61 NR
+2022,2022-12-31,women,3000 metres steeplechase,3,bronze,athlete,Mekides Abebe,Ethiopia,ETH,8:56.08 PB
+2022,2022-12-31,women,35 kilometres walk,1,gold,athlete,Kimberly García,Peru,PER,"2:39:16 CR , AR"
+2022,2022-12-31,women,35 kilometres walk,2,silver,athlete,Katarzyna Zdziebło,Poland,POL,2:40:03 PB
+2022,2022-12-31,women,35 kilometres walk,3,bronze,athlete,Qieyang Shijie,China,CHN,2:40:37 AR
+2022,2022-12-31,women,4 × 100 metres relay,1,gold,team,,United States,USA,41.14 WL
+2022,2022-12-31,women,4 × 100 metres relay,2,silver,team,,Jamaica,JAM,41.18 SB
+2022,2022-12-31,women,4 × 100 metres relay,3,bronze,team,,Germany,DEU,42.03 SB
+2022,2022-12-31,women,4 × 400 metres relay,1,gold,team,,United States,USA,3:17.79 WL
+2022,2022-12-31,women,4 × 400 metres relay,2,silver,team,,Jamaica,JAM,3:20.74 SB
+2022,2022-12-31,women,4 × 400 metres relay,3,bronze,team,,Great Britain and Northern Ireland,GBR,3:22.64 SB
+2022,2022-12-31,women,400 metres,1,gold,athlete,Shaunae Miller-Uibo,Bahamas,BHS,49.11 WL
+2022,2022-12-31,women,400 metres,2,silver,athlete,Marileidy Paulino,Dominican Republic,DOM,49.60
+2022,2022-12-31,women,400 metres,3,bronze,athlete,Sada Williams,Barbados,BRB,49.75 NR
+2022,2022-12-31,women,400 metres hurdles,1,gold,athlete,Sydney McLaughlin,United States,USA,50.68 WR
+2022,2022-12-31,women,400 metres hurdles,2,silver,athlete,Femke Bol,Netherlands,NLD,52.27 SB
+2022,2022-12-31,women,400 metres hurdles,3,bronze,athlete,Dalilah Muhammad,United States,USA,53.13 SB
+2022,2022-12-31,women,5000 metres,1,gold,athlete,Gudaf Tsegay,Ethiopia,ETH,14:46.29
+2022,2022-12-31,women,5000 metres,2,silver,athlete,Beatrice Chebet,Kenya,KEN,14:46.75 SB
+2022,2022-12-31,women,5000 metres,3,bronze,athlete,Dawit Seyaum,Ethiopia,ETH,14:47.36
+2022,2022-12-31,women,800 metres,1,gold,athlete,Athing Mu,United States,USA,1:56.30 WL
+2022,2022-12-31,women,800 metres,2,silver,athlete,Keely Hodgkinson,Great Britain and Northern Ireland,GBR,1:56.38 SB
+2022,2022-12-31,women,800 metres,3,bronze,athlete,Mary Moraa,Kenya,KEN,1:56.71 PB
+2022,2022-12-31,women,Discus throw,1,gold,athlete,Feng Bin,China,CHN,69.12 m PB
+2022,2022-12-31,women,Discus throw,2,silver,athlete,Sandra Perković,Croatia,HRV,68.45 m SB
+2022,2022-12-31,women,Discus throw,3,bronze,athlete,Valarie Allman,United States,USA,68.30 m
+2022,2022-12-31,women,Hammer throw,1,gold,athlete,Brooke Andersen,United States,USA,78.96 m
+2022,2022-12-31,women,Hammer throw,2,silver,athlete,Camryn Rogers,Canada,CAN,75.52 m
+2022,2022-12-31,women,Hammer throw,3,bronze,athlete,Janee' Kassanavoid,United States,USA,74.86 m
+2022,2022-12-31,women,Heptathlon,1,gold,athlete,Nafissatou Thiam,Belgium,BEL,6947 WL
+2022,2022-12-31,women,Heptathlon,2,silver,athlete,Anouk Vetter,Netherlands,NLD,6867 NR
+2022,2022-12-31,women,Heptathlon,3,bronze,athlete,Anna Hall,United States,USA,6755 PB
+2022,2022-12-31,women,High jump,1,gold,athlete,Eleanor Patterson,Australia,AUS,2.02 m = AR
+2022,2022-12-31,women,High jump,2,silver,athlete,Yaroslava Mahuchikh,Ukraine,UKR,2.02 m
+2022,2022-12-31,women,High jump,3,bronze,athlete,Elena Vallortigara,Italy,ITA,2.00 m SB
+2022,2022-12-31,women,Javelin throw,1,gold,athlete,Kelsey-Lee Barber,Australia,AUS,66.91 m WL
+2022,2022-12-31,women,Javelin throw,2,silver,athlete,Kara Winger,United States,USA,64.05 m
+2022,2022-12-31,women,Javelin throw,3,bronze,athlete,Haruka Kitaguchi,Japan,JPN,63.27 m
+2022,2022-12-31,women,Long jump,1,gold,athlete,Malaika Mihambo,Germany,DEU,7.12 m SB
+2022,2022-12-31,women,Long jump,2,silver,athlete,Ese Brume,Nigeria,NGA,7.02 m SB
+2022,2022-12-31,women,Long jump,3,bronze,athlete,Leticia Oro Melo,Brazil,BRA,6.89 m PB
+2022,2022-12-31,women,Marathon,1,gold,athlete,Gotytom Gebreslase,Ethiopia,ETH,2:18:11 CR
+2022,2022-12-31,women,Marathon,2,silver,athlete,Judith Korir,Kenya,KEN,2:18:20 PB
+2022,2022-12-31,women,Marathon,3,bronze,athlete,Lonah Salpeter,Israel,ISR,2:20:18
+2022,2022-12-31,women,Pole vault,1,gold,athlete,Katie Nageotte,United States,USA,4.85 m WL
+2022,2022-12-31,women,Pole vault,2,silver,athlete,Sandi Morris,United States,USA,4.85 m WL
+2022,2022-12-31,women,Pole vault,3,bronze,athlete,Nina Kennedy,Australia,AUS,4.80 m SB
+2022,2022-12-31,women,Shot put,1,gold,athlete,Chase Ealey,United States,USA,20.49 m
+2022,2022-12-31,women,Shot put,2,silver,athlete,Gong Lijiao,China,CHN,20.39 m
+2022,2022-12-31,women,Shot put,3,bronze,athlete,Jessica Schilder,Netherlands,NLD,19.77 m
+2022,2022-12-31,women,Triple jump,1,gold,athlete,Yulimar Rojas,Venezuela,VEN,15.47 m WL
+2022,2022-12-31,women,Triple jump,2,silver,athlete,Shanieka Ricketts,Jamaica,JAM,14.89 m SB
+2022,2022-12-31,women,Triple jump,3,bronze,athlete,Tori Franklin,United States,USA,14.72 m SB
+2023,2023-12-31,men,"10,000 metres",1,gold,athlete,Joshua Cheptegei,Uganda,UGA,27:51.42 SB
+2023,2023-12-31,men,"10,000 metres",2,silver,athlete,Daniel Ebenyo,Kenya,KEN,27:52.60
+2023,2023-12-31,men,"10,000 metres",3,bronze,athlete,Selemon Barega,Ethiopia,ETH,27:52.72
+2023,2023-12-31,men,100 metres,1,gold,athlete,Noah Lyles,United States,USA,9.83 = WL
+2023,2023-12-31,men,100 metres,2,silver,athlete,Letsile Tebogo,Botswana,BWA,9.88 NR
+2023,2023-12-31,men,100 metres,3,bronze,athlete,Zharnel Hughes,Great Britain and Northern Ireland,GBR,9.88
+2023,2023-12-31,men,110 metres hurdles,1,gold,athlete,Grant Holloway,United States,USA,12.96 SB
+2023,2023-12-31,men,110 metres hurdles,2,silver,athlete,Hansle Parchment,Jamaica,JAM,13.07 SB
+2023,2023-12-31,men,110 metres hurdles,3,bronze,athlete,Daniel Roberts,United States,USA,13.09
+2023,2023-12-31,men,1500 metres,1,gold,athlete,Josh Kerr,Great Britain and Northern Ireland,GBR,3:29.38 SB
+2023,2023-12-31,men,1500 metres,2,silver,athlete,Jakob Ingebrigtsen,Norway,NOR,3:29.65
+2023,2023-12-31,men,1500 metres,3,bronze,athlete,Narve Gilje Nordås,Norway,NOR,3:29.68
+2023,2023-12-31,men,20 kilometres walk,1,gold,athlete,Álvaro Martín,Spain,ESP,1:17:32 WL
+2023,2023-12-31,men,20 kilometres walk,2,silver,athlete,Perseus Karlström,Sweden,SWE,1:17:39 NR
+2023,2023-12-31,men,20 kilometres walk,3,bronze,athlete,Caio Bonfim,Brazil,BRA,1:17:47 NR
+2023,2023-12-31,men,200 metres,1,gold,athlete,Noah Lyles,United States,USA,19.52
+2023,2023-12-31,men,200 metres,2,silver,athlete,Erriyon Knighton,United States,USA,19.75
+2023,2023-12-31,men,200 metres,3,bronze,athlete,Letsile Tebogo,Botswana,BWA,19.81
+2023,2023-12-31,men,3000 metres steeplechase,1,gold,athlete,Soufiane El Bakkali,Morocco,MAR,8:03.53
+2023,2023-12-31,men,3000 metres steeplechase,2,silver,athlete,Lamecha Girma,Ethiopia,ETH,8:05.44
+2023,2023-12-31,men,3000 metres steeplechase,3,bronze,athlete,Abraham Kibiwot,Kenya,KEN,8:11.98
+2023,2023-12-31,men,35 kilometres walk,1,gold,athlete,Álvaro Martín,Spain,ESP,2:24:30 NR
+2023,2023-12-31,men,35 kilometres walk,2,silver,athlete,Brian Pintado,Ecuador,ECU,2:24:34 AR
+2023,2023-12-31,men,35 kilometres walk,3,bronze,athlete,Masatora Kawano,Japan,JPN,2:25:12 SB
+2023,2023-12-31,men,4 × 100 metres relay,1,gold,team,,United States,USA,37.38 WL
+2023,2023-12-31,men,4 × 100 metres relay,2,silver,team,,Italy,ITA,37.62 SB
+2023,2023-12-31,men,4 × 100 metres relay,3,bronze,team,,Jamaica,JAM,37.76
+2023,2023-12-31,men,4 × 400 metres relay,1,gold,team,,United States,USA,2:57.31 WL
+2023,2023-12-31,men,4 × 400 metres relay,2,silver,team,,France,FRA,2:58.45 NR
+2023,2023-12-31,men,4 × 400 metres relay,3,bronze,team,,Great Britain & N.I.,GBR,2:58.71 SB
+2023,2023-12-31,men,400 metres,1,gold,athlete,Antonio Watson,Jamaica,JAM,44.22
+2023,2023-12-31,men,400 metres,2,silver,athlete,Matthew Hudson-Smith,Great Britain and Northern Ireland,GBR,44.31
+2023,2023-12-31,men,400 metres,3,bronze,athlete,Quincy Hall,United States,USA,44.37 PB
+2023,2023-12-31,men,400 metres hurdles,1,gold,athlete,Karsten Warholm,Norway,NOR,46.89
+2023,2023-12-31,men,400 metres hurdles,2,silver,athlete,Kyron McMaster,British Virgin Islands,VGB,47.34
+2023,2023-12-31,men,400 metres hurdles,3,bronze,athlete,Rai Benjamin,United States,USA,47.56
+2023,2023-12-31,men,5000 metres,1,gold,athlete,Jakob Ingebrigtsen,Norway,NOR,13:11.30 SB
+2023,2023-12-31,men,5000 metres,2,silver,athlete,Mohamed Katir,Spain,ESP,13:11.44
+2023,2023-12-31,men,5000 metres,3,bronze,athlete,Jacob Krop,Kenya,KEN,13:12.28
+2023,2023-12-31,men,800 metres,1,gold,athlete,Marco Arop,Canada,CAN,1:44.24
+2023,2023-12-31,men,800 metres,2,silver,athlete,Emmanuel Wanyonyi,Kenya,KEN,1:44.53
+2023,2023-12-31,men,800 metres,3,bronze,athlete,Ben Pattison,Great Britain and Northern Ireland,GBR,1:44.83
+2023,2023-12-31,men,Decathlon,1,gold,athlete,Pierce LePage,Canada,CAN,8909 WL
+2023,2023-12-31,men,Decathlon,2,silver,athlete,Damian Warner,Canada,CAN,8804 SB
+2023,2023-12-31,men,Decathlon,3,bronze,athlete,Lindon Victor,Grenada,GRD,8756 NR
+2023,2023-12-31,men,Discus throw,1,gold,athlete,Daniel Ståhl,Sweden,SWE,71.46 m CR
+2023,2023-12-31,men,Discus throw,2,silver,athlete,Kristjan Čeh,Slovenia,SVN,70.02 m
+2023,2023-12-31,men,Discus throw,3,bronze,athlete,Mykolas Alekna,Lithuania,LTU,68.85 m
+2023,2023-12-31,men,Hammer throw,1,gold,athlete,Ethan Katzberg,Canada,CAN,81.25 m NR
+2023,2023-12-31,men,Hammer throw,2,silver,athlete,Wojciech Nowicki,Poland,POL,81.02 m
+2023,2023-12-31,men,Hammer throw,3,bronze,athlete,Bence Halász,Hungary,HUN,80.82 m SB
+2023,2023-12-31,men,High jump,1,gold,athlete,Gianmarco Tamberi,Italy,ITA,2.36 m = WL
+2023,2023-12-31,men,High jump,2,silver,athlete,JuVaughn Harrison,United States,USA,2.36 m = WL
+2023,2023-12-31,men,High jump,3,bronze,athlete,Mutaz Essa Barshim,Qatar,QAT,2.33 m
+2023,2023-12-31,men,Javelin throw,1,gold,athlete,Neeraj Chopra,India,IND,88.17 m
+2023,2023-12-31,men,Javelin throw,2,silver,athlete,Arshad Nadeem,Pakistan,PAK,87.82 m SB
+2023,2023-12-31,men,Javelin throw,3,bronze,athlete,Jakub Vadlejch,Czech Republic,CZE,86.67 m
+2023,2023-12-31,men,Long jump,1,gold,athlete,Miltiadis Tentoglou,Greece,GRC,8.52 m SB
+2023,2023-12-31,men,Long jump,2,silver,athlete,Wayne Pinnock,Jamaica,JAM,8.50 m
+2023,2023-12-31,men,Long jump,3,bronze,athlete,Tajay Gayle,Jamaica,JAM,8.27 m = SB
+2023,2023-12-31,men,Marathon,1,gold,athlete,Victor Kiplangat,Uganda,UGA,2:08.53
+2023,2023-12-31,men,Marathon,2,silver,athlete,Maru Teferi,Israel,ISR,2:09.12 SB
+2023,2023-12-31,men,Marathon,3,bronze,athlete,Leul Gebresilase,Ethiopia,ETH,2:09.19
+2023,2023-12-31,men,Pole vault,1,gold,athlete,Armand Duplantis,Sweden,SWE,6.10 m
+2023,2023-12-31,men,Pole vault,2,silver,athlete,EJ Obiena,Philippines,PHL,6.00 m = AR
+2023,2023-12-31,men,Pole vault,3,bronze,athlete,Chris Nilsen,United States,USA,5.95 m = PB 5.95 m SB
+2023,2023-12-31,men,Pole vault,3,bronze,athlete,Kurtis Marschall,Australia,AUS,5.95 m = PB 5.95 m SB
+2023,2023-12-31,men,Shot put,1,gold,athlete,Ryan Crouser,United States,USA,23.51 m CR
+2023,2023-12-31,men,Shot put,2,silver,athlete,Leonardo Fabbri,Italy,ITA,22.34 m PB
+2023,2023-12-31,men,Shot put,3,bronze,athlete,Joe Kovacs,United States,USA,22.12 m
+2023,2023-12-31,men,Triple jump,1,gold,athlete,Hugues Fabrice Zango,Burkina Faso,BFA,17.64 m
+2023,2023-12-31,men,Triple jump,2,silver,athlete,Lázaro Martínez,Cuba,CUB,17.41 m
+2023,2023-12-31,men,Triple jump,3,bronze,athlete,Cristian Nápoles,Cuba,CUB,17.40 m PB
+2023,2023-12-31,mixed,4 × 400 metres relay,1,gold,team,,United States,USA,3:08.80 WR
+2023,2023-12-31,mixed,4 × 400 metres relay,2,silver,team,,Great Britain & N.I.,GBR,3:11.06 NR
+2023,2023-12-31,mixed,4 × 400 metres relay,3,bronze,team,,Czech Republic,CZE,3:11.98 NR
+2023,2023-12-31,women,"10,000 metres",1,gold,athlete,Gudaf Tsegay,Ethiopia,ETH,31:27.18
+2023,2023-12-31,women,"10,000 metres",2,silver,athlete,Letesenbet Gidey,Ethiopia,ETH,31:28.16 SB
+2023,2023-12-31,women,"10,000 metres",3,bronze,athlete,Ejgayehu Taye,Ethiopia,ETH,31:28.31
+2023,2023-12-31,women,100 metres,1,gold,athlete,Sha'Carri Richardson,United States,USA,10.65 CR
+2023,2023-12-31,women,100 metres,2,silver,athlete,Shericka Jackson,Jamaica,JAM,10.72
+2023,2023-12-31,women,100 metres,3,bronze,athlete,Shelly-Ann Fraser-Pryce,Jamaica,JAM,10.77 SB
+2023,2023-12-31,women,100 metres hurdles,1,gold,athlete,Danielle Williams,Jamaica,JAM,12.43 SB
+2023,2023-12-31,women,100 metres hurdles,2,silver,athlete,Jasmine Camacho-Quinn,Puerto Rico,PUR,12.44
+2023,2023-12-31,women,100 metres hurdles,3,bronze,athlete,Kendra Harrison,United States,USA,12.46
+2023,2023-12-31,women,1500 metres,1,gold,athlete,Faith Kipyegon,Kenya,KEN,3:54.87
+2023,2023-12-31,women,1500 metres,2,silver,athlete,Diribe Welteji,Ethiopia,ETH,3:55.69
+2023,2023-12-31,women,1500 metres,3,bronze,athlete,Sifan Hassan,Netherlands,NLD,3:56.00
+2023,2023-12-31,women,20 kilometres walk,1,gold,athlete,María Pérez,Spain,ESP,1:26:51
+2023,2023-12-31,women,20 kilometres walk,2,silver,athlete,Jemima Montag,Australia,AUS,1:27:16 AR
+2023,2023-12-31,women,20 kilometres walk,3,bronze,athlete,Antonella Palmisano,Italy,ITA,1:27:26 SB
+2023,2023-12-31,women,200 metres,1,gold,athlete,Shericka Jackson,Jamaica,JAM,21.41 CR
+2023,2023-12-31,women,200 metres,2,silver,athlete,Gabrielle Thomas,United States,USA,21.81
+2023,2023-12-31,women,200 metres,3,bronze,athlete,Sha'Carri Richardson,United States,USA,21.92 PB
+2023,2023-12-31,women,3000 metres steeplechase,1,gold,athlete,Winfred Yavi,Bahrain,BHR,8:54.29 WL
+2023,2023-12-31,women,3000 metres steeplechase,2,silver,athlete,Beatrice Chepkoech,Kenya,KEN,8:58.98 SB
+2023,2023-12-31,women,3000 metres steeplechase,3,bronze,athlete,Faith Cherotich,Kenya,KEN,9:00.69 PB
+2023,2023-12-31,women,35 kilometres walk,1,gold,athlete,María Pérez,Spain,ESP,2:38:40 CR
+2023,2023-12-31,women,35 kilometres walk,2,silver,athlete,Kimberly García,Peru,PER,2:40:52
+2023,2023-12-31,women,35 kilometres walk,3,bronze,athlete,Antigoni Drisbioti,Greece,GRC,2:43:22 SB
+2023,2023-12-31,women,4 × 100 metres relay,1,gold,team,,United States,USA,41.03 CR
+2023,2023-12-31,women,4 × 100 metres relay,2,silver,team,,Jamaica,JAM,41.21 SB
+2023,2023-12-31,women,4 × 100 metres relay,3,bronze,team,,Great Britain & N.I.,GBR,41.98 SB
+2023,2023-12-31,women,4 × 400 metres relay,1,gold,team,,Netherlands,NLD,"3:20.72 WL , NR"
+2023,2023-12-31,women,4 × 400 metres relay,2,silver,team,,Jamaica,JAM,3:20.88 SB
+2023,2023-12-31,women,4 × 400 metres relay,3,bronze,team,,Great Britain & N.I.,GBR,3:21.04 SB
+2023,2023-12-31,women,400 metres,1,gold,athlete,Marileidy Paulino,Dominican Republic,DOM,48.76 NR
+2023,2023-12-31,women,400 metres,2,silver,athlete,Natalia Kaczmarek,Poland,POL,49.57
+2023,2023-12-31,women,400 metres,3,bronze,athlete,Sada Williams,Barbados,BRB,49.60
+2023,2023-12-31,women,400 metres hurdles,1,gold,athlete,Femke Bol,Netherlands,NLD,51.70
+2023,2023-12-31,women,400 metres hurdles,2,silver,athlete,Shamier Little,United States,USA,52.80 SB
+2023,2023-12-31,women,400 metres hurdles,3,bronze,athlete,Rushell Clayton,Jamaica,JAM,52.81 PB
+2023,2023-12-31,women,5000 metres,1,gold,athlete,Faith Kipyegon,Kenya,KEN,14:53.88
+2023,2023-12-31,women,5000 metres,2,silver,athlete,Sifan Hassan,Netherlands,NLD,14:54.11
+2023,2023-12-31,women,5000 metres,3,bronze,athlete,Beatrice Chebet,Kenya,KEN,14:54.33
+2023,2023-12-31,women,800 metres,1,gold,athlete,Mary Moraa,Kenya,KEN,1:56.03 PB
+2023,2023-12-31,women,800 metres,2,silver,athlete,Keely Hodgkinson,Great Britain and Northern Ireland,GBR,1:56.34
+2023,2023-12-31,women,800 metres,3,bronze,athlete,Athing Mu,United States,USA,1:56.61 SB
+2023,2023-12-31,women,Discus throw,1,gold,athlete,Laulauga Tausaga,United States,USA,69.49 m PB
+2023,2023-12-31,women,Discus throw,2,silver,athlete,Valarie Allman,United States,USA,69.23 m
+2023,2023-12-31,women,Discus throw,3,bronze,athlete,Feng Bin,China,CHN,68.20 m SB
+2023,2023-12-31,women,Hammer throw,1,gold,athlete,Camryn Rogers,Canada,CAN,77.22 m
+2023,2023-12-31,women,Hammer throw,2,silver,athlete,Janee' Kassanavoid,United States,USA,76.36 m
+2023,2023-12-31,women,Hammer throw,3,bronze,athlete,DeAnna Price,United States,USA,75.41 m
+2023,2023-12-31,women,Heptathlon,1,gold,athlete,Katarina Johnson-Thompson,Great Britain and Northern Ireland,GBR,6740
+2023,2023-12-31,women,Heptathlon,2,silver,athlete,Anna Hall,United States,USA,6720
+2023,2023-12-31,women,Heptathlon,3,bronze,athlete,Anouk Vetter,Netherlands,NLD,6501
+2023,2023-12-31,women,High jump,1,gold,athlete,Yaroslava Mahuchikh,Ukraine,UKR,2.01 m
+2023,2023-12-31,women,High jump,2,silver,athlete,Eleanor Patterson,Australia,AUS,1.99 m
+2023,2023-12-31,women,High jump,3,bronze,athlete,Nicola Olyslagers,Australia,AUS,1.99 m
+2023,2023-12-31,women,Javelin throw,1,gold,athlete,Haruka Kitaguchi,Japan,JPN,66.73 m
+2023,2023-12-31,women,Javelin throw,2,silver,athlete,Flor Ruiz,Colombia,COL,65.47 m AR
+2023,2023-12-31,women,Javelin throw,3,bronze,athlete,Mackenzie Little,Australia,AUS,63.38 m
+2023,2023-12-31,women,Long jump,1,gold,athlete,Ivana Vuleta,Serbia,SRB,7.14 m WL
+2023,2023-12-31,women,Long jump,2,silver,athlete,Tara Davis-Woodhall,United States,USA,6.91 m
+2023,2023-12-31,women,Long jump,3,bronze,athlete,Alina Rotaru-Kottmann,Romania,ROU,6.88 m
+2023,2023-12-31,women,Marathon,1,gold,athlete,Amane Beriso,Ethiopia,ETH,2:24:23 SB
+2023,2023-12-31,women,Marathon,2,silver,athlete,Gotytom Gebreslase,Ethiopia,ETH,2:24:34 SB
+2023,2023-12-31,women,Marathon,3,bronze,athlete,Fatima Ezzahra Gardadi,Morocco,MAR,2:25:17
+2023,2023-12-31,women,Pole vault,1,gold,athlete,Katie Moon,United States,USA,4.90 m = WL
+2023,2023-12-31,women,Pole vault,1,gold,athlete,Nina Kennedy,Australia,AUS,4.90 m = WL
+2023,2023-12-31,women,Pole vault,3,bronze,athlete,Wilma Murto,Finland,FIN,4.80 m = SB
+2023,2023-12-31,women,Shot put,1,gold,athlete,Chase Ealey,United States,USA,20.43 m SB
+2023,2023-12-31,women,Shot put,2,silver,athlete,Sarah Mitton,Canada,CAN,20.08 m SB
+2023,2023-12-31,women,Shot put,3,bronze,athlete,Gong Lijiao,China,CHN,19.69 m
+2023,2023-12-31,women,Triple jump,1,gold,athlete,Yulimar Rojas,Venezuela,VEN,15.08 m
+2023,2023-12-31,women,Triple jump,2,silver,athlete,Maryna Bekh-Romanchuk,Ukraine,UKR,15.00 m SB
+2023,2023-12-31,women,Triple jump,3,bronze,athlete,Leyanis Pérez,Cuba,CUB,14.96 m
+2025,2025-12-31,men,"10,000 metres",1,gold,athlete,Jimmy Gressier,France,FRA,28:55.77 SB
+2025,2025-12-31,men,"10,000 metres",2,silver,athlete,Yomif Kejelcha,Ethiopia,ETH,28:55.83 SB
+2025,2025-12-31,men,"10,000 metres",3,bronze,athlete,Andreas Almgren,Sweden,SWE,28:56.02
+2025,2025-12-31,men,100 metres,1,gold,athlete,Oblique Seville,Jamaica,JAM,9.77 PB
+2025,2025-12-31,men,100 metres,2,silver,athlete,Kishane Thompson,Jamaica,JAM,9.82
+2025,2025-12-31,men,100 metres,3,bronze,athlete,Noah Lyles,United States,USA,9.89 SB
+2025,2025-12-31,men,110 metres hurdles,1,gold,athlete,Cordell Tinch,United States,USA,12.99
+2025,2025-12-31,men,110 metres hurdles,2,silver,athlete,Orlando Bennett,Jamaica,JAM,13.08 PB
+2025,2025-12-31,men,110 metres hurdles,3,bronze,athlete,Tyler Mason,Jamaica,JAM,13.12 = PB
+2025,2025-12-31,men,1500 metres,1,gold,athlete,Isaac Nader,Portugal,PRT,3:34.10
+2025,2025-12-31,men,1500 metres,2,silver,athlete,Jake Wightman,Great Britain and Northern Ireland,GBR,3:34.12
+2025,2025-12-31,men,1500 metres,3,bronze,athlete,Reynold Cheruiyot,Kenya,KEN,3:34.25
+2025,2025-12-31,men,20 kilometres walk,1,gold,athlete,Caio Bonfim,Brazil,BRA,1:18:35
+2025,2025-12-31,men,20 kilometres walk,2,silver,athlete,Wang Zhaozhao,China,CHN,1:18:43
+2025,2025-12-31,men,20 kilometres walk,3,bronze,athlete,Paul McGrath,Spain,ESP,1:18:45
+2025,2025-12-31,men,200 metres,1,gold,athlete,Noah Lyles,United States,USA,19.52
+2025,2025-12-31,men,200 metres,2,silver,athlete,Kenny Bednarek,United States,USA,19.58 SB
+2025,2025-12-31,men,200 metres,3,bronze,athlete,Bryan Levell,Jamaica,JAM,19.64 PB
+2025,2025-12-31,men,3000 metres steeplechase,1,gold,athlete,Geordie Beamish,New Zealand,NZL,8:33.88
+2025,2025-12-31,men,3000 metres steeplechase,2,silver,athlete,Soufiane El Bakkali,Morocco,MAR,8:33.95
+2025,2025-12-31,men,3000 metres steeplechase,3,bronze,athlete,Edmund Serem,Kenya,KEN,8:34.56
+2025,2025-12-31,men,35 kilometres walk,1,gold,athlete,Evan Dunfee,Canada,CAN,2:28:22
+2025,2025-12-31,men,35 kilometres walk,2,silver,athlete,Caio Bonfim,Brazil,BRA,2:28:55 SB
+2025,2025-12-31,men,35 kilometres walk,3,bronze,athlete,Hayato Katsuki,Japan,JPN,2:29:16
+2025,2025-12-31,men,4 × 100 metres relay,1,gold,team,,United States,USA,37.29 WL
+2025,2025-12-31,men,4 × 100 metres relay,2,silver,team,,Canada,CAN,37.55 SB
+2025,2025-12-31,men,4 × 100 metres relay,3,bronze,team,,Netherlands,NLD,37.81 NR
+2025,2025-12-31,men,4 × 400 metres relay,1,gold,team,,Botswana,BWA,2:57.76
+2025,2025-12-31,men,4 × 400 metres relay,2,silver,team,,United States,USA,2:57.83 SB
+2025,2025-12-31,men,4 × 400 metres relay,3,bronze,team,,South Africa,ZAF,2:57.83
+2025,2025-12-31,men,400 metres,1,gold,athlete,Collen Kebinatshipi,Botswana,BWA,"43.53 NR , WL"
+2025,2025-12-31,men,400 metres,2,silver,athlete,Jereem Richards,Trinidad and Tobago,TTO,43.72 NR
+2025,2025-12-31,men,400 metres,3,bronze,athlete,Bayapo Ndori,Botswana,BWA,44.20 SB
+2025,2025-12-31,men,400 metres hurdles,1,gold,athlete,Rai Benjamin,United States,USA,46.52 SB
+2025,2025-12-31,men,400 metres hurdles,2,silver,athlete,Alison dos Santos,Brazil,BRA,46.84
+2025,2025-12-31,men,400 metres hurdles,3,bronze,athlete,Abderrahman Samba,Qatar,QAT,47.06 SB
+2025,2025-12-31,men,5000 metres,1,gold,athlete,Cole Hocker,United States,USA,12:58.30
+2025,2025-12-31,men,5000 metres,2,silver,athlete,Isaac Kimeli,Belgium,BEL,12:58.78 SB
+2025,2025-12-31,men,5000 metres,3,bronze,athlete,Jimmy Gressier,France,FRA,12:59.33
+2025,2025-12-31,men,800 metres,1,gold,athlete,Emmanuel Wanyonyi,Kenya,KEN,1:41.86 CR
+2025,2025-12-31,men,800 metres,2,silver,athlete,Djamel Sedjati,Algeria,DZA,1:41.90 SB
+2025,2025-12-31,men,800 metres,3,bronze,athlete,Marco Arop,Canada,CAN,1:41.95 SB
+2025,2025-12-31,men,Decathlon,1,gold,athlete,Leo Neugebauer,Germany,DEU,8804 SB
+2025,2025-12-31,men,Decathlon,2,silver,athlete,Ayden Owens-Delerme,Puerto Rico,PUR,8784 NR
+2025,2025-12-31,men,Decathlon,3,bronze,athlete,Kyle Garland,United States,USA,8703
+2025,2025-12-31,men,Discus throw,1,gold,athlete,Daniel Ståhl,Sweden,SWE,70.47 m SB
+2025,2025-12-31,men,Discus throw,2,silver,athlete,Mykolas Alekna,Lithuania,LTU,67.84 m
+2025,2025-12-31,men,Discus throw,3,bronze,athlete,Alex Rose,Samoa,WSM,66.96 m
+2025,2025-12-31,men,Hammer throw,1,gold,athlete,Ethan Katzberg,Canada,CAN,"84.70 m CR , AR"
+2025,2025-12-31,men,Hammer throw,2,silver,athlete,Merlin Hummel,Germany,DEU,82.77 m PB
+2025,2025-12-31,men,Hammer throw,3,bronze,athlete,Bence Halász,Hungary,HUN,82.69 m
+2025,2025-12-31,men,High jump,1,gold,athlete,Hamish Kerr,New Zealand,NZL,"2.36 m = AR , WL"
+2025,2025-12-31,men,High jump,2,silver,athlete,Woo Sang-hyeok,South Korea,KOR,2.34 m = SB
+2025,2025-12-31,men,High jump,3,bronze,athlete,Jan Štefela,Czech Republic,CZE,2.31 m
+2025,2025-12-31,men,Javelin throw,1,gold,athlete,Keshorn Walcott,Trinidad and Tobago,TTO,88.16 m SB
+2025,2025-12-31,men,Javelin throw,2,silver,athlete,Anderson Peters,Grenada,GRD,87.38 m
+2025,2025-12-31,men,Javelin throw,3,bronze,athlete,Curtis Thompson,United States,USA,86.67 m
+2025,2025-12-31,men,Long jump,1,gold,athlete,Mattia Furlani,Italy,ITA,8.39 m PB
+2025,2025-12-31,men,Long jump,2,silver,athlete,Tajay Gayle,Jamaica,JAM,8.34 m = SB
+2025,2025-12-31,men,Long jump,3,bronze,athlete,Shi Yuhao,China,CHN,8.33 m SB
+2025,2025-12-31,men,Marathon,1,gold,athlete,Alphonce Simbu,Tanzania,TZA,2:09:48 SB
+2025,2025-12-31,men,Marathon,2,silver,athlete,Amanal Petros,Germany,DEU,2:09:48
+2025,2025-12-31,men,Marathon,3,bronze,athlete,Iliass Aouani,Italy,ITA,2:09:53
+2025,2025-12-31,men,Pole vault,1,gold,athlete,Armand Duplantis,Sweden,SWE,6.30 m WR
+2025,2025-12-31,men,Pole vault,2,silver,athlete,Emmanouil Karalis,Greece,GRC,6.00 m
+2025,2025-12-31,men,Pole vault,3,bronze,athlete,Kurtis Marschall,Australia,AUS,5.95 m PB
+2025,2025-12-31,men,Shot put,1,gold,athlete,Ryan Crouser,United States,USA,22.34 m SB
+2025,2025-12-31,men,Shot put,2,silver,athlete,Uziel Muñoz,Mexico,MEX,21.97 m NR
+2025,2025-12-31,men,Shot put,3,bronze,athlete,Leonardo Fabbri,Italy,ITA,21.94 m
+2025,2025-12-31,men,Triple jump,1,gold,athlete,Pedro Pichardo,Portugal,PRT,17.91 m WL
+2025,2025-12-31,men,Triple jump,2,silver,athlete,Andrea Dallavalle,Italy,ITA,17.64 m PB
+2025,2025-12-31,men,Triple jump,3,bronze,athlete,Lázaro Martínez,Cuba,CUB,17.49 m SB
+2025,2025-12-31,mixed,4 × 400 metres relay,1,gold,team,,United States,USA,3:08.80 = CR
+2025,2025-12-31,mixed,4 × 400 metres relay,2,silver,team,,Netherlands,NLD,3:09.96 SB
+2025,2025-12-31,mixed,4 × 400 metres relay,3,bronze,team,,Belgium,BEL,3:10.61
+2025,2025-12-31,women,"10,000 metres",1,gold,athlete,Beatrice Chebet,Kenya,KEN,30:37.61
+2025,2025-12-31,women,"10,000 metres",2,silver,athlete,Nadia Battocletti,Italy,ITA,30:38.23 NR
+2025,2025-12-31,women,"10,000 metres",3,bronze,athlete,Gudaf Tsegay,Ethiopia,ETH,30:39.65 SB
+2025,2025-12-31,women,100 metres,1,gold,athlete,Melissa Jefferson-Wooden,United States,USA,10.61 CR
+2025,2025-12-31,women,100 metres,2,silver,athlete,Tina Clayton,Jamaica,JAM,10.76 PB
+2025,2025-12-31,women,100 metres,3,bronze,athlete,Julien Alfred,Saint Lucia,LCA,10.84
+2025,2025-12-31,women,100 metres hurdles,1,gold,athlete,Ditaji Kambundji,Switzerland,CHE,12.24 NR
+2025,2025-12-31,women,100 metres hurdles,2,silver,athlete,Tobi Amusan,Nigeria,NGA,12.29
+2025,2025-12-31,women,100 metres hurdles,3,bronze,athlete,Grace Stark,United States,USA,12.34
+2025,2025-12-31,women,1500 metres,1,gold,athlete,Faith Kipyegon,Kenya,KEN,3:52.15
+2025,2025-12-31,women,1500 metres,2,silver,athlete,Dorcus Ewoi,Kenya,KEN,3:54.92 PB
+2025,2025-12-31,women,1500 metres,3,bronze,athlete,Jessica Hull,Australia,AUS,3:55.16
+2025,2025-12-31,women,20 kilometres walk,1,gold,athlete,María Pérez,Spain,ESP,1:25:54 SB
+2025,2025-12-31,women,20 kilometres walk,2,silver,athlete,Alegna González,Mexico,MEX,1:26:06 AR
+2025,2025-12-31,women,20 kilometres walk,3,bronze,athlete,Nanako Fujii,Japan,JPN,1:26:18 NR
+2025,2025-12-31,women,200 metres,1,gold,athlete,Melissa Jefferson-Wooden,United States,USA,21.68 WL
+2025,2025-12-31,women,200 metres,2,silver,athlete,Amy Hunt,Great Britain and Northern Ireland,GBR,22.14
+2025,2025-12-31,women,200 metres,3,bronze,athlete,Shericka Jackson,Jamaica,JAM,22.18
+2025,2025-12-31,women,3000 metres steeplechase,1,gold,athlete,Faith Cherotich,Kenya,KEN,8:51.59 CR
+2025,2025-12-31,women,3000 metres steeplechase,2,silver,athlete,Winfred Yavi,Bahrain,BHR,8:56.46
+2025,2025-12-31,women,3000 metres steeplechase,3,bronze,athlete,Sembo Almayew,Ethiopia,ETH,8:58.86 PB
+2025,2025-12-31,women,35 kilometres walk,1,gold,athlete,María Pérez,Spain,ESP,2:39:01
+2025,2025-12-31,women,35 kilometres walk,2,silver,athlete,Antonella Palmisano,Italy,ITA,2:42:24
+2025,2025-12-31,women,35 kilometres walk,3,bronze,athlete,Paula Milena Torres,Ecuador,ECU,2:42:44 NR
+2025,2025-12-31,women,4 × 100 metres relay,1,gold,team,,United States,USA,41.75
+2025,2025-12-31,women,4 × 100 metres relay,2,silver,team,,Jamaica,JAM,41.79 SB
+2025,2025-12-31,women,4 × 100 metres relay,3,bronze,team,,Germany,DEU,41.87
+2025,2025-12-31,women,4 × 400 metres relay,1,gold,team,,United States,USA,3:16.61 CR
+2025,2025-12-31,women,4 × 400 metres relay,2,silver,team,,Jamaica,JAM,3:19.25 SB
+2025,2025-12-31,women,4 × 400 metres relay,3,bronze,team,,Netherlands,NLD,3:20.18 SB
+2025,2025-12-31,women,400 metres,1,gold,athlete,Sydney McLaughlin-Levrone,United States,USA,"47.78 CR , AR , WL"
+2025,2025-12-31,women,400 metres,2,silver,athlete,Marileidy Paulino,Dominican Republic,DOM,47.98 NR
+2025,2025-12-31,women,400 metres,3,bronze,athlete,Salwa Eid Naser,Bahrain,BHR,48.19 SB
+2025,2025-12-31,women,400 metres hurdles,1,gold,athlete,Femke Bol,Netherlands,NLD,51.54 WL
+2025,2025-12-31,women,400 metres hurdles,2,silver,athlete,Jasmine Jones,United States,USA,52.08 PB
+2025,2025-12-31,women,400 metres hurdles,3,bronze,athlete,Emma Zapletalová,Slovakia,SVK,53.00 NR
+2025,2025-12-31,women,5000 metres,1,gold,athlete,Beatrice Chebet,Kenya,KEN,14:54.36
+2025,2025-12-31,women,5000 metres,2,silver,athlete,Faith Kipyegon,Kenya,KEN,14:55.07 SB
+2025,2025-12-31,women,5000 metres,3,bronze,athlete,Nadia Battocletti,Italy,ITA,14:55.42
+2025,2025-12-31,women,800 metres,1,gold,athlete,Lilian Odira,Kenya,KEN,"1:54.62 CR , PB"
+2025,2025-12-31,women,800 metres,2,silver,athlete,Georgia Hunter Bell,Great Britain and Northern Ireland,GBR,1:54.90 PB
+2025,2025-12-31,women,800 metres,3,bronze,athlete,Keely Hodgkinson,Great Britain and Northern Ireland,GBR,1:54.91
+2025,2025-12-31,women,Discus throw,1,gold,athlete,Valarie Allman,United States,USA,69.48 m
+2025,2025-12-31,women,Discus throw,2,silver,athlete,Jorinde van Klinken,Netherlands,NLD,67.50 m SB
+2025,2025-12-31,women,Discus throw,3,bronze,athlete,Silinda Morales,Cuba,CUB,67.25 m PB
+2025,2025-12-31,women,Hammer throw,1,gold,athlete,Camryn Rogers,Canada,CAN,"80.51 m AR , WL"
+2025,2025-12-31,women,Hammer throw,2,silver,athlete,Zhao Jie,China,CHN,77.60 m PB
+2025,2025-12-31,women,Hammer throw,3,bronze,athlete,Zhang Jiale,China,CHN,77.10 m
+2025,2025-12-31,women,Heptathlon,1,gold,athlete,Anna Hall,United States,USA,6888
+2025,2025-12-31,women,Heptathlon,2,silver,athlete,Kate O'Connor,Ireland,IRL,6714 NR
+2025,2025-12-31,women,Heptathlon,3,bronze,athlete,Katarina Johnson-Thompson,Great Britain and Northern Ireland,GBR,6581 SB 6581 PB
+2025,2025-12-31,women,Heptathlon,3,bronze,athlete,Taliyah Brooks,United States,USA,6581 SB 6581 PB
+2025,2025-12-31,women,High jump,1,gold,athlete,Nicola Olyslagers,Australia,AUS,2.00 m
+2025,2025-12-31,women,High jump,2,silver,athlete,Maria Żodzik,Poland,POL,2.00 m PB
+2025,2025-12-31,women,High jump,3,bronze,athlete,Angelina Topić,Serbia,SRB,1.97 m 1.97 m SB
+2025,2025-12-31,women,High jump,3,bronze,athlete,Yaroslava Mahuchikh,Ukraine,UKR,1.97 m 1.97 m SB
+2025,2025-12-31,women,Javelin throw,1,gold,athlete,Juleisy Angulo,Ecuador,ECU,65.12 m NR
+2025,2025-12-31,women,Javelin throw,2,silver,athlete,Anete Sietiņa,Latvia,LVA,64.64 m PB
+2025,2025-12-31,women,Javelin throw,3,bronze,athlete,Mackenzie Little,Australia,AUS,63.58 m
+2025,2025-12-31,women,Long jump,1,gold,athlete,Tara Davis-Woodhall,United States,USA,7.13 m WL
+2025,2025-12-31,women,Long jump,2,silver,athlete,Malaika Mihambo,Germany,DEU,6.99 m
+2025,2025-12-31,women,Long jump,3,bronze,athlete,Natalia Linares,Colombia,COL,6.92 m = AU23R
+2025,2025-12-31,women,Marathon,1,gold,athlete,Peres Jepchirchir,Kenya,KEN,2:24:43 SB
+2025,2025-12-31,women,Marathon,2,silver,athlete,Tigst Assefa,Ethiopia,ETH,2:24:45
+2025,2025-12-31,women,Marathon,3,bronze,athlete,Julia Paternain,Uruguay,URY,2:27:23
+2025,2025-12-31,women,Pole vault,1,gold,athlete,Katie Moon,United States,USA,4.90 m SB
+2025,2025-12-31,women,Pole vault,2,silver,athlete,Sandi Morris,United States,USA,4.85 m SB
+2025,2025-12-31,women,Pole vault,3,bronze,athlete,Tina Šutej,Slovenia,SVN,4.80 m SB
+2025,2025-12-31,women,Shot put,1,gold,athlete,Jessica Schilder,Netherlands,NLD,20.29 m
+2025,2025-12-31,women,Shot put,2,silver,athlete,Chase Jackson,United States,USA,20.21 m
+2025,2025-12-31,women,Shot put,3,bronze,athlete,Maddi Wesche,New Zealand,NZL,20.06 m = PB
+2025,2025-12-31,women,Triple jump,1,gold,athlete,Leyanis Pérez,Cuba,CUB,14.94 m WL
+2025,2025-12-31,women,Triple jump,2,silver,athlete,Thea LaFond,Dominica,DMA,14.89 m SB
+2025,2025-12-31,women,Triple jump,3,bronze,athlete,Yulimar Rojas,Venezuela,VEN,14.76 m SB

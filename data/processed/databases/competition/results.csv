@@ -19779,3 +19779,447 @@ icc_cricket_world_cup_women_22,AUS,1.0,gold,icc_cricket_world_cup_final_rank=1,1
 icc_cricket_world_cup_women_22,ENG,2.0,silver,icc_cricket_world_cup_final_rank=2,7.0
 icc_cricket_world_cup_women_22,ZAF,3.0,bronze,icc_cricket_world_cup_final_rank=3,5.0
 icc_cricket_world_cup_women_22,WIS,4.0,,icc_cricket_world_cup_final_rank=4,4.0
+world_athletics_championships_2022_men_10-000-metres,athlete_CHEPTEGEI_Joshua_UGA,1.0,gold,"discipline=10,000 metres;performance=27:27.43 SB;country=UGA",3.0
+world_athletics_championships_2022_men_10-000-metres,athlete_Jacob_Kiplimo_UGA_136164,3.0,bronze,"discipline=10,000 metres;performance=27:27.97 SB;country=UGA",1.0
+world_athletics_championships_2022_men_10-000-metres,athlete_Stanley_Mburu_KEN,2.0,silver,"discipline=10,000 metres;performance=27:27.90 SB;country=KEN",2.0
+world_athletics_championships_2022_men_100-metres,athlete_Fred_Kerley_USA_147327,1.0,gold,discipline=100 metres;performance=9.86;country=USA,3.0
+world_athletics_championships_2022_men_100-metres,athlete_Marvin_Bracy_USA,2.0,silver,discipline=100 metres;performance=9.88;country=USA,2.0
+world_athletics_championships_2022_men_100-metres,athlete_Trayvon_Bromell_USA,3.0,bronze,discipline=100 metres;performance=9.88;country=USA,1.0
+world_athletics_championships_2022_men_110-metres-hurdles,athlete_Asier_Martínez_ESP,3.0,bronze,discipline=110 metres hurdles;performance=13.17 PB;country=ESP,1.0
+world_athletics_championships_2022_men_110-metres-hurdles,athlete_Grant_Holloway_USA_147330,1.0,gold,discipline=110 metres hurdles;performance=13.03;country=USA,3.0
+world_athletics_championships_2022_men_110-metres-hurdles,athlete_Trey_Cunningham_USA,2.0,silver,discipline=110 metres hurdles;performance=13.08;country=USA,2.0
+world_athletics_championships_2022_men_1500-metres,athlete_INGEBRIGTSEN_Jakob_NOR,2.0,silver,discipline=1500 metres;performance=3:29.47 SB;country=NOR,2.0
+world_athletics_championships_2022_men_1500-metres,athlete_Jake_Wightman_GBR,1.0,gold,"discipline=1500 metres;performance=3:29.23 WL , PB;country=GBR",3.0
+world_athletics_championships_2022_men_1500-metres,athlete_Mohamed_Katir_ESP,3.0,bronze,discipline=1500 metres;performance=3:29.90 SB;country=ESP,1.0
+world_athletics_championships_2022_men_20-kilometres-walk,athlete_Koki_Ikeda_JPN_144515,2.0,silver,discipline=20 kilometres walk;performance=1:19:14;country=JPN,2.0
+world_athletics_championships_2022_men_20-kilometres-walk,athlete_Perseus_Karlström_SWE,3.0,bronze,discipline=20 kilometres walk;performance=1:19:18;country=SWE,1.0
+world_athletics_championships_2022_men_20-kilometres-walk,athlete_Toshikazu_Yamanishi_JPN_144537,1.0,gold,discipline=20 kilometres walk;performance=1:19:07;country=JPN,3.0
+world_athletics_championships_2022_men_200-metres,athlete_Erriyon_Knighton_USA,3.0,bronze,discipline=200 metres;performance=19.80;country=USA,1.0
+world_athletics_championships_2022_men_200-metres,athlete_Kenny_Bednarek_USA_147336,2.0,silver,discipline=200 metres;performance=19.77 SB;country=USA,2.0
+world_athletics_championships_2022_men_200-metres,athlete_LYLES_Noah_USA,1.0,gold,"discipline=200 metres;performance=19.31 NR , WL;country=USA",3.0
+world_athletics_championships_2022_men_3000-metres-steeplechase,athlete_Conseslus_Kipruto_KEN_134877,3.0,bronze,discipline=3000 metres steeplechase;performance=8:27.92;country=KEN,1.0
+world_athletics_championships_2022_men_3000-metres-steeplechase,athlete_Lamecha_Girma_ETH_147787,2.0,silver,discipline=3000 metres steeplechase;performance=8:26.01;country=ETH,2.0
+world_athletics_championships_2022_men_3000-metres-steeplechase,athlete_Soufiane_El-Bakkali_MAR_135068,1.0,gold,discipline=3000 metres steeplechase;performance=8:25.13;country=MAR,3.0
+world_athletics_championships_2022_men_35-kilometres-walk,athlete_Masatora_Kawano_JPN,2.0,silver,discipline=35 kilometres walk;performance=2:23:15 AR;country=JPN,2.0
+world_athletics_championships_2022_men_35-kilometres-walk,athlete_Massimo_Stano_ITA_144140,1.0,gold,"discipline=35 kilometres walk;performance=2:23:14 CR , AR;country=ITA",3.0
+world_athletics_championships_2022_men_35-kilometres-walk,athlete_Perseus_Karlström_SWE,3.0,bronze,discipline=35 kilometres walk;performance=2:23:44 PB;country=SWE,1.0
+world_athletics_championships_2022_men_4-100-metres-relay,CAN,1.0,gold,"discipline=4 × 100 metres relay;performance=37.48 NR , WL;country=CAN",3.0
+world_athletics_championships_2022_men_4-100-metres-relay,GBR,3.0,bronze,discipline=4 × 100 metres relay;performance=37.83 SB;country=GBR,1.0
+world_athletics_championships_2022_men_4-100-metres-relay,USA,2.0,silver,discipline=4 × 100 metres relay;performance=37.55 SB;country=USA,2.0
+world_athletics_championships_2022_men_4-400-metres-relay,BEL,3.0,bronze,discipline=4 × 400 metres relay;performance=2:58.72;country=BEL,1.0
+world_athletics_championships_2022_men_4-400-metres-relay,JAM,2.0,silver,discipline=4 × 400 metres relay;performance=2:58.58;country=JAM,2.0
+world_athletics_championships_2022_men_4-400-metres-relay,USA,1.0,gold,discipline=4 × 400 metres relay;performance=2:56.17 WL;country=USA,3.0
+world_athletics_championships_2022_men_400-metres,athlete_Kirani_James_GRD,2.0,silver,discipline=400 metres;performance=44.48;country=GRD,2.0
+world_athletics_championships_2022_men_400-metres,athlete_Matthew_Hudson-Smith_GBR,3.0,bronze,discipline=400 metres;performance=44.66;country=GBR,1.0
+world_athletics_championships_2022_men_400-metres,athlete_Michael_Norman_USA_147342,1.0,gold,discipline=400 metres;performance=44.29;country=USA,3.0
+world_athletics_championships_2022_men_400-metres-hurdles,athlete_Alison_dos_Santos_BRA_141191,1.0,gold,"discipline=400 metres hurdles;performance=46.29 CR , AR , WL;country=BRA",3.0
+world_athletics_championships_2022_men_400-metres-hurdles,athlete_BENJAMIN_Rai_USA,2.0,silver,discipline=400 metres hurdles;performance=46.89 SB;country=USA,2.0
+world_athletics_championships_2022_men_400-metres-hurdles,athlete_Trevor_Bassitt_USA,3.0,bronze,discipline=400 metres hurdles;performance=47.39 PB;country=USA,1.0
+world_athletics_championships_2022_men_5000-metres,athlete_INGEBRIGTSEN_Jakob_NOR,1.0,gold,discipline=5000 metres;performance=13:09.24;country=NOR,3.0
+world_athletics_championships_2022_men_5000-metres,athlete_Jacob_Krop_KEN,2.0,silver,discipline=5000 metres;performance=13:09.98;country=KEN,2.0
+world_athletics_championships_2022_men_5000-metres,athlete_Oscar_Chelimo_UGA,3.0,bronze,discipline=5000 metres;performance=13:10.20 SB;country=UGA,1.0
+world_athletics_championships_2022_men_800-metres,athlete_AROP_Marco_CAN,3.0,bronze,discipline=800 metres;performance=1:44.28;country=CAN,1.0
+world_athletics_championships_2022_men_800-metres,athlete_Djamel_Sedjati_DZA,2.0,silver,discipline=800 metres;performance=1:44.14;country=DZA,2.0
+world_athletics_championships_2022_men_800-metres,athlete_Emmanuel_Korir_KEN_144848,1.0,gold,discipline=800 metres;performance=1:43.71 SB;country=KEN,3.0
+world_athletics_championships_2022_men_decathlon,athlete_Kevin_Mayer_FRA,1.0,gold,discipline=Decathlon;performance=8816 SB;country=FRA,3.0
+world_athletics_championships_2022_men_decathlon,athlete_Pierce_LePage_CAN,2.0,silver,discipline=Decathlon;performance=8701 PB;country=CAN,2.0
+world_athletics_championships_2022_men_decathlon,athlete_Zach_Ziemek_USA,3.0,bronze,discipline=Decathlon;performance=8676 PB;country=USA,1.0
+world_athletics_championships_2022_men_discus-throw,athlete_ALEKNA_Mykolas_LTU,2.0,silver,discipline=Discus throw;performance=69.27 m;country=LTU,2.0
+world_athletics_championships_2022_men_discus-throw,athlete_Andrius_Gudius_LTU,3.0,bronze,discipline=Discus throw;performance=67.55 m;country=LTU,1.0
+world_athletics_championships_2022_men_discus-throw,athlete_Kristjan_eh_SVN,1.0,gold,discipline=Discus throw;performance=71.13 m CR;country=SVN,3.0
+world_athletics_championships_2022_men_hammer-throw,athlete_Eivind_Henriksen_NOR_121160,3.0,bronze,discipline=Hammer throw;performance=80.87 m SB;country=NOR,1.0
+world_athletics_championships_2022_men_hammer-throw,athlete_Pawe_Fajdek_POL_121979,1.0,gold,discipline=Hammer throw;performance=81.98 m WL;country=POL,3.0
+world_athletics_championships_2022_men_hammer-throw,athlete_Wojciech_Nowicki_POL_135479,2.0,silver,discipline=Hammer throw;performance=81.03 m;country=POL,2.0
+world_athletics_championships_2022_men_high-jump,athlete_Andriy_Protsenko_UKR,3.0,bronze,discipline=High jump;performance=2.33 m SB;country=UKR,1.0
+world_athletics_championships_2022_men_high-jump,athlete_Mutaz_Essa_Barshim_QAT_124789,1.0,gold,discipline=High jump;performance=2.37 m WL;country=QAT,3.0
+world_athletics_championships_2022_men_high-jump,athlete_Woo_Sang-hyeok_KOR,2.0,silver,discipline=High jump;performance=2.35 m NR;country=KOR,2.0
+world_athletics_championships_2022_men_javelin-throw,athlete_Anderson_Peters_GRD,1.0,gold,discipline=Javelin throw;performance=90.54 m;country=GRD,3.0
+world_athletics_championships_2022_men_javelin-throw,athlete_CHOPRA_Neeraj_IND,2.0,silver,discipline=Javelin throw;performance=88.13 m;country=IND,2.0
+world_athletics_championships_2022_men_javelin-throw,athlete_Jakub_Vadlejch_CZE_125233,3.0,bronze,discipline=Javelin throw;performance=88.09 m;country=CZE,1.0
+world_athletics_championships_2022_men_long-jump,athlete_Miltiadis_Tentoglou_GRC,2.0,silver,discipline=Long jump;performance=8.32 m;country=GRC,2.0
+world_athletics_championships_2022_men_long-jump,athlete_Simon_Ehammer_CHE,3.0,bronze,discipline=Long jump;performance=8.16 m;country=CHE,1.0
+world_athletics_championships_2022_men_long-jump,athlete_Wang_Jianan_CHN,1.0,gold,discipline=Long jump;performance=8.36 m SB;country=CHN,3.0
+world_athletics_championships_2022_men_marathon,athlete_ABDI_Bashir_BEL,3.0,bronze,discipline=Marathon;performance=2:06:48;country=BEL,1.0
+world_athletics_championships_2022_men_marathon,athlete_Mosinet_Geremew_ETH,2.0,silver,discipline=Marathon;performance=2:06:44;country=ETH,2.0
+world_athletics_championships_2022_men_marathon,athlete_TOLA_Tamirat_ETH,1.0,gold,discipline=Marathon;performance=2:05:36 CR;country=ETH,3.0
+world_athletics_championships_2022_men_pole-vault,athlete_Chris_Nilsen_USA_147316,2.0,silver,discipline=Pole vault;performance=5.94 m;country=USA,2.0
+world_athletics_championships_2022_men_pole-vault,athlete_DUPLANTIS_Armand_SWE,1.0,gold,discipline=Pole vault;performance=6.21 m WR;country=SWE,3.0
+world_athletics_championships_2022_men_pole-vault,athlete_Ernest_John_Obiena_PHL,3.0,bronze,discipline=Pole vault;performance=5.94 m AR;country=PHL,1.0
+world_athletics_championships_2022_men_shot-put,athlete_CROUSER_Ryan_USA,1.0,gold,discipline=Shot put;performance=22.94 m CR;country=USA,3.0
+world_athletics_championships_2022_men_shot-put,athlete_Joe_Kovacs_USA_136251,2.0,silver,discipline=Shot put;performance=22.89 m SB;country=USA,2.0
+world_athletics_championships_2022_men_shot-put,athlete_Josh_Awotunde_USA,3.0,bronze,discipline=Shot put;performance=22.29 m PB;country=USA,1.0
+world_athletics_championships_2022_men_triple-jump,athlete_Hugues_Fabrice_Zango_BFA,2.0,silver,discipline=Triple jump;performance=17.55 m SB;country=BFA,2.0
+world_athletics_championships_2022_men_triple-jump,athlete_Pedro_Pichardo_PRT,1.0,gold,discipline=Triple jump;performance=17.95 m WL;country=PRT,3.0
+world_athletics_championships_2022_men_triple-jump,athlete_Zhu_Yaming_CHN_141820,3.0,bronze,discipline=Triple jump;performance=17.31 m SB;country=CHN,1.0
+world_athletics_championships_2022_mixed_4-400-metres-relay,DOM,1.0,gold,discipline=4 × 400 metres relay;performance=3:09.82 WL;country=DOM,3.0
+world_athletics_championships_2022_mixed_4-400-metres-relay,NLD,2.0,silver,discipline=4 × 400 metres relay;performance=3:09.90 NR;country=NLD,2.0
+world_athletics_championships_2022_mixed_4-400-metres-relay,USA,3.0,bronze,discipline=4 × 400 metres relay;performance=3:10.16 SB;country=USA,1.0
+world_athletics_championships_2022_women_10-000-metres,athlete_Hellen_Obiri_KEN_124006,2.0,silver,"discipline=10,000 metres;performance=30:10.02 PB;country=KEN",2.0
+world_athletics_championships_2022_women_10-000-metres,athlete_Letesenbet_Gidey_ETH_142604,1.0,gold,"discipline=10,000 metres;performance=30:09.94 WL;country=ETH",3.0
+world_athletics_championships_2022_women_10-000-metres,athlete_Margaret_Kipkemboi_KEN,3.0,bronze,"discipline=10,000 metres;performance=30:10.07 PB;country=KEN",1.0
+world_athletics_championships_2022_women_100-metres,athlete_Elaine_Thompson-Herah_JAM_130722,3.0,bronze,discipline=100 metres;performance=10.81;country=JAM,1.0
+world_athletics_championships_2022_women_100-metres,athlete_Shelly-Ann_Fraser-Pryce_JAM_114740,1.0,gold,"discipline=100 metres;performance=10.67 CR , WL;country=JAM",3.0
+world_athletics_championships_2022_women_100-metres,athlete_Shericka_Jackson_JAM_130733,2.0,silver,discipline=100 metres;performance=10.73 PB;country=JAM,2.0
+world_athletics_championships_2022_women_100-metres-hurdles,athlete_Britany_Anderson_JAM,2.0,silver,discipline=100 metres hurdles;performance=12.23 w;country=JAM,2.0
+world_athletics_championships_2022_women_100-metres-hurdles,athlete_Jasmine_Camacho-Quinn_PUR_131455,3.0,bronze,discipline=100 metres hurdles;performance=12.23 w;country=PUR,1.0
+world_athletics_championships_2022_women_100-metres-hurdles,athlete_Tobi_Amusan_NGA,1.0,gold,discipline=100 metres hurdles;performance=12.06 w;country=NGA,3.0
+world_athletics_championships_2022_women_1500-metres,athlete_Faith_Kipyegon_KEN_127094,1.0,gold,discipline=1500 metres;performance=3:52.96;country=KEN,3.0
+world_athletics_championships_2022_women_1500-metres,athlete_Gudaf_Tsegay_ETH_130033,2.0,silver,discipline=1500 metres;performance=3:54.52;country=ETH,2.0
+world_athletics_championships_2022_women_1500-metres,athlete_Laura_Muir_GBR_130211,3.0,bronze,discipline=1500 metres;performance=3:55.28 SB;country=GBR,1.0
+world_athletics_championships_2022_women_20-kilometres-walk,athlete_Katarzyna_Zdziebo_POL,2.0,silver,discipline=20 kilometres walk;performance=1:27:31 NR;country=POL,2.0
+world_athletics_championships_2022_women_20-kilometres-walk,athlete_Kimberly_García_PER,1.0,gold,discipline=20 kilometres walk;performance=1:26:58 NR;country=PER,3.0
+world_athletics_championships_2022_women_20-kilometres-walk,athlete_Qieyang_Shijie_CHN_122525,3.0,bronze,discipline=20 kilometres walk;performance=1:27:56;country=CHN,1.0
+world_athletics_championships_2022_women_200-metres,athlete_Dina_Asher-Smith_GBR_130204,3.0,bronze,discipline=200 metres;performance=22.02;country=GBR,1.0
+world_athletics_championships_2022_women_200-metres,athlete_Shelly-Ann_Fraser-Pryce_JAM_114740,2.0,silver,discipline=200 metres;performance=21.81 SB;country=JAM,2.0
+world_athletics_championships_2022_women_200-metres,athlete_Shericka_Jackson_JAM_130733,1.0,gold,"discipline=200 metres;performance=21.45 CR , NR , WL;country=JAM",3.0
+world_athletics_championships_2022_women_3000-metres-steeplechase,athlete_Mekides_Abebe_ETH,3.0,bronze,discipline=3000 metres steeplechase;performance=8:56.08 PB;country=ETH,1.0
+world_athletics_championships_2022_women_3000-metres-steeplechase,athlete_Norah_Jeruto_KAZ,1.0,gold,"discipline=3000 metres steeplechase;performance=8:53.02 CR , WL;country=KAZ",3.0
+world_athletics_championships_2022_women_3000-metres-steeplechase,athlete_Werkuha_Getachew_ETH,2.0,silver,discipline=3000 metres steeplechase;performance=8:54.61 NR;country=ETH,2.0
+world_athletics_championships_2022_women_35-kilometres-walk,athlete_Katarzyna_Zdziebo_POL,2.0,silver,discipline=35 kilometres walk;performance=2:40:03 PB;country=POL,2.0
+world_athletics_championships_2022_women_35-kilometres-walk,athlete_Kimberly_García_PER,1.0,gold,"discipline=35 kilometres walk;performance=2:39:16 CR , AR;country=PER",3.0
+world_athletics_championships_2022_women_35-kilometres-walk,athlete_Qieyang_Shijie_CHN_122525,3.0,bronze,discipline=35 kilometres walk;performance=2:40:37 AR;country=CHN,1.0
+world_athletics_championships_2022_women_4-100-metres-relay,DEU,3.0,bronze,discipline=4 × 100 metres relay;performance=42.03 SB;country=DEU,1.0
+world_athletics_championships_2022_women_4-100-metres-relay,JAM,2.0,silver,discipline=4 × 100 metres relay;performance=41.18 SB;country=JAM,2.0
+world_athletics_championships_2022_women_4-100-metres-relay,USA,1.0,gold,discipline=4 × 100 metres relay;performance=41.14 WL;country=USA,3.0
+world_athletics_championships_2022_women_4-400-metres-relay,GBR,3.0,bronze,discipline=4 × 400 metres relay;performance=3:22.64 SB;country=GBR,1.0
+world_athletics_championships_2022_women_4-400-metres-relay,JAM,2.0,silver,discipline=4 × 400 metres relay;performance=3:20.74 SB;country=JAM,2.0
+world_athletics_championships_2022_women_4-400-metres-relay,USA,1.0,gold,discipline=4 × 400 metres relay;performance=3:17.79 WL;country=USA,3.0
+world_athletics_championships_2022_women_400-metres,athlete_Marileidy_Paulino_DOM_142190,2.0,silver,discipline=400 metres;performance=49.60;country=DOM,2.0
+world_athletics_championships_2022_women_400-metres,athlete_Sada_Williams_BRB,3.0,bronze,discipline=400 metres;performance=49.75 NR;country=BRB,1.0
+world_athletics_championships_2022_women_400-metres,athlete_Shaunae_Miller-Uibo_BHS,1.0,gold,discipline=400 metres;performance=49.11 WL;country=BHS,3.0
+world_athletics_championships_2022_women_400-metres-hurdles,athlete_Dalilah_Muhammad_USA_132025,3.0,bronze,discipline=400 metres hurdles;performance=53.13 SB;country=USA,1.0
+world_athletics_championships_2022_women_400-metres-hurdles,athlete_Femke_Bol_NLD,2.0,silver,discipline=400 metres hurdles;performance=52.27 SB;country=NLD,2.0
+world_athletics_championships_2022_women_400-metres-hurdles,athlete_Sydney_McLaughlin_USA_132050,1.0,gold,discipline=400 metres hurdles;performance=50.68 WR;country=USA,3.0
+world_athletics_championships_2022_women_5000-metres,athlete_CHEBET_Beatrice_KEN,2.0,silver,discipline=5000 metres;performance=14:46.75 SB;country=KEN,2.0
+world_athletics_championships_2022_women_5000-metres,athlete_Dawit_Seyaum_ETH,3.0,bronze,discipline=5000 metres;performance=14:47.36;country=ETH,1.0
+world_athletics_championships_2022_women_5000-metres,athlete_Gudaf_Tsegay_ETH_130033,1.0,gold,discipline=5000 metres;performance=14:46.29;country=ETH,3.0
+world_athletics_championships_2022_women_800-metres,athlete_Athing_Mu_USA,1.0,gold,discipline=800 metres;performance=1:56.30 WL;country=USA,3.0
+world_athletics_championships_2022_women_800-metres,athlete_HODGKINSON_Keely_GBR,2.0,silver,discipline=800 metres;performance=1:56.38 SB;country=GBR,2.0
+world_athletics_championships_2022_women_800-metres,athlete_MORAA_Mary_KEN,3.0,bronze,discipline=800 metres;performance=1:56.71 PB;country=KEN,1.0
+world_athletics_championships_2022_women_discus-throw,athlete_ALLMAN_Valarie_USA,3.0,bronze,discipline=Discus throw;performance=68.30 m;country=USA,1.0
+world_athletics_championships_2022_women_discus-throw,athlete_FENG_Bin_CHN,1.0,gold,discipline=Discus throw;performance=69.12 m PB;country=CHN,3.0
+world_athletics_championships_2022_women_discus-throw,athlete_Sandra_Perkovi_HRV,2.0,silver,discipline=Discus throw;performance=68.45 m SB;country=HRV,2.0
+world_athletics_championships_2022_women_hammer-throw,athlete_Brooke_Andersen_USA,1.0,gold,discipline=Hammer throw;performance=78.96 m;country=USA,3.0
+world_athletics_championships_2022_women_hammer-throw,athlete_Janee_Kassanavoid_USA,3.0,bronze,discipline=Hammer throw;performance=74.86 m;country=USA,1.0
+world_athletics_championships_2022_women_hammer-throw,athlete_ROGERS_Camryn_CAN,2.0,silver,discipline=Hammer throw;performance=75.52 m;country=CAN,2.0
+world_athletics_championships_2022_women_heptathlon,athlete_Anna_Hall_USA,3.0,bronze,discipline=Heptathlon;performance=6755 PB;country=USA,1.0
+world_athletics_championships_2022_women_heptathlon,athlete_Anouk_Vetter_NLD,2.0,silver,discipline=Heptathlon;performance=6867 NR;country=NLD,2.0
+world_athletics_championships_2022_women_heptathlon,athlete_THIAM_Nafissatou_BEL,1.0,gold,discipline=Heptathlon;performance=6947 WL;country=BEL,3.0
+world_athletics_championships_2022_women_high-jump,athlete_Elena_Vallortigara_ITA,3.0,bronze,discipline=High jump;performance=2.00 m SB;country=ITA,1.0
+world_athletics_championships_2022_women_high-jump,athlete_MAHUCHIKH_Yaroslava_UKR,2.0,silver,discipline=High jump;performance=2.02 m;country=UKR,2.0
+world_athletics_championships_2022_women_high-jump,athlete_PATTERSON_Eleanor_AUS,1.0,gold,discipline=High jump;performance=2.02 m = AR;country=AUS,3.0
+world_athletics_championships_2022_women_javelin-throw,athlete_KITAGUCHI_Haruka_JPN,3.0,bronze,discipline=Javelin throw;performance=63.27 m;country=JPN,1.0
+world_athletics_championships_2022_women_javelin-throw,athlete_Kara_Winger_USA,2.0,silver,discipline=Javelin throw;performance=64.05 m;country=USA,2.0
+world_athletics_championships_2022_women_javelin-throw,athlete_Kelsey-Lee_Barber_AUS_128950,1.0,gold,discipline=Javelin throw;performance=66.91 m WL;country=AUS,3.0
+world_athletics_championships_2022_women_long-jump,athlete_Ese_Brume_NGA,2.0,silver,discipline=Long jump;performance=7.02 m SB;country=NGA,2.0
+world_athletics_championships_2022_women_long-jump,athlete_Leticia_Oro_Melo_BRA,3.0,bronze,discipline=Long jump;performance=6.89 m PB;country=BRA,1.0
+world_athletics_championships_2022_women_long-jump,athlete_Malaika_Mihambo_DEU,1.0,gold,discipline=Long jump;performance=7.12 m SB;country=DEU,3.0
+world_athletics_championships_2022_women_marathon,athlete_Gotytom_Gebreslase_ETH,1.0,gold,discipline=Marathon;performance=2:18:11 CR;country=ETH,3.0
+world_athletics_championships_2022_women_marathon,athlete_Judith_Korir_KEN,2.0,silver,discipline=Marathon;performance=2:18:20 PB;country=KEN,2.0
+world_athletics_championships_2022_women_marathon,athlete_Lonah_Salpeter_ISR,3.0,bronze,discipline=Marathon;performance=2:20:18;country=ISR,1.0
+world_athletics_championships_2022_women_pole-vault,athlete_KENNEDY_Nina_AUS,3.0,bronze,discipline=Pole vault;performance=4.80 m SB;country=AUS,1.0
+world_athletics_championships_2022_women_pole-vault,athlete_Katie_Nageotte_USA_147115,1.0,gold,discipline=Pole vault;performance=4.85 m WL;country=USA,3.0
+world_athletics_championships_2022_women_pole-vault,athlete_Sandi_Morris_USA_132047,2.0,silver,discipline=Pole vault;performance=4.85 m WL;country=USA,2.0
+world_athletics_championships_2022_women_shot-put,athlete_Chase_Ealey_USA,1.0,gold,discipline=Shot put;performance=20.49 m;country=USA,3.0
+world_athletics_championships_2022_women_shot-put,athlete_Gong_Lijiao_CHN_114781,2.0,silver,discipline=Shot put;performance=20.39 m;country=CHN,2.0
+world_athletics_championships_2022_women_shot-put,athlete_Jessica_Schilder_NLD,3.0,bronze,discipline=Shot put;performance=19.77 m;country=NLD,1.0
+world_athletics_championships_2022_women_triple-jump,athlete_RICKETTS_Shanieka_JAM,2.0,silver,discipline=Triple jump;performance=14.89 m SB;country=JAM,2.0
+world_athletics_championships_2022_women_triple-jump,athlete_Tori_Franklin_USA,3.0,bronze,discipline=Triple jump;performance=14.72 m SB;country=USA,1.0
+world_athletics_championships_2022_women_triple-jump,athlete_Yulimar_Rojas_VEN_132214,1.0,gold,discipline=Triple jump;performance=15.47 m WL;country=VEN,3.0
+world_athletics_championships_2023_men_10-000-metres,athlete_CHEPTEGEI_Joshua_UGA,1.0,gold,"discipline=10,000 metres;performance=27:51.42 SB;country=UGA",3.0
+world_athletics_championships_2023_men_10-000-metres,athlete_Daniel_Ebenyo_KEN,2.0,silver,"discipline=10,000 metres;performance=27:52.60;country=KEN",2.0
+world_athletics_championships_2023_men_10-000-metres,athlete_Selemon_Barega_ETH_142622,3.0,bronze,"discipline=10,000 metres;performance=27:52.72;country=ETH",1.0
+world_athletics_championships_2023_men_100-metres,athlete_LYLES_Noah_USA,1.0,gold,discipline=100 metres;performance=9.83 = WL;country=USA,3.0
+world_athletics_championships_2023_men_100-metres,athlete_Letsile_Tebogo_BWA,2.0,silver,discipline=100 metres;performance=9.88 NR;country=BWA,2.0
+world_athletics_championships_2023_men_100-metres,athlete_Zharnel_Hughes_GBR,3.0,bronze,discipline=100 metres;performance=9.88;country=GBR,1.0
+world_athletics_championships_2023_men_110-metres-hurdles,athlete_Grant_Holloway_USA_147330,1.0,gold,discipline=110 metres hurdles;performance=12.96 SB;country=USA,3.0
+world_athletics_championships_2023_men_110-metres-hurdles,athlete_Hansle_Parchment_JAM_120727,2.0,silver,discipline=110 metres hurdles;performance=13.07 SB;country=JAM,2.0
+world_athletics_championships_2023_men_110-metres-hurdles,athlete_ROBERTS_Daniel_USA,3.0,bronze,discipline=110 metres hurdles;performance=13.09;country=USA,1.0
+world_athletics_championships_2023_men_1500-metres,athlete_INGEBRIGTSEN_Jakob_NOR,2.0,silver,discipline=1500 metres;performance=3:29.65;country=NOR,2.0
+world_athletics_championships_2023_men_1500-metres,athlete_Josh_Kerr_GBR_143104,1.0,gold,discipline=1500 metres;performance=3:29.38 SB;country=GBR,3.0
+world_athletics_championships_2023_men_1500-metres,athlete_Narve_Gilje_Nordås_NOR,3.0,bronze,discipline=1500 metres;performance=3:29.68;country=NOR,1.0
+world_athletics_championships_2023_men_20-kilometres-walk,athlete_BONFIM_Caio_BRA,3.0,bronze,discipline=20 kilometres walk;performance=1:17:47 NR;country=BRA,1.0
+world_athletics_championships_2023_men_20-kilometres-walk,athlete_Perseus_Karlström_SWE,2.0,silver,discipline=20 kilometres walk;performance=1:17:39 NR;country=SWE,2.0
+world_athletics_championships_2023_men_20-kilometres-walk,athlete_Álvaro_Martín_ESP,1.0,gold,discipline=20 kilometres walk;performance=1:17:32 WL;country=ESP,3.0
+world_athletics_championships_2023_men_200-metres,athlete_Erriyon_Knighton_USA,2.0,silver,discipline=200 metres;performance=19.75;country=USA,2.0
+world_athletics_championships_2023_men_200-metres,athlete_LYLES_Noah_USA,1.0,gold,discipline=200 metres;performance=19.52;country=USA,3.0
+world_athletics_championships_2023_men_200-metres,athlete_Letsile_Tebogo_BWA,3.0,bronze,discipline=200 metres;performance=19.81;country=BWA,1.0
+world_athletics_championships_2023_men_3000-metres-steeplechase,athlete_KIBIWOT_Abraham_KEN,3.0,bronze,discipline=3000 metres steeplechase;performance=8:11.98;country=KEN,1.0
+world_athletics_championships_2023_men_3000-metres-steeplechase,athlete_Lamecha_Girma_ETH_147787,2.0,silver,discipline=3000 metres steeplechase;performance=8:05.44;country=ETH,2.0
+world_athletics_championships_2023_men_3000-metres-steeplechase,athlete_Soufiane_El-Bakkali_MAR_135068,1.0,gold,discipline=3000 metres steeplechase;performance=8:03.53;country=MAR,3.0
+world_athletics_championships_2023_men_35-kilometres-walk,athlete_Brian_Pintado_ECU,2.0,silver,discipline=35 kilometres walk;performance=2:24:34 AR;country=ECU,2.0
+world_athletics_championships_2023_men_35-kilometres-walk,athlete_Masatora_Kawano_JPN,3.0,bronze,discipline=35 kilometres walk;performance=2:25:12 SB;country=JPN,1.0
+world_athletics_championships_2023_men_35-kilometres-walk,athlete_Álvaro_Martín_ESP,1.0,gold,discipline=35 kilometres walk;performance=2:24:30 NR;country=ESP,3.0
+world_athletics_championships_2023_men_4-100-metres-relay,ITA,2.0,silver,discipline=4 × 100 metres relay;performance=37.62 SB;country=ITA,2.0
+world_athletics_championships_2023_men_4-100-metres-relay,JAM,3.0,bronze,discipline=4 × 100 metres relay;performance=37.76;country=JAM,1.0
+world_athletics_championships_2023_men_4-100-metres-relay,USA,1.0,gold,discipline=4 × 100 metres relay;performance=37.38 WL;country=USA,3.0
+world_athletics_championships_2023_men_4-400-metres-relay,FRA,2.0,silver,discipline=4 × 400 metres relay;performance=2:58.45 NR;country=FRA,2.0
+world_athletics_championships_2023_men_4-400-metres-relay,GBR,3.0,bronze,discipline=4 × 400 metres relay;performance=2:58.71 SB;country=GBR,1.0
+world_athletics_championships_2023_men_4-400-metres-relay,USA,1.0,gold,discipline=4 × 400 metres relay;performance=2:57.31 WL;country=USA,3.0
+world_athletics_championships_2023_men_400-metres,athlete_Antonio_Watson_JAM,1.0,gold,discipline=400 metres;performance=44.22;country=JAM,3.0
+world_athletics_championships_2023_men_400-metres,athlete_HALL_Quincy_USA,3.0,bronze,discipline=400 metres;performance=44.37 PB;country=USA,1.0
+world_athletics_championships_2023_men_400-metres,athlete_Matthew_Hudson-Smith_GBR,2.0,silver,discipline=400 metres;performance=44.31;country=GBR,2.0
+world_athletics_championships_2023_men_400-metres-hurdles,athlete_BENJAMIN_Rai_USA,3.0,bronze,discipline=400 metres hurdles;performance=47.56;country=USA,1.0
+world_athletics_championships_2023_men_400-metres-hurdles,athlete_Karsten_Warholm_NOR_135340,1.0,gold,discipline=400 metres hurdles;performance=46.89;country=NOR,3.0
+world_athletics_championships_2023_men_400-metres-hurdles,athlete_Kyron_McMaster_VGB,2.0,silver,discipline=400 metres hurdles;performance=47.34;country=VGB,2.0
+world_athletics_championships_2023_men_5000-metres,athlete_INGEBRIGTSEN_Jakob_NOR,1.0,gold,discipline=5000 metres;performance=13:11.30 SB;country=NOR,3.0
+world_athletics_championships_2023_men_5000-metres,athlete_Jacob_Krop_KEN,3.0,bronze,discipline=5000 metres;performance=13:12.28;country=KEN,1.0
+world_athletics_championships_2023_men_5000-metres,athlete_Mohamed_Katir_ESP,2.0,silver,discipline=5000 metres;performance=13:11.44;country=ESP,2.0
+world_athletics_championships_2023_men_800-metres,athlete_AROP_Marco_CAN,1.0,gold,discipline=800 metres;performance=1:44.24;country=CAN,3.0
+world_athletics_championships_2023_men_800-metres,athlete_Ben_Pattison_GBR,3.0,bronze,discipline=800 metres;performance=1:44.83;country=GBR,1.0
+world_athletics_championships_2023_men_800-metres,athlete_WANYONYI_Emmanuel_KEN,2.0,silver,discipline=800 metres;performance=1:44.53;country=KEN,2.0
+world_athletics_championships_2023_men_decathlon,athlete_Damian_Warner_CAN_122729,2.0,silver,discipline=Decathlon;performance=8804 SB;country=CAN,2.0
+world_athletics_championships_2023_men_decathlon,athlete_Lindon_Victor_GRD,3.0,bronze,discipline=Decathlon;performance=8756 NR;country=GRD,1.0
+world_athletics_championships_2023_men_decathlon,athlete_Pierce_LePage_CAN,1.0,gold,discipline=Decathlon;performance=8909 WL;country=CAN,3.0
+world_athletics_championships_2023_men_discus-throw,athlete_ALEKNA_Mykolas_LTU,3.0,bronze,discipline=Discus throw;performance=68.85 m;country=LTU,1.0
+world_athletics_championships_2023_men_discus-throw,athlete_Daniel_Ståhl_SWE_135988,1.0,gold,discipline=Discus throw;performance=71.46 m CR;country=SWE,3.0
+world_athletics_championships_2023_men_discus-throw,athlete_Kristjan_eh_SVN,2.0,silver,discipline=Discus throw;performance=70.02 m;country=SVN,2.0
+world_athletics_championships_2023_men_hammer-throw,athlete_Bence_Halász_HUN,3.0,bronze,discipline=Hammer throw;performance=80.82 m SB;country=HUN,1.0
+world_athletics_championships_2023_men_hammer-throw,athlete_KATZBERG_Ethan_CAN,1.0,gold,discipline=Hammer throw;performance=81.25 m NR;country=CAN,3.0
+world_athletics_championships_2023_men_hammer-throw,athlete_Wojciech_Nowicki_POL_135479,2.0,silver,discipline=Hammer throw;performance=81.02 m;country=POL,2.0
+world_athletics_championships_2023_men_high-jump,athlete_Gianmarco_Tamberi_ITA_124447,1.0,gold,discipline=High jump;performance=2.36 m = WL;country=ITA,3.0
+world_athletics_championships_2023_men_high-jump,athlete_JuVaughn_Harrison_USA,2.0,silver,discipline=High jump;performance=2.36 m = WL;country=USA,2.0
+world_athletics_championships_2023_men_high-jump,athlete_Mutaz_Essa_Barshim_QAT_124789,3.0,bronze,discipline=High jump;performance=2.33 m;country=QAT,1.0
+world_athletics_championships_2023_men_javelin-throw,athlete_CHOPRA_Neeraj_IND,1.0,gold,discipline=Javelin throw;performance=88.17 m;country=IND,3.0
+world_athletics_championships_2023_men_javelin-throw,athlete_Jakub_Vadlejch_CZE_125233,3.0,bronze,discipline=Javelin throw;performance=86.67 m;country=CZE,1.0
+world_athletics_championships_2023_men_javelin-throw,athlete_NADEEM_Arshad_PAK,2.0,silver,discipline=Javelin throw;performance=87.82 m SB;country=PAK,2.0
+world_athletics_championships_2023_men_long-jump,athlete_Miltiadis_Tentoglou_GRC,1.0,gold,discipline=Long jump;performance=8.52 m SB;country=GRC,3.0
+world_athletics_championships_2023_men_long-jump,athlete_PINNOCK_Wayne_JAM,2.0,silver,discipline=Long jump;performance=8.50 m;country=JAM,2.0
+world_athletics_championships_2023_men_long-jump,athlete_Tajay_Gayle_JAM,3.0,bronze,discipline=Long jump;performance=8.27 m = SB;country=JAM,1.0
+world_athletics_championships_2023_men_marathon,athlete_Leul_Gebresilase_ETH,3.0,bronze,discipline=Marathon;performance=2:09.19;country=ETH,1.0
+world_athletics_championships_2023_men_marathon,athlete_Maru_Teferi_ISR,2.0,silver,discipline=Marathon;performance=2:09.12 SB;country=ISR,2.0
+world_athletics_championships_2023_men_marathon,athlete_Victor_Kiplangat_UGA,1.0,gold,discipline=Marathon;performance=2:08.53;country=UGA,3.0
+world_athletics_championships_2023_men_pole-vault,athlete_Chris_Nilsen_USA_147316,3.0,bronze,discipline=Pole vault;performance=5.95 m = PB 5.95 m SB;country=USA,1.0
+world_athletics_championships_2023_men_pole-vault,athlete_DUPLANTIS_Armand_SWE,1.0,gold,discipline=Pole vault;performance=6.10 m;country=SWE,3.0
+world_athletics_championships_2023_men_pole-vault,athlete_EJ_Obiena_PHL,2.0,silver,discipline=Pole vault;performance=6.00 m = AR;country=PHL,2.0
+world_athletics_championships_2023_men_pole-vault,athlete_Kurtis_Marschall_AUS,3.0,bronze,discipline=Pole vault;performance=5.95 m = PB 5.95 m SB;country=AUS,1.0
+world_athletics_championships_2023_men_shot-put,athlete_CROUSER_Ryan_USA,1.0,gold,discipline=Shot put;performance=23.51 m CR;country=USA,3.0
+world_athletics_championships_2023_men_shot-put,athlete_Joe_Kovacs_USA_136251,3.0,bronze,discipline=Shot put;performance=22.12 m;country=USA,1.0
+world_athletics_championships_2023_men_shot-put,athlete_Leonardo_Fabbri_ITA,2.0,silver,discipline=Shot put;performance=22.34 m PB;country=ITA,2.0
+world_athletics_championships_2023_men_triple-jump,athlete_Cristian_Nápoles_CUB,3.0,bronze,discipline=Triple jump;performance=17.40 m PB;country=CUB,1.0
+world_athletics_championships_2023_men_triple-jump,athlete_Hugues_Fabrice_Zango_BFA,1.0,gold,discipline=Triple jump;performance=17.64 m;country=BFA,3.0
+world_athletics_championships_2023_men_triple-jump,athlete_Lázaro_Martínez_CUB,2.0,silver,discipline=Triple jump;performance=17.41 m;country=CUB,2.0
+world_athletics_championships_2023_mixed_4-400-metres-relay,CZE,3.0,bronze,discipline=4 × 400 metres relay;performance=3:11.98 NR;country=CZE,1.0
+world_athletics_championships_2023_mixed_4-400-metres-relay,GBR,2.0,silver,discipline=4 × 400 metres relay;performance=3:11.06 NR;country=GBR,2.0
+world_athletics_championships_2023_mixed_4-400-metres-relay,USA,1.0,gold,discipline=4 × 400 metres relay;performance=3:08.80 WR;country=USA,3.0
+world_athletics_championships_2023_women_10-000-metres,athlete_Ejgayehu_Taye_ETH,3.0,bronze,"discipline=10,000 metres;performance=31:28.31;country=ETH",1.0
+world_athletics_championships_2023_women_10-000-metres,athlete_Gudaf_Tsegay_ETH_130033,1.0,gold,"discipline=10,000 metres;performance=31:27.18;country=ETH",3.0
+world_athletics_championships_2023_women_10-000-metres,athlete_Letesenbet_Gidey_ETH_142604,2.0,silver,"discipline=10,000 metres;performance=31:28.16 SB;country=ETH",2.0
+world_athletics_championships_2023_women_100-metres,athlete_ShaCarri_Richardson_USA,1.0,gold,discipline=100 metres;performance=10.65 CR;country=USA,3.0
+world_athletics_championships_2023_women_100-metres,athlete_Shelly-Ann_Fraser-Pryce_JAM_114740,3.0,bronze,discipline=100 metres;performance=10.77 SB;country=JAM,1.0
+world_athletics_championships_2023_women_100-metres,athlete_Shericka_Jackson_JAM_130733,2.0,silver,discipline=100 metres;performance=10.72;country=JAM,2.0
+world_athletics_championships_2023_women_100-metres-hurdles,athlete_Danielle_Williams_JAM,1.0,gold,discipline=100 metres hurdles;performance=12.43 SB;country=JAM,3.0
+world_athletics_championships_2023_women_100-metres-hurdles,athlete_Jasmine_Camacho-Quinn_PUR_131455,2.0,silver,discipline=100 metres hurdles;performance=12.44;country=PUR,2.0
+world_athletics_championships_2023_women_100-metres-hurdles,athlete_Kendra_Harrison_USA,3.0,bronze,discipline=100 metres hurdles;performance=12.46;country=USA,1.0
+world_athletics_championships_2023_women_1500-metres,athlete_Diribe_Welteji_ETH,2.0,silver,discipline=1500 metres;performance=3:55.69;country=ETH,2.0
+world_athletics_championships_2023_women_1500-metres,athlete_Faith_Kipyegon_KEN_127094,1.0,gold,discipline=1500 metres;performance=3:54.87;country=KEN,3.0
+world_athletics_championships_2023_women_1500-metres,athlete_Sifan_Hassan_NLD,3.0,bronze,discipline=1500 metres;performance=3:56.00;country=NLD,1.0
+world_athletics_championships_2023_women_20-kilometres-walk,athlete_Antonella_Palmisano_ITA_130633,3.0,bronze,discipline=20 kilometres walk;performance=1:27:26 SB;country=ITA,1.0
+world_athletics_championships_2023_women_20-kilometres-walk,athlete_MONTAG_Jemima_AUS,2.0,silver,discipline=20 kilometres walk;performance=1:27:16 AR;country=AUS,2.0
+world_athletics_championships_2023_women_20-kilometres-walk,athlete_María_Pérez_ESP,1.0,gold,discipline=20 kilometres walk;performance=1:26:51;country=ESP,3.0
+world_athletics_championships_2023_women_200-metres,athlete_ShaCarri_Richardson_USA,3.0,bronze,discipline=200 metres;performance=21.92 PB;country=USA,1.0
+world_athletics_championships_2023_women_200-metres,athlete_Shericka_Jackson_JAM_130733,1.0,gold,discipline=200 metres;performance=21.41 CR;country=JAM,3.0
+world_athletics_championships_2023_women_200-metres,athlete_THOMAS_Gabrielle_USA,2.0,silver,discipline=200 metres;performance=21.81;country=USA,2.0
+world_athletics_championships_2023_women_3000-metres-steeplechase,athlete_Beatrice_Chepkoech_KEN,2.0,silver,discipline=3000 metres steeplechase;performance=8:58.98 SB;country=KEN,2.0
+world_athletics_championships_2023_women_3000-metres-steeplechase,athlete_CHEROTICH_Faith_KEN,3.0,bronze,discipline=3000 metres steeplechase;performance=9:00.69 PB;country=KEN,1.0
+world_athletics_championships_2023_women_3000-metres-steeplechase,athlete_Winfred_Yavi_BHR,1.0,gold,discipline=3000 metres steeplechase;performance=8:54.29 WL;country=BHR,3.0
+world_athletics_championships_2023_women_35-kilometres-walk,athlete_Antigoni_Drisbioti_GRC,3.0,bronze,discipline=35 kilometres walk;performance=2:43:22 SB;country=GRC,1.0
+world_athletics_championships_2023_women_35-kilometres-walk,athlete_Kimberly_García_PER,2.0,silver,discipline=35 kilometres walk;performance=2:40:52;country=PER,2.0
+world_athletics_championships_2023_women_35-kilometres-walk,athlete_María_Pérez_ESP,1.0,gold,discipline=35 kilometres walk;performance=2:38:40 CR;country=ESP,3.0
+world_athletics_championships_2023_women_4-100-metres-relay,GBR,3.0,bronze,discipline=4 × 100 metres relay;performance=41.98 SB;country=GBR,1.0
+world_athletics_championships_2023_women_4-100-metres-relay,JAM,2.0,silver,discipline=4 × 100 metres relay;performance=41.21 SB;country=JAM,2.0
+world_athletics_championships_2023_women_4-100-metres-relay,USA,1.0,gold,discipline=4 × 100 metres relay;performance=41.03 CR;country=USA,3.0
+world_athletics_championships_2023_women_4-400-metres-relay,GBR,3.0,bronze,discipline=4 × 400 metres relay;performance=3:21.04 SB;country=GBR,1.0
+world_athletics_championships_2023_women_4-400-metres-relay,JAM,2.0,silver,discipline=4 × 400 metres relay;performance=3:20.88 SB;country=JAM,2.0
+world_athletics_championships_2023_women_4-400-metres-relay,NLD,1.0,gold,"discipline=4 × 400 metres relay;performance=3:20.72 WL , NR;country=NLD",3.0
+world_athletics_championships_2023_women_400-metres,athlete_KACZMAREK_Natalia_POL,2.0,silver,discipline=400 metres;performance=49.57;country=POL,2.0
+world_athletics_championships_2023_women_400-metres,athlete_Marileidy_Paulino_DOM_142190,1.0,gold,discipline=400 metres;performance=48.76 NR;country=DOM,3.0
+world_athletics_championships_2023_women_400-metres,athlete_Sada_Williams_BRB,3.0,bronze,discipline=400 metres;performance=49.60;country=BRB,1.0
+world_athletics_championships_2023_women_400-metres-hurdles,athlete_Femke_Bol_NLD,1.0,gold,discipline=400 metres hurdles;performance=51.70;country=NLD,3.0
+world_athletics_championships_2023_women_400-metres-hurdles,athlete_Rushell_Clayton_JAM,3.0,bronze,discipline=400 metres hurdles;performance=52.81 PB;country=JAM,1.0
+world_athletics_championships_2023_women_400-metres-hurdles,athlete_Shamier_Little_USA,2.0,silver,discipline=400 metres hurdles;performance=52.80 SB;country=USA,2.0
+world_athletics_championships_2023_women_5000-metres,athlete_CHEBET_Beatrice_KEN,3.0,bronze,discipline=5000 metres;performance=14:54.33;country=KEN,1.0
+world_athletics_championships_2023_women_5000-metres,athlete_Faith_Kipyegon_KEN_127094,1.0,gold,discipline=5000 metres;performance=14:53.88;country=KEN,3.0
+world_athletics_championships_2023_women_5000-metres,athlete_Sifan_Hassan_NLD,2.0,silver,discipline=5000 metres;performance=14:54.11;country=NLD,2.0
+world_athletics_championships_2023_women_800-metres,athlete_Athing_Mu_USA,3.0,bronze,discipline=800 metres;performance=1:56.61 SB;country=USA,1.0
+world_athletics_championships_2023_women_800-metres,athlete_HODGKINSON_Keely_GBR,2.0,silver,discipline=800 metres;performance=1:56.34;country=GBR,2.0
+world_athletics_championships_2023_women_800-metres,athlete_MORAA_Mary_KEN,1.0,gold,discipline=800 metres;performance=1:56.03 PB;country=KEN,3.0
+world_athletics_championships_2023_women_discus-throw,athlete_ALLMAN_Valarie_USA,2.0,silver,discipline=Discus throw;performance=69.23 m;country=USA,2.0
+world_athletics_championships_2023_women_discus-throw,athlete_FENG_Bin_CHN,3.0,bronze,discipline=Discus throw;performance=68.20 m SB;country=CHN,1.0
+world_athletics_championships_2023_women_discus-throw,athlete_Laulauga_Tausaga_USA,1.0,gold,discipline=Discus throw;performance=69.49 m PB;country=USA,3.0
+world_athletics_championships_2023_women_hammer-throw,athlete_DeAnna_Price_USA,3.0,bronze,discipline=Hammer throw;performance=75.41 m;country=USA,1.0
+world_athletics_championships_2023_women_hammer-throw,athlete_Janee_Kassanavoid_USA,2.0,silver,discipline=Hammer throw;performance=76.36 m;country=USA,2.0
+world_athletics_championships_2023_women_hammer-throw,athlete_ROGERS_Camryn_CAN,1.0,gold,discipline=Hammer throw;performance=77.22 m;country=CAN,3.0
+world_athletics_championships_2023_women_heptathlon,athlete_Anna_Hall_USA,2.0,silver,discipline=Heptathlon;performance=6720;country=USA,2.0
+world_athletics_championships_2023_women_heptathlon,athlete_Anouk_Vetter_NLD,3.0,bronze,discipline=Heptathlon;performance=6501;country=NLD,1.0
+world_athletics_championships_2023_women_heptathlon,athlete_Katarina_Johnson-Thompson_GBR,1.0,gold,discipline=Heptathlon;performance=6740;country=GBR,3.0
+world_athletics_championships_2023_women_high-jump,athlete_MAHUCHIKH_Yaroslava_UKR,1.0,gold,discipline=High jump;performance=2.01 m;country=UKR,3.0
+world_athletics_championships_2023_women_high-jump,athlete_OLYSLAGERS_Nicola_AUS,3.0,bronze,discipline=High jump;performance=1.99 m;country=AUS,1.0
+world_athletics_championships_2023_women_high-jump,athlete_PATTERSON_Eleanor_AUS,2.0,silver,discipline=High jump;performance=1.99 m;country=AUS,2.0
+world_athletics_championships_2023_women_javelin-throw,athlete_Flor_Ruiz_COL,2.0,silver,discipline=Javelin throw;performance=65.47 m AR;country=COL,2.0
+world_athletics_championships_2023_women_javelin-throw,athlete_KITAGUCHI_Haruka_JPN,1.0,gold,discipline=Javelin throw;performance=66.73 m;country=JPN,3.0
+world_athletics_championships_2023_women_javelin-throw,athlete_Mackenzie_Little_AUS,3.0,bronze,discipline=Javelin throw;performance=63.38 m;country=AUS,1.0
+world_athletics_championships_2023_women_long-jump,athlete_Alina_Rotaru-Kottmann_ROU_131480,3.0,bronze,discipline=Long jump;performance=6.88 m;country=ROU,1.0
+world_athletics_championships_2023_women_long-jump,athlete_Ivana_Vuleta_SRB,1.0,gold,discipline=Long jump;performance=7.14 m WL;country=SRB,3.0
+world_athletics_championships_2023_women_long-jump,athlete_Tara_Davis-Woodhall_USA,2.0,silver,discipline=Long jump;performance=6.91 m;country=USA,2.0
+world_athletics_championships_2023_women_marathon,athlete_Amane_Beriso_ETH,1.0,gold,discipline=Marathon;performance=2:24:23 SB;country=ETH,3.0
+world_athletics_championships_2023_women_marathon,athlete_Fatima_Ezzahra_Gardadi_MAR,3.0,bronze,discipline=Marathon;performance=2:25:17;country=MAR,1.0
+world_athletics_championships_2023_women_marathon,athlete_Gotytom_Gebreslase_ETH,2.0,silver,discipline=Marathon;performance=2:24:34 SB;country=ETH,2.0
+world_athletics_championships_2023_women_pole-vault,athlete_KENNEDY_Nina_AUS,1.0,gold,discipline=Pole vault;performance=4.90 m = WL;country=AUS,3.0
+world_athletics_championships_2023_women_pole-vault,athlete_MOON_Katie_USA,1.0,gold,discipline=Pole vault;performance=4.90 m = WL;country=USA,3.0
+world_athletics_championships_2023_women_pole-vault,athlete_Wilma_Murto_FIN,3.0,bronze,discipline=Pole vault;performance=4.80 m = SB;country=FIN,1.0
+world_athletics_championships_2023_women_shot-put,athlete_Chase_Ealey_USA,1.0,gold,discipline=Shot put;performance=20.43 m SB;country=USA,3.0
+world_athletics_championships_2023_women_shot-put,athlete_Gong_Lijiao_CHN_114781,3.0,bronze,discipline=Shot put;performance=19.69 m;country=CHN,1.0
+world_athletics_championships_2023_women_shot-put,athlete_Sarah_Mitton_CAN,2.0,silver,discipline=Shot put;performance=20.08 m SB;country=CAN,2.0
+world_athletics_championships_2023_women_triple-jump,athlete_Leyanis_Pérez_CUB,3.0,bronze,discipline=Triple jump;performance=14.96 m;country=CUB,1.0
+world_athletics_championships_2023_women_triple-jump,athlete_Maryna_Bekh-Romanchuk_UKR,2.0,silver,discipline=Triple jump;performance=15.00 m SB;country=UKR,2.0
+world_athletics_championships_2023_women_triple-jump,athlete_Yulimar_Rojas_VEN_132214,1.0,gold,discipline=Triple jump;performance=15.08 m;country=VEN,3.0
+world_athletics_championships_2025_men_10-000-metres,athlete_Andreas_Almgren_SWE,3.0,bronze,"discipline=10,000 metres;performance=28:56.02;country=SWE",1.0
+world_athletics_championships_2025_men_10-000-metres,athlete_Jimmy_Gressier_FRA,1.0,gold,"discipline=10,000 metres;performance=28:55.77 SB;country=FRA",3.0
+world_athletics_championships_2025_men_10-000-metres,athlete_Yomif_Kejelcha_ETH,2.0,silver,"discipline=10,000 metres;performance=28:55.83 SB;country=ETH",2.0
+world_athletics_championships_2025_men_100-metres,athlete_LYLES_Noah_USA,3.0,bronze,discipline=100 metres;performance=9.89 SB;country=USA,1.0
+world_athletics_championships_2025_men_100-metres,athlete_Oblique_Seville_JAM,1.0,gold,discipline=100 metres;performance=9.77 PB;country=JAM,3.0
+world_athletics_championships_2025_men_100-metres,athlete_THOMPSON_Kishane_JAM,2.0,silver,discipline=100 metres;performance=9.82;country=JAM,2.0
+world_athletics_championships_2025_men_110-metres-hurdles,athlete_Cordell_Tinch_USA,1.0,gold,discipline=110 metres hurdles;performance=12.99;country=USA,3.0
+world_athletics_championships_2025_men_110-metres-hurdles,athlete_Orlando_Bennett_JAM,2.0,silver,discipline=110 metres hurdles;performance=13.08 PB;country=JAM,2.0
+world_athletics_championships_2025_men_110-metres-hurdles,athlete_Tyler_Mason_JAM,3.0,bronze,discipline=110 metres hurdles;performance=13.12 = PB;country=JAM,1.0
+world_athletics_championships_2025_men_1500-metres,athlete_Isaac_Nader_PRT,1.0,gold,discipline=1500 metres;performance=3:34.10;country=PRT,3.0
+world_athletics_championships_2025_men_1500-metres,athlete_Jake_Wightman_GBR,2.0,silver,discipline=1500 metres;performance=3:34.12;country=GBR,2.0
+world_athletics_championships_2025_men_1500-metres,athlete_Reynold_Cheruiyot_KEN,3.0,bronze,discipline=1500 metres;performance=3:34.25;country=KEN,1.0
+world_athletics_championships_2025_men_20-kilometres-walk,athlete_BONFIM_Caio_BRA,1.0,gold,discipline=20 kilometres walk;performance=1:18:35;country=BRA,3.0
+world_athletics_championships_2025_men_20-kilometres-walk,athlete_Paul_McGrath_ESP,3.0,bronze,discipline=20 kilometres walk;performance=1:18:45;country=ESP,1.0
+world_athletics_championships_2025_men_20-kilometres-walk,athlete_Wang_Zhaozhao_CHN,2.0,silver,discipline=20 kilometres walk;performance=1:18:43;country=CHN,2.0
+world_athletics_championships_2025_men_200-metres,athlete_Bryan_Levell_JAM,3.0,bronze,discipline=200 metres;performance=19.64 PB;country=JAM,1.0
+world_athletics_championships_2025_men_200-metres,athlete_Kenny_Bednarek_USA_147336,2.0,silver,discipline=200 metres;performance=19.58 SB;country=USA,2.0
+world_athletics_championships_2025_men_200-metres,athlete_LYLES_Noah_USA,1.0,gold,discipline=200 metres;performance=19.52;country=USA,3.0
+world_athletics_championships_2025_men_3000-metres-steeplechase,athlete_Edmund_Serem_KEN,3.0,bronze,discipline=3000 metres steeplechase;performance=8:34.56;country=KEN,1.0
+world_athletics_championships_2025_men_3000-metres-steeplechase,athlete_Geordie_Beamish_NZL,1.0,gold,discipline=3000 metres steeplechase;performance=8:33.88;country=NZL,3.0
+world_athletics_championships_2025_men_3000-metres-steeplechase,athlete_Soufiane_El-Bakkali_MAR_135068,2.0,silver,discipline=3000 metres steeplechase;performance=8:33.95;country=MAR,2.0
+world_athletics_championships_2025_men_35-kilometres-walk,athlete_BONFIM_Caio_BRA,2.0,silver,discipline=35 kilometres walk;performance=2:28:55 SB;country=BRA,2.0
+world_athletics_championships_2025_men_35-kilometres-walk,athlete_Evan_Dunfee_CAN_133014,1.0,gold,discipline=35 kilometres walk;performance=2:28:22;country=CAN,3.0
+world_athletics_championships_2025_men_35-kilometres-walk,athlete_Hayato_Katsuki_JPN,3.0,bronze,discipline=35 kilometres walk;performance=2:29:16;country=JPN,1.0
+world_athletics_championships_2025_men_4-100-metres-relay,CAN,2.0,silver,discipline=4 × 100 metres relay;performance=37.55 SB;country=CAN,2.0
+world_athletics_championships_2025_men_4-100-metres-relay,NLD,3.0,bronze,discipline=4 × 100 metres relay;performance=37.81 NR;country=NLD,1.0
+world_athletics_championships_2025_men_4-100-metres-relay,USA,1.0,gold,discipline=4 × 100 metres relay;performance=37.29 WL;country=USA,3.0
+world_athletics_championships_2025_men_4-400-metres-relay,BWA,1.0,gold,discipline=4 × 400 metres relay;performance=2:57.76;country=BWA,3.0
+world_athletics_championships_2025_men_4-400-metres-relay,USA,2.0,silver,discipline=4 × 400 metres relay;performance=2:57.83 SB;country=USA,2.0
+world_athletics_championships_2025_men_4-400-metres-relay,ZAF,3.0,bronze,discipline=4 × 400 metres relay;performance=2:57.83;country=ZAF,1.0
+world_athletics_championships_2025_men_400-metres,athlete_Bayapo_Ndori_BWA,3.0,bronze,discipline=400 metres;performance=44.20 SB;country=BWA,1.0
+world_athletics_championships_2025_men_400-metres,athlete_Collen_Kebinatshipi_BWA,1.0,gold,"discipline=400 metres;performance=43.53 NR , WL;country=BWA",3.0
+world_athletics_championships_2025_men_400-metres,athlete_Jereem_Richards_TTO,2.0,silver,discipline=400 metres;performance=43.72 NR;country=TTO,2.0
+world_athletics_championships_2025_men_400-metres-hurdles,athlete_Abderrahman_Samba_QAT,3.0,bronze,discipline=400 metres hurdles;performance=47.06 SB;country=QAT,1.0
+world_athletics_championships_2025_men_400-metres-hurdles,athlete_Alison_dos_Santos_BRA_141191,2.0,silver,discipline=400 metres hurdles;performance=46.84;country=BRA,2.0
+world_athletics_championships_2025_men_400-metres-hurdles,athlete_BENJAMIN_Rai_USA,1.0,gold,discipline=400 metres hurdles;performance=46.52 SB;country=USA,3.0
+world_athletics_championships_2025_men_5000-metres,athlete_HOCKER_Cole_USA,1.0,gold,discipline=5000 metres;performance=12:58.30;country=USA,3.0
+world_athletics_championships_2025_men_5000-metres,athlete_Isaac_Kimeli_BEL,2.0,silver,discipline=5000 metres;performance=12:58.78 SB;country=BEL,2.0
+world_athletics_championships_2025_men_5000-metres,athlete_Jimmy_Gressier_FRA,3.0,bronze,discipline=5000 metres;performance=12:59.33;country=FRA,1.0
+world_athletics_championships_2025_men_800-metres,athlete_AROP_Marco_CAN,3.0,bronze,discipline=800 metres;performance=1:41.95 SB;country=CAN,1.0
+world_athletics_championships_2025_men_800-metres,athlete_Djamel_Sedjati_DZA,2.0,silver,discipline=800 metres;performance=1:41.90 SB;country=DZA,2.0
+world_athletics_championships_2025_men_800-metres,athlete_WANYONYI_Emmanuel_KEN,1.0,gold,discipline=800 metres;performance=1:41.86 CR;country=KEN,3.0
+world_athletics_championships_2025_men_decathlon,athlete_Ayden_Owens-Delerme_PUR,2.0,silver,discipline=Decathlon;performance=8784 NR;country=PUR,2.0
+world_athletics_championships_2025_men_decathlon,athlete_Kyle_Garland_USA,3.0,bronze,discipline=Decathlon;performance=8703;country=USA,1.0
+world_athletics_championships_2025_men_decathlon,athlete_Leo_Neugebauer_DEU,1.0,gold,discipline=Decathlon;performance=8804 SB;country=DEU,3.0
+world_athletics_championships_2025_men_discus-throw,athlete_ALEKNA_Mykolas_LTU,2.0,silver,discipline=Discus throw;performance=67.84 m;country=LTU,2.0
+world_athletics_championships_2025_men_discus-throw,athlete_Alex_Rose_WSM,3.0,bronze,discipline=Discus throw;performance=66.96 m;country=WSM,1.0
+world_athletics_championships_2025_men_discus-throw,athlete_Daniel_Ståhl_SWE_135988,1.0,gold,discipline=Discus throw;performance=70.47 m SB;country=SWE,3.0
+world_athletics_championships_2025_men_hammer-throw,athlete_Bence_Halász_HUN,3.0,bronze,discipline=Hammer throw;performance=82.69 m;country=HUN,1.0
+world_athletics_championships_2025_men_hammer-throw,athlete_KATZBERG_Ethan_CAN,1.0,gold,"discipline=Hammer throw;performance=84.70 m CR , AR;country=CAN",3.0
+world_athletics_championships_2025_men_hammer-throw,athlete_Merlin_Hummel_DEU,2.0,silver,discipline=Hammer throw;performance=82.77 m PB;country=DEU,2.0
+world_athletics_championships_2025_men_high-jump,athlete_Jan_tefela_CZE,3.0,bronze,discipline=High jump;performance=2.31 m;country=CZE,1.0
+world_athletics_championships_2025_men_high-jump,athlete_KERR_Hamish_NZL,1.0,gold,"discipline=High jump;performance=2.36 m = AR , WL;country=NZL",3.0
+world_athletics_championships_2025_men_high-jump,athlete_Woo_Sang-hyeok_KOR,2.0,silver,discipline=High jump;performance=2.34 m = SB;country=KOR,2.0
+world_athletics_championships_2025_men_javelin-throw,athlete_Anderson_Peters_GRD,2.0,silver,discipline=Javelin throw;performance=87.38 m;country=GRD,2.0
+world_athletics_championships_2025_men_javelin-throw,athlete_Curtis_Thompson_USA,3.0,bronze,discipline=Javelin throw;performance=86.67 m;country=USA,1.0
+world_athletics_championships_2025_men_javelin-throw,athlete_Keshorn_Walcott_TTO_125971,1.0,gold,discipline=Javelin throw;performance=88.16 m SB;country=TTO,3.0
+world_athletics_championships_2025_men_long-jump,athlete_FURLANI_Mattia_ITA,1.0,gold,discipline=Long jump;performance=8.39 m PB;country=ITA,3.0
+world_athletics_championships_2025_men_long-jump,athlete_Shi_Yuhao_CHN,3.0,bronze,discipline=Long jump;performance=8.33 m SB;country=CHN,1.0
+world_athletics_championships_2025_men_long-jump,athlete_Tajay_Gayle_JAM,2.0,silver,discipline=Long jump;performance=8.34 m = SB;country=JAM,2.0
+world_athletics_championships_2025_men_marathon,athlete_Alphonce_Simbu_TZA,1.0,gold,discipline=Marathon;performance=2:09:48 SB;country=TZA,3.0
+world_athletics_championships_2025_men_marathon,athlete_Amanal_Petros_DEU,2.0,silver,discipline=Marathon;performance=2:09:48;country=DEU,2.0
+world_athletics_championships_2025_men_marathon,athlete_Iliass_Aouani_ITA,3.0,bronze,discipline=Marathon;performance=2:09:53;country=ITA,1.0
+world_athletics_championships_2025_men_pole-vault,athlete_DUPLANTIS_Armand_SWE,1.0,gold,discipline=Pole vault;performance=6.30 m WR;country=SWE,3.0
+world_athletics_championships_2025_men_pole-vault,athlete_Emmanouil_Karalis_GRC,2.0,silver,discipline=Pole vault;performance=6.00 m;country=GRC,2.0
+world_athletics_championships_2025_men_pole-vault,athlete_Kurtis_Marschall_AUS,3.0,bronze,discipline=Pole vault;performance=5.95 m PB;country=AUS,1.0
+world_athletics_championships_2025_men_shot-put,athlete_CROUSER_Ryan_USA,1.0,gold,discipline=Shot put;performance=22.34 m SB;country=USA,3.0
+world_athletics_championships_2025_men_shot-put,athlete_Leonardo_Fabbri_ITA,3.0,bronze,discipline=Shot put;performance=21.94 m;country=ITA,1.0
+world_athletics_championships_2025_men_shot-put,athlete_Uziel_Muñoz_MEX,2.0,silver,discipline=Shot put;performance=21.97 m NR;country=MEX,2.0
+world_athletics_championships_2025_men_triple-jump,athlete_Andrea_Dallavalle_ITA,2.0,silver,discipline=Triple jump;performance=17.64 m PB;country=ITA,2.0
+world_athletics_championships_2025_men_triple-jump,athlete_Lázaro_Martínez_CUB,3.0,bronze,discipline=Triple jump;performance=17.49 m SB;country=CUB,1.0
+world_athletics_championships_2025_men_triple-jump,athlete_Pedro_Pichardo_PRT,1.0,gold,discipline=Triple jump;performance=17.91 m WL;country=PRT,3.0
+world_athletics_championships_2025_mixed_4-400-metres-relay,BEL,3.0,bronze,discipline=4 × 400 metres relay;performance=3:10.61;country=BEL,1.0
+world_athletics_championships_2025_mixed_4-400-metres-relay,NLD,2.0,silver,discipline=4 × 400 metres relay;performance=3:09.96 SB;country=NLD,2.0
+world_athletics_championships_2025_mixed_4-400-metres-relay,USA,1.0,gold,discipline=4 × 400 metres relay;performance=3:08.80 = CR;country=USA,3.0
+world_athletics_championships_2025_women_10-000-metres,athlete_BATTOCLETTI_Nadia_ITA,2.0,silver,"discipline=10,000 metres;performance=30:38.23 NR;country=ITA",2.0
+world_athletics_championships_2025_women_10-000-metres,athlete_CHEBET_Beatrice_KEN,1.0,gold,"discipline=10,000 metres;performance=30:37.61;country=KEN",3.0
+world_athletics_championships_2025_women_10-000-metres,athlete_Gudaf_Tsegay_ETH_130033,3.0,bronze,"discipline=10,000 metres;performance=30:39.65 SB;country=ETH",1.0
+world_athletics_championships_2025_women_100-metres,athlete_ALFRED_Julien_LCA,3.0,bronze,discipline=100 metres;performance=10.84;country=LCA,1.0
+world_athletics_championships_2025_women_100-metres,athlete_Melissa_Jefferson-Wooden_USA,1.0,gold,discipline=100 metres;performance=10.61 CR;country=USA,3.0
+world_athletics_championships_2025_women_100-metres,athlete_Tina_Clayton_JAM,2.0,silver,discipline=100 metres;performance=10.76 PB;country=JAM,2.0
+world_athletics_championships_2025_women_100-metres-hurdles,athlete_Ditaji_Kambundji_CHE,1.0,gold,discipline=100 metres hurdles;performance=12.24 NR;country=CHE,3.0
+world_athletics_championships_2025_women_100-metres-hurdles,athlete_Grace_Stark_USA,3.0,bronze,discipline=100 metres hurdles;performance=12.34;country=USA,1.0
+world_athletics_championships_2025_women_100-metres-hurdles,athlete_Tobi_Amusan_NGA,2.0,silver,discipline=100 metres hurdles;performance=12.29;country=NGA,2.0
+world_athletics_championships_2025_women_1500-metres,athlete_Dorcus_Ewoi_KEN,2.0,silver,discipline=1500 metres;performance=3:54.92 PB;country=KEN,2.0
+world_athletics_championships_2025_women_1500-metres,athlete_Faith_Kipyegon_KEN_127094,1.0,gold,discipline=1500 metres;performance=3:52.15;country=KEN,3.0
+world_athletics_championships_2025_women_1500-metres,athlete_HULL_Jessica_AUS,3.0,bronze,discipline=1500 metres;performance=3:55.16;country=AUS,1.0
+world_athletics_championships_2025_women_20-kilometres-walk,athlete_Alegna_González_MEX,2.0,silver,discipline=20 kilometres walk;performance=1:26:06 AR;country=MEX,2.0
+world_athletics_championships_2025_women_20-kilometres-walk,athlete_María_Pérez_ESP,1.0,gold,discipline=20 kilometres walk;performance=1:25:54 SB;country=ESP,3.0
+world_athletics_championships_2025_women_20-kilometres-walk,athlete_Nanako_Fujii_JPN,3.0,bronze,discipline=20 kilometres walk;performance=1:26:18 NR;country=JPN,1.0
+world_athletics_championships_2025_women_200-metres,athlete_Amy_Hunt_GBR,2.0,silver,discipline=200 metres;performance=22.14;country=GBR,2.0
+world_athletics_championships_2025_women_200-metres,athlete_Melissa_Jefferson-Wooden_USA,1.0,gold,discipline=200 metres;performance=21.68 WL;country=USA,3.0
+world_athletics_championships_2025_women_200-metres,athlete_Shericka_Jackson_JAM_130733,3.0,bronze,discipline=200 metres;performance=22.18;country=JAM,1.0
+world_athletics_championships_2025_women_3000-metres-steeplechase,athlete_CHEROTICH_Faith_KEN,1.0,gold,discipline=3000 metres steeplechase;performance=8:51.59 CR;country=KEN,3.0
+world_athletics_championships_2025_women_3000-metres-steeplechase,athlete_Sembo_Almayew_ETH,3.0,bronze,discipline=3000 metres steeplechase;performance=8:58.86 PB;country=ETH,1.0
+world_athletics_championships_2025_women_3000-metres-steeplechase,athlete_Winfred_Yavi_BHR,2.0,silver,discipline=3000 metres steeplechase;performance=8:56.46;country=BHR,2.0
+world_athletics_championships_2025_women_35-kilometres-walk,athlete_Antonella_Palmisano_ITA_130633,2.0,silver,discipline=35 kilometres walk;performance=2:42:24;country=ITA,2.0
+world_athletics_championships_2025_women_35-kilometres-walk,athlete_María_Pérez_ESP,1.0,gold,discipline=35 kilometres walk;performance=2:39:01;country=ESP,3.0
+world_athletics_championships_2025_women_35-kilometres-walk,athlete_Paula_Milena_Torres_ECU,3.0,bronze,discipline=35 kilometres walk;performance=2:42:44 NR;country=ECU,1.0
+world_athletics_championships_2025_women_4-100-metres-relay,DEU,3.0,bronze,discipline=4 × 100 metres relay;performance=41.87;country=DEU,1.0
+world_athletics_championships_2025_women_4-100-metres-relay,JAM,2.0,silver,discipline=4 × 100 metres relay;performance=41.79 SB;country=JAM,2.0
+world_athletics_championships_2025_women_4-100-metres-relay,USA,1.0,gold,discipline=4 × 100 metres relay;performance=41.75;country=USA,3.0
+world_athletics_championships_2025_women_4-400-metres-relay,JAM,2.0,silver,discipline=4 × 400 metres relay;performance=3:19.25 SB;country=JAM,2.0
+world_athletics_championships_2025_women_4-400-metres-relay,NLD,3.0,bronze,discipline=4 × 400 metres relay;performance=3:20.18 SB;country=NLD,1.0
+world_athletics_championships_2025_women_4-400-metres-relay,USA,1.0,gold,discipline=4 × 400 metres relay;performance=3:16.61 CR;country=USA,3.0
+world_athletics_championships_2025_women_400-metres,athlete_Marileidy_Paulino_DOM_142190,2.0,silver,discipline=400 metres;performance=47.98 NR;country=DOM,2.0
+world_athletics_championships_2025_women_400-metres,athlete_Salwa_Eid_Naser_BHR,3.0,bronze,discipline=400 metres;performance=48.19 SB;country=BHR,1.0
+world_athletics_championships_2025_women_400-metres,athlete_Sydney_McLaughlin-Levrone_USA,1.0,gold,"discipline=400 metres;performance=47.78 CR , AR , WL;country=USA",3.0
+world_athletics_championships_2025_women_400-metres-hurdles,athlete_Emma_Zapletalová_SVK,3.0,bronze,discipline=400 metres hurdles;performance=53.00 NR;country=SVK,1.0
+world_athletics_championships_2025_women_400-metres-hurdles,athlete_Femke_Bol_NLD,1.0,gold,discipline=400 metres hurdles;performance=51.54 WL;country=NLD,3.0
+world_athletics_championships_2025_women_400-metres-hurdles,athlete_Jasmine_Jones_USA,2.0,silver,discipline=400 metres hurdles;performance=52.08 PB;country=USA,2.0
+world_athletics_championships_2025_women_5000-metres,athlete_BATTOCLETTI_Nadia_ITA,3.0,bronze,discipline=5000 metres;performance=14:55.42;country=ITA,1.0
+world_athletics_championships_2025_women_5000-metres,athlete_CHEBET_Beatrice_KEN,1.0,gold,discipline=5000 metres;performance=14:54.36;country=KEN,3.0
+world_athletics_championships_2025_women_5000-metres,athlete_Faith_Kipyegon_KEN_127094,2.0,silver,discipline=5000 metres;performance=14:55.07 SB;country=KEN,2.0
+world_athletics_championships_2025_women_800-metres,athlete_Georgia_Hunter_Bell_GBR,2.0,silver,discipline=800 metres;performance=1:54.90 PB;country=GBR,2.0
+world_athletics_championships_2025_women_800-metres,athlete_HODGKINSON_Keely_GBR,3.0,bronze,discipline=800 metres;performance=1:54.91;country=GBR,1.0
+world_athletics_championships_2025_women_800-metres,athlete_Lilian_Odira_KEN,1.0,gold,"discipline=800 metres;performance=1:54.62 CR , PB;country=KEN",3.0
+world_athletics_championships_2025_women_discus-throw,athlete_ALLMAN_Valarie_USA,1.0,gold,discipline=Discus throw;performance=69.48 m;country=USA,3.0
+world_athletics_championships_2025_women_discus-throw,athlete_Jorinde_van_Klinken_NLD,2.0,silver,discipline=Discus throw;performance=67.50 m SB;country=NLD,2.0
+world_athletics_championships_2025_women_discus-throw,athlete_Silinda_Morales_CUB,3.0,bronze,discipline=Discus throw;performance=67.25 m PB;country=CUB,1.0
+world_athletics_championships_2025_women_hammer-throw,athlete_ROGERS_Camryn_CAN,1.0,gold,"discipline=Hammer throw;performance=80.51 m AR , WL;country=CAN",3.0
+world_athletics_championships_2025_women_hammer-throw,athlete_ZHAO_Jie_CHN,2.0,silver,discipline=Hammer throw;performance=77.60 m PB;country=CHN,2.0
+world_athletics_championships_2025_women_hammer-throw,athlete_Zhang_Jiale_CHN,3.0,bronze,discipline=Hammer throw;performance=77.10 m;country=CHN,1.0
+world_athletics_championships_2025_women_heptathlon,athlete_Anna_Hall_USA,1.0,gold,discipline=Heptathlon;performance=6888;country=USA,3.0
+world_athletics_championships_2025_women_heptathlon,athlete_Katarina_Johnson-Thompson_GBR,3.0,bronze,discipline=Heptathlon;performance=6581 SB 6581 PB;country=GBR,1.0
+world_athletics_championships_2025_women_heptathlon,athlete_Kate_OConnor_IRL,2.0,silver,discipline=Heptathlon;performance=6714 NR;country=IRL,2.0
+world_athletics_championships_2025_women_heptathlon,athlete_Taliyah_Brooks_USA,3.0,bronze,discipline=Heptathlon;performance=6581 SB 6581 PB;country=USA,1.0
+world_athletics_championships_2025_women_high-jump,athlete_Angelina_Topi_SRB,3.0,bronze,discipline=High jump;performance=1.97 m 1.97 m SB;country=SRB,1.0
+world_athletics_championships_2025_women_high-jump,athlete_MAHUCHIKH_Yaroslava_UKR,3.0,bronze,discipline=High jump;performance=1.97 m 1.97 m SB;country=UKR,1.0
+world_athletics_championships_2025_women_high-jump,athlete_Maria_odzik_POL,2.0,silver,discipline=High jump;performance=2.00 m PB;country=POL,2.0
+world_athletics_championships_2025_women_high-jump,athlete_OLYSLAGERS_Nicola_AUS,1.0,gold,discipline=High jump;performance=2.00 m;country=AUS,3.0
+world_athletics_championships_2025_women_javelin-throw,athlete_Anete_Sietia_LVA,2.0,silver,discipline=Javelin throw;performance=64.64 m PB;country=LVA,2.0
+world_athletics_championships_2025_women_javelin-throw,athlete_Juleisy_Angulo_ECU,1.0,gold,discipline=Javelin throw;performance=65.12 m NR;country=ECU,3.0
+world_athletics_championships_2025_women_javelin-throw,athlete_Mackenzie_Little_AUS,3.0,bronze,discipline=Javelin throw;performance=63.58 m;country=AUS,1.0
+world_athletics_championships_2025_women_long-jump,athlete_Malaika_Mihambo_DEU,2.0,silver,discipline=Long jump;performance=6.99 m;country=DEU,2.0
+world_athletics_championships_2025_women_long-jump,athlete_Natalia_Linares_COL,3.0,bronze,discipline=Long jump;performance=6.92 m = AU23R;country=COL,1.0
+world_athletics_championships_2025_women_long-jump,athlete_Tara_Davis-Woodhall_USA,1.0,gold,discipline=Long jump;performance=7.13 m WL;country=USA,3.0
+world_athletics_championships_2025_women_marathon,athlete_ASSEFA_Tigst_ETH,2.0,silver,discipline=Marathon;performance=2:24:45;country=ETH,2.0
+world_athletics_championships_2025_women_marathon,athlete_Julia_Paternain_URY,3.0,bronze,discipline=Marathon;performance=2:27:23;country=URY,1.0
+world_athletics_championships_2025_women_marathon,athlete_Peres_Jepchirchir_KEN_144809,1.0,gold,discipline=Marathon;performance=2:24:43 SB;country=KEN,3.0
+world_athletics_championships_2025_women_pole-vault,athlete_MOON_Katie_USA,1.0,gold,discipline=Pole vault;performance=4.90 m SB;country=USA,3.0
+world_athletics_championships_2025_women_pole-vault,athlete_Sandi_Morris_USA_132047,2.0,silver,discipline=Pole vault;performance=4.85 m SB;country=USA,2.0
+world_athletics_championships_2025_women_pole-vault,athlete_Tina_utej_SVN,3.0,bronze,discipline=Pole vault;performance=4.80 m SB;country=SVN,1.0
+world_athletics_championships_2025_women_shot-put,athlete_Chase_Jackson_USA,2.0,silver,discipline=Shot put;performance=20.21 m;country=USA,2.0
+world_athletics_championships_2025_women_shot-put,athlete_Jessica_Schilder_NLD,1.0,gold,discipline=Shot put;performance=20.29 m;country=NLD,3.0
+world_athletics_championships_2025_women_shot-put,athlete_Maddi_Wesche_NZL,3.0,bronze,discipline=Shot put;performance=20.06 m = PB;country=NZL,1.0
+world_athletics_championships_2025_women_triple-jump,athlete_LAFOND_Thea_DMA,2.0,silver,discipline=Triple jump;performance=14.89 m SB;country=DMA,2.0
+world_athletics_championships_2025_women_triple-jump,athlete_Leyanis_Pérez_CUB,1.0,gold,discipline=Triple jump;performance=14.94 m WL;country=CUB,3.0
+world_athletics_championships_2025_women_triple-jump,athlete_Yulimar_Rojas_VEN_132214,3.0,bronze,discipline=Triple jump;performance=14.76 m SB;country=VEN,1.0

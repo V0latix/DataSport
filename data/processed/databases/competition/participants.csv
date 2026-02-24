@@ -14,7 +14,7 @@ ESP,team,Spain,ESP
 CHE,team,Switzerland,CHE
 FRA,team,France,FRA
 COL,team,Colombia,COL
-CZE,team,Czechia,CZE
+CZE,team,Czech Republic,CZE
 MEX,team,Mexico,MEX
 ROU,team,Romania,ROU
 HRV,team,Croatia,HRV
@@ -22,7 +22,7 @@ YUG,team,FR Yugoslavia,YUG
 PRT,team,Portugal,PRT
 PRY,team,Paraguay,PRY
 TUR,team,Türkiye,TUR
-USA,team,USA,USA
+USA,team,United States,USA
 NGA,team,Nigeria,NGA
 URY,team,Uruguay,URY
 EGY,team,Egypt,EGY
@@ -32,75 +32,31 @@ AUT,team,Austria,AUT
 POL,team,Poland,POL
 TCH,team,Czechoslovakia,TCH
 HUN,team,Hungary,HUN
-63-,team,(63) 11 July Netherlands,63-
 KOR,team,South Korea,KOR
-0-2,team,(0-2) Netherlands,0-2
 MAR,team,Morocco,MAR
-A-E,team,a.e.t. Argentina,A-E
 URS,team,Soviet Union,URS
 BGR,team,Bulgaria,BGR
-JUL,team,July Netherlands,JUL
 CHN,team,People 's Republic of China,CHN
 JPN,team,Japan,JPN
 AUS,team,Australia,AUS
-GBR,team,Great Britain,GBR
 NZL,team,New Zealand,NZL
 CAN,team,Canada,CAN
-UZB,team,Uzbekistan,UZB
 KEN,team,Kenya,KEN
-IRN,team,Iran,IRN
 UKR,team,Ukraine,UKR
-GEO,team,Georgia,GEO
 SRB,team,Serbia,SRB
-AZE,team,Azerbaijan,AZE
 CUB,team,Cuba,CUB
-BHR,team,Bahrain,BHR
 SVN,team,Slovenia,SVN
-TWN,team,Chinese Taipei,TWN
-HKG,team,Hong Kong,HKG
 PHL,team,Philippines,PHL
-DZA,team,Algeria,DZA
-IDN,team,Indonesia,IDN
-ISR,team,Israel,ISR
-KAZ,team,Kazakhstan,KAZ
-JAM,team,Jamaica,JAM
 ZAF,team,South Africa,ZAF
-THA,team,Thailand,THA
-ETH,team,Ethiopia,ETH
-ECU,team,Ecuador,ECU
 GRC,team,Greece,GRC
 TUN,team,Tunisia,TUN
-BWA,team,Botswana,BWA
-LCA,team,Saint Lucia,LCA
-UGA,team,Uganda,UGA
-DOM,team,Dominican Republic,DOM
-GTM,team,Guatemala,GTM
-DMA,team,Dominica,DMA
 PAK,team,Pakistan,PAK
-ARM,team,Armenia,ARM
-KGZ,team,Kyrgyzstan,KGZ
 PRK,team,Korea DPR,PRK
 LTU,team,Lithuania,LTU
 IND,team,India,IND
-MDA,team,Moldova,MDA
-XKX,team,Kosovo,XKX
-CYP,team,Cyprus,CYP
 FJI,team,Fiji,FJI
-JOR,team,Jordan,JOR
-MNG,team,Mongolia,MNG
-PAN,team,Panama,PAN
-TJK,team,Tajikistan,TJK
-ALB,team,Albania,ALB
-GRD,team,Grenada,GRD
-MYS,team,Malaysia,MYS
 PRI,team,Puerto Rico,PRI
-CPV,team,Cape Verde,CPV
-CIV,team,Ivory Coast,CIV
-PER,team,Peru,PER
 QAT,team,Qatar,QAT
-SGP,team,Singapore,SGP
-SVK,team,Slovakia,SVK
-ZMB,team,Zambia,ZMB
 nation_LTU,team,LTU nation team,LTU
 nation_NED,team,NED nation team,NED
 nation_FRA,team,FRA nation team,FRA
@@ -12684,3 +12640,178 @@ LKA,team,Sri Lanka,LKA
 BGD,team,Bangladesh,BGD
 AFG,team,Afghanistan,AFG
 INT,team,International XI,INT
+athlete_Stanley_Mburu_KEN,athlete,Stanley Mburu,KEN
+athlete_Marvin_Bracy_USA,athlete,Marvin Bracy,USA
+athlete_Trayvon_Bromell_USA,athlete,Trayvon Bromell,USA
+athlete_Trey_Cunningham_USA,athlete,Trey Cunningham,USA
+athlete_Asier_Martínez_ESP,athlete,Asier Martínez,ESP
+athlete_Jake_Wightman_GBR,athlete,Jake Wightman,GBR
+athlete_Mohamed_Katir_ESP,athlete,Mohamed Katir,ESP
+athlete_Perseus_Karlström_SWE,athlete,Perseus Karlström,SWE
+athlete_Erriyon_Knighton_USA,athlete,Erriyon Knighton,USA
+athlete_Masatora_Kawano_JPN,athlete,Masatora Kawano,JPN
+GBR,team,Great Britain & N.I.,GBR
+JAM,team,Jamaica,JAM
+athlete_Kirani_James_GRD,athlete,Kirani James,GRD
+athlete_Matthew_Hudson-Smith_GBR,athlete,Matthew Hudson-Smith,GBR
+athlete_Trevor_Bassitt_USA,athlete,Trevor Bassitt,USA
+athlete_Jacob_Krop_KEN,athlete,Jacob Krop,KEN
+athlete_Oscar_Chelimo_UGA,athlete,Oscar Chelimo,UGA
+athlete_Djamel_Sedjati_DZA,athlete,Djamel Sedjati,DZA
+athlete_Kevin_Mayer_FRA,athlete,Kevin Mayer,FRA
+athlete_Pierce_LePage_CAN,athlete,Pierce LePage,CAN
+athlete_Zach_Ziemek_USA,athlete,Zach Ziemek,USA
+athlete_Kristjan_eh_SVN,athlete,Kristjan Čeh,SVN
+athlete_Andrius_Gudius_LTU,athlete,Andrius Gudžius,LTU
+athlete_Woo_Sang-hyeok_KOR,athlete,Woo Sang-hyeok,KOR
+athlete_Andriy_Protsenko_UKR,athlete,Andriy Protsenko,UKR
+athlete_Anderson_Peters_GRD,athlete,Anderson Peters,GRD
+athlete_Wang_Jianan_CHN,athlete,Wang Jianan,CHN
+athlete_Miltiadis_Tentoglou_GRC,athlete,Miltiadis Tentoglou,GRC
+athlete_Simon_Ehammer_CHE,athlete,Simon Ehammer,CHE
+athlete_Mosinet_Geremew_ETH,athlete,Mosinet Geremew,ETH
+athlete_Ernest_John_Obiena_PHL,athlete,Ernest John Obiena,PHL
+athlete_Josh_Awotunde_USA,athlete,Josh Awotunde,USA
+athlete_Pedro_Pichardo_PRT,athlete,Pedro Pichardo,PRT
+athlete_Hugues_Fabrice_Zango_BFA,athlete,Hugues Fabrice Zango,BFA
+DOM,team,Dominican Republic,DOM
+athlete_Margaret_Kipkemboi_KEN,athlete,Margaret Kipkemboi,KEN
+athlete_Tobi_Amusan_NGA,athlete,Tobi Amusan,NGA
+athlete_Britany_Anderson_JAM,athlete,Britany Anderson,JAM
+athlete_Kimberly_García_PER,athlete,Kimberly García,PER
+athlete_Katarzyna_Zdziebo_POL,athlete,Katarzyna Zdziebło,POL
+athlete_Norah_Jeruto_KAZ,athlete,Norah Jeruto,KAZ
+athlete_Werkuha_Getachew_ETH,athlete,Werkuha Getachew,ETH
+athlete_Mekides_Abebe_ETH,athlete,Mekides Abebe,ETH
+athlete_Shaunae_Miller-Uibo_BHS,athlete,Shaunae Miller-Uibo,BHS
+athlete_Sada_Williams_BRB,athlete,Sada Williams,BRB
+athlete_Femke_Bol_NLD,athlete,Femke Bol,NLD
+athlete_Dawit_Seyaum_ETH,athlete,Dawit Seyaum,ETH
+athlete_Athing_Mu_USA,athlete,Athing Mu,USA
+athlete_Sandra_Perkovi_HRV,athlete,Sandra Perković,HRV
+athlete_Brooke_Andersen_USA,athlete,Brooke Andersen,USA
+athlete_Janee_Kassanavoid_USA,athlete,Janee' Kassanavoid,USA
+athlete_Anouk_Vetter_NLD,athlete,Anouk Vetter,NLD
+athlete_Anna_Hall_USA,athlete,Anna Hall,USA
+athlete_Elena_Vallortigara_ITA,athlete,Elena Vallortigara,ITA
+athlete_Kara_Winger_USA,athlete,Kara Winger,USA
+athlete_Malaika_Mihambo_DEU,athlete,Malaika Mihambo,DEU
+athlete_Ese_Brume_NGA,athlete,Ese Brume,NGA
+athlete_Leticia_Oro_Melo_BRA,athlete,Leticia Oro Melo,BRA
+athlete_Gotytom_Gebreslase_ETH,athlete,Gotytom Gebreslase,ETH
+athlete_Judith_Korir_KEN,athlete,Judith Korir,KEN
+athlete_Lonah_Salpeter_ISR,athlete,Lonah Salpeter,ISR
+athlete_Chase_Ealey_USA,athlete,Chase Ealey,USA
+athlete_Jessica_Schilder_NLD,athlete,Jessica Schilder,NLD
+athlete_Tori_Franklin_USA,athlete,Tori Franklin,USA
+athlete_Daniel_Ebenyo_KEN,athlete,Daniel Ebenyo,KEN
+athlete_Letsile_Tebogo_BWA,athlete,Letsile Tebogo,BWA
+athlete_Zharnel_Hughes_GBR,athlete,Zharnel Hughes,GBR
+athlete_Narve_Gilje_Nordås_NOR,athlete,Narve Gilje Nordås,NOR
+athlete_Álvaro_Martín_ESP,athlete,Álvaro Martín,ESP
+athlete_Brian_Pintado_ECU,athlete,Brian Pintado,ECU
+athlete_Antonio_Watson_JAM,athlete,Antonio Watson,JAM
+athlete_Kyron_McMaster_VGB,athlete,Kyron McMaster,VGB
+athlete_Ben_Pattison_GBR,athlete,Ben Pattison,GBR
+athlete_Lindon_Victor_GRD,athlete,Lindon Victor,GRD
+athlete_Bence_Halász_HUN,athlete,Bence Halász,HUN
+athlete_JuVaughn_Harrison_USA,athlete,JuVaughn Harrison,USA
+athlete_Tajay_Gayle_JAM,athlete,Tajay Gayle,JAM
+athlete_Victor_Kiplangat_UGA,athlete,Victor Kiplangat,UGA
+athlete_Maru_Teferi_ISR,athlete,Maru Teferi,ISR
+athlete_Leul_Gebresilase_ETH,athlete,Leul Gebresilase,ETH
+athlete_EJ_Obiena_PHL,athlete,EJ Obiena,PHL
+athlete_Kurtis_Marschall_AUS,athlete,Kurtis Marschall,AUS
+athlete_Leonardo_Fabbri_ITA,athlete,Leonardo Fabbri,ITA
+athlete_Lázaro_Martínez_CUB,athlete,Lázaro Martínez,CUB
+athlete_Cristian_Nápoles_CUB,athlete,Cristian Nápoles,CUB
+athlete_Ejgayehu_Taye_ETH,athlete,Ejgayehu Taye,ETH
+athlete_ShaCarri_Richardson_USA,athlete,Sha'Carri Richardson,USA
+athlete_Danielle_Williams_JAM,athlete,Danielle Williams,JAM
+athlete_Kendra_Harrison_USA,athlete,Kendra Harrison,USA
+athlete_Diribe_Welteji_ETH,athlete,Diribe Welteji,ETH
+athlete_Sifan_Hassan_NLD,athlete,Sifan Hassan,NLD
+athlete_María_Pérez_ESP,athlete,María Pérez,ESP
+athlete_Winfred_Yavi_BHR,athlete,Winfred Yavi,BHR
+athlete_Beatrice_Chepkoech_KEN,athlete,Beatrice Chepkoech,KEN
+athlete_Antigoni_Drisbioti_GRC,athlete,Antigoni Drisbioti,GRC
+athlete_Shamier_Little_USA,athlete,Shamier Little,USA
+athlete_Rushell_Clayton_JAM,athlete,Rushell Clayton,JAM
+athlete_Laulauga_Tausaga_USA,athlete,Laulauga Tausaga,USA
+athlete_DeAnna_Price_USA,athlete,DeAnna Price,USA
+athlete_Katarina_Johnson-Thompson_GBR,athlete,Katarina Johnson-Thompson,GBR
+athlete_Flor_Ruiz_COL,athlete,Flor Ruiz,COL
+athlete_Mackenzie_Little_AUS,athlete,Mackenzie Little,AUS
+athlete_Ivana_Vuleta_SRB,athlete,Ivana Vuleta,SRB
+athlete_Tara_Davis-Woodhall_USA,athlete,Tara Davis-Woodhall,USA
+athlete_Amane_Beriso_ETH,athlete,Amane Beriso,ETH
+athlete_Fatima_Ezzahra_Gardadi_MAR,athlete,Fatima Ezzahra Gardadi,MAR
+athlete_Wilma_Murto_FIN,athlete,Wilma Murto,FIN
+athlete_Sarah_Mitton_CAN,athlete,Sarah Mitton,CAN
+athlete_Maryna_Bekh-Romanchuk_UKR,athlete,Maryna Bekh-Romanchuk,UKR
+athlete_Leyanis_Pérez_CUB,athlete,Leyanis Pérez,CUB
+athlete_Jimmy_Gressier_FRA,athlete,Jimmy Gressier,FRA
+athlete_Yomif_Kejelcha_ETH,athlete,Yomif Kejelcha,ETH
+athlete_Andreas_Almgren_SWE,athlete,Andreas Almgren,SWE
+athlete_Oblique_Seville_JAM,athlete,Oblique Seville,JAM
+athlete_Cordell_Tinch_USA,athlete,Cordell Tinch,USA
+athlete_Orlando_Bennett_JAM,athlete,Orlando Bennett,JAM
+athlete_Tyler_Mason_JAM,athlete,Tyler Mason,JAM
+athlete_Isaac_Nader_PRT,athlete,Isaac Nader,PRT
+athlete_Reynold_Cheruiyot_KEN,athlete,Reynold Cheruiyot,KEN
+athlete_Wang_Zhaozhao_CHN,athlete,Wang Zhaozhao,CHN
+athlete_Paul_McGrath_ESP,athlete,Paul McGrath,ESP
+athlete_Bryan_Levell_JAM,athlete,Bryan Levell,JAM
+athlete_Geordie_Beamish_NZL,athlete,Geordie Beamish,NZL
+athlete_Edmund_Serem_KEN,athlete,Edmund Serem,KEN
+athlete_Hayato_Katsuki_JPN,athlete,Hayato Katsuki,JPN
+BWA,team,Botswana,BWA
+athlete_Collen_Kebinatshipi_BWA,athlete,Collen Kebinatshipi,BWA
+athlete_Jereem_Richards_TTO,athlete,Jereem Richards,TTO
+athlete_Bayapo_Ndori_BWA,athlete,Bayapo Ndori,BWA
+athlete_Abderrahman_Samba_QAT,athlete,Abderrahman Samba,QAT
+athlete_Isaac_Kimeli_BEL,athlete,Isaac Kimeli,BEL
+athlete_Leo_Neugebauer_DEU,athlete,Leo Neugebauer,DEU
+athlete_Ayden_Owens-Delerme_PUR,athlete,Ayden Owens-Delerme,PUR
+athlete_Kyle_Garland_USA,athlete,Kyle Garland,USA
+athlete_Alex_Rose_WSM,athlete,Alex Rose,WSM
+athlete_Merlin_Hummel_DEU,athlete,Merlin Hummel,DEU
+athlete_Jan_tefela_CZE,athlete,Jan Štefela,CZE
+athlete_Curtis_Thompson_USA,athlete,Curtis Thompson,USA
+athlete_Shi_Yuhao_CHN,athlete,Shi Yuhao,CHN
+athlete_Alphonce_Simbu_TZA,athlete,Alphonce Simbu,TZA
+athlete_Amanal_Petros_DEU,athlete,Amanal Petros,DEU
+athlete_Iliass_Aouani_ITA,athlete,Iliass Aouani,ITA
+athlete_Emmanouil_Karalis_GRC,athlete,Emmanouil Karalis,GRC
+athlete_Uziel_Muñoz_MEX,athlete,Uziel Muñoz,MEX
+athlete_Andrea_Dallavalle_ITA,athlete,Andrea Dallavalle,ITA
+athlete_Melissa_Jefferson-Wooden_USA,athlete,Melissa Jefferson-Wooden,USA
+athlete_Tina_Clayton_JAM,athlete,Tina Clayton,JAM
+athlete_Ditaji_Kambundji_CHE,athlete,Ditaji Kambundji,CHE
+athlete_Grace_Stark_USA,athlete,Grace Stark,USA
+athlete_Dorcus_Ewoi_KEN,athlete,Dorcus Ewoi,KEN
+athlete_Alegna_González_MEX,athlete,Alegna González,MEX
+athlete_Nanako_Fujii_JPN,athlete,Nanako Fujii,JPN
+athlete_Amy_Hunt_GBR,athlete,Amy Hunt,GBR
+athlete_Sembo_Almayew_ETH,athlete,Sembo Almayew,ETH
+athlete_Paula_Milena_Torres_ECU,athlete,Paula Milena Torres,ECU
+athlete_Sydney_McLaughlin-Levrone_USA,athlete,Sydney McLaughlin-Levrone,USA
+athlete_Salwa_Eid_Naser_BHR,athlete,Salwa Eid Naser,BHR
+athlete_Jasmine_Jones_USA,athlete,Jasmine Jones,USA
+athlete_Emma_Zapletalová_SVK,athlete,Emma Zapletalová,SVK
+athlete_Lilian_Odira_KEN,athlete,Lilian Odira,KEN
+athlete_Georgia_Hunter_Bell_GBR,athlete,Georgia Hunter Bell,GBR
+athlete_Jorinde_van_Klinken_NLD,athlete,Jorinde van Klinken,NLD
+athlete_Silinda_Morales_CUB,athlete,Silinda Morales,CUB
+athlete_Zhang_Jiale_CHN,athlete,Zhang Jiale,CHN
+athlete_Kate_OConnor_IRL,athlete,Kate O'Connor,IRL
+athlete_Taliyah_Brooks_USA,athlete,Taliyah Brooks,USA
+athlete_Maria_odzik_POL,athlete,Maria Żodzik,POL
+athlete_Angelina_Topi_SRB,athlete,Angelina Topić,SRB
+athlete_Juleisy_Angulo_ECU,athlete,Juleisy Angulo,ECU
+athlete_Anete_Sietia_LVA,athlete,Anete Sietiņa,LVA
+athlete_Natalia_Linares_COL,athlete,Natalia Linares,COL
+athlete_Julia_Paternain_URY,athlete,Julia Paternain,URY
+athlete_Tina_utej_SVN,athlete,Tina Šutej,SVN
+athlete_Chase_Jackson_USA,athlete,Chase Jackson,USA
+athlete_Maddi_Wesche_NZL,athlete,Maddi Wesche,NZL

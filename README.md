@@ -324,6 +324,27 @@ Comportement:
 - note métier: pas de match officiel 3e place sur plusieurs éditions, donc les rangs 3-4 proviennent des demi-finalistes
 - `participant_id` est le code pays (incluant `ENG`, `WIS`)
 
+### 8g) Ingest World Athletics Championships (historique, top 3 par discipline)
+
+```bash
+python -m pipelines.ingest --connector world_athletics_championships_history --year 2026
+```
+
+Comportement:
+- ingère le seed historique local:
+  - `data/raw/athletics/world_athletics_championships_top3_seed.csv`
+- crée une compétition unique:
+  - `world_athletics_championships`
+- distingue strictement `sport` vs `discipline`:
+  - sport unique: `Athletics`
+  - une discipline par épreuve (ex: `100 metres`, `Pole vault`, `Marathon`)
+- crée un event par édition / genre / discipline (ex: `world_athletics_championships_2023_men_100-metres`)
+- alimente uniquement le podium (`rank` 1/2/3) par discipline
+- `participant_id`:
+  - athlète individuel: `athlete_<nom_prenom>_<noc>`
+  - relais/mixed: code pays (`country_id`)
+- contrainte d'upsert: réutilise un `participant_id` athlète déjà existant (match nom + pays), n'ajoute pas de doublons
+
 ### 9) Ingest JO d'été Paris 2024
 
 ```bash

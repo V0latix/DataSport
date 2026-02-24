@@ -75,3 +75,6 @@ import_d7891418a9f84e3bdf8f74c79ff67255c571ef16,fiba_basketball_world_cup_histor
 import_23b3a0c14dc240fe3e8fd5e654e7ce6359b36d43,fiba_ranking_history,2026-02-20T23:15:38+00:00,/Users/romain/dev/DataSport/data/raw/fiba_ranking_history/20260220T231512Z,success,
 import_e4c6e28033adbe8ba9a8a956bb81031d8fab024d,ihf_handball_world_championship_history,2026-02-20T23:15:38+00:00,/Users/romain/dev/DataSport/data/raw/ihf_handball_world_championship_history/20260220T231538Z,success,
 import_5b7913c8051057433dccbc6f362813d8cbb187c5,icc_cricket_world_cup_history,2026-02-20T23:15:39+00:00,/Users/romain/dev/DataSport/data/raw/icc_cricket_world_cup_history/20260220T231539Z,success,
+import_f685a5a8dac082c86096659c07ab45c7f822d532,world_athletics_championships_history,2026-02-24T22:47:48+00:00,/Users/romain/dev/DataSport/data/raw/world_athletics_championships_history/20260224T224748Z,success,
+import_075ec21181ec6767074d6e406687798cba1f6571,world_athletics_championships_history,2026-02-24T22:52:16+00:00,/Users/romain/dev/DataSport/data/raw/world_athletics_championships_history/20260224T225216Z,success,
+import_0a817e86baa145ab4ce18209428c9d4b34a478f9,world_athletics_championships_history,2026-02-24T22:53:26+00:00,/Users/romain/dev/DataSport/data/raw/world_athletics_championships_history/20260224T225325Z,success,

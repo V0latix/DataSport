@@ -1,0 +1,441 @@
+year,event_date,gender,discipline_name,rank,medal,participant_type,athlete_name,country_name,country_code,performance
+2022,2022-07-24,men,"10,000 metres",1,gold,athlete,Joshua Cheptegei,Uganda,UGA,27:27.43 SB
+2022,2022-07-24,men,"10,000 metres",2,silver,athlete,Stanley Mburu,Kenya,KEN,27:27.90 SB
+2022,2022-07-24,men,"10,000 metres",3,bronze,athlete,Jacob Kiplimo,Uganda,UGA,27:27.97 SB
+2022,2022-07-24,men,100 metres,1,gold,athlete,Fred Kerley,United States,USA,9.86
+2022,2022-07-24,men,100 metres,2,silver,athlete,Marvin Bracy,United States,USA,9.88
+2022,2022-07-24,men,100 metres,3,bronze,athlete,Trayvon Bromell,United States,USA,9.88
+2022,2022-07-24,men,110 metres hurdles,1,gold,athlete,Grant Holloway,United States,USA,13.03
+2022,2022-07-24,men,110 metres hurdles,2,silver,athlete,Trey Cunningham,United States,USA,13.08
+2022,2022-07-24,men,110 metres hurdles,3,bronze,athlete,Asier Martínez,Spain,ESP,13.17 PB
+2022,2022-07-24,men,1500 metres,1,gold,athlete,Jake Wightman,Great Britain and Northern Ireland,GBR,"3:29.23 WL, PB"
+2022,2022-07-24,men,1500 metres,2,silver,athlete,Jakob Ingebrigtsen,Norway,NOR,3:29.47 SB
+2022,2022-07-24,men,1500 metres,3,bronze,athlete,Mohamed Katir,Spain,ESP,3:29.90 SB
+2022,2022-07-24,men,20 kilometres walk,1,gold,athlete,Toshikazu Yamanishi,Japan,JPN,1:19:07
+2022,2022-07-24,men,20 kilometres walk,2,silver,athlete,Koki Ikeda,Japan,JPN,1:19:14
+2022,2022-07-24,men,20 kilometres walk,3,bronze,athlete,Perseus Karlström,Sweden,SWE,1:19:18
+2022,2022-07-24,men,200 metres,1,gold,athlete,Noah Lyles,United States,USA,"19.31 NR, WL"
+2022,2022-07-24,men,200 metres,2,silver,athlete,Kenny Bednarek,United States,USA,19.77 SB
+2022,2022-07-24,men,200 metres,3,bronze,athlete,Erriyon Knighton,United States,USA,19.80
+2022,2022-07-24,men,3000 metres steeplechase,1,gold,athlete,Soufiane El Bakkali,Morocco,MAR,8:25.13
+2022,2022-07-24,men,3000 metres steeplechase,2,silver,athlete,Lamecha Girma,Ethiopia,ETH,8:26.01
+2022,2022-07-24,men,3000 metres steeplechase,3,bronze,athlete,Conseslus Kipruto,Kenya,KEN,8:27.92
+2022,2022-07-24,men,35 kilometres walk,1,gold,athlete,Massimo Stano,Italy,ITA,"2:23:14 CR, AR"
+2022,2022-07-24,men,35 kilometres walk,2,silver,athlete,Masatora Kawano,Japan,JPN,2:23:15 AR
+2022,2022-07-24,men,35 kilometres walk,3,bronze,athlete,Perseus Karlström,Sweden,SWE,2:23:44 PB
+2022,2022-07-24,men,4 × 100 metres relay,1,gold,team,,Canada,CAN,"37.48 NR, WL"
+2022,2022-07-24,men,4 × 100 metres relay,2,silver,team,,United States,USA,37.55 SB
+2022,2022-07-24,men,4 × 100 metres relay,3,bronze,team,,Great Britain and Northern Ireland,GBR,37.83 SB
+2022,2022-07-24,men,4 × 400 metres relay,1,gold,team,,United States,USA,2:56.17 WL
+2022,2022-07-24,men,4 × 400 metres relay,2,silver,team,,Jamaica,JAM,2:58.58
+2022,2022-07-24,men,4 × 400 metres relay,3,bronze,team,,Belgium,BEL,2:58.72
+2022,2022-07-24,men,400 metres,1,gold,athlete,Michael Norman,United States,USA,44.29
+2022,2022-07-24,men,400 metres,2,silver,athlete,Kirani James,Grenada,GRD,44.48
+2022,2022-07-24,men,400 metres,3,bronze,athlete,Matthew Hudson-Smith,Great Britain and Northern Ireland,GBR,44.66
+2022,2022-07-24,men,400 metres hurdles,1,gold,athlete,Alison dos Santos,Brazil,BRA,"46.29 CR, AR, WL"
+2022,2022-07-24,men,400 metres hurdles,2,silver,athlete,Rai Benjamin,United States,USA,46.89 SB
+2022,2022-07-24,men,400 metres hurdles,3,bronze,athlete,Trevor Bassitt,United States,USA,47.39 PB
+2022,2022-07-24,men,5000 metres,1,gold,athlete,Jakob Ingebrigtsen,Norway,NOR,13:09.24
+2022,2022-07-24,men,5000 metres,2,silver,athlete,Jacob Krop,Kenya,KEN,13:09.98
+2022,2022-07-24,men,5000 metres,3,bronze,athlete,Oscar Chelimo,Uganda,UGA,13:10.20 SB
+2022,2022-07-24,men,800 metres,1,gold,athlete,Emmanuel Korir,Kenya,KEN,1:43.71 SB
+2022,2022-07-24,men,800 metres,2,silver,athlete,Djamel Sedjati,Algeria,DZA,1:44.14
+2022,2022-07-24,men,800 metres,3,bronze,athlete,Marco Arop,Canada,CAN,1:44.28
+2022,2022-07-24,men,Decathlon,1,gold,athlete,Kevin Mayer,France,FRA,8816 SB
+2022,2022-07-24,men,Decathlon,2,silver,athlete,Pierce LePage,Canada,CAN,8701 PB
+2022,2022-07-24,men,Decathlon,3,bronze,athlete,Zach Ziemek,United States,USA,8676 PB
+2022,2022-07-24,men,Discus throw,1,gold,athlete,Kristjan Čeh,Slovenia,SVN,71.13 m CR
+2022,2022-07-24,men,Discus throw,2,silver,athlete,Mykolas Alekna,Lithuania,LTU,69.27 m
+2022,2022-07-24,men,Discus throw,3,bronze,athlete,Andrius Gudžius,Lithuania,LTU,67.55 m
+2022,2022-07-24,men,Hammer throw,1,gold,athlete,Paweł Fajdek,Poland,POL,81.98 m WL
+2022,2022-07-24,men,Hammer throw,2,silver,athlete,Wojciech Nowicki,Poland,POL,81.03 m
+2022,2022-07-24,men,Hammer throw,3,bronze,athlete,Eivind Henriksen,Norway,NOR,80.87 m SB
+2022,2022-07-24,men,High jump,1,gold,athlete,Mutaz Essa Barshim,Qatar,QAT,2.37 m WL
+2022,2022-07-24,men,High jump,2,silver,athlete,Woo Sang-hyeok,South Korea,KOR,2.35 m NR
+2022,2022-07-24,men,High jump,3,bronze,athlete,Andriy Protsenko,Ukraine,UKR,2.33 m SB
+2022,2022-07-24,men,Javelin throw,1,gold,athlete,Anderson Peters,Grenada,GRD,90.54 m
+2022,2022-07-24,men,Javelin throw,2,silver,athlete,Neeraj Chopra,India,IND,88.13 m
+2022,2022-07-24,men,Javelin throw,3,bronze,athlete,Jakub Vadlejch,Czech Republic,CZE,88.09 m
+2022,2022-07-24,men,Long jump,1,gold,athlete,Wang Jianan,China,CHN,8.36 m SB
+2022,2022-07-24,men,Long jump,2,silver,athlete,Miltiadis Tentoglou,Greece,GRC,8.32 m
+2022,2022-07-24,men,Long jump,3,bronze,athlete,Simon Ehammer,Switzerland,CHE,8.16 m
+2022,2022-07-24,men,Marathon,1,gold,athlete,Tamirat Tola,Ethiopia,ETH,2:05:36 CR
+2022,2022-07-24,men,Marathon,2,silver,athlete,Mosinet Geremew,Ethiopia,ETH,2:06:44
+2022,2022-07-24,men,Marathon,3,bronze,athlete,Bashir Abdi,Belgium,BEL,2:06:48
+2022,2022-07-24,men,Pole vault,1,gold,athlete,Armand Duplantis,Sweden,SWE,6.21 m WR
+2022,2022-07-24,men,Pole vault,2,silver,athlete,Chris Nilsen,United States,USA,5.94 m
+2022,2022-07-24,men,Pole vault,3,bronze,athlete,Ernest John Obiena,Philippines,PHL,5.94 m AR
+2022,2022-07-24,men,Shot put,1,gold,athlete,Ryan Crouser,United States,USA,22.94 m CR
+2022,2022-07-24,men,Shot put,2,silver,athlete,Joe Kovacs,United States,USA,22.89 m SB
+2022,2022-07-24,men,Shot put,3,bronze,athlete,Josh Awotunde,United States,USA,22.29 m PB
+2022,2022-07-24,men,Triple jump,1,gold,athlete,Pedro Pichardo,Portugal,PRT,17.95 m WL
+2022,2022-07-24,men,Triple jump,2,silver,athlete,Hugues Fabrice Zango,Burkina Faso,BFA,17.55 m SB
+2022,2022-07-24,men,Triple jump,3,bronze,athlete,Zhu Yaming,China,CHN,17.31 m SB
+2022,2022-07-24,mixed,4 × 400 metres relay,1,gold,team,,Dominican Republic,DOM,3:09.82 WL
+2022,2022-07-24,mixed,4 × 400 metres relay,2,silver,team,,Netherlands,NLD,3:09.90 NR
+2022,2022-07-24,mixed,4 × 400 metres relay,3,bronze,team,,United States,USA,3:10.16 SB
+2022,2022-07-24,women,"10,000 metres",1,gold,athlete,Letesenbet Gidey,Ethiopia,ETH,30:09.94 WL
+2022,2022-07-24,women,"10,000 metres",2,silver,athlete,Hellen Obiri,Kenya,KEN,30:10.02 PB
+2022,2022-07-24,women,"10,000 metres",3,bronze,athlete,Margaret Kipkemboi,Kenya,KEN,30:10.07 PB
+2022,2022-07-24,women,100 metres,1,gold,athlete,Shelly-Ann Fraser-Pryce,Jamaica,JAM,"10.67 CR, WL"
+2022,2022-07-24,women,100 metres,2,silver,athlete,Shericka Jackson,Jamaica,JAM,10.73 PB
+2022,2022-07-24,women,100 metres,3,bronze,athlete,Elaine Thompson-Herah,Jamaica,JAM,10.81
+2022,2022-07-24,women,100 metres hurdles,1,gold,athlete,Tobi Amusan,Nigeria,NGA,12.06 w
+2022,2022-07-24,women,100 metres hurdles,2,silver,athlete,Britany Anderson,Jamaica,JAM,12.23 w
+2022,2022-07-24,women,100 metres hurdles,3,bronze,athlete,Jasmine Camacho-Quinn,Puerto Rico,PUR,12.23 w
+2022,2022-07-24,women,1500 metres,1,gold,athlete,Faith Kipyegon,Kenya,KEN,3:52.96
+2022,2022-07-24,women,1500 metres,2,silver,athlete,Gudaf Tsegay,Ethiopia,ETH,3:54.52
+2022,2022-07-24,women,1500 metres,3,bronze,athlete,Laura Muir,Great Britain and Northern Ireland,GBR,3:55.28 SB
+2022,2022-07-24,women,20 kilometres walk,1,gold,athlete,Kimberly García,Peru,PER,1:26:58 NR
+2022,2022-07-24,women,20 kilometres walk,2,silver,athlete,Katarzyna Zdziebło,Poland,POL,1:27:31 NR
+2022,2022-07-24,women,20 kilometres walk,3,bronze,athlete,Qieyang Shijie,China,CHN,1:27:56
+2022,2022-07-24,women,200 metres,1,gold,athlete,Shericka Jackson,Jamaica,JAM,"21.45 CR, NR, WL"
+2022,2022-07-24,women,200 metres,2,silver,athlete,Shelly-Ann Fraser-Pryce,Jamaica,JAM,21.81 SB
+2022,2022-07-24,women,200 metres,3,bronze,athlete,Dina Asher-Smith,Great Britain and Northern Ireland,GBR,22.02
+2022,2022-07-24,women,3000 metres steeplechase,1,gold,athlete,Norah Jeruto,Kazakhstan,KAZ,"8:53.02 CR, WL"
+2022,2022-07-24,women,3000 metres steeplechase,2,silver,athlete,Werkuha Getachew,Ethiopia,ETH,8:54.61 NR
+2022,2022-07-24,women,3000 metres steeplechase,3,bronze,athlete,Mekides Abebe,Ethiopia,ETH,8:56.08 PB
+2022,2022-07-24,women,35 kilometres walk,1,gold,athlete,Kimberly García,Peru,PER,"2:39:16 CR, AR"
+2022,2022-07-24,women,35 kilometres walk,2,silver,athlete,Katarzyna Zdziebło,Poland,POL,2:40:03 PB
+2022,2022-07-24,women,35 kilometres walk,3,bronze,athlete,Qieyang Shijie,China,CHN,2:40:37 AR
+2022,2022-07-24,women,4 × 100 metres relay,1,gold,team,,United States,USA,41.14 WL
+2022,2022-07-24,women,4 × 100 metres relay,2,silver,team,,Jamaica,JAM,41.18 SB
+2022,2022-07-24,women,4 × 100 metres relay,3,bronze,team,,Germany,DEU,42.03 SB
+2022,2022-07-24,women,4 × 400 metres relay,1,gold,team,,United States,USA,3:17.79 WL
+2022,2022-07-24,women,4 × 400 metres relay,2,silver,team,,Jamaica,JAM,3:20.74 SB
+2022,2022-07-24,women,4 × 400 metres relay,3,bronze,team,,Great Britain and Northern Ireland,GBR,3:22.64 SB
+2022,2022-07-24,women,400 metres,1,gold,athlete,Shaunae Miller-Uibo,Bahamas,BHS,49.11 WL
+2022,2022-07-24,women,400 metres,2,silver,athlete,Marileidy Paulino,Dominican Republic,DOM,49.60
+2022,2022-07-24,women,400 metres,3,bronze,athlete,Sada Williams,Barbados,BRB,49.75 NR
+2022,2022-07-24,women,400 metres hurdles,1,gold,athlete,Sydney McLaughlin,United States,USA,50.68 WR
+2022,2022-07-24,women,400 metres hurdles,2,silver,athlete,Femke Bol,Netherlands,NLD,52.27 SB
+2022,2022-07-24,women,400 metres hurdles,3,bronze,athlete,Dalilah Muhammad,United States,USA,53.13 SB
+2022,2022-07-24,women,5000 metres,1,gold,athlete,Gudaf Tsegay,Ethiopia,ETH,14:46.29
+2022,2022-07-24,women,5000 metres,2,silver,athlete,Beatrice Chebet,Kenya,KEN,14:46.75 SB
+2022,2022-07-24,women,5000 metres,3,bronze,athlete,Dawit Seyaum,Ethiopia,ETH,14:47.36
+2022,2022-07-24,women,800 metres,1,gold,athlete,Athing Mu,United States,USA,1:56.30 WL
+2022,2022-07-24,women,800 metres,2,silver,athlete,Keely Hodgkinson,Great Britain and Northern Ireland,GBR,1:56.38 SB
+2022,2022-07-24,women,800 metres,3,bronze,athlete,Mary Moraa,Kenya,KEN,1:56.71 PB
+2022,2022-07-24,women,Discus throw,1,gold,athlete,Feng Bin,China,CHN,69.12 m PB
+2022,2022-07-24,women,Discus throw,2,silver,athlete,Sandra Perković,Croatia,HRV,68.45 m SB
+2022,2022-07-24,women,Discus throw,3,bronze,athlete,Valarie Allman,United States,USA,68.30 m
+2022,2022-07-24,women,Hammer throw,1,gold,athlete,Brooke Andersen,United States,USA,78.96 m
+2022,2022-07-24,women,Hammer throw,2,silver,athlete,Camryn Rogers,Canada,CAN,75.52 m
+2022,2022-07-24,women,Hammer throw,3,bronze,athlete,Janee' Kassanavoid,United States,USA,74.86 m
+2022,2022-07-24,women,Heptathlon,1,gold,athlete,Nafissatou Thiam,Belgium,BEL,6947 WL
+2022,2022-07-24,women,Heptathlon,2,silver,athlete,Anouk Vetter,Netherlands,NLD,6867 NR
+2022,2022-07-24,women,Heptathlon,3,bronze,athlete,Anna Hall,United States,USA,6755 PB
+2022,2022-07-24,women,High jump,1,gold,athlete,Eleanor Patterson,Australia,AUS,2.02 m =AR
+2022,2022-07-24,women,High jump,2,silver,athlete,Yaroslava Mahuchikh,Ukraine,UKR,2.02 m
+2022,2022-07-24,women,High jump,3,bronze,athlete,Elena Vallortigara,Italy,ITA,2.00 m SB
+2022,2022-07-24,women,Javelin throw,1,gold,athlete,Kelsey-Lee Barber,Australia,AUS,66.91 m WL
+2022,2022-07-24,women,Javelin throw,2,silver,athlete,Kara Winger,United States,USA,64.05 m
+2022,2022-07-24,women,Javelin throw,3,bronze,athlete,Haruka Kitaguchi,Japan,JPN,63.27 m
+2022,2022-07-24,women,Long jump,1,gold,athlete,Malaika Mihambo,Germany,DEU,7.12 m SB
+2022,2022-07-24,women,Long jump,2,silver,athlete,Ese Brume,Nigeria,NGA,7.02 m SB
+2022,2022-07-24,women,Long jump,3,bronze,athlete,Leticia Oro Melo,Brazil,BRA,6.89 m PB
+2022,2022-07-24,women,Marathon,1,gold,athlete,Gotytom Gebreslase,Ethiopia,ETH,2:18:11 CR
+2022,2022-07-24,women,Marathon,2,silver,athlete,Judith Korir,Kenya,KEN,2:18:20 PB
+2022,2022-07-24,women,Marathon,3,bronze,athlete,Lonah Salpeter,Israel,ISR,2:20:18
+2022,2022-07-24,women,Pole vault,1,gold,athlete,Katie Nageotte,United States,USA,4.85 m WL
+2022,2022-07-24,women,Pole vault,2,silver,athlete,Sandi Morris,United States,USA,4.85 m WL
+2022,2022-07-24,women,Pole vault,3,bronze,athlete,Nina Kennedy,Australia,AUS,4.80 m SB
+2022,2022-07-24,women,Shot put,1,gold,athlete,Chase Ealey,United States,USA,20.49 m
+2022,2022-07-24,women,Shot put,2,silver,athlete,Gong Lijiao,China,CHN,20.39 m
+2022,2022-07-24,women,Shot put,3,bronze,athlete,Jessica Schilder,Netherlands,NLD,19.77 m
+2022,2022-07-24,women,Triple jump,1,gold,athlete,Yulimar Rojas,Venezuela,VEN,15.47 m WL
+2022,2022-07-24,women,Triple jump,2,silver,athlete,Shanieka Ricketts,Jamaica,JAM,14.89 m SB
+2022,2022-07-24,women,Triple jump,3,bronze,athlete,Tori Franklin,United States,USA,14.72 m SB
+2023,2023-08-27,men,"10,000 metres",1,gold,athlete,Joshua Cheptegei,Uganda,UGA,27:51.42 SB
+2023,2023-08-27,men,"10,000 metres",2,silver,athlete,Daniel Ebenyo,Kenya,KEN,27:52.60
+2023,2023-08-27,men,"10,000 metres",3,bronze,athlete,Selemon Barega,Ethiopia,ETH,27:52.72
+2023,2023-08-27,men,100 metres,1,gold,athlete,Noah Lyles,United States,USA,9.83 =WL
+2023,2023-08-27,men,100 metres,2,silver,athlete,Letsile Tebogo,Botswana,BWA,9.88 NR
+2023,2023-08-27,men,100 metres,3,bronze,athlete,Zharnel Hughes,Great Britain and Northern Ireland,GBR,9.88
+2023,2023-08-27,men,110 metres hurdles,1,gold,athlete,Grant Holloway,United States,USA,12.96 SB
+2023,2023-08-27,men,110 metres hurdles,2,silver,athlete,Hansle Parchment,Jamaica,JAM,13.07 SB
+2023,2023-08-27,men,110 metres hurdles,3,bronze,athlete,Daniel Roberts,United States,USA,13.09
+2023,2023-08-27,men,1500 metres,1,gold,athlete,Josh Kerr,Great Britain and Northern Ireland,GBR,3:29.38 SB
+2023,2023-08-27,men,1500 metres,2,silver,athlete,Jakob Ingebrigtsen,Norway,NOR,3:29.65
+2023,2023-08-27,men,1500 metres,3,bronze,athlete,Narve Gilje Nordås,Norway,NOR,3:29.68
+2023,2023-08-27,men,20 kilometres walk,1,gold,athlete,Álvaro Martín,Spain,ESP,1:17:32 WL
+2023,2023-08-27,men,20 kilometres walk,2,silver,athlete,Perseus Karlström,Sweden,SWE,1:17:39 NR
+2023,2023-08-27,men,20 kilometres walk,3,bronze,athlete,Caio Bonfim,Brazil,BRA,1:17:47 NR
+2023,2023-08-27,men,200 metres,1,gold,athlete,Noah Lyles,United States,USA,19.52
+2023,2023-08-27,men,200 metres,2,silver,athlete,Erriyon Knighton,United States,USA,19.75
+2023,2023-08-27,men,200 metres,3,bronze,athlete,Letsile Tebogo,Botswana,BWA,19.81
+2023,2023-08-27,men,3000 metres steeplechase,1,gold,athlete,Soufiane El Bakkali,Morocco,MAR,8:03.53
+2023,2023-08-27,men,3000 metres steeplechase,2,silver,athlete,Lamecha Girma,Ethiopia,ETH,8:05.44
+2023,2023-08-27,men,3000 metres steeplechase,3,bronze,athlete,Abraham Kibiwot,Kenya,KEN,8:11.98
+2023,2023-08-27,men,35 kilometres walk,1,gold,athlete,Álvaro Martín,Spain,ESP,2:24:30 NR
+2023,2023-08-27,men,35 kilometres walk,2,silver,athlete,Brian Pintado,Ecuador,ECU,2:24:34 AR
+2023,2023-08-27,men,35 kilometres walk,3,bronze,athlete,Masatora Kawano,Japan,JPN,2:25:12 SB
+2023,2023-08-27,men,4 × 100 metres relay,1,gold,team,,United States,USA,37.38 WL
+2023,2023-08-27,men,4 × 100 metres relay,2,silver,team,,Italy,ITA,37.62 SB
+2023,2023-08-27,men,4 × 100 metres relay,3,bronze,team,,Jamaica,JAM,37.76
+2023,2023-08-27,men,4 × 400 metres relay,1,gold,team,,United States,USA,2:57.31 WL
+2023,2023-08-27,men,4 × 400 metres relay,2,silver,team,,France,FRA,2:58.45 NR
+2023,2023-08-27,men,4 × 400 metres relay,3,bronze,team,,Great Britain & N.I.,GBR,2:58.71 SB
+2023,2023-08-27,men,400 metres,1,gold,athlete,Antonio Watson,Jamaica,JAM,44.22
+2023,2023-08-27,men,400 metres,2,silver,athlete,Matthew Hudson-Smith,Great Britain and Northern Ireland,GBR,44.31
+2023,2023-08-27,men,400 metres,3,bronze,athlete,Quincy Hall,United States,USA,44.37 PB
+2023,2023-08-27,men,400 metres hurdles,1,gold,athlete,Karsten Warholm,Norway,NOR,46.89
+2023,2023-08-27,men,400 metres hurdles,2,silver,athlete,Kyron McMaster,British Virgin Islands,VGB,47.34
+2023,2023-08-27,men,400 metres hurdles,3,bronze,athlete,Rai Benjamin,United States,USA,47.56
+2023,2023-08-27,men,5000 metres,1,gold,athlete,Jakob Ingebrigtsen,Norway,NOR,13:11.30 SB
+2023,2023-08-27,men,5000 metres,2,silver,athlete,Mohamed Katir,Spain,ESP,13:11.44
+2023,2023-08-27,men,5000 metres,3,bronze,athlete,Jacob Krop,Kenya,KEN,13:12.28
+2023,2023-08-27,men,800 metres,1,gold,athlete,Marco Arop,Canada,CAN,1:44.24
+2023,2023-08-27,men,800 metres,2,silver,athlete,Emmanuel Wanyonyi,Kenya,KEN,1:44.53
+2023,2023-08-27,men,800 metres,3,bronze,athlete,Ben Pattison,Great Britain and Northern Ireland,GBR,1:44.83
+2023,2023-08-27,men,Decathlon,1,gold,athlete,Pierce LePage,Canada,CAN,8909 WL
+2023,2023-08-27,men,Decathlon,2,silver,athlete,Damian Warner,Canada,CAN,8804 SB
+2023,2023-08-27,men,Decathlon,3,bronze,athlete,Lindon Victor,Grenada,GRD,8756 NR
+2023,2023-08-27,men,Discus throw,1,gold,athlete,Daniel Ståhl,Sweden,SWE,71.46 m CR
+2023,2023-08-27,men,Discus throw,2,silver,athlete,Kristjan Čeh,Slovenia,SVN,70.02 m
+2023,2023-08-27,men,Discus throw,3,bronze,athlete,Mykolas Alekna,Lithuania,LTU,68.85 m
+2023,2023-08-27,men,Hammer throw,1,gold,athlete,Ethan Katzberg,Canada,CAN,81.25 m NR
+2023,2023-08-27,men,Hammer throw,2,silver,athlete,Wojciech Nowicki,Poland,POL,81.02 m
+2023,2023-08-27,men,Hammer throw,3,bronze,athlete,Bence Halász,Hungary,HUN,80.82 m SB
+2023,2023-08-27,men,High jump,1,gold,athlete,Gianmarco Tamberi,Italy,ITA,2.36 m =WL
+2023,2023-08-27,men,High jump,2,silver,athlete,JuVaughn Harrison,United States,USA,2.36 m =WL
+2023,2023-08-27,men,High jump,3,bronze,athlete,Mutaz Essa Barshim,Qatar,QAT,2.33 m
+2023,2023-08-27,men,Javelin throw,1,gold,athlete,Neeraj Chopra,India,IND,88.17 m
+2023,2023-08-27,men,Javelin throw,2,silver,athlete,Arshad Nadeem,Pakistan,PAK,87.82 m SB
+2023,2023-08-27,men,Javelin throw,3,bronze,athlete,Jakub Vadlejch,Czech Republic,CZE,86.67 m
+2023,2023-08-27,men,Long jump,1,gold,athlete,Miltiadis Tentoglou,Greece,GRC,8.52 m SB
+2023,2023-08-27,men,Long jump,2,silver,athlete,Wayne Pinnock,Jamaica,JAM,8.50 m
+2023,2023-08-27,men,Long jump,3,bronze,athlete,Tajay Gayle,Jamaica,JAM,8.27 m =SB
+2023,2023-08-27,men,Marathon,1,gold,athlete,Victor Kiplangat,Uganda,UGA,2:08.53
+2023,2023-08-27,men,Marathon,2,silver,athlete,Maru Teferi,Israel,ISR,2:09.12 SB
+2023,2023-08-27,men,Marathon,3,bronze,athlete,Leul Gebresilase,Ethiopia,ETH,2:09.19
+2023,2023-08-27,men,Pole vault,1,gold,athlete,Armand Duplantis,Sweden,SWE,6.10 m
+2023,2023-08-27,men,Pole vault,2,silver,athlete,EJ Obiena,Philippines,PHL,6.00 m =AR
+2023,2023-08-27,men,Pole vault,3,bronze,athlete,Kurtis Marschall Australia Chris Nilsen,United States,USA,5.95 m =PB5.95 m SB
+2023,2023-08-27,men,Shot put,1,gold,athlete,Ryan Crouser,United States,USA,23.51 m CR
+2023,2023-08-27,men,Shot put,2,silver,athlete,Leonardo Fabbri,Italy,ITA,22.34 m PB
+2023,2023-08-27,men,Shot put,3,bronze,athlete,Joe Kovacs,United States,USA,22.12 m
+2023,2023-08-27,men,Triple jump,1,gold,athlete,Hugues Fabrice Zango,Burkina Faso,BFA,17.64 m
+2023,2023-08-27,men,Triple jump,2,silver,athlete,Lázaro Martínez,Cuba,CUB,17.41 m
+2023,2023-08-27,men,Triple jump,3,bronze,athlete,Cristian Nápoles,Cuba,CUB,17.40 m PB
+2023,2023-08-27,mixed,4 × 400 metres relay,1,gold,team,,United States,USA,3:08.80 WR
+2023,2023-08-27,mixed,4 × 400 metres relay,2,silver,team,,Great Britain & N.I.,GBR,3:11.06 NR
+2023,2023-08-27,mixed,4 × 400 metres relay,3,bronze,team,,Czech Republic,CZE,3:11.98 NR
+2023,2023-08-27,women,"10,000 metres",1,gold,athlete,Gudaf Tsegay,Ethiopia,ETH,31:27.18
+2023,2023-08-27,women,"10,000 metres",2,silver,athlete,Letesenbet Gidey,Ethiopia,ETH,31:28.16 SB
+2023,2023-08-27,women,"10,000 metres",3,bronze,athlete,Ejgayehu Taye,Ethiopia,ETH,31:28.31
+2023,2023-08-27,women,100 metres,1,gold,athlete,Sha'Carri Richardson,United States,USA,10.65 CR
+2023,2023-08-27,women,100 metres,2,silver,athlete,Shericka Jackson,Jamaica,JAM,10.72
+2023,2023-08-27,women,100 metres,3,bronze,athlete,Shelly-Ann Fraser-Pryce,Jamaica,JAM,10.77 SB
+2023,2023-08-27,women,100 metres hurdles,1,gold,athlete,Danielle Williams,Jamaica,JAM,12.43 SB
+2023,2023-08-27,women,100 metres hurdles,2,silver,athlete,Jasmine Camacho-Quinn,Puerto Rico,PUR,12.44
+2023,2023-08-27,women,100 metres hurdles,3,bronze,athlete,Kendra Harrison,United States,USA,12.46
+2023,2023-08-27,women,1500 metres,1,gold,athlete,Faith Kipyegon,Kenya,KEN,3:54.87
+2023,2023-08-27,women,1500 metres,2,silver,athlete,Diribe Welteji,Ethiopia,ETH,3:55.69
+2023,2023-08-27,women,1500 metres,3,bronze,athlete,Sifan Hassan,Netherlands,NLD,3:56.00
+2023,2023-08-27,women,20 kilometres walk,1,gold,athlete,María Pérez,Spain,ESP,1:26:51
+2023,2023-08-27,women,20 kilometres walk,2,silver,athlete,Jemima Montag,Australia,AUS,1:27:16 AR
+2023,2023-08-27,women,20 kilometres walk,3,bronze,athlete,Antonella Palmisano,Italy,ITA,1:27:26 SB
+2023,2023-08-27,women,200 metres,1,gold,athlete,Shericka Jackson,Jamaica,JAM,21.41 CR
+2023,2023-08-27,women,200 metres,2,silver,athlete,Gabrielle Thomas,United States,USA,21.81
+2023,2023-08-27,women,200 metres,3,bronze,athlete,Sha'Carri Richardson,United States,USA,21.92 PB
+2023,2023-08-27,women,3000 metres steeplechase,1,gold,athlete,Winfred Yavi,Bahrain,BHR,8:54.29 WL
+2023,2023-08-27,women,3000 metres steeplechase,2,silver,athlete,Beatrice Chepkoech,Kenya,KEN,8:58.98 SB
+2023,2023-08-27,women,3000 metres steeplechase,3,bronze,athlete,Faith Cherotich,Kenya,KEN,9:00.69 PB
+2023,2023-08-27,women,35 kilometres walk,1,gold,athlete,María Pérez,Spain,ESP,2:38:40 CR
+2023,2023-08-27,women,35 kilometres walk,2,silver,athlete,Kimberly García,Peru,PER,2:40:52
+2023,2023-08-27,women,35 kilometres walk,3,bronze,athlete,Antigoni Drisbioti,Greece,GRC,2:43:22 SB
+2023,2023-08-27,women,4 × 100 metres relay,1,gold,team,,United States,USA,41.03 CR
+2023,2023-08-27,women,4 × 100 metres relay,2,silver,team,,Jamaica,JAM,41.21 SB
+2023,2023-08-27,women,4 × 100 metres relay,3,bronze,team,,Great Britain & N.I.,GBR,41.98 SB
+2023,2023-08-27,women,4 × 400 metres relay,1,gold,team,,Netherlands,NLD,"3:20.72 WL, NR"
+2023,2023-08-27,women,4 × 400 metres relay,2,silver,team,,Jamaica,JAM,3:20.88 SB
+2023,2023-08-27,women,4 × 400 metres relay,3,bronze,team,,Great Britain & N.I.,GBR,3:21.04 SB
+2023,2023-08-27,women,400 metres,1,gold,athlete,Marileidy Paulino,Dominican Republic,DOM,48.76 NR
+2023,2023-08-27,women,400 metres,2,silver,athlete,Natalia Kaczmarek,Poland,POL,49.57
+2023,2023-08-27,women,400 metres,3,bronze,athlete,Sada Williams,Barbados,BRB,49.60
+2023,2023-08-27,women,400 metres hurdles,1,gold,athlete,Femke Bol,Netherlands,NLD,51.70
+2023,2023-08-27,women,400 metres hurdles,2,silver,athlete,Shamier Little,United States,USA,52.80 SB
+2023,2023-08-27,women,400 metres hurdles,3,bronze,athlete,Rushell Clayton,Jamaica,JAM,52.81 PB
+2023,2023-08-27,women,5000 metres,1,gold,athlete,Faith Kipyegon,Kenya,KEN,14:53.88
+2023,2023-08-27,women,5000 metres,2,silver,athlete,Sifan Hassan,Netherlands,NLD,14:54.11
+2023,2023-08-27,women,5000 metres,3,bronze,athlete,Beatrice Chebet,Kenya,KEN,14:54.33
+2023,2023-08-27,women,800 metres,1,gold,athlete,Mary Moraa,Kenya,KEN,1:56.03 PB
+2023,2023-08-27,women,800 metres,2,silver,athlete,Keely Hodgkinson,Great Britain and Northern Ireland,GBR,1:56.34
+2023,2023-08-27,women,800 metres,3,bronze,athlete,Athing Mu,United States,USA,1:56.61 SB
+2023,2023-08-27,women,Discus throw,1,gold,athlete,Laulauga Tausaga,United States,USA,69.49 m PB
+2023,2023-08-27,women,Discus throw,2,silver,athlete,Valarie Allman,United States,USA,69.23 m
+2023,2023-08-27,women,Discus throw,3,bronze,athlete,Feng Bin,China,CHN,68.20 m SB
+2023,2023-08-27,women,Hammer throw,1,gold,athlete,Camryn Rogers,Canada,CAN,77.22 m
+2023,2023-08-27,women,Hammer throw,2,silver,athlete,Janee' Kassanavoid,United States,USA,76.36 m
+2023,2023-08-27,women,Hammer throw,3,bronze,athlete,DeAnna Price,United States,USA,75.41 m
+2023,2023-08-27,women,Heptathlon,1,gold,athlete,Katarina Johnson-Thompson,Great Britain and Northern Ireland,GBR,6740
+2023,2023-08-27,women,Heptathlon,2,silver,athlete,Anna Hall,United States,USA,6720
+2023,2023-08-27,women,Heptathlon,3,bronze,athlete,Anouk Vetter,Netherlands,NLD,6501
+2023,2023-08-27,women,High jump,1,gold,athlete,Yaroslava Mahuchikh,Ukraine,UKR,2.01 m
+2023,2023-08-27,women,High jump,2,silver,athlete,Eleanor Patterson,Australia,AUS,1.99 m
+2023,2023-08-27,women,High jump,3,bronze,athlete,Nicola Olyslagers,Australia,AUS,1.99 m
+2023,2023-08-27,women,Javelin throw,1,gold,athlete,Haruka Kitaguchi,Japan,JPN,66.73 m
+2023,2023-08-27,women,Javelin throw,2,silver,athlete,Flor Ruiz,Colombia,COL,65.47 m AR
+2023,2023-08-27,women,Javelin throw,3,bronze,athlete,Mackenzie Little,Australia,AUS,63.38 m
+2023,2023-08-27,women,Long jump,1,gold,athlete,Ivana Vuleta,Serbia,SRB,7.14 m WL
+2023,2023-08-27,women,Long jump,2,silver,athlete,Tara Davis-Woodhall,United States,USA,6.91 m
+2023,2023-08-27,women,Long jump,3,bronze,athlete,Alina Rotaru-Kottmann,Romania,ROU,6.88 m
+2023,2023-08-27,women,Marathon,1,gold,athlete,Amane Beriso,Ethiopia,ETH,2:24:23 SB
+2023,2023-08-27,women,Marathon,2,silver,athlete,Gotytom Gebreslase,Ethiopia,ETH,2:24:34 SB
+2023,2023-08-27,women,Marathon,3,bronze,athlete,Fatima Ezzahra Gardadi,Morocco,MAR,2:25:17
+2023,2023-08-27,women,Pole vault,1,gold,athlete,Nina Kennedy AustraliaKatie Moon,United States,USA,4.90 m =WL
+2023,2023-08-27,women,Pole vault,3,bronze,athlete,Wilma Murto,Finland,FIN,4.80 m =SB
+2023,2023-08-27,women,Shot put,1,gold,athlete,Chase Ealey,United States,USA,20.43 m SB
+2023,2023-08-27,women,Shot put,2,silver,athlete,Sarah Mitton,Canada,CAN,20.08 m SB
+2023,2023-08-27,women,Shot put,3,bronze,athlete,Gong Lijiao,China,CHN,19.69 m
+2023,2023-08-27,women,Triple jump,1,gold,athlete,Yulimar Rojas,Venezuela,VEN,15.08 m
+2023,2023-08-27,women,Triple jump,2,silver,athlete,Maryna Bekh-Romanchuk,Ukraine,UKR,15.00 m SB
+2023,2023-08-27,women,Triple jump,3,bronze,athlete,Leyanis Pérez,Cuba,CUB,14.96 m
+2025,2025-09-21,men,"10,000 metres",1,gold,athlete,Jimmy Gressier,France,FRA,28:55.77 SB
+2025,2025-09-21,men,"10,000 metres",2,silver,athlete,Yomif Kejelcha,Ethiopia,ETH,28:55.83 SB
+2025,2025-09-21,men,"10,000 metres",3,bronze,athlete,Andreas Almgren,Sweden,SWE,28:56.02
+2025,2025-09-21,men,100 metres,1,gold,athlete,Oblique Seville,Jamaica,JAM,9.77 PB
+2025,2025-09-21,men,100 metres,2,silver,athlete,Kishane Thompson,Jamaica,JAM,9.82
+2025,2025-09-21,men,100 metres,3,bronze,athlete,Noah Lyles,United States,USA,9.89 SB
+2025,2025-09-21,men,110 metres hurdles,1,gold,athlete,Cordell Tinch,United States,USA,12.99
+2025,2025-09-21,men,110 metres hurdles,2,silver,athlete,Orlando Bennett,Jamaica,JAM,13.08 PB
+2025,2025-09-21,men,110 metres hurdles,3,bronze,athlete,Tyler Mason,Jamaica,JAM,13.12 =PB
+2025,2025-09-21,men,1500 metres,1,gold,athlete,Isaac Nader,Portugal,PRT,3:34.10
+2025,2025-09-21,men,1500 metres,2,silver,athlete,Jake Wightman,Great Britain and Northern Ireland,GBR,3:34.12
+2025,2025-09-21,men,1500 metres,3,bronze,athlete,Reynold Cheruiyot,Kenya,KEN,3:34.25
+2025,2025-09-21,men,20 kilometres walk,1,gold,athlete,Caio Bonfim,Brazil,BRA,1:18:35
+2025,2025-09-21,men,20 kilometres walk,2,silver,athlete,Wang Zhaozhao,China,CHN,1:18:43
+2025,2025-09-21,men,20 kilometres walk,3,bronze,athlete,Paul McGrath,Spain,ESP,1:18:45
+2025,2025-09-21,men,200 metres,1,gold,athlete,Noah Lyles,United States,USA,19.52
+2025,2025-09-21,men,200 metres,2,silver,athlete,Kenny Bednarek,United States,USA,19.58 SB
+2025,2025-09-21,men,200 metres,3,bronze,athlete,Bryan Levell,Jamaica,JAM,19.64 PB
+2025,2025-09-21,men,3000 metres steeplechase,1,gold,athlete,Geordie Beamish,New Zealand,NZL,8:33.88
+2025,2025-09-21,men,3000 metres steeplechase,2,silver,athlete,Soufiane El Bakkali,Morocco,MAR,8:33.95
+2025,2025-09-21,men,3000 metres steeplechase,3,bronze,athlete,Edmund Serem,Kenya,KEN,8:34.56
+2025,2025-09-21,men,35 kilometres walk,1,gold,athlete,Evan Dunfee,Canada,CAN,2:28:22
+2025,2025-09-21,men,35 kilometres walk,2,silver,athlete,Caio Bonfim,Brazil,BRA,2:28:55 SB
+2025,2025-09-21,men,35 kilometres walk,3,bronze,athlete,Hayato Katsuki,Japan,JPN,2:29:16
+2025,2025-09-21,men,4 × 100 metres relay,1,gold,team,,United States,USA,37.29 WL
+2025,2025-09-21,men,4 × 100 metres relay,2,silver,team,,Canada,CAN,37.55 SB
+2025,2025-09-21,men,4 × 100 metres relay,3,bronze,team,,Netherlands,NLD,37.81 NR
+2025,2025-09-21,men,4 × 400 metres relay,1,gold,team,,Botswana,BWA,2:57.76
+2025,2025-09-21,men,4 × 400 metres relay,2,silver,team,,United States,USA,2:57.83 SB
+2025,2025-09-21,men,4 × 400 metres relay,3,bronze,team,,South Africa,ZAF,2:57.83
+2025,2025-09-21,men,400 metres,1,gold,athlete,Collen Kebinatshipi,Botswana,BWA,"43.53 NR, WL"
+2025,2025-09-21,men,400 metres,2,silver,athlete,Jereem Richards,Trinidad and Tobago,TTO,43.72 NR
+2025,2025-09-21,men,400 metres,3,bronze,athlete,Bayapo Ndori,Botswana,BWA,44.20 SB
+2025,2025-09-21,men,400 metres hurdles,1,gold,athlete,Rai Benjamin,United States,USA,46.52 SB
+2025,2025-09-21,men,400 metres hurdles,2,silver,athlete,Alison dos Santos,Brazil,BRA,46.84
+2025,2025-09-21,men,400 metres hurdles,3,bronze,athlete,Abderrahman Samba,Qatar,QAT,47.06 SB
+2025,2025-09-21,men,5000 metres,1,gold,athlete,Cole Hocker,United States,USA,12:58.30
+2025,2025-09-21,men,5000 metres,2,silver,athlete,Isaac Kimeli,Belgium,BEL,12:58.78 SB
+2025,2025-09-21,men,5000 metres,3,bronze,athlete,Jimmy Gressier,France,FRA,12:59.33
+2025,2025-09-21,men,800 metres,1,gold,athlete,Emmanuel Wanyonyi,Kenya,KEN,1:41.86 CR
+2025,2025-09-21,men,800 metres,2,silver,athlete,Djamel Sedjati,Algeria,DZA,1:41.90 SB
+2025,2025-09-21,men,800 metres,3,bronze,athlete,Marco Arop,Canada,CAN,1:41.95 SB
+2025,2025-09-21,men,Decathlon,1,gold,athlete,Leo Neugebauer,Germany,DEU,8804 SB
+2025,2025-09-21,men,Decathlon,2,silver,athlete,Ayden Owens-Delerme,Puerto Rico,PUR,8784 NR
+2025,2025-09-21,men,Decathlon,3,bronze,athlete,Kyle Garland,United States,USA,8703
+2025,2025-09-21,men,Discus throw,1,gold,athlete,Daniel Ståhl,Sweden,SWE,70.47 m SB
+2025,2025-09-21,men,Discus throw,2,silver,athlete,Mykolas Alekna,Lithuania,LTU,67.84 m
+2025,2025-09-21,men,Discus throw,3,bronze,athlete,Alex Rose,Samoa,WSM,66.96 m
+2025,2025-09-21,men,Hammer throw,1,gold,athlete,Ethan Katzberg,Canada,CAN,"84.70 m CR, AR"
+2025,2025-09-21,men,Hammer throw,2,silver,athlete,Merlin Hummel,Germany,DEU,82.77 m PB
+2025,2025-09-21,men,Hammer throw,3,bronze,athlete,Bence Halász,Hungary,HUN,82.69 m
+2025,2025-09-21,men,High jump,1,gold,athlete,Hamish Kerr,New Zealand,NZL,"2.36 m =AR, WL"
+2025,2025-09-21,men,High jump,2,silver,athlete,Woo Sang-hyeok,South Korea,KOR,2.34 m =SB
+2025,2025-09-21,men,High jump,3,bronze,athlete,Jan Štefela,Czech Republic,CZE,2.31 m
+2025,2025-09-21,men,Javelin throw,1,gold,athlete,Keshorn Walcott,Trinidad and Tobago,TTO,88.16 m SB
+2025,2025-09-21,men,Javelin throw,2,silver,athlete,Anderson Peters,Grenada,GRD,87.38 m
+2025,2025-09-21,men,Javelin throw,3,bronze,athlete,Curtis Thompson,United States,USA,86.67 m
+2025,2025-09-21,men,Long jump,1,gold,athlete,Mattia Furlani,Italy,ITA,8.39 m PB
+2025,2025-09-21,men,Long jump,2,silver,athlete,Tajay Gayle,Jamaica,JAM,8.34 m =SB
+2025,2025-09-21,men,Long jump,3,bronze,athlete,Shi Yuhao,China,CHN,8.33 m SB
+2025,2025-09-21,men,Marathon,1,gold,athlete,Alphonce Simbu,Tanzania,TZA,2:09:48 SB
+2025,2025-09-21,men,Marathon,2,silver,athlete,Amanal Petros,Germany,DEU,2:09:48
+2025,2025-09-21,men,Marathon,3,bronze,athlete,Iliass Aouani,Italy,ITA,2:09:53
+2025,2025-09-21,men,Pole vault,1,gold,athlete,Armand Duplantis,Sweden,SWE,6.30 m WR
+2025,2025-09-21,men,Pole vault,2,silver,athlete,Emmanouil Karalis,Greece,GRC,6.00 m
+2025,2025-09-21,men,Pole vault,3,bronze,athlete,Kurtis Marschall,Australia,AUS,5.95 m PB
+2025,2025-09-21,men,Shot put,1,gold,athlete,Ryan Crouser,United States,USA,22.34 m SB
+2025,2025-09-21,men,Shot put,2,silver,athlete,Uziel Muñoz,Mexico,MEX,21.97 m NR
+2025,2025-09-21,men,Shot put,3,bronze,athlete,Leonardo Fabbri,Italy,ITA,21.94 m
+2025,2025-09-21,men,Triple jump,1,gold,athlete,Pedro Pichardo,Portugal,PRT,17.91 m WL
+2025,2025-09-21,men,Triple jump,2,silver,athlete,Andrea Dallavalle,Italy,ITA,17.64 m PB
+2025,2025-09-21,men,Triple jump,3,bronze,athlete,Lázaro Martínez,Cuba,CUB,17.49 m SB
+2025,2025-09-21,mixed,4 × 400 metres relay,1,gold,team,,United States,USA,3:08.80 =CR
+2025,2025-09-21,mixed,4 × 400 metres relay,2,silver,team,,Netherlands,NLD,3:09.96 SB
+2025,2025-09-21,mixed,4 × 400 metres relay,3,bronze,team,,Belgium,BEL,3:10.61
+2025,2025-09-21,women,"10,000 metres",1,gold,athlete,Beatrice Chebet,Kenya,KEN,30:37.61
+2025,2025-09-21,women,"10,000 metres",2,silver,athlete,Nadia Battocletti,Italy,ITA,30:38.23 NR
+2025,2025-09-21,women,"10,000 metres",3,bronze,athlete,Gudaf Tsegay,Ethiopia,ETH,30:39.65 SB
+2025,2025-09-21,women,100 metres,1,gold,athlete,Melissa Jefferson-Wooden,United States,USA,10.61 CR
+2025,2025-09-21,women,100 metres,2,silver,athlete,Tina Clayton,Jamaica,JAM,10.76 PB
+2025,2025-09-21,women,100 metres,3,bronze,athlete,Julien Alfred,Saint Lucia,LCA,10.84
+2025,2025-09-21,women,100 metres hurdles,1,gold,athlete,Ditaji Kambundji,Switzerland,CHE,12.24 NR
+2025,2025-09-21,women,100 metres hurdles,2,silver,athlete,Tobi Amusan,Nigeria,NGA,12.29
+2025,2025-09-21,women,100 metres hurdles,3,bronze,athlete,Grace Stark,United States,USA,12.34
+2025,2025-09-21,women,1500 metres,1,gold,athlete,Faith Kipyegon,Kenya,KEN,3:52.15
+2025,2025-09-21,women,1500 metres,2,silver,athlete,Dorcus Ewoi,Kenya,KEN,3:54.92 PB
+2025,2025-09-21,women,1500 metres,3,bronze,athlete,Jessica Hull,Australia,AUS,3:55.16
+2025,2025-09-21,women,20 kilometres walk,1,gold,athlete,María Pérez,Spain,ESP,1:25:54 SB
+2025,2025-09-21,women,20 kilometres walk,2,silver,athlete,Alegna González,Mexico,MEX,1:26:06 AR
+2025,2025-09-21,women,20 kilometres walk,3,bronze,athlete,Nanako Fujii,Japan,JPN,1:26:18 NR
+2025,2025-09-21,women,200 metres,1,gold,athlete,Melissa Jefferson-Wooden,United States,USA,21.68 WL
+2025,2025-09-21,women,200 metres,2,silver,athlete,Amy Hunt,Great Britain and Northern Ireland,GBR,22.14
+2025,2025-09-21,women,200 metres,3,bronze,athlete,Shericka Jackson,Jamaica,JAM,22.18
+2025,2025-09-21,women,3000 metres steeplechase,1,gold,athlete,Faith Cherotich,Kenya,KEN,8:51.59 CR
+2025,2025-09-21,women,3000 metres steeplechase,2,silver,athlete,Winfred Yavi,Bahrain,BHR,8:56.46
+2025,2025-09-21,women,3000 metres steeplechase,3,bronze,athlete,Sembo Almayew,Ethiopia,ETH,8:58.86 PB
+2025,2025-09-21,women,35 kilometres walk,1,gold,athlete,María Pérez,Spain,ESP,2:39:01
+2025,2025-09-21,women,35 kilometres walk,2,silver,athlete,Antonella Palmisano,Italy,ITA,2:42:24
+2025,2025-09-21,women,35 kilometres walk,3,bronze,athlete,Paula Milena Torres,Ecuador,ECU,2:42:44 NR
+2025,2025-09-21,women,4 × 100 metres relay,1,gold,team,,United States,USA,41.75
+2025,2025-09-21,women,4 × 100 metres relay,2,silver,team,,Jamaica,JAM,41.79 SB
+2025,2025-09-21,women,4 × 100 metres relay,3,bronze,team,,Germany,DEU,41.87
+2025,2025-09-21,women,4 × 400 metres relay,1,gold,team,,United States,USA,3:16.61 CR
+2025,2025-09-21,women,4 × 400 metres relay,2,silver,team,,Jamaica,JAM,3:19.25 SB
+2025,2025-09-21,women,4 × 400 metres relay,3,bronze,team,,Netherlands,NLD,3:20.18 SB
+2025,2025-09-21,women,400 metres,1,gold,athlete,Sydney McLaughlin-Levrone,United States,USA,"47.78 CR, AR, WL"
+2025,2025-09-21,women,400 metres,2,silver,athlete,Marileidy Paulino,Dominican Republic,DOM,47.98 NR
+2025,2025-09-21,women,400 metres,3,bronze,athlete,Salwa Eid Naser,Bahrain,BHR,48.19 SB
+2025,2025-09-21,women,400 metres hurdles,1,gold,athlete,Femke Bol,Netherlands,NLD,51.54 WL
+2025,2025-09-21,women,400 metres hurdles,2,silver,athlete,Jasmine Jones,United States,USA,52.08 PB
+2025,2025-09-21,women,400 metres hurdles,3,bronze,athlete,Emma Zapletalová,Slovakia,SVK,53.00 NR
+2025,2025-09-21,women,5000 metres,1,gold,athlete,Beatrice Chebet,Kenya,KEN,14:54.36
+2025,2025-09-21,women,5000 metres,2,silver,athlete,Faith Kipyegon,Kenya,KEN,14:55.07 SB
+2025,2025-09-21,women,5000 metres,3,bronze,athlete,Nadia Battocletti,Italy,ITA,14:55.42
+2025,2025-09-21,women,800 metres,1,gold,athlete,Lilian Odira,Kenya,KEN,"1:54.62 CR, PB"
+2025,2025-09-21,women,800 metres,2,silver,athlete,Georgia Hunter Bell,Great Britain and Northern Ireland,GBR,1:54.90 PB
+2025,2025-09-21,women,800 metres,3,bronze,athlete,Keely Hodgkinson,Great Britain and Northern Ireland,GBR,1:54.91
+2025,2025-09-21,women,Discus throw,1,gold,athlete,Valarie Allman,United States,USA,69.48 m
+2025,2025-09-21,women,Discus throw,2,silver,athlete,Jorinde van Klinken,Netherlands,NLD,67.50 m SB
+2025,2025-09-21,women,Discus throw,3,bronze,athlete,Silinda Morales,Cuba,CUB,67.25 m PB
+2025,2025-09-21,women,Hammer throw,1,gold,athlete,Camryn Rogers,Canada,CAN,"80.51 m AR, WL"
+2025,2025-09-21,women,Hammer throw,2,silver,athlete,Zhao Jie,China,CHN,77.60 m PB
+2025,2025-09-21,women,Hammer throw,3,bronze,athlete,Zhang Jiale,China,CHN,77.10 m
+2025,2025-09-21,women,Heptathlon,1,gold,athlete,Anna Hall,United States,USA,6888
+2025,2025-09-21,women,Heptathlon,2,silver,athlete,Kate O'Connor,Ireland,IRL,6714 NR
+2025,2025-09-21,women,Heptathlon,3,bronze,athlete,Katarina Johnson-Thompson Great Britain and Northern IrelandTaliyah Brooks,United States,USA,6581 SB6581 PB
+2025,2025-09-21,women,High jump,1,gold,athlete,Nicola Olyslagers,Australia,AUS,2.00 m
+2025,2025-09-21,women,High jump,2,silver,athlete,Maria Żodzik,Poland,POL,2.00 m PB
+2025,2025-09-21,women,High jump,3,bronze,athlete,Yaroslava Mahuchikh UkraineAngelina Topić,Serbia,SRB,1.97 m 1.97 m SB
+2025,2025-09-21,women,Javelin throw,1,gold,athlete,Juleisy Angulo,Ecuador,ECU,65.12 m NR
+2025,2025-09-21,women,Javelin throw,2,silver,athlete,Anete Sietiņa,Latvia,LVA,64.64 m PB
+2025,2025-09-21,women,Javelin throw,3,bronze,athlete,Mackenzie Little,Australia,AUS,63.58 m
+2025,2025-09-21,women,Long jump,1,gold,athlete,Tara Davis-Woodhall,United States,USA,7.13 m WL
+2025,2025-09-21,women,Long jump,2,silver,athlete,Malaika Mihambo,Germany,DEU,6.99 m
+2025,2025-09-21,women,Long jump,3,bronze,athlete,Natalia Linares,Colombia,COL,6.92 m =AU23R
+2025,2025-09-21,women,Marathon,1,gold,athlete,Peres Jepchirchir,Kenya,KEN,2:24:43 SB
+2025,2025-09-21,women,Marathon,2,silver,athlete,Tigst Assefa,Ethiopia,ETH,2:24:45
+2025,2025-09-21,women,Marathon,3,bronze,athlete,Julia Paternain,Uruguay,URY,2:27:23
+2025,2025-09-21,women,Pole vault,1,gold,athlete,Katie Moon,United States,USA,4.90 m SB
+2025,2025-09-21,women,Pole vault,2,silver,athlete,Sandi Morris,United States,USA,4.85 m SB
+2025,2025-09-21,women,Pole vault,3,bronze,athlete,Tina Šutej,Slovenia,SVN,4.80 m SB
+2025,2025-09-21,women,Shot put,1,gold,athlete,Jessica Schilder,Netherlands,NLD,20.29 m
+2025,2025-09-21,women,Shot put,2,silver,athlete,Chase Jackson,United States,USA,20.21 m
+2025,2025-09-21,women,Shot put,3,bronze,athlete,Maddi Wesche,New Zealand,NZL,20.06 m =PB
+2025,2025-09-21,women,Triple jump,1,gold,athlete,Leyanis Pérez,Cuba,CUB,14.94 m WL
+2025,2025-09-21,women,Triple jump,2,silver,athlete,Thea LaFond,Dominica,DMA,14.89 m SB
+2025,2025-09-21,women,Triple jump,3,bronze,athlete,Yulimar Rojas,Venezuela,VEN,14.76 m SB
