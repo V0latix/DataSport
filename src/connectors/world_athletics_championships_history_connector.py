@@ -35,14 +35,10 @@ class WorldAthleticsChampionshipsHistoryConnector(Connector):
             "source_type": self.source_type,
             "license_notes": (
                 "Local seed data/raw/athletics/world_athletics_championships_top3_seed.csv "
-                "curated from public medal summary pages (2022/2023/2025 editions). "
+                "curated from public medal summary pages (editions >= 2000, currently 2001-2025). "
                 "Top 3 retained per discipline and gender."
             ),
-            "base_url": (
-                "https://en.wikipedia.org/wiki/2022_World_Athletics_Championships | "
-                "https://en.wikipedia.org/wiki/2023_World_Athletics_Championships | "
-                "https://en.wikipedia.org/wiki/2025_World_Athletics_Championships"
-            ),
+            "base_url": "https://en.wikipedia.org/wiki/World_Athletics_Championships",
         }
 
     def _local_seed_path(self) -> Path:
@@ -349,6 +345,49 @@ class WorldAthleticsChampionshipsHistoryConnector(Connector):
         filtered_participants = participants_df.loc[~participants_df["participant_id"].isin(replacement.keys())].copy()
         return filtered_participants, remapped_results
 
+    def _normalize_athletics_discipline_ids(self, db: SQLiteDB) -> None:
+        with db.connect() as conn:
+            conn.execute(
+                """
+                UPDATE events
+                SET discipline_id = (
+                    SELECT d_pref.discipline_id
+                    FROM disciplines d_pref
+                    WHERE d_pref.discipline_id LIKE 'athletics_%'
+                      AND d_pref.discipline_name = (
+                          SELECT d_legacy.discipline_name
+                          FROM disciplines d_legacy
+                          WHERE d_legacy.discipline_id = events.discipline_id
+                      )
+                )
+                WHERE discipline_id IN (
+                    SELECT d_legacy.discipline_id
+                    FROM disciplines d_pref
+                    JOIN disciplines d_legacy
+                      ON d_pref.discipline_name = d_legacy.discipline_name
+                    WHERE d_pref.discipline_id LIKE 'athletics_%'
+                      AND d_legacy.discipline_id = REPLACE(d_pref.discipline_id, 'athletics_', '')
+                )
+                """
+            )
+            conn.execute(
+                """
+                DELETE FROM disciplines
+                WHERE discipline_id IN (
+                    SELECT d_legacy.discipline_id
+                    FROM disciplines d_pref
+                    JOIN disciplines d_legacy
+                      ON d_pref.discipline_name = d_legacy.discipline_name
+                    WHERE d_pref.discipline_id LIKE 'athletics_%'
+                      AND d_legacy.discipline_id = REPLACE(d_pref.discipline_id, 'athletics_', '')
+                )
+                  AND discipline_id NOT IN (
+                      SELECT DISTINCT discipline_id FROM events WHERE discipline_id IS NOT NULL
+                  )
+                """
+            )
+            conn.commit()
+
     def upsert(self, db: SQLiteDB, payload: dict[str, pd.DataFrame]) -> None:
         with db.connect() as conn:
             conn.execute(
@@ -393,5 +432,6 @@ class WorldAthleticsChampionshipsHistoryConnector(Connector):
         db.upsert_dataframe("disciplines", payload.get("disciplines", pd.DataFrame()), ["discipline_id"])
         db.upsert_dataframe("competitions", payload.get("competitions", pd.DataFrame()), ["competition_id"])
         db.upsert_dataframe("events", payload.get("events", pd.DataFrame()), ["event_id"])
+        self._normalize_athletics_discipline_ids(db)
         db.upsert_dataframe("participants", payload.get("participants", pd.DataFrame()), ["participant_id"])
         db.upsert_dataframe("results", payload.get("results", pd.DataFrame()), ["event_id", "participant_id"])

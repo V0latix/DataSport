@@ -333,6 +333,7 @@ python -m pipelines.ingest --connector world_athletics_championships_history --y
 Comportement:
 - ingère le seed historique local:
   - `data/raw/athletics/world_athletics_championships_top3_seed.csv`
+  - couverture actuelle: éditions >= 2000 (2001, 2003, ..., 2019, 2022, 2023, 2025)
 - crée une compétition unique:
   - `world_athletics_championships`
 - distingue strictement `sport` vs `discipline`:

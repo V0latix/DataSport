@@ -1,4 +1,1299 @@
 event_id,participant_id,rank,medal,score_raw,points_awarded
+world_athletics_championships_2001_men_10-000-m,athlete_Assefa_Mezgebu_ETH,2,silver,"discipline=10,000 m;performance=27:53.97;country=ETH",2.0
+world_athletics_championships_2001_men_10-000-m,athlete_Charles_Kamathi_KEN,1,gold,"discipline=10,000 m;performance=27:53.25;country=KEN",3.0
+world_athletics_championships_2001_men_10-000-m,athlete_Haile_Gebrselassie_ETH,3,bronze,"discipline=10,000 m;performance=27:54.41;country=ETH",1.0
+world_athletics_championships_2001_men_100-m,athlete_Ato_Boldon_TTO,3,bronze,discipline=100 m;performance=9.98;country=TTO,1.0
+world_athletics_championships_2001_men_100-m,athlete_Bernard_Williams_USA,2,silver,discipline=100 m;performance=9.94 2 (PB);country=USA,2.0
+world_athletics_championships_2001_men_100-m,athlete_Maurice_Greene_USA,1,gold,discipline=100 m;performance=9.82 (WL);country=USA,3.0
+world_athletics_championships_2001_men_110-m-hurdles,athlete_Allen_Johnson_USA,1,gold,discipline=110 m hurdles;performance=13.04 (WL);country=USA,3.0
+world_athletics_championships_2001_men_110-m-hurdles,athlete_Anier_García_CUB,2,silver,discipline=110 m hurdles;performance=13.07 (SB);country=CUB,2.0
+world_athletics_championships_2001_men_110-m-hurdles,athlete_Dudley_Dorival_HTI,3,bronze,discipline=110 m hurdles;performance=13.25 (NR);country=HTI,1.0
+world_athletics_championships_2001_men_1500-m,athlete_Bernard_Lagat_KEN,2,silver,discipline=1500 m;performance=3:31.10;country=KEN,2.0
+world_athletics_championships_2001_men_1500-m,athlete_Driss_Maazouzi_FRA,3,bronze,discipline=1500 m;performance=3:31.54 (SB);country=FRA,1.0
+world_athletics_championships_2001_men_1500-m,athlete_Hicham_El_Guerrouj_MAR,1,gold,discipline=1500 m;performance=3:30.68;country=MAR,3.0
+world_athletics_championships_2001_men_200-m,athlete_Christopher_Williams_JAM,2,silver,discipline=200 m;performance=20.20;country=JAM,2.0
+world_athletics_championships_2001_men_200-m,athlete_Kim_Collins_KNA,3,bronze,discipline=200 m;performance=20.30 (NR St.Kitts);country=KNA,1.0
+world_athletics_championships_2001_men_200-m,athlete_Konstantinos_Kenteris_GRC,1,gold,discipline=200 m;performance=20.04;country=GRC,3.0
+world_athletics_championships_2001_men_3000-m-st,athlete_Ali_Ezzine_MAR,2,silver,discipline=3000 m st.;performance=8:16.21;country=MAR,2.0
+world_athletics_championships_2001_men_3000-m-st,athlete_Bernard_Barmasai_KEN,3,bronze,discipline=3000 m st.;performance=8:16.59;country=KEN,1.0
+world_athletics_championships_2001_men_3000-m-st,athlete_Reuben_Kosgei_KEN,1,gold,discipline=3000 m st.;performance=8:15.16;country=KEN,3.0
+world_athletics_championships_2001_men_4-100-m-relay,AUS,3,bronze,discipline=4 × 100 m relay;performance=38.83 (SB);country=AUS,1.0
+world_athletics_championships_2001_men_4-100-m-relay,TTO,2,silver,discipline=4 × 100 m relay;performance=38.58 (NR);country=TTO,2.0
+world_athletics_championships_2001_men_4-100-m-relay,ZAF,1,gold,discipline=4 × 100 m relay;performance=38.47 (NR);country=ZAF,3.0
+world_athletics_championships_2001_men_4-400-m-relay,BHS,1,gold,discipline=4 × 400 m relay;performance=2:58.19 4 (NR);country=BHS,3.0
+world_athletics_championships_2001_men_4-400-m-relay,JAM,2,silver,discipline=4 × 400 m relay;performance=2:58.39 (SB);country=JAM,2.0
+world_athletics_championships_2001_men_4-400-m-relay,POL,3,bronze,discipline=4 × 400 m relay;performance=2:59.71 (SB);country=POL,1.0
+world_athletics_championships_2001_men_400-m,athlete_Avard_Moncur_BHS,1,gold,discipline=400 m;performance=44.64;country=BHS,3.0
+world_athletics_championships_2001_men_400-m,athlete_Greg_Haughton_JAM,3,bronze,discipline=400 m;performance=44.98;country=JAM,1.0
+world_athletics_championships_2001_men_400-m,athlete_Ingo_Schultz_DEU,2,silver,discipline=400 m;performance=44.87;country=DEU,2.0
+world_athletics_championships_2001_men_400-m-hurdles,athlete_Dai_Tamesue_JPN,3,bronze,discipline=400 m hurdles;performance=47.89 (NR);country=JPN,1.0
+world_athletics_championships_2001_men_400-m-hurdles,athlete_Fabrizio_Mori_ITA,2,silver,discipline=400 m hurdles;performance=47.54 (NR);country=ITA,2.0
+world_athletics_championships_2001_men_400-m-hurdles,athlete_Félix_Sánchez_DOM,1,gold,discipline=400 m hurdles;performance=47.49 (WL);country=DOM,3.0
+world_athletics_championships_2001_men_50-km-walk,athlete_Edgar_Hernández_MEX,3,bronze,discipline=50 km walk;performance=3:46:12 (PB);country=MEX,1.0
+world_athletics_championships_2001_men_50-km-walk,athlete_Jesús_Ángel_García_ESP,2,silver,discipline=50 km walk;performance=3:43:07 (SB);country=ESP,2.0
+world_athletics_championships_2001_men_50-km-walk,athlete_Robert_Korzeniowski_POL,1,gold,discipline=50 km walk;performance=3:42.08 (WL);country=POL,3.0
+world_athletics_championships_2001_men_5000-m,athlete_John_Kibowen_KEN,3,bronze,discipline=5000 m;performance=13:05.20;country=KEN,1.0
+world_athletics_championships_2001_men_5000-m,athlete_Million_Wolde_ETH,2,silver,discipline=5000 m;performance=13:03.47 1;country=ETH,2.0
+world_athletics_championships_2001_men_5000-m,athlete_Richard_Limo_KEN,1,gold,discipline=5000 m;performance=13:00.77;country=KEN,3.0
+world_athletics_championships_2001_men_800-m,athlete_André_Bucher_CHE,1,gold,discipline=800 m;performance=1:43.70;country=CHE,3.0
+world_athletics_championships_2001_men_800-m,athlete_Pawe_Czapiewski_POL,3,bronze,discipline=800 m;performance=1:44.63 (PB);country=POL,1.0
+world_athletics_championships_2001_men_800-m,athlete_Wilfred_Bungei_KEN,2,silver,discipline=800 m;performance=1:44.55;country=KEN,2.0
+world_athletics_championships_2001_men_decathlon,athlete_Dean_Macey_GBR,3,bronze,discipline=Decathlon;performance=8603 (PB);country=GBR,1.0
+world_athletics_championships_2001_men_decathlon,athlete_Erki_Nool_EST,2,silver,discipline=Decathlon;performance=8815 (NR);country=EST,2.0
+world_athletics_championships_2001_men_decathlon,athlete_Tomá_Dvoák_CZE,1,gold,discipline=Decathlon;performance=8902 ( CR );country=CZE,3.0
+world_athletics_championships_2001_men_discus-throw,athlete_Lars_Riedel_DEU,1,gold,discipline=Discus throw;performance=69.72 ( CR );country=DEU,3.0
+world_athletics_championships_2001_men_discus-throw,athlete_Michael_Möllenbeck_DEU,3,bronze,discipline=Discus throw;performance=67.61 (PB);country=DEU,1.0
+world_athletics_championships_2001_men_discus-throw,athlete_Virgilijus_Alekna_LTU,2,silver,discipline=Discus throw;performance=69.40;country=LTU,2.0
+world_athletics_championships_2001_men_hammer-throw,athlete_Koji_Murofushi_JPN,2,silver,discipline=Hammer throw;performance=82.92;country=JPN,2.0
+world_athletics_championships_2001_men_hammer-throw,athlete_Szymon_Ziókowski_POL,1,gold,discipline=Hammer throw;performance=83.38 ( CR );country=POL,3.0
+world_athletics_championships_2001_men_javelin-throw,athlete_Aki_Parviainen_FIN,2,silver,discipline=Javelin throw;performance=91.31;country=FIN,2.0
+world_athletics_championships_2001_men_javelin-throw,athlete_Jan_elezný_CZE,1,gold,discipline=Javelin throw;performance=92.80 ( CR );country=CZE,3.0
+world_athletics_championships_2001_men_javelin-throw,athlete_Konstadinos_Gatsioudis_GRC,3,bronze,discipline=Javelin throw;performance=89.95;country=GRC,1.0
+world_athletics_championships_2001_men_long-jump,athlete_Carlos_Calado_PRT,3,bronze,discipline=Long jump;performance=8.21 (SB);country=PRT,1.0
+world_athletics_championships_2001_men_long-jump,athlete_Iván_Pedroso_CUB,1,gold,discipline=Long jump;performance=8.40;country=CUB,3.0
+world_athletics_championships_2001_men_long-jump,athlete_Savanté_Stringfellow_USA,2,silver,discipline=Long jump;performance=8.24;country=USA,2.0
+world_athletics_championships_2001_men_marathon,athlete_Gezahegne_Abera_ETH,1,gold,discipline=Marathon;performance=2:12:42 (SB);country=ETH,3.0
+world_athletics_championships_2001_men_marathon,athlete_Simon_Biwott_KEN,2,silver,discipline=Marathon;performance=2:12:43;country=KEN,2.0
+world_athletics_championships_2001_men_marathon,athlete_Stefano_Baldini_ITA,3,bronze,discipline=Marathon;performance=2:13:18;country=ITA,1.0
+world_athletics_championships_2001_men_pole-vault,athlete_Aleksandr_Averbukh_ISR,2,silver,discipline=Pole vault;performance=5.85;country=ISR,2.0
+world_athletics_championships_2001_men_pole-vault,athlete_Dmitri_Markov_AUS,1,gold,discipline=Pole vault;performance=6.05 ( CR );country=AUS,3.0
+world_athletics_championships_2001_men_pole-vault,athlete_Nick_Hysong_USA,3,bronze,discipline=Pole vault;performance=5.85 (SB);country=USA,1.0
+world_athletics_championships_2001_men_shot-put,athlete_Adam_Nelson_USA,2,silver,discipline=Shot put;performance=21.24;country=USA,2.0
+world_athletics_championships_2001_men_shot-put,athlete_Arsi_Harju_FIN,3,bronze,discipline=Shot put;performance=20.93 (SB);country=FIN,1.0
+world_athletics_championships_2001_men_shot-put,athlete_John_Godina_USA,1,gold,discipline=Shot put;performance=21.87;country=USA,3.0
+world_athletics_championships_2001_men_triple-jump,athlete_Christian_Olsson_SWE,2,silver,discipline=Triple jump;performance=17.47;country=SWE,2.0
+world_athletics_championships_2001_men_triple-jump,athlete_Jonathan_Edwards_GBR,1,gold,discipline=Triple jump;performance=17.92 (WL);country=GBR,3.0
+world_athletics_championships_2001_women_10-000-m,athlete_Berhane_Adere_ETH,2,silver,"discipline=10,000 m;performance=31:48.85;country=ETH",2.0
+world_athletics_championships_2001_women_10-000-m,athlete_Derartu_Tulu_ETH,1,gold,"discipline=10,000 m;performance=31:48.81;country=ETH",3.0
+world_athletics_championships_2001_women_10-000-m,athlete_Gete_Wami_ETH,3,bronze,"discipline=10,000 m;performance=31:49.98;country=ETH",1.0
+world_athletics_championships_2001_women_100-m,athlete_Chandra_Sturrup_BHS,3,bronze,discipline=100 m;performance=11.02;country=BHS,1.0
+world_athletics_championships_2001_women_100-m,athlete_Ekaterini_Thanou_GRC,2,silver,discipline=100 m;performance=10.91 2 (SB);country=GRC,2.0
+world_athletics_championships_2001_women_100-m,athlete_Zhanna_Pintusevich_UKR,1,gold,discipline=100 m;performance=10.82 (WL);country=UKR,3.0
+world_athletics_championships_2001_women_100-m-hurdles,athlete_Anjanette_Kirkland_USA,1,gold,discipline=100 m hurdles;performance=12.42 (WL);country=USA,3.0
+world_athletics_championships_2001_women_100-m-hurdles,athlete_Gail_Devers_USA,2,silver,discipline=100 m hurdles;performance=12.54 SB;country=USA,2.0
+world_athletics_championships_2001_women_100-m-hurdles,athlete_Olga_Shishigina_KAZ,3,bronze,discipline=100 m hurdles;performance=12.58 (SB);country=KAZ,1.0
+world_athletics_championships_2001_women_1500-m,athlete_Gabriela_Szabo_ROU,1,gold,discipline=1500 m;performance=4:00.57 (SB);country=ROU,3.0
+world_athletics_championships_2001_women_1500-m,athlete_Violeta_Szekely_ROU,2,silver,discipline=1500 m;performance=4:01.70;country=ROU,2.0
+world_athletics_championships_2001_women_20-km-walk,athlete_Elisabetta_Perrone_ITA,3,bronze,discipline=20 km walk;performance=1:28:56;country=ITA,1.0
+world_athletics_championships_2001_women_20-km-walk,athlete_Valentina_Tsybulskaya_BLR,2,silver,discipline=20 km walk;performance=1:28:49 (PB);country=BLR,2.0
+world_athletics_championships_2001_women_200-m,athlete_Cydonie_Mothersille_CYM,3,bronze,discipline=200 m;performance=22.88 2;country=CYM,1.0
+world_athletics_championships_2001_women_200-m,athlete_Debbie_Ferguson_BHS,1,gold,discipline=200 m;performance=22.52 1;country=BHS,3.0
+world_athletics_championships_2001_women_200-m,athlete_LaTasha_Jenkins_USA,2,silver,discipline=200 m;performance=22.85;country=USA,2.0
+world_athletics_championships_2001_women_4-100-m-relay,DEU,1,gold,discipline=4 × 100 m relay;performance=42.32 3 (SB);country=DEU,3.0
+world_athletics_championships_2001_women_4-100-m-relay,FRA,2,silver,discipline=4 × 100 m relay;performance=42.39 (SB);country=FRA,2.0
+world_athletics_championships_2001_women_4-100-m-relay,JAM,3,bronze,discipline=4 × 100 m relay;performance=42.40 (SB);country=JAM,1.0
+world_athletics_championships_2001_women_4-400-m-relay,DEU,2,silver,discipline=4 × 400 m relay;performance=3:21.97 (SB);country=DEU,2.0
+world_athletics_championships_2001_women_4-400-m-relay,JAM,1,gold,discipline=4 × 400 m relay;performance=3:20.65 (WL);country=JAM,3.0
+world_athletics_championships_2001_women_400-m,athlete_Amy_Mbacké_Thiam_SEN,1,gold,discipline=400 m;performance=49.86 (NR);country=SEN,3.0
+world_athletics_championships_2001_women_400-m,athlete_Ana_Guevara_MEX,3,bronze,discipline=400 m;performance=49.97 SB;country=MEX,1.0
+world_athletics_championships_2001_women_400-m,athlete_Lorraine_Fenton_JAM,2,silver,discipline=400 m;performance=49.88 (SB);country=JAM,2.0
+world_athletics_championships_2001_women_400-m-hurdles,athlete_Daimí_Pernía_CUB,3,bronze,discipline=400 m hurdles;performance=54.51;country=CUB,1.0
+world_athletics_championships_2001_women_400-m-hurdles,athlete_Nezha_Bidouane_MAR,1,gold,discipline=400 m hurdles;performance=53.34 (WL);country=MAR,3.0
+world_athletics_championships_2001_women_5000-m,athlete_Ayelech_Worku_ETH,3,bronze,discipline=5000 m;performance=15:10.17;country=ETH,1.0
+world_athletics_championships_2001_women_5000-m,athlete_Marta_Domínguez_ESP,2,silver,discipline=5000 m;performance=15:06.59;country=ESP,2.0
+world_athletics_championships_2001_women_800-m,athlete_Letitia_Vriesde_SUR,3,bronze,discipline=800 m;performance=1:57.35 (SB);country=SUR,1.0
+world_athletics_championships_2001_women_800-m,athlete_Maria_Mutola_MOZ,1,gold,discipline=800 m;performance=1:57.17;country=MOZ,3.0
+world_athletics_championships_2001_women_800-m,athlete_Stephanie_Graf_AUT,2,silver,discipline=800 m;performance=1:57.20 (SB);country=AUT,2.0
+world_athletics_championships_2001_women_discus-throw,athlete_Anastasia_Kelesidou_GRC,3,bronze,discipline=Discus throw;performance=65.50 (SB);country=GRC,1.0
+world_athletics_championships_2001_women_discus-throw,athlete_Ellina_Zvereva_BLR,1,gold,discipline=Discus throw;performance=67.10 1;country=BLR,3.0
+world_athletics_championships_2001_women_discus-throw,athlete_Nicoleta_Grasu_ROU,2,silver,discipline=Discus throw;performance=66.24;country=ROU,2.0
+world_athletics_championships_2001_women_hammer-throw,athlete_Bronwyn_Eagles_AUS,3,bronze,discipline=Hammer throw;performance=68.87;country=AUS,1.0
+world_athletics_championships_2001_women_hammer-throw,athlete_Yipsi_Moreno_CUB,1,gold,discipline=Hammer throw;performance=70.65 (AR);country=CUB,3.0
+world_athletics_championships_2001_women_heptathlon,athlete_Natallia_Sazanovich_BLR,2,silver,discipline=Heptathlon;performance=6539 (SB);country=BLR,2.0
+world_athletics_championships_2001_women_heptathlon,athlete_Shelia_Burrell_USA,3,bronze,discipline=Heptathlon;performance=6472 (PB);country=USA,1.0
+world_athletics_championships_2001_women_high-jump,athlete_Hestrie_Cloete_ZAF,1,gold,discipline=High jump;performance=2.00 (SB);country=ZAF,3.0
+world_athletics_championships_2001_women_high-jump,athlete_Inha_Babakova_UKR,2,silver,discipline=High jump;performance=2.00;country=UKR,2.0
+world_athletics_championships_2001_women_high-jump,athlete_Kajsa_Bergqvist_SWE,3,bronze,discipline=High jump;performance=1.97;country=SWE,1.0
+world_athletics_championships_2001_women_javelin-throw,athlete_Mirela_Maniani_GRC,2,silver,discipline=Javelin throw;performance=65.78;country=GRC,2.0
+world_athletics_championships_2001_women_javelin-throw,athlete_Osleidys_Menéndez_CUB,1,gold,discipline=Javelin throw;performance=69.53 ( CR );country=CUB,3.0
+world_athletics_championships_2001_women_javelin-throw,athlete_Sonia_Bisset_CUB,3,bronze,discipline=Javelin throw;performance=64.69;country=CUB,1.0
+world_athletics_championships_2001_women_long-jump,athlete_Fiona_May_ITA,1,gold,discipline=Long jump;performance=7.02;country=ITA,3.0
+world_athletics_championships_2001_women_long-jump,athlete_Niurka_Montalvo_ESP,3,bronze,discipline=Long jump;performance=6.88;country=ESP,1.0
+world_athletics_championships_2001_women_marathon,athlete_Lidia_imon_ROU,1,gold,discipline=Marathon;performance=2:26:01;country=ROU,3.0
+world_athletics_championships_2001_women_marathon,athlete_Reiko_Tosa_JPN,2,silver,discipline=Marathon;performance=2:26:06;country=JPN,2.0
+world_athletics_championships_2001_women_pole-vault,athlete_Monika_Pyrek_POL,3,bronze,discipline=Pole vault;performance=4.55;country=POL,1.0
+world_athletics_championships_2001_women_pole-vault,athlete_Stacy_Dragila_USA,1,gold,discipline=Pole vault;performance=4.75 ( CR );country=USA,3.0
+world_athletics_championships_2001_women_shot-put,athlete_Nadine_Kleinert_DEU,2,silver,discipline=Shot put;performance=19.86 (PB);country=DEU,2.0
+world_athletics_championships_2001_women_shot-put,athlete_Vita_Pavlysh_UKR,3,bronze,discipline=Shot put;performance=19.41;country=UKR,1.0
+world_athletics_championships_2001_women_shot-put,athlete_Yanina_Karolchik_BLR,1,gold,discipline=Shot put;performance=20.61 (NR);country=BLR,3.0
+world_athletics_championships_2001_women_triple-jump,athlete_Françoise_Mbango-Etone_CMR,2,silver,discipline=Triple jump;performance=14.60;country=CMR,2.0
+world_athletics_championships_2001_women_triple-jump,athlete_Tereza_Marinova_BGR,3,bronze,discipline=Triple jump;performance=14.58;country=BGR,1.0
+world_athletics_championships_2003_men_10-000-m,athlete_Haile_Gebrselassie_ETH,2,silver,"discipline=10,000 m;performance=26:50.77 (SB);country=ETH",2.0
+world_athletics_championships_2003_men_10-000-m,athlete_Kenenisa_Bekele_ETH,1,gold,"discipline=10,000 m;performance=26:49.57 (CR);country=ETH",3.0
+world_athletics_championships_2003_men_10-000-m,athlete_Sileshi_Sihine_ETH,3,bronze,"discipline=10,000 m;performance=27:01.44;country=ETH",1.0
+world_athletics_championships_2003_men_100-m,athlete_Darrel_Brown_TTO,2,silver,discipline=100 m;performance=10.08;country=TTO,2.0
+world_athletics_championships_2003_men_100-m,athlete_Darren_Campbell_GBR,3,bronze,discipline=100 m;performance=10.08 (SB);country=GBR,1.0
+world_athletics_championships_2003_men_100-m,athlete_Kim_Collins_KNA,1,gold,discipline=100 m;performance=10.07;country=KNA,3.0
+world_athletics_championships_2003_men_110-m-hurdles,athlete_Allen_Johnson_USA,1,gold,discipline=110 m hurdles;performance=13.12;country=USA,3.0
+world_athletics_championships_2003_men_110-m-hurdles,athlete_Liu_Xiang_CHN,3,bronze,discipline=110 m hurdles;performance=13.23;country=CHN,1.0
+world_athletics_championships_2003_men_110-m-hurdles,athlete_Terrence_Trammell_USA,2,silver,discipline=110 m hurdles;performance=13.20 (SB);country=USA,2.0
+world_athletics_championships_2003_men_1500-m,athlete_Hicham_El_Guerrouj_MAR,1,gold,discipline=1500 m;performance=3:31.77;country=MAR,3.0
+world_athletics_championships_2003_men_1500-m,athlete_Ivan_Heshko_UKR,3,bronze,discipline=1500 m;performance=3:33.17;country=UKR,1.0
+world_athletics_championships_2003_men_1500-m,athlete_Mehdi_Baala_FRA,2,silver,discipline=1500 m;performance=3:32.31;country=FRA,2.0
+world_athletics_championships_2003_men_20-km-race-walk,athlete_Jefferson_Pérez_ECU,1,gold,discipline=20 km race walk;performance=1:17:21 (WBP);country=ECU,3.0
+world_athletics_championships_2003_men_20-km-race-walk,athlete_Paquillo_Fernández_ESP,2,silver,discipline=20 km race walk;performance=1:18:00 (SB);country=ESP,2.0
+world_athletics_championships_2003_men_200-m,athlete_Darvis_Patton_USA,2,silver,discipline=200 m;performance=20.31;country=USA,2.0
+world_athletics_championships_2003_men_200-m,athlete_John_Capel_USA,1,gold,discipline=200 m;performance=20.30;country=USA,3.0
+world_athletics_championships_2003_men_200-m,athlete_Shingo_Suetsugu_JPN,3,bronze,discipline=200 m;performance=20.38;country=JPN,1.0
+world_athletics_championships_2003_men_3000-m-steeplechase,athlete_Eliseo_Martin_ESP,3,bronze,discipline=3000 m steeplechase;performance=8:09.09 (PB);country=ESP,1.0
+world_athletics_championships_2003_men_3000-m-steeplechase,athlete_Ezekiel_Kemboi_KEN,2,silver,discipline=3000 m steeplechase;performance=8:05.11;country=KEN,2.0
+world_athletics_championships_2003_men_3000-m-steeplechase,athlete_Saif_Saaeed_Shaheen_QAT,1,gold,discipline=3000 m steeplechase;performance=8:04.39;country=QAT,3.0
+world_athletics_championships_2003_men_4-100-m-relay,BRA,2,silver,discipline=4 × 100 m relay;performance=38.26 (SB);country=BRA,2.0
+world_athletics_championships_2003_men_4-100-m-relay,NLD,3,bronze,discipline=4 × 100 m relay;performance=38.87;country=NLD,1.0
+world_athletics_championships_2003_men_4-100-m-relay,USA,1,gold,discipline=4 × 100 m relay;performance=38.06;country=USA,3.0
+world_athletics_championships_2003_men_4-400-m-relay,BHS,3,bronze,discipline=4 × 400 m relay;performance=3:00.53 (SB);country=BHS,1.0
+world_athletics_championships_2003_men_4-400-m-relay,FRA,1,gold,discipline=4 × 400 m relay;performance=2:58.96 2 (NR);country=FRA,3.0
+world_athletics_championships_2003_men_4-400-m-relay,JAM,2,silver,discipline=4 × 400 m relay;performance=2:59.60 (SB);country=JAM,2.0
+world_athletics_championships_2003_men_400-m,athlete_Marc_Raquil_FRA,2,silver,discipline=400 m;performance=44.79 (NR);country=FRA,2.0
+world_athletics_championships_2003_men_400-m,athlete_Michael_Blackwood_JAM,3,bronze,discipline=400 m;performance=44.80;country=JAM,1.0
+world_athletics_championships_2003_men_400-m,athlete_Tyree_Washington_USA,1,gold,discipline=400 m;performance=44.77 1;country=USA,3.0
+world_athletics_championships_2003_men_400-m-hurdles,athlete_Félix_Sánchez_DOM,1,gold,discipline=400 m hurdles;performance=47.25 (WL);country=DOM,3.0
+world_athletics_championships_2003_men_400-m-hurdles,athlete_Joey_Woody_USA,2,silver,discipline=400 m hurdles;performance=48.18 (SB);country=USA,2.0
+world_athletics_championships_2003_men_400-m-hurdles,athlete_Periklís_Iakovákis_GRC,3,bronze,discipline=400 m hurdles;performance=48.24;country=GRC,1.0
+world_athletics_championships_2003_men_50-km-race-walk,athlete_Andreas_Erm_DEU,3,bronze,discipline=50 km race walk;performance=3:37:46 (NR);country=DEU,1.0
+world_athletics_championships_2003_men_50-km-race-walk,athlete_Robert_Korzeniowski_POL,1,gold,discipline=50 km race walk;performance=3:36:03 (WBP);country=POL,3.0
+world_athletics_championships_2003_men_5000-m,athlete_Eliud_Kipchoge_KEN,1,gold,discipline=5000 m;performance=12:52.79 (CR);country=KEN,3.0
+world_athletics_championships_2003_men_5000-m,athlete_Hicham_El_Guerrouj_MAR,2,silver,discipline=5000 m;performance=12:52.83;country=MAR,2.0
+world_athletics_championships_2003_men_5000-m,athlete_Kenenisa_Bekele_ETH,3,bronze,discipline=5000 m;performance=12:53.12;country=ETH,1.0
+world_athletics_championships_2003_men_800-m,athlete_Djabir_Saïd-Guerni_DZA,1,gold,discipline=800 m;performance=1:44.81;country=DZA,3.0
+world_athletics_championships_2003_men_800-m,athlete_Mbulaeni_Mulaudzi_ZAF,3,bronze,discipline=800 m;performance=1:44.90;country=ZAF,1.0
+world_athletics_championships_2003_men_decathlon,athlete_Dmitry_Karpov_KAZ,3,bronze,discipline=Decathlon;performance=8374 (NR);country=KAZ,1.0
+world_athletics_championships_2003_men_decathlon,athlete_Roman_ebrle_CZE,2,silver,discipline=Decathlon;performance=8634;country=CZE,2.0
+world_athletics_championships_2003_men_decathlon,athlete_Tom_Pappas_USA,1,gold,discipline=Decathlon;performance=8750;country=USA,3.0
+world_athletics_championships_2003_men_discus,athlete_Róbert_Fazekas_HUN,2,silver,discipline=Discus;performance=69.01;country=HUN,2.0
+world_athletics_championships_2003_men_discus,athlete_Vasiliy_Kaptyukh_BLR,3,bronze,discipline=Discus;performance=66.51 (SB);country=BLR,1.0
+world_athletics_championships_2003_men_discus,athlete_Virgilijus_Alekna_LTU,1,gold,discipline=Discus;performance=69.69 (SB);country=LTU,3.0
+world_athletics_championships_2003_men_hammer,athlete_Adrián_Annus_HUN,2,silver,discipline=Hammer;performance=80.36;country=HUN,2.0
+world_athletics_championships_2003_men_hammer,athlete_Ivan_Tikhon_BLR,1,gold,discipline=Hammer;performance=83.05;country=BLR,3.0
+world_athletics_championships_2003_men_hammer,athlete_Koji_Murofushi_JPN,3,bronze,discipline=Hammer;performance=80.12;country=JPN,1.0
+world_athletics_championships_2003_men_high-jump,athlete_Jacques_Freitag_ZAF,1,gold,discipline=High jump;performance=2.35 (SB);country=ZAF,3.0
+world_athletics_championships_2003_men_high-jump,athlete_Mark_Boswell_CAN,3,bronze,discipline=High jump;performance=2.32 (SB);country=CAN,1.0
+world_athletics_championships_2003_men_high-jump,athlete_Stefan_Holm_SWE,2,silver,discipline=High jump;performance=2.32;country=SWE,2.0
+world_athletics_championships_2003_men_javelin,athlete_Andrus_Värnik_EST,2,silver,discipline=Javelin;performance=85.17;country=EST,2.0
+world_athletics_championships_2003_men_javelin,athlete_Boris_Henry_DEU,3,bronze,discipline=Javelin;performance=84.74;country=DEU,1.0
+world_athletics_championships_2003_men_long-jump,athlete_Dwight_Phillips_USA,1,gold,discipline=Long jump;performance=8.32;country=USA,3.0
+world_athletics_championships_2003_men_long-jump,athlete_James_Beckford_JAM,2,silver,discipline=Long jump;performance=8.28 (SB);country=JAM,2.0
+world_athletics_championships_2003_men_long-jump,athlete_Yago_Lamela_ESP,3,bronze,discipline=Long jump;performance=8.22;country=ESP,1.0
+world_athletics_championships_2003_men_marathon,athlete_Jaouad_Gharib_MAR,1,gold,discipline=Marathon;performance=2:08:31 (CR);country=MAR,3.0
+world_athletics_championships_2003_men_marathon,athlete_Julio_Rey_ESP,2,silver,discipline=Marathon;performance=2:08:38;country=ESP,2.0
+world_athletics_championships_2003_men_marathon,athlete_Stefano_Baldini_ITA,3,bronze,discipline=Marathon;performance=2:09:14;country=ITA,1.0
+world_athletics_championships_2003_men_pole-vault,athlete_Giuseppe_Gibilisco_ITA,1,gold,discipline=Pole vault;performance=5.90 (NR);country=ITA,3.0
+world_athletics_championships_2003_men_pole-vault,athlete_Okkert_Brits_ZAF,2,silver,discipline=Pole vault;performance=5.85 (SB);country=ZAF,2.0
+world_athletics_championships_2003_men_pole-vault,athlete_Patrik_Kristiansson_SWE,3,bronze,discipline=Pole vault;performance=5.85 (PB);country=SWE,1.0
+world_athletics_championships_2003_men_shot-put,athlete_Adam_Nelson_USA,2,silver,discipline=Shot put;performance=21.26;country=USA,2.0
+world_athletics_championships_2003_men_shot-put,athlete_Andrei_Mikhnevich_BLR,1,gold,discipline=Shot put;performance=21.69 (PB);country=BLR,3.0
+world_athletics_championships_2003_men_shot-put,athlete_Yuriy_Bilonoh_UKR,3,bronze,discipline=Shot put;performance=21.10;country=UKR,1.0
+world_athletics_championships_2003_men_triple-jump,athlete_Christian_Olsson_SWE,1,gold,discipline=Triple jump;performance=17.72;country=SWE,3.0
+world_athletics_championships_2003_men_triple-jump,athlete_Leevan_Sands_BHS,3,bronze,discipline=Triple jump;performance=17.26;country=BHS,1.0
+world_athletics_championships_2003_men_triple-jump,athlete_Yoandri_Betanzos_CUB,2,silver,discipline=Triple jump;performance=17.28 (SB);country=CUB,2.0
+world_athletics_championships_2003_women_10-000-m,athlete_Berhane_Adere_ETH,1,gold,"discipline=10,000 m;performance=30:04.18 (CR);country=ETH",3.0
+world_athletics_championships_2003_women_10-000-m,athlete_Sun_Yingjie_CHN,3,bronze,"discipline=10,000 m;performance=30:07.20 (PB);country=CHN",1.0
+world_athletics_championships_2003_women_10-000-m,athlete_Werknesh_Kidane_ETH,2,silver,"discipline=10,000 m;performance=30:07.15 (PB);country=ETH",2.0
+world_athletics_championships_2003_women_100-m,athlete_Chandra_Sturrup_BHS,2,silver,discipline=100 m;performance=11.02;country=BHS,2.0
+world_athletics_championships_2003_women_100-m,athlete_Ekaterini_Thanou_GRC,3,bronze,discipline=100 m;performance=11.03 (SB);country=GRC,1.0
+world_athletics_championships_2003_women_100-m,athlete_Torri_Edwards_USA,1,gold,discipline=100 m;performance=10.93 (PB);country=USA,3.0
+world_athletics_championships_2003_women_100-m-hurdles,athlete_Brigitte_Foster_JAM,2,silver,discipline=100 m hurdles;performance=12.57;country=JAM,2.0
+world_athletics_championships_2003_women_100-m-hurdles,athlete_Miesha_McKelvy_USA,3,bronze,discipline=100 m hurdles;performance=12.67;country=USA,1.0
+world_athletics_championships_2003_women_100-m-hurdles,athlete_Perdita_Felicien_CAN,1,gold,discipline=100 m hurdles;performance=12.53 (NR);country=CAN,3.0
+world_athletics_championships_2003_women_1500-m,athlete_Hayley_Tullett_GBR,3,bronze,discipline=1500 m;performance=3:59.95 (PB);country=GBR,1.0
+world_athletics_championships_2003_women_20-km-walk,athlete_Gillian_OSullivan_IRL,2,silver,discipline=20 km walk;performance=1:27:34;country=IRL,2.0
+world_athletics_championships_2003_women_20-km-walk,athlete_Valentina_Tsybulskaya_BLR,3,bronze,discipline=20 km walk;performance=1:28:10 (NR);country=BLR,1.0
+world_athletics_championships_2003_women_200-m,athlete_Muriel_Hurtis_FRA,3,bronze,discipline=200 m;performance=22.59;country=FRA,1.0
+world_athletics_championships_2003_women_200-m,athlete_Torri_Edwards_USA,2,silver,discipline=200 m;performance=22.47;country=USA,2.0
+world_athletics_championships_2003_women_4-100-m-relay,FRA,1,gold,discipline=4 × 100 m relay;performance=41.78 (WL);country=FRA,3.0
+world_athletics_championships_2003_women_4-100-m-relay,RUS,3,bronze,discipline=4 × 100 m relay;performance=42.66;country=RUS,1.0
+world_athletics_championships_2003_women_4-100-m-relay,USA,2,silver,discipline=4 × 100 m relay;performance=41.83 (SB);country=USA,2.0
+world_athletics_championships_2003_women_4-400-m-relay,JAM,3,bronze,discipline=4 × 400 m relay;performance=3:22.92 (SB);country=JAM,1.0
+world_athletics_championships_2003_women_4-400-m-relay,RUS,2,silver,discipline=4 × 400 m relay;performance=3:22.91 (SB);country=RUS,2.0
+world_athletics_championships_2003_women_4-400-m-relay,USA,1,gold,discipline=4 × 400 m relay;performance=3:22.63 (WL);country=USA,3.0
+world_athletics_championships_2003_women_400-m,athlete_Amy_Mbacké_Thiam_SEN,3,bronze,discipline=400 m;performance=49.95 (SB);country=SEN,1.0
+world_athletics_championships_2003_women_400-m,athlete_Ana_Guevara_MEX,1,gold,discipline=400 m;performance=48.89 (PB);country=MEX,3.0
+world_athletics_championships_2003_women_400-m,athlete_Lorraine_Fenton_JAM,2,silver,discipline=400 m;performance=49.43 (SB);country=JAM,2.0
+world_athletics_championships_2003_women_400-m-hurdles,athlete_Jana_Pittman_AUS,1,gold,discipline=400 m hurdles;performance=53.22 (PB);country=AUS,3.0
+world_athletics_championships_2003_women_400-m-hurdles,athlete_Sandra_Glover_USA,2,silver,discipline=400 m hurdles;performance=53.65 (SB);country=USA,2.0
+world_athletics_championships_2003_women_5000-m,athlete_Edith_Masai_KEN,3,bronze,discipline=5000 m;performance=14:52.30;country=KEN,1.0
+world_athletics_championships_2003_women_5000-m,athlete_Marta_Domínguez_ESP,2,silver,discipline=5000 m;performance=14:52.26;country=ESP,2.0
+world_athletics_championships_2003_women_5000-m,athlete_Tirunesh_Dibaba_ETH,1,gold,discipline=5000 m;performance=14:51.72;country=ETH,3.0
+world_athletics_championships_2003_women_800-m,athlete_Kelly_Holmes_GBR,2,silver,discipline=800 m;performance=2:00.18;country=GBR,2.0
+world_athletics_championships_2003_women_800-m,athlete_Maria_Mutola_MOZ,1,gold,discipline=800 m;performance=1:59.89;country=MOZ,3.0
+world_athletics_championships_2003_women_discus-throw,athlete_Anastasia_Kelesidou_GRC,2,silver,discipline=Discus throw;performance=67.14 (SB);country=GRC,2.0
+world_athletics_championships_2003_women_discus-throw,athlete_Ekaterini_Voggoli_GRC,3,bronze,discipline=Discus throw;performance=66.73 (PB);country=GRC,1.0
+world_athletics_championships_2003_women_discus-throw,athlete_Irina_Yatchenko_BLR,1,gold,discipline=Discus throw;performance=67.32 (SB);country=BLR,3.0
+world_athletics_championships_2003_women_hammer-throw,athlete_Manuela_Montebrun_FRA,3,bronze,discipline=Hammer throw;performance=70.92;country=FRA,1.0
+world_athletics_championships_2003_women_hammer-throw,athlete_Yipsi_Moreno_CUB,1,gold,discipline=Hammer throw;performance=73.33;country=CUB,3.0
+world_athletics_championships_2003_women_heptathlon,athlete_Carolina_Klüft_SWE,1,gold,discipline=Heptathlon;performance=7001 (WL);country=SWE,3.0
+world_athletics_championships_2003_women_heptathlon,athlete_Eunice_Barber_FRA,2,silver,discipline=Heptathlon;performance=6755 (SB);country=FRA,2.0
+world_athletics_championships_2003_women_heptathlon,athlete_Natallia_Sazanovich_BLR,3,bronze,discipline=Heptathlon;performance=6524 (SB);country=BLR,1.0
+world_athletics_championships_2003_women_high-jump,athlete_Hestrie_Cloete_ZAF,1,gold,"discipline=High jump;performance=2.06 (WL, AR);country=ZAF",3.0
+world_athletics_championships_2003_women_high-jump,athlete_Kajsa_Bergqvist_SWE,3,bronze,discipline=High jump;performance=2.00;country=SWE,1.0
+world_athletics_championships_2003_women_javelin-throw,athlete_Mirela_Manjani_GRC,1,gold,discipline=Javelin throw;performance=66.52 (WL);country=GRC,3.0
+world_athletics_championships_2003_women_javelin-throw,athlete_Steffi_Nerius_DEU,3,bronze,discipline=Javelin throw;performance=62.70;country=DEU,1.0
+world_athletics_championships_2003_women_long-jump,athlete_Anju_Bobby_George_IND,3,bronze,discipline=Long jump;performance=6.70 (SB);country=IND,1.0
+world_athletics_championships_2003_women_long-jump,athlete_Eunice_Barber_FRA,1,gold,discipline=Long jump;performance=6.99 (SB);country=FRA,3.0
+world_athletics_championships_2003_women_marathon,athlete_Catherine_Ndereba_KEN,1,gold,discipline=Marathon;performance=2:23:55 (CR);country=KEN,3.0
+world_athletics_championships_2003_women_marathon,athlete_Masako_Chiba_JPN,3,bronze,discipline=Marathon;performance=2:25:09;country=JPN,1.0
+world_athletics_championships_2003_women_marathon,athlete_Mizuki_Noguchi_JPN,2,silver,discipline=Marathon;performance=2:24:14;country=JPN,2.0
+world_athletics_championships_2003_women_pole-vault,athlete_Annika_Becker_DEU,2,silver,discipline=Pole vault;performance=4.70 (SB);country=DEU,2.0
+world_athletics_championships_2003_women_shot-put,athlete_Nadzeya_Astapchuk_BLR,2,silver,discipline=Shot put;performance=20.12 (PB);country=BLR,2.0
+world_athletics_championships_2003_women_shot-put,athlete_Vita_Pavlysh_UKR,3,bronze,discipline=Shot put;performance=20.08 (SB);country=UKR,1.0
+world_athletics_championships_2003_women_triple-jump,athlete_Françoise_Mbango_Etone_CMR,2,silver,discipline=Triple jump;performance=15.05 (AR);country=CMR,2.0
+world_athletics_championships_2003_women_triple-jump,athlete_Magdelín_Martínez_ITA,3,bronze,discipline=Triple jump;performance=14.90 (NR);country=ITA,1.0
+world_athletics_championships_2005_men_10-000-m,athlete_Kenenisa_Bekele_ETH,1,gold,"discipline=10,000 m;performance=27:08.33;country=ETH",3.0
+world_athletics_championships_2005_men_10-000-m,athlete_Moses_Mosop_KEN,3,bronze,"discipline=10,000 m;performance=27:08.96 PB;country=KEN",1.0
+world_athletics_championships_2005_men_10-000-m,athlete_Sileshi_Sihine_ETH,2,silver,"discipline=10,000 m;performance=27:08.87;country=ETH",2.0
+world_athletics_championships_2005_men_100-m,athlete_Justin_Gatlin_USA,1,gold,discipline=100 m;performance=9.88 SB;country=USA,3.0
+world_athletics_championships_2005_men_100-m,athlete_Kim_Collins_KNA,3,bronze,discipline=100 m;performance=10.05;country=KNA,1.0
+world_athletics_championships_2005_men_100-m,athlete_Michael_Frater_JAM,2,silver,discipline=100 m;performance=10.05;country=JAM,2.0
+world_athletics_championships_2005_men_110-m-hurdles,athlete_Allen_Johnson_USA,3,bronze,discipline=110 m hurdles;performance=13.10;country=USA,1.0
+world_athletics_championships_2005_men_110-m-hurdles,athlete_Ladji_Doucouré_FRA,1,gold,discipline=110 m hurdles;performance=13.07;country=FRA,3.0
+world_athletics_championships_2005_men_110-m-hurdles,athlete_Liu_Xiang_CHN,2,silver,discipline=110 m hurdles;performance=13.08;country=CHN,2.0
+world_athletics_championships_2005_men_1500-m,athlete_Adil_Kaouch_MAR,2,silver,discipline=1500 m;performance=3:38.00 SB;country=MAR,2.0
+world_athletics_championships_2005_men_1500-m,athlete_Rashid_Ramzi_BHR,1,gold,discipline=1500 m;performance=3:37.88;country=BHR,3.0
+world_athletics_championships_2005_men_1500-m,athlete_Rui_Silva_PRT,3,bronze,discipline=1500 m;performance=3:38.02;country=PRT,1.0
+world_athletics_championships_2005_men_20-km-walk,athlete_Jefferson_Pérez_ECU,1,gold,discipline=20 km walk;performance=1:18:35 SB;country=ECU,3.0
+world_athletics_championships_2005_men_20-km-walk,athlete_Juan_Manuel_Molina_ESP,3,bronze,discipline=20 km walk;performance=1:19:44 PB;country=ESP,1.0
+world_athletics_championships_2005_men_20-km-walk,athlete_Paquillo_Fernández_ESP,2,silver,discipline=20 km walk;performance=1:19:36;country=ESP,2.0
+world_athletics_championships_2005_men_200-m,athlete_John_Capel_USA,3,bronze,discipline=200 m;performance=20.31 SB;country=USA,1.0
+world_athletics_championships_2005_men_200-m,athlete_Justin_Gatlin_USA,1,gold,discipline=200 m;performance=20.04;country=USA,3.0
+world_athletics_championships_2005_men_200-m,athlete_Wallace_Spearmon_USA,2,silver,discipline=200 m;performance=20.20;country=USA,2.0
+world_athletics_championships_2005_men_3000-m-s-chase,athlete_Brimin_Kipruto_KEN,3,bronze,discipline=3000 m s'chase;performance=8:15.30;country=KEN,1.0
+world_athletics_championships_2005_men_3000-m-s-chase,athlete_Ezekiel_Kemboi_KEN,2,silver,discipline=3000 m s'chase;performance=8:14.95;country=KEN,2.0
+world_athletics_championships_2005_men_3000-m-s-chase,athlete_Saif_Saaeed_Shaheen_QAT,1,gold,discipline=3000 m s'chase;performance=8:13.31;country=QAT,3.0
+world_athletics_championships_2005_men_400-m,athlete_Andrew_Rock_USA,2,silver,discipline=400 m;performance=44.35 PB;country=USA,2.0
+world_athletics_championships_2005_men_400-m,athlete_Jeremy_Wariner_USA,1,gold,discipline=400 m;performance=43.93 WL;country=USA,3.0
+world_athletics_championships_2005_men_400-m,athlete_Tyler_Christopher_CAN,3,bronze,discipline=400 m;performance=44.44 NR;country=CAN,1.0
+world_athletics_championships_2005_men_400-m-hurdles,athlete_Bershawn_Jackson_USA,1,gold,discipline=400 m hurdles;performance=47.30 PB;country=USA,3.0
+world_athletics_championships_2005_men_400-m-hurdles,athlete_Dai_Tamesue_JPN,3,bronze,discipline=400 m hurdles;performance=48.10 SB;country=JPN,1.0
+world_athletics_championships_2005_men_400-m-hurdles,athlete_James_Carter_USA,2,silver,discipline=400 m hurdles;performance=47.43 PB;country=USA,2.0
+world_athletics_championships_2005_men_50-km-walk,athlete_Alex_Schwazer_ITA,3,bronze,discipline=50 km walk;performance=3:41:54 NR;country=ITA,1.0
+world_athletics_championships_2005_men_5000-m,athlete_Benjamin_Limo_KEN,1,gold,discipline=5000 m;performance=13:32.55;country=KEN,3.0
+world_athletics_championships_2005_men_5000-m,athlete_Craig_Mottram_AUS,3,bronze,discipline=5000 m;performance=13:32.96;country=AUS,1.0
+world_athletics_championships_2005_men_5000-m,athlete_Sileshi_Sihine_ETH,2,silver,discipline=5000 m;performance=13:32.81;country=ETH,2.0
+world_athletics_championships_2005_men_800-m,athlete_Rashid_Ramzi_BHR,1,gold,discipline=800 m;performance=1:44.24 PB;country=BHR,3.0
+world_athletics_championships_2005_men_800-m,athlete_William_Yiampoy_KEN,3,bronze,discipline=800 m;performance=1:44.55;country=KEN,1.0
+world_athletics_championships_2005_men_decathlon,athlete_Attila_Zsivoczky_HUN,3,bronze,discipline=Decathlon;performance=8385;country=HUN,1.0
+world_athletics_championships_2005_men_decathlon,athlete_Bryan_Clay_USA,1,gold,discipline=Decathlon;performance=8732 WL;country=USA,3.0
+world_athletics_championships_2005_men_decathlon,athlete_Roman_ebrle_CZE,2,silver,discipline=Decathlon;performance=8521;country=CZE,2.0
+world_athletics_championships_2005_men_discus-throw,athlete_Gerd_Kanter_EST,2,silver,discipline=Discus throw;performance=68.57;country=EST,2.0
+world_athletics_championships_2005_men_discus-throw,athlete_Michael_Möllenbeck_DEU,3,bronze,discipline=Discus throw;performance=65.95;country=DEU,1.0
+world_athletics_championships_2005_men_discus-throw,athlete_Virgilijus_Alekna_LTU,1,gold,discipline=Discus throw;performance=70.17 CR;country=LTU,3.0
+world_athletics_championships_2005_men_hammer-throw,athlete_Markus_Esser_DEU,3,bronze,discipline=Hammer throw;performance=79.16;country=DEU,1.0
+world_athletics_championships_2005_men_hammer-throw,athlete_Szymon_Ziókowski_POL,2,silver,discipline=Hammer throw;performance=79.35 SB;country=POL,2.0
+world_athletics_championships_2005_men_hammer-throw,athlete_Vadim_Devyatovskiy_BLR,1,gold,discipline=Hammer throw;performance=82.60;country=BLR,3.0
+world_athletics_championships_2005_men_javelin-throw,athlete_Andreas_Thorkildsen_NOR,2,silver,discipline=Javelin throw;performance=86.18;country=NOR,2.0
+world_athletics_championships_2005_men_javelin-throw,athlete_Andrus_Värnik_EST,1,gold,discipline=Javelin throw;performance=87.17;country=EST,3.0
+world_athletics_championships_2005_men_long-jump,athlete_Dwight_Phillips_USA,1,gold,discipline=Long jump;performance=8.60 WL;country=USA,3.0
+world_athletics_championships_2005_men_long-jump,athlete_Ignisious_Gaisah_GHA,2,silver,discipline=Long jump;performance=8.34 NR;country=GHA,2.0
+world_athletics_championships_2005_men_long-jump,athlete_Tommi_Evilä_FIN,3,bronze,discipline=Long jump;performance=8.25;country=FIN,1.0
+world_athletics_championships_2005_men_marathon,athlete_Christopher_Isengwe_TZA,2,silver,discipline=Marathon;performance=2:10:21 PB;country=TZA,2.0
+world_athletics_championships_2005_men_marathon,athlete_Jaouad_Gharib_MAR,1,gold,discipline=Marathon;performance=2:10:10;country=MAR,3.0
+world_athletics_championships_2005_men_marathon,athlete_Tsuyoshi_Ogata_JPN,3,bronze,discipline=Marathon;performance=2:11:16 SB;country=JPN,1.0
+world_athletics_championships_2005_men_pole-vault,athlete_Brad_Walker_USA,2,silver,discipline=Pole vault;performance=5.75;country=USA,2.0
+world_athletics_championships_2005_men_pole-vault,athlete_Rens_Blom_NLD,1,gold,discipline=Pole vault;performance=5.80 SB;country=NLD,3.0
+world_athletics_championships_2005_men_shot-put,athlete_Adam_Nelson_USA,1,gold,discipline=Shot put;performance=21.73 SB;country=USA,3.0
+world_athletics_championships_2005_men_shot-put,athlete_Ralf_Bartels_DEU,3,bronze,discipline=Shot put;performance=20.99;country=DEU,1.0
+world_athletics_championships_2005_men_shot-put,athlete_Rutger_Smith_NLD,2,silver,discipline=Shot put;performance=21.29;country=NLD,2.0
+world_athletics_championships_2005_men_triple-jump,athlete_Marian_Oprea_ROU,3,bronze,discipline=Triple jump;performance=17.40;country=ROU,1.0
+world_athletics_championships_2005_men_triple-jump,athlete_Walter_Davis_USA,1,gold,discipline=Triple jump;performance=17.57 SB;country=USA,3.0
+world_athletics_championships_2005_men_triple-jump,athlete_Yoandri_Betanzos_CUB,2,silver,discipline=Triple jump;performance=17.42 SB;country=CUB,2.0
+world_athletics_championships_2005_women_10-000-m,athlete_Berhane_Adere_ETH,2,silver,"discipline=10,000 m;performance=30:25.41 SB;country=ETH",2.0
+world_athletics_championships_2005_women_10-000-m,athlete_Ejegayehu_Dibaba_ETH,3,bronze,"discipline=10,000 m;performance=30:26.00;country=ETH",1.0
+world_athletics_championships_2005_women_10-000-m,athlete_Tirunesh_Dibaba_ETH,1,gold,"discipline=10,000 m;performance=30:24.02;country=ETH",3.0
+world_athletics_championships_2005_women_100-m,athlete_Christine_Arron_FRA,3,bronze,discipline=100 m;performance=10.98;country=FRA,1.0
+world_athletics_championships_2005_women_100-m,athlete_Lauryn_Williams_USA,1,gold,discipline=100 m;performance=10.93;country=USA,3.0
+world_athletics_championships_2005_women_100-m,athlete_Veronica_Campbell_JAM,2,silver,discipline=100 m;performance=10.95 SB;country=JAM,2.0
+world_athletics_championships_2005_women_100-m-hurdles,athlete_Brigitte_Foster-Hylton_JAM,3,bronze,discipline=100 m hurdles;performance=12.76;country=JAM,1.0
+world_athletics_championships_2005_women_100-m-hurdles,athlete_Delloreen_Ennis-London_JAM,2,silver,discipline=100 m hurdles;performance=12.76;country=JAM,2.0
+world_athletics_championships_2005_women_100-m-hurdles,athlete_Michelle_Perry_USA,1,gold,discipline=100 m hurdles;performance=12.66;country=USA,3.0
+world_athletics_championships_2005_women_1500-m,athlete_Bouchra_Ghezielle_FRA,3,bronze,discipline=1500 m;performance=4:02.45;country=FRA,1.0
+world_athletics_championships_2005_women_20-km-walk,athlete_Ryta_Turava_BLR,2,silver,discipline=20 km walk;performance=1:27:05 NR;country=BLR,2.0
+world_athletics_championships_2005_women_20-km-walk,athlete_Susana_Feitor_PRT,3,bronze,discipline=20 km walk;performance=1:28:44 SB;country=PRT,1.0
+world_athletics_championships_2005_women_200-m,athlete_Allyson_Felix_USA,1,gold,discipline=200 m;performance=22.16;country=USA,3.0
+world_athletics_championships_2005_women_200-m,athlete_Christine_Arron_FRA,3,bronze,discipline=200 m;performance=22.31 SB;country=FRA,1.0
+world_athletics_championships_2005_women_200-m,athlete_Rachelle_Boone-Smith_USA,2,silver,discipline=200 m;performance=22.31;country=USA,2.0
+world_athletics_championships_2005_women_3000-m-s-chase,athlete_Dorcus_Inzikuru_UGA,1,gold,discipline=3000 m s'chase;performance=9:18.24 CR;country=UGA,3.0
+world_athletics_championships_2005_women_3000-m-s-chase,athlete_Jeruto_Kiptum_KEN,3,bronze,discipline=3000 m s'chase;performance=9:26.95 NR;country=KEN,1.0
+world_athletics_championships_2005_women_4-100-m-relay,BLR,3,bronze,discipline=4 × 100 m relay;performance=42.56 NR;country=BLR,1.0
+world_athletics_championships_2005_women_4-100-m-relay,JAM,2,silver,discipline=4 × 100 m relay;performance=41.99 SB;country=JAM,2.0
+world_athletics_championships_2005_women_4-100-m-relay,USA,1,gold,discipline=4 × 100 m relay;performance=41.78 WL;country=USA,3.0
+world_athletics_championships_2005_women_4-400-m-relay,GBR,3,bronze,discipline=4 × 400 m relay;performance=3:24.44 SB;country=GBR,1.0
+world_athletics_championships_2005_women_4-400-m-relay,JAM,2,silver,discipline=4 × 400 m relay;performance=3:23.29 SB;country=JAM,2.0
+world_athletics_championships_2005_women_400-m,athlete_Ana_Guevara_MEX,3,bronze,discipline=400 m;performance=49.81;country=MEX,1.0
+world_athletics_championships_2005_women_400-m,athlete_Sanya_Richards_USA,2,silver,discipline=400 m;performance=49.74;country=USA,2.0
+world_athletics_championships_2005_women_400-m,athlete_Tonique_Williams-Darling_BHS,1,gold,discipline=400 m;performance=49.55 SB;country=BHS,3.0
+world_athletics_championships_2005_women_400-m-hurdles,athlete_Lashinda_Demus_USA,2,silver,discipline=400 m hurdles;performance=53.27 PB;country=USA,2.0
+world_athletics_championships_2005_women_400-m-hurdles,athlete_Sandra_Glover_USA,3,bronze,discipline=400 m hurdles;performance=53.32 PB;country=USA,1.0
+world_athletics_championships_2005_women_5000-m,athlete_Ejegayehu_Dibaba_ETH,3,bronze,discipline=5000 m;performance=14:42.47;country=ETH,1.0
+world_athletics_championships_2005_women_5000-m,athlete_Meseret_Defar_ETH,2,silver,discipline=5000 m;performance=14:39.54;country=ETH,2.0
+world_athletics_championships_2005_women_5000-m,athlete_Tirunesh_Dibaba_ETH,1,gold,discipline=5000 m;performance=14:38.59 CR;country=ETH,3.0
+world_athletics_championships_2005_women_800-m,athlete_Hasna_Benhassi_MAR,2,silver,discipline=800 m;performance=1:59.42;country=MAR,2.0
+world_athletics_championships_2005_women_800-m,athlete_Zulia_Calatayud_CUB,1,gold,discipline=800 m;performance=1:58.82;country=CUB,3.0
+world_athletics_championships_2005_women_discus-throw,athlete_Franka_Dietzsch_DEU,1,gold,discipline=Discus throw;performance=66.56 SB;country=DEU,3.0
+world_athletics_championships_2005_women_discus-throw,athlete_Vra_Pospíilová-Cechlová_CZE,3,bronze,discipline=Discus throw;performance=63.19;country=CZE,1.0
+world_athletics_championships_2005_women_hammer-throw,athlete_Manuela_Montebrun_FRA,3,bronze,discipline=Hammer throw;performance=71.41;country=FRA,1.0
+world_athletics_championships_2005_women_hammer-throw,athlete_Yipsi_Moreno_CUB,1,gold,discipline=Hammer throw;performance=73.08;country=CUB,3.0
+world_athletics_championships_2005_women_heptathlon,athlete_Carolina_Klüft_SWE,1,gold,discipline=Heptathlon;performance=6887 SB;country=SWE,3.0
+world_athletics_championships_2005_women_heptathlon,athlete_Eunice_Barber_FRA,2,silver,discipline=Heptathlon;performance=6824;country=FRA,2.0
+world_athletics_championships_2005_women_heptathlon,athlete_Margaret_Simpson_GHA,3,bronze,discipline=Heptathlon;performance=6375;country=GHA,1.0
+world_athletics_championships_2005_women_high-jump,athlete_Chaunte_Howard_USA,2,silver,discipline=High jump;performance=2.00 PB;country=USA,2.0
+world_athletics_championships_2005_women_high-jump,athlete_Emma_Green_SWE,3,bronze,discipline=High jump;performance=1.96 PB;country=SWE,1.0
+world_athletics_championships_2005_women_high-jump,athlete_Kajsa_Bergqvist_SWE,1,gold,discipline=High jump;performance=2.02 WL;country=SWE,3.0
+world_athletics_championships_2005_women_javelin-throw,athlete_Christina_Obergföll_DEU,2,silver,discipline=Javelin throw;performance=70.03 AR;country=DEU,2.0
+world_athletics_championships_2005_women_javelin-throw,athlete_Osleidys_Menéndez_CUB,1,gold,discipline=Javelin throw;performance=71.70 WR;country=CUB,3.0
+world_athletics_championships_2005_women_javelin-throw,athlete_Steffi_Nerius_DEU,3,bronze,discipline=Javelin throw;performance=65.96;country=DEU,1.0
+world_athletics_championships_2005_women_long-jump,athlete_Eunice_Barber_FRA,2,silver,discipline=Long jump;performance=6.76;country=FRA,2.0
+world_athletics_championships_2005_women_long-jump,athlete_Tianna_Madison_USA,1,gold,discipline=Long jump;performance=6.89 PB;country=USA,3.0
+world_athletics_championships_2005_women_long-jump,athlete_Yargelis_Savigne_CUB,3,bronze,discipline=Long jump;performance=6.69;country=CUB,1.0
+world_athletics_championships_2005_women_marathon,athlete_Catherine_Ndereba_KEN,2,silver,discipline=Marathon;performance=2:22:01 SB;country=KEN,2.0
+world_athletics_championships_2005_women_marathon,athlete_Constantina_Tomescu_ROU,3,bronze,discipline=Marathon;performance=2:23:19;country=ROU,1.0
+world_athletics_championships_2005_women_marathon,athlete_Paula_Radcliffe_GBR,1,gold,discipline=Marathon;performance=2:20:57 CR;country=GBR,3.0
+world_athletics_championships_2005_women_pole-vault,athlete_Monika_Pyrek_POL,2,silver,discipline=Pole vault;performance=4.60;country=POL,2.0
+world_athletics_championships_2005_women_pole-vault,athlete_Pavla_Hamáková_CZE,3,bronze,discipline=Pole vault;performance=4.50;country=CZE,1.0
+world_athletics_championships_2005_women_shot-put,athlete_Nadine_Kleinert_DEU,3,bronze,discipline=Shot put;performance=19.07;country=DEU,1.0
+world_athletics_championships_2005_women_shot-put,athlete_Valerie_Vili_NZL,2,silver,discipline=Shot put;performance=19.62;country=NZL,2.0
+world_athletics_championships_2005_women_t12-visually-impaired-200-m-women,athlete_Adria_Santos_BRA,1,gold,discipline=T12 Visually impaired 200 m women;performance=26.99;country=BRA,3.0
+world_athletics_championships_2005_women_t12-visually-impaired-200-m-women,athlete_Paraskeví_Kantza_GRC,3,bronze,discipline=T12 Visually impaired 200 m women;performance=28.32 (PB);country=GRC,1.0
+world_athletics_championships_2005_women_t12-visually-impaired-200-m-women,athlete_Purificacion_Santamarta_ESP,2,silver,discipline=T12 Visually impaired 200 m women;performance=27.08;country=ESP,2.0
+world_athletics_championships_2005_women_t54-wheelchair-racing-100-m-men,athlete_David_Weir_GBR,1,gold,discipline=T54 Wheelchair racing 100 m men;performance=14.15 NR;country=GBR,3.0
+world_athletics_championships_2005_women_t54-wheelchair-racing-100-m-men,athlete_Kenny_van_Weeghel_NLD,2,silver,discipline=T54 Wheelchair racing 100 m men;performance=14.19;country=NLD,2.0
+world_athletics_championships_2005_women_t54-wheelchair-racing-100-m-men,athlete_Leo-Pekka_Tähti_FIN,3,bronze,discipline=T54 Wheelchair racing 100 m men;performance=14.22;country=FIN,1.0
+world_athletics_championships_2005_women_t54-wheelchair-racing-200-m-men,athlete_David_Weir_GBR,1,gold,discipline=T54 Wheelchair racing 200 m men;performance=25.47;country=GBR,3.0
+world_athletics_championships_2005_women_t54-wheelchair-racing-200-m-men,athlete_Kenny_van_Weeghel_NLD,2,silver,discipline=T54 Wheelchair racing 200 m men;performance=25.80;country=NLD,2.0
+world_athletics_championships_2005_women_t54-wheelchair-racing-200-m-men,athlete_Supachai_Koysub_THA,3,bronze,discipline=T54 Wheelchair racing 200 m men;performance=26.03;country=THA,1.0
+world_athletics_championships_2005_women_triple-jump,athlete_Trecia_Smith_JAM,1,gold,discipline=Triple jump;performance=15.11 WL;country=JAM,3.0
+world_athletics_championships_2005_women_triple-jump,athlete_Yargelis_Savigne_CUB,2,silver,discipline=Triple jump;performance=14.82 PB;country=CUB,2.0
+world_athletics_championships_2005_women_wheelchair-javelin-men,athlete_Gerasimos_Vrionis_GRC,3,bronze,discipline=Wheelchair javelin men;performance=16.75;country=GRC,1.0
+world_athletics_championships_2005_women_wheelchair-javelin-men,athlete_Jacques_Martin_CAN,1,gold,discipline=Wheelchair javelin men;performance=24.97;country=CAN,3.0
+world_athletics_championships_2005_women_wheelchair-javelin-men,athlete_Markku_Niinimäki_FIN,2,silver,discipline=Wheelchair javelin men;performance=23.82;country=FIN,2.0
+world_athletics_championships_2007_men_10-000-metres,athlete_Kenenisa_Bekele_ETH,1,gold,"discipline=10,000 metres;performance=27:05.90 SB;country=ETH",3.0
+world_athletics_championships_2007_men_10-000-metres,athlete_Martin_Mathathi_KEN,3,bronze,"discipline=10,000 metres;performance=27:12.17;country=KEN",1.0
+world_athletics_championships_2007_men_10-000-metres,athlete_Sileshi_Sihine_ETH,2,silver,"discipline=10,000 metres;performance=27:09.03;country=ETH",2.0
+world_athletics_championships_2007_men_100-metres,athlete_Asafa_Powell_JAM,3,bronze,discipline=100 metres;performance=9.96;country=JAM,1.0
+world_athletics_championships_2007_men_100-metres,athlete_Derrick_Atkins_BHS,2,silver,discipline=100 metres;performance=9.91 NR;country=BHS,2.0
+world_athletics_championships_2007_men_100-metres,athlete_Tyson_Gay_USA,1,gold,discipline=100 metres;performance=9.85;country=USA,3.0
+world_athletics_championships_2007_men_110-metres-hurdles,athlete_David_Payne_USA,3,bronze,discipline=110 metres hurdles;performance=13.02 PB;country=USA,1.0
+world_athletics_championships_2007_men_110-metres-hurdles,athlete_Liu_Xiang_CHN,1,gold,discipline=110 metres hurdles;performance=12.95;country=CHN,3.0
+world_athletics_championships_2007_men_110-metres-hurdles,athlete_Terrence_Trammell_USA,2,silver,discipline=110 metres hurdles;performance=12.99;country=USA,2.0
+world_athletics_championships_2007_men_1500-metres,athlete_Bernard_Lagat_USA,1,gold,discipline=1500 metres;performance=3:34.77;country=USA,3.0
+world_athletics_championships_2007_men_1500-metres,athlete_Rashid_Ramzi_BHR,2,silver,discipline=1500 metres;performance=3:35.00 SB;country=BHR,2.0
+world_athletics_championships_2007_men_1500-metres,athlete_Shedrack_Kibet_Korir_KEN,3,bronze,discipline=1500 metres;performance=3:35.04;country=KEN,1.0
+world_athletics_championships_2007_men_20-kilometres-walk,athlete_Hatem_Ghoula_TUN,3,bronze,discipline=20 kilometres walk;performance=1:22:40;country=TUN,1.0
+world_athletics_championships_2007_men_20-kilometres-walk,athlete_Jefferson_Pérez_ECU,1,gold,discipline=20 kilometres walk;performance=1:22:20;country=ECU,3.0
+world_athletics_championships_2007_men_20-kilometres-walk,athlete_Paquillo_Fernández_ESP,2,silver,discipline=20 kilometres walk;performance=1:22:40;country=ESP,2.0
+world_athletics_championships_2007_men_200-metres,athlete_Tyson_Gay_USA,1,gold,discipline=200 metres;performance=19.76 CR;country=USA,3.0
+world_athletics_championships_2007_men_200-metres,athlete_Usain_Bolt_JAM,2,silver,discipline=200 metres;performance=19.91;country=JAM,2.0
+world_athletics_championships_2007_men_200-metres,athlete_Wallace_Spearmon_USA,3,bronze,discipline=200 metres;performance=20.05;country=USA,1.0
+world_athletics_championships_2007_men_3000-metres-steeplechase,athlete_Brimin_Kipruto_KEN,1,gold,discipline=3000 metres steeplechase;performance=8:13.82;country=KEN,3.0
+world_athletics_championships_2007_men_3000-metres-steeplechase,athlete_Ezekiel_Kemboi_KEN,2,silver,discipline=3000 metres steeplechase;performance=8:16.94;country=KEN,2.0
+world_athletics_championships_2007_men_3000-metres-steeplechase,athlete_Richard_Mateelong_KEN,3,bronze,discipline=3000 metres steeplechase;performance=8:17.59;country=KEN,1.0
+world_athletics_championships_2007_men_4-100-metres-relay,GBR,3,bronze,discipline=4 × 100 metres relay;performance=37.90 SB;country=GBR,1.0
+world_athletics_championships_2007_men_4-100-metres-relay,JAM,2,silver,discipline=4 × 100 metres relay;performance=37.89 NR;country=JAM,2.0
+world_athletics_championships_2007_men_4-100-metres-relay,USA,1,gold,discipline=4 × 100 metres relay;performance=37.78 WL;country=USA,3.0
+world_athletics_championships_2007_men_4-400-metres-relay,BHS,2,silver,discipline=4 × 400 metres relay;performance=2:59.18 SB;country=BHS,2.0
+world_athletics_championships_2007_men_4-400-metres-relay,POL,3,bronze,discipline=4 × 400 metres relay;performance=3:00.05 SB;country=POL,1.0
+world_athletics_championships_2007_men_4-400-metres-relay,USA,1,gold,discipline=4 × 400 metres relay;performance=2:55.56 WL;country=USA,3.0
+world_athletics_championships_2007_men_400-metres,athlete_Angelo_Taylor_USA,3,bronze,discipline=400 metres;performance=44.32;country=USA,1.0
+world_athletics_championships_2007_men_400-metres,athlete_Jeremy_Wariner_USA,1,gold,discipline=400 metres;performance=43.45 WL PB;country=USA,3.0
+world_athletics_championships_2007_men_400-metres,athlete_LaShawn_Merritt_USA,2,silver,discipline=400 metres;performance=43.96 PB;country=USA,2.0
+world_athletics_championships_2007_men_400-metres-hurdles,athlete_Félix_Sánchez_DOM,2,silver,discipline=400 metres hurdles;performance=48.01 SB;country=DOM,2.0
+world_athletics_championships_2007_men_400-metres-hurdles,athlete_Kerron_Clement_USA,1,gold,discipline=400 metres hurdles;performance=47.61 WL;country=USA,3.0
+world_athletics_championships_2007_men_400-metres-hurdles,athlete_Marek_Plawgo_POL,3,bronze,discipline=400 metres hurdles;performance=48.12 NR;country=POL,1.0
+world_athletics_championships_2007_men_50-kilometres-walk,athlete_Alex_Schwazer_ITA,3,bronze,discipline=50 kilometres walk;performance=3:44:38;country=ITA,1.0
+world_athletics_championships_2007_men_50-kilometres-walk,athlete_Nathan_Deakes_AUS,1,gold,discipline=50 kilometres walk;performance=3:43:53 SB;country=AUS,3.0
+world_athletics_championships_2007_men_50-kilometres-walk,athlete_Yohann_Diniz_FRA,2,silver,discipline=50 kilometres walk;performance=3:44:22 SB;country=FRA,2.0
+world_athletics_championships_2007_men_5000-metres,athlete_Bernard_Lagat_USA,1,gold,discipline=5000 metres;performance=13:45.87;country=USA,3.0
+world_athletics_championships_2007_men_5000-metres,athlete_Eliud_Kipchoge_KEN,2,silver,discipline=5000 metres;performance=13:46.00;country=KEN,2.0
+world_athletics_championships_2007_men_5000-metres,athlete_Moses_Kipsiro_UGA,3,bronze,discipline=5000 metres;performance=13:46.75;country=UGA,1.0
+world_athletics_championships_2007_men_800-metres,athlete_Alfred_Kirwa_Yego_KEN,1,gold,discipline=800 metres;performance=1:47.09;country=KEN,3.0
+world_athletics_championships_2007_men_800-metres,athlete_Gary_Reed_CAN,2,silver,discipline=800 metres;performance=1:47.10;country=CAN,2.0
+world_athletics_championships_2007_men_decathlon,athlete_Dmitriy_Karpov_KAZ,3,bronze,discipline=Decathlon;performance=8586 SB;country=KAZ,1.0
+world_athletics_championships_2007_men_decathlon,athlete_Maurice_Smith_JAM,2,silver,discipline=Decathlon;performance=8644 NR;country=JAM,2.0
+world_athletics_championships_2007_men_decathlon,athlete_Roman_ebrle_CZE,1,gold,discipline=Decathlon;performance=8676;country=CZE,3.0
+world_athletics_championships_2007_men_discus-throw,athlete_Gerd_Kanter_EST,1,gold,discipline=Discus throw;performance=68.94;country=EST,3.0
+world_athletics_championships_2007_men_discus-throw,athlete_Robert_Harting_DEU,2,silver,discipline=Discus throw;performance=66.68;country=DEU,2.0
+world_athletics_championships_2007_men_discus-throw,athlete_Rutger_Smith_NLD,3,bronze,discipline=Discus throw;performance=66.42;country=NLD,1.0
+world_athletics_championships_2007_men_hammer-throw,athlete_Ivan_Tsikhan_BLR,1,gold,discipline=Hammer throw;performance=83.63 WL;country=BLR,3.0
+world_athletics_championships_2007_men_hammer-throw,athlete_Libor_Charfreitag_SVK,3,bronze,discipline=Hammer throw;performance=81.60 SB;country=SVK,1.0
+world_athletics_championships_2007_men_hammer-throw,athlete_Primo_Kozmus_SVN,2,silver,discipline=Hammer throw;performance=82.29;country=SVN,2.0
+world_athletics_championships_2007_men_high-jump,athlete_Donald_Thomas_BHS,1,gold,discipline=High jump;performance=2.35 WL;country=BHS,3.0
+world_athletics_championships_2007_men_high-jump,athlete_Kyriakos_Ioannou_CYP,3,bronze,discipline=High jump;performance=2.35 WL;country=CYP,1.0
+world_athletics_championships_2007_men_javelin-throw,athlete_Andreas_Thorkildsen_NOR,2,silver,discipline=Javelin throw;performance=88.61;country=NOR,2.0
+world_athletics_championships_2007_men_javelin-throw,athlete_Breaux_Greer_USA,3,bronze,discipline=Javelin throw;performance=86.21;country=USA,1.0
+world_athletics_championships_2007_men_javelin-throw,athlete_Tero_Pitkämäki_FIN,1,gold,discipline=Javelin throw;performance=90.33;country=FIN,3.0
+world_athletics_championships_2007_men_long-jump,athlete_Andrew_Howe_ITA,2,silver,discipline=Long jump;performance=8.47 NR;country=ITA,2.0
+world_athletics_championships_2007_men_long-jump,athlete_Dwight_Phillips_USA,3,bronze,discipline=Long jump;performance=8.30;country=USA,1.0
+world_athletics_championships_2007_men_long-jump,athlete_Irving_Saladino_PAN,1,gold,discipline=Long jump;performance=8.57 AR;country=PAN,3.0
+world_athletics_championships_2007_men_marathon,athlete_Luke_Kibet_KEN,1,gold,discipline=Marathon;performance=2:15:59;country=KEN,3.0
+world_athletics_championships_2007_men_marathon,athlete_Mubarak_Hassan_Shami_QAT,2,silver,discipline=Marathon;performance=2:17:18;country=QAT,2.0
+world_athletics_championships_2007_men_marathon,athlete_Viktor_Röthlin_CHE,3,bronze,discipline=Marathon;performance=2:17:25;country=CHE,1.0
+world_athletics_championships_2007_men_pole-vault,athlete_Brad_Walker_USA,1,gold,discipline=Pole vault;performance=5.86;country=USA,3.0
+world_athletics_championships_2007_men_pole-vault,athlete_Danny_Ecker_DEU,3,bronze,discipline=Pole vault;performance=5.81;country=DEU,1.0
+world_athletics_championships_2007_men_pole-vault,athlete_Romain_Mesnil_FRA,2,silver,discipline=Pole vault;performance=5.86 SB;country=FRA,2.0
+world_athletics_championships_2007_men_shot-put,athlete_Adam_Nelson_USA,2,silver,discipline=Shot put;performance=21.61 SB;country=USA,2.0
+world_athletics_championships_2007_men_shot-put,athlete_Reese_Hoffa_USA,1,gold,discipline=Shot put;performance=22.04;country=USA,3.0
+world_athletics_championships_2007_men_shot-put,athlete_Rutger_Smith_NLD,3,bronze,discipline=Shot put;performance=21.13;country=NLD,1.0
+world_athletics_championships_2007_men_triple-jump,athlete_Jadel_Gregório_BRA,2,silver,discipline=Triple jump;performance=17.59;country=BRA,2.0
+world_athletics_championships_2007_men_triple-jump,athlete_Nelson_Évora_PRT,1,gold,discipline=Triple jump;performance=17.74 NR;country=PRT,3.0
+world_athletics_championships_2007_men_triple-jump,athlete_Walter_Davis_USA,3,bronze,discipline=Triple jump;performance=17.33 SB;country=USA,1.0
+world_athletics_championships_2007_women_10-000-metres,athlete_Jo_Pavey_GBR,3,bronze,"discipline=10,000 metres;performance=32:03.81;country=GBR",1.0
+world_athletics_championships_2007_women_10-000-metres,athlete_Kara_Goucher_USA,2,silver,"discipline=10,000 metres;performance=32:02.05 SB;country=USA",2.0
+world_athletics_championships_2007_women_10-000-metres,athlete_Tirunesh_Dibaba_ETH,1,gold,"discipline=10,000 metres;performance=31:55.41 SB;country=ETH",3.0
+world_athletics_championships_2007_women_100-metres,athlete_Carmelita_Jeter_USA,3,bronze,discipline=100 metres;performance=11.02 PB;country=USA,1.0
+world_athletics_championships_2007_women_100-metres,athlete_Lauryn_Williams_USA,2,silver,discipline=100 metres;performance=11.01 SB;country=USA,2.0
+world_athletics_championships_2007_women_100-metres,athlete_Veronica_Campbell_JAM,1,gold,discipline=100 metres;performance=11.01;country=JAM,3.0
+world_athletics_championships_2007_women_100-metres-hurdles,athlete_Delloreen_Ennis-London_JAM,3,bronze,discipline=100 metres hurdles;performance=12.50 PB;country=JAM,1.0
+world_athletics_championships_2007_women_100-metres-hurdles,athlete_Michelle_Perry_USA,1,gold,discipline=100 metres hurdles;performance=12.46;country=USA,3.0
+world_athletics_championships_2007_women_100-metres-hurdles,athlete_Perdita_Felicien_CAN,2,silver,discipline=100 metres hurdles;performance=12.49 SB;country=CAN,2.0
+world_athletics_championships_2007_women_1500-metres,athlete_Daniela_Yordanova_BGR,3,bronze,discipline=1500 metres;performance=4:00.82 SB;country=BGR,1.0
+world_athletics_championships_2007_women_1500-metres,athlete_Iryna_Lishchynska_UKR,2,silver,discipline=1500 metres;performance=4:00.69 SB;country=UKR,2.0
+world_athletics_championships_2007_women_1500-metres,athlete_Maryam_Yusuf_Jamal_BHR,1,gold,discipline=1500 metres;performance=3:58.75 SB;country=BHR,3.0
+world_athletics_championships_2007_women_20-kilometres-walk,athlete_María_Vasco_ESP,3,bronze,discipline=20 kilometres walk;performance=1:30:47;country=ESP,1.0
+world_athletics_championships_2007_women_200-metres,athlete_Allyson_Felix_USA,1,gold,discipline=200 metres;performance=21.81 WL;country=USA,3.0
+world_athletics_championships_2007_women_200-metres,athlete_Susanthika_Jayasinghe_LKA,3,bronze,discipline=200 metres;performance=22.63;country=LKA,1.0
+world_athletics_championships_2007_women_200-metres,athlete_Veronica_Campbell_JAM,2,silver,discipline=200 metres;performance=22.34 SB;country=JAM,2.0
+world_athletics_championships_2007_women_3000-metres-steeplechase,athlete_Eunice_Jepkorir_KEN,3,bronze,discipline=3000 metres steeplechase;performance=9:20.09;country=KEN,1.0
+world_athletics_championships_2007_women_4-100-metres-relay,BEL,3,bronze,discipline=4 × 100 metres relay;performance=42.75 NR;country=BEL,1.0
+world_athletics_championships_2007_women_4-100-metres-relay,JAM,2,silver,discipline=4 × 100 metres relay;performance=42.01 SB;country=JAM,2.0
+world_athletics_championships_2007_women_4-100-metres-relay,USA,1,gold,discipline=4 × 100 metres relay;performance=41.98 WL;country=USA,3.0
+world_athletics_championships_2007_women_4-400-metres-relay,GBR,3,bronze,discipline=4 × 400 metres relay;performance=3:20.04 NR;country=GBR,1.0
+world_athletics_championships_2007_women_4-400-metres-relay,JAM,2,silver,discipline=4 × 400 metres relay;performance=3:19.73 NR;country=JAM,2.0
+world_athletics_championships_2007_women_4-400-metres-relay,USA,1,gold,discipline=4 × 400 metres relay;performance=3:18.55 WL;country=USA,3.0
+world_athletics_championships_2007_women_400-metres,athlete_Christine_Ohuruogu_GBR,1,gold,discipline=400 metres;performance=49.61 PB;country=GBR,3.0
+world_athletics_championships_2007_women_400-metres,athlete_Nicola_Sanders_GBR,2,silver,discipline=400 metres;performance=49.65 PB;country=GBR,2.0
+world_athletics_championships_2007_women_400-metres,athlete_Novlene_Williams_JAM,3,bronze,discipline=400 metres;performance=49.66 SB;country=JAM,1.0
+world_athletics_championships_2007_women_400-metres-hurdles,athlete_Anna_Jesie_POL,3,bronze,discipline=400 metres hurdles;performance=53.92;country=POL,1.0
+world_athletics_championships_2007_women_400-metres-hurdles,athlete_Jana_Rawlinson_AUS,1,gold,discipline=400 metres hurdles;performance=53.31 SB;country=AUS,3.0
+world_athletics_championships_2007_women_5000-metres,athlete_Meseret_Defar_ETH,1,gold,discipline=5000 metres;performance=14:57.91;country=ETH,3.0
+world_athletics_championships_2007_women_5000-metres,athlete_Priscah_Jepleting_Cherono_KEN,3,bronze,discipline=5000 metres;performance=14:59.21;country=KEN,1.0
+world_athletics_championships_2007_women_5000-metres,athlete_Vivian_Cheruiyot_KEN,2,silver,discipline=5000 metres;performance=14:58.50;country=KEN,2.0
+world_athletics_championships_2007_women_800-metres,athlete_Hasna_Benhassi_MAR,2,silver,discipline=800 metres;performance=1:56.99;country=MAR,2.0
+world_athletics_championships_2007_women_800-metres,athlete_Janeth_Jepkosgei_KEN,1,gold,discipline=800 metres;performance=1:56.04 WL;country=KEN,3.0
+world_athletics_championships_2007_women_800-metres,athlete_Mayte_Martínez_ESP,3,bronze,discipline=800 metres;performance=1:57.62 PB;country=ESP,1.0
+world_athletics_championships_2007_women_discus-throw,athlete_Franka_Dietzsch_DEU,1,gold,discipline=Discus throw;performance=66.61;country=DEU,3.0
+world_athletics_championships_2007_women_discus-throw,athlete_Nicoleta_Grasu_ROU,3,bronze,discipline=Discus throw;performance=63.40;country=ROU,1.0
+world_athletics_championships_2007_women_discus-throw,athlete_Yarelis_Barrios_CUB,2,silver,discipline=Discus throw;performance=63.90 PB;country=CUB,2.0
+world_athletics_championships_2007_women_hammer-throw,athlete_Betty_Heidler_DEU,1,gold,discipline=Hammer throw;performance=74.76;country=DEU,3.0
+world_athletics_championships_2007_women_hammer-throw,athlete_Yipsi_Moreno_CUB,2,silver,discipline=Hammer throw;performance=74.74;country=CUB,2.0
+world_athletics_championships_2007_women_hammer-throw,athlete_Zhang_Wenxiu_CHN,3,bronze,discipline=Hammer throw;performance=74.39;country=CHN,1.0
+world_athletics_championships_2007_women_heptathlon,athlete_Carolina_Klüft_SWE,1,gold,discipline=Heptathlon;performance=7032 WL / AR;country=SWE,3.0
+world_athletics_championships_2007_women_heptathlon,athlete_Kelly_Sotherton_GBR,3,bronze,discipline=Heptathlon;performance=6510 SB;country=GBR,1.0
+world_athletics_championships_2007_women_heptathlon,athlete_Lyudmila_Blonska_UKR,2,silver,discipline=Heptathlon;performance=6832 NR;country=UKR,2.0
+world_athletics_championships_2007_women_javelin-throw,athlete_Barbora_potáková_CZE,1,gold,discipline=Javelin throw;performance=67.07 NR;country=CZE,3.0
+world_athletics_championships_2007_women_javelin-throw,athlete_Christina_Obergföll_DEU,2,silver,discipline=Javelin throw;performance=66.46;country=DEU,2.0
+world_athletics_championships_2007_women_javelin-throw,athlete_Steffi_Nerius_DEU,3,bronze,discipline=Javelin throw;performance=64.42;country=DEU,1.0
+world_athletics_championships_2007_women_marathon,athlete_Catherine_Ndereba_KEN,1,gold,discipline=Marathon;performance=2:30:37;country=KEN,3.0
+world_athletics_championships_2007_women_marathon,athlete_Reiko_Tosa_JPN,3,bronze,discipline=Marathon;performance=2:30:55;country=JPN,1.0
+world_athletics_championships_2007_women_marathon,athlete_Zhou_Chunxiu_CHN,2,silver,discipline=Marathon;performance=2:30:45;country=CHN,2.0
+world_athletics_championships_2007_women_pole-vault,athlete_Kateina_Baurová_CZE,2,silver,discipline=Pole vault;performance=4.75 NR;country=CZE,2.0
+world_athletics_championships_2007_women_shot-put,athlete_Li_Ling_CHN,3,bronze,discipline=Shot put;performance=19.38 PB;country=CHN,1.0
+world_athletics_championships_2007_women_shot-put,athlete_Nadine_Kleinert_DEU,2,silver,discipline=Shot put;performance=19.77 SB;country=DEU,2.0
+world_athletics_championships_2007_women_shot-put,athlete_Valerie_Vili_NZL,1,gold,discipline=Shot put;performance=20.54 WL / AR;country=NZL,3.0
+world_athletics_championships_2007_women_triple-jump,athlete_Marija_estak_SVN,3,bronze,discipline=Triple jump;performance=14.72;country=SVN,1.0
+world_athletics_championships_2007_women_triple-jump,athlete_Yargelis_Savigne_CUB,1,gold,discipline=Triple jump;performance=15.28 WL;country=CUB,3.0
+world_athletics_championships_2009_men_10-000-metres,athlete_Kenenisa_Bekele_ETH,1,gold,"discipline=10,000 metres;performance=26:46.31 CR;country=ETH",3.0
+world_athletics_championships_2009_men_10-000-metres,athlete_Moses_Ndiema_Masai_KEN,3,bronze,"discipline=10,000 metres;performance=26:57.39 SB;country=KEN",1.0
+world_athletics_championships_2009_men_10-000-metres,athlete_Zersenay_Tadese_ERI,2,silver,"discipline=10,000 metres;performance=26:50.12 SB;country=ERI",2.0
+world_athletics_championships_2009_men_100-metres,athlete_Asafa_Powell_JAM,3,bronze,discipline=100 metres;performance=9.84 SB;country=JAM,1.0
+world_athletics_championships_2009_men_100-metres,athlete_Tyson_Gay_USA,2,silver,discipline=100 metres;performance=9.71 NR;country=USA,2.0
+world_athletics_championships_2009_men_100-metres,athlete_Usain_Bolt_JAM,1,gold,discipline=100 metres;performance=9.58 WR;country=JAM,3.0
+world_athletics_championships_2009_men_110-metres-hurdles,athlete_David_Payne_USA,3,bronze,discipline=110 metres hurdles;performance=13.15;country=USA,1.0
+world_athletics_championships_2009_men_110-metres-hurdles,athlete_Ryan_Brathwaite_BRB,1,gold,discipline=110 metres hurdles;performance=13.14 NR;country=BRB,3.0
+world_athletics_championships_2009_men_110-metres-hurdles,athlete_Terrence_Trammell_USA,2,silver,discipline=110 metres hurdles;performance=13.15;country=USA,2.0
+world_athletics_championships_2009_men_1500-metres,athlete_Bernard_Lagat_USA,3,bronze,discipline=1500 metres;performance=3:36.20;country=USA,1.0
+world_athletics_championships_2009_men_1500-metres,athlete_Deresse_Mekonnen_ETH,2,silver,discipline=1500 metres;performance=3:36.01;country=ETH,2.0
+world_athletics_championships_2009_men_1500-metres,athlete_Yusuf_Saad_Kamel_BHR,1,gold,discipline=1500 metres;performance=3:35.93;country=BHR,3.0
+world_athletics_championships_2009_men_20-kilometres-walk,athlete_Eder_Sánchez_MEX,2,silver,discipline=20 kilometres walk;performance=1:19:22 SB;country=MEX,2.0
+world_athletics_championships_2009_men_20-kilometres-walk,athlete_Giorgio_Rubino_ITA,3,bronze,discipline=20 kilometres walk;performance=1:19:50;country=ITA,1.0
+world_athletics_championships_2009_men_20-kilometres-walk,athlete_Wang_Hao_CHN,1,gold,discipline=20 kilometres walk;performance=1:19:06 PB;country=CHN,3.0
+world_athletics_championships_2009_men_200-metres,athlete_Alonso_Edward_PAN,2,silver,discipline=200 metres;performance=19.81 AR;country=PAN,2.0
+world_athletics_championships_2009_men_200-metres,athlete_Usain_Bolt_JAM,1,gold,discipline=200 metres;performance=19.19 WR;country=JAM,3.0
+world_athletics_championships_2009_men_200-metres,athlete_Wallace_Spearmon_USA,3,bronze,discipline=200 metres;performance=19.85 SB;country=USA,1.0
+world_athletics_championships_2009_men_3000-metres-steeplechase,athlete_Bouabdellah_Tahri_FRA,3,bronze,discipline=3000 metres steeplechase;performance=8:01.18 AR;country=FRA,1.0
+world_athletics_championships_2009_men_3000-metres-steeplechase,athlete_Ezekiel_Kemboi_KEN,1,gold,discipline=3000 metres steeplechase;performance=8:00.43 CR;country=KEN,3.0
+world_athletics_championships_2009_men_3000-metres-steeplechase,athlete_Richard_Kipkemboi_Mateelong_KEN,2,silver,discipline=3000 metres steeplechase;performance=8:00.89 PB;country=KEN,2.0
+world_athletics_championships_2009_men_4-100-metres-relay,GBR,3,bronze,discipline=4 × 100 metres relay;performance=38.02 SB;country=GBR,1.0
+world_athletics_championships_2009_men_4-100-metres-relay,JAM,1,gold,discipline=4 × 100 metres relay;performance=37.31 WR;country=JAM,3.0
+world_athletics_championships_2009_men_4-100-metres-relay,TTO,2,silver,discipline=4 × 100 metres relay;performance=37.62 NR;country=TTO,2.0
+world_athletics_championships_2009_men_4-400-metres-relay,AUS,3,bronze,discipline=4 × 400 metres relay;performance=3:00.90 SB;country=AUS,1.0
+world_athletics_championships_2009_men_4-400-metres-relay,GBR,2,silver,discipline=4 × 400 metres relay;performance=3:00.53 SB;country=GBR,2.0
+world_athletics_championships_2009_men_4-400-metres-relay,USA,1,gold,discipline=4 × 400 metres relay;performance=2:57.86 WL;country=USA,3.0
+world_athletics_championships_2009_men_400-metres,athlete_Jeremy_Wariner_USA,2,silver,discipline=400 metres;performance=44.60 SB;country=USA,2.0
+world_athletics_championships_2009_men_400-metres,athlete_LaShawn_Merritt_USA,1,gold,discipline=400 metres;performance=44.06 WL;country=USA,3.0
+world_athletics_championships_2009_men_400-metres,athlete_Renny_Quow_TTO,3,bronze,discipline=400 metres;performance=45.02;country=TTO,1.0
+world_athletics_championships_2009_men_400-metres-hurdles,athlete_Bershawn_Jackson_USA,3,bronze,discipline=400 metres hurdles;performance=48.23;country=USA,1.0
+world_athletics_championships_2009_men_400-metres-hurdles,athlete_Javier_Culson_PUR,2,silver,discipline=400 metres hurdles;performance=48.09 PB;country=PUR,2.0
+world_athletics_championships_2009_men_400-metres-hurdles,athlete_Kerron_Clement_USA,1,gold,discipline=400 metres hurdles;performance=47.91 WL;country=USA,3.0
+world_athletics_championships_2009_men_50-kilometres-walk,athlete_Grzegorz_Sudo_POL,3,bronze,discipline=50 kilometres walk;performance=3:42:34 PB;country=POL,1.0
+world_athletics_championships_2009_men_50-kilometres-walk,athlete_Jesús_Ángel_García_ESP,2,silver,discipline=50 kilometres walk;performance=3:41:37 SB;country=ESP,2.0
+world_athletics_championships_2009_men_50-kilometres-walk,athlete_Trond_Nymark_NOR,1,gold,discipline=50 kilometres walk;performance=3:41:16 NR;country=NOR,3.0
+world_athletics_championships_2009_men_5000-metres,athlete_Bernard_Lagat_USA,2,silver,discipline=5000 metres;performance=13:17.33;country=USA,2.0
+world_athletics_championships_2009_men_5000-metres,athlete_James_Kwalia_CKurui_QAT,3,bronze,discipline=5000 metres;performance=13:17.78;country=QAT,1.0
+world_athletics_championships_2009_men_5000-metres,athlete_Kenenisa_Bekele_ETH,1,gold,discipline=5000 metres;performance=13:17.09;country=ETH,3.0
+world_athletics_championships_2009_men_800-metres,athlete_Alfred_Kirwa_Yego_KEN,2,silver,discipline=800 metres;performance=1:45.35;country=KEN,2.0
+world_athletics_championships_2009_men_800-metres,athlete_Mbulaeni_Mulaudzi_ZAF,1,gold,discipline=800 metres;performance=1:45.29;country=ZAF,3.0
+world_athletics_championships_2009_men_800-metres,athlete_Yusuf_Saad_Kamel_BHR,3,bronze,discipline=800 metres;performance=1:45.35;country=BHR,1.0
+world_athletics_championships_2009_men_decathlon,athlete_Leonel_Suárez_CUB,2,silver,discipline=Decathlon;performance=8640 pts;country=CUB,2.0
+world_athletics_championships_2009_men_decathlon,athlete_Oleksiy_Kasyanov_UKR,3,bronze,discipline=Decathlon;performance=8479 pts PB;country=UKR,1.0
+world_athletics_championships_2009_men_decathlon,athlete_Trey_Hardee_USA,1,gold,discipline=Decathlon;performance=8790 pts WL;country=USA,3.0
+world_athletics_championships_2009_men_discus-throw,athlete_Gerd_Kanter_EST,3,bronze,discipline=Discus throw;performance=66.88 m;country=EST,1.0
+world_athletics_championships_2009_men_discus-throw,athlete_Piotr_Maachowski_POL,2,silver,discipline=Discus throw;performance=69.15 m NR;country=POL,2.0
+world_athletics_championships_2009_men_discus-throw,athlete_Robert_Harting_DEU,1,gold,discipline=Discus throw;performance=69.43 m PB;country=DEU,3.0
+world_athletics_championships_2009_men_hammer-throw,athlete_Primo_Kozmus_SVN,1,gold,discipline=Hammer throw;performance=80.84 m SB;country=SVN,3.0
+world_athletics_championships_2009_men_hammer-throw,athlete_Szymon_Ziókowski_POL,2,silver,discipline=Hammer throw;performance=79.30 m SB;country=POL,2.0
+world_athletics_championships_2009_men_high-jump,athlete_Kyriakos_Ioannou_CYP,2,silver,discipline=High jump;performance=2.32 m;country=CYP,2.0
+world_athletics_championships_2009_men_high-jump,athlete_Sylwester_Bednarek_Poland_POL_Raúl_Spank_DEU,3,bronze,discipline=High jump;performance=2.32 m;country=DEU,1.0
+world_athletics_championships_2009_men_javelin-throw,athlete_Andreas_Thorkildsen_NOR,1,gold,discipline=Javelin throw;performance=89.59 m SB;country=NOR,3.0
+world_athletics_championships_2009_men_javelin-throw,athlete_Guillermo_Martinez_CUB,2,silver,discipline=Javelin throw;performance=86.41 m SB;country=CUB,2.0
+world_athletics_championships_2009_men_javelin-throw,athlete_Yukifumi_Murakami_JPN,3,bronze,discipline=Javelin throw;performance=82.97 m;country=JPN,1.0
+world_athletics_championships_2009_men_long-jump,athlete_Dwight_Phillips_USA,1,gold,discipline=Long jump;performance=8.54 m;country=USA,3.0
+world_athletics_championships_2009_men_long-jump,athlete_Godfrey_Khotso_Mokoena_ZAF,2,silver,discipline=Long jump;performance=8.47 m;country=ZAF,2.0
+world_athletics_championships_2009_men_long-jump,athlete_Mitchell_Watt_AUS,3,bronze,discipline=Long jump;performance=8.37 m;country=AUS,1.0
+world_athletics_championships_2009_men_marathon,athlete_Abel_Kirui_KEN,1,gold,discipline=Marathon;performance=2:06:54 CR;country=KEN,3.0
+world_athletics_championships_2009_men_marathon,athlete_Emmanuel_Kipchirchir_Mutai_KEN,2,silver,discipline=Marathon;performance=2:07:48;country=KEN,2.0
+world_athletics_championships_2009_men_marathon,athlete_Tsegay_Kebede_ETH,3,bronze,discipline=Marathon;performance=2:08:35;country=ETH,1.0
+world_athletics_championships_2009_men_pole-vault,athlete_Renaud_Lavillenie_FRA,3,bronze,discipline=Pole vault;performance=5.80 m;country=FRA,1.0
+world_athletics_championships_2009_men_pole-vault,athlete_Romain_Mesnil_FRA,2,silver,discipline=Pole vault;performance=5.85 m;country=FRA,2.0
+world_athletics_championships_2009_men_pole-vault,athlete_Steven_Hooker_AUS,1,gold,discipline=Pole vault;performance=5.90 m;country=AUS,3.0
+world_athletics_championships_2009_men_shot-put,athlete_Christian_Cantwell_USA,1,gold,discipline=Shot put;performance=22.03 m WL;country=USA,3.0
+world_athletics_championships_2009_men_shot-put,athlete_Ralf_Bartels_DEU,3,bronze,discipline=Shot put;performance=21.37 m PB;country=DEU,1.0
+world_athletics_championships_2009_men_shot-put,athlete_Tomasz_Majewski_POL,2,silver,discipline=Shot put;performance=21.91 m;country=POL,2.0
+world_athletics_championships_2009_men_triple-jump,athlete_Alexis_Copello_CUB,3,bronze,discipline=Triple jump;performance=17.36 m;country=CUB,1.0
+world_athletics_championships_2009_men_triple-jump,athlete_Nelson_Évora_PRT,2,silver,discipline=Triple jump;performance=17.55 m;country=PRT,2.0
+world_athletics_championships_2009_men_triple-jump,athlete_Phillips_Idowu_GBR,1,gold,discipline=Triple jump;performance=17.73 m WL;country=GBR,3.0
+world_athletics_championships_2009_women_10-000-metres,athlete_Linet_Chepkwemoi_Masai_KEN,1,gold,"discipline=10,000 metres;performance=30:51.24 SB;country=KEN",3.0
+world_athletics_championships_2009_women_10-000-metres,athlete_Meselech_Melkamu_ETH,2,silver,"discipline=10,000 metres;performance=30:51.34;country=ETH",2.0
+world_athletics_championships_2009_women_10-000-metres,athlete_Wude_Ayalew_ETH,3,bronze,"discipline=10,000 metres;performance=30:51.95;country=ETH",1.0
+world_athletics_championships_2009_women_100-metres,athlete_Carmelita_Jeter_USA,3,bronze,discipline=100 metres;performance=10.90;country=USA,1.0
+world_athletics_championships_2009_women_100-metres,athlete_Kerron_Stewart_JAM,2,silver,discipline=100 metres;performance=10.75 PB;country=JAM,2.0
+world_athletics_championships_2009_women_100-metres,athlete_Shelly-Ann_Fraser_JAM,1,gold,discipline=100 metres;performance=10.73 WL;country=JAM,3.0
+world_athletics_championships_2009_women_100-metres-hurdles,athlete_Brigitte_Foster-Hylton_JAM,1,gold,discipline=100 metres hurdles;performance=12.51 SB;country=JAM,3.0
+world_athletics_championships_2009_women_100-metres-hurdles,athlete_Delloreen_Ennis-London_JAM,3,bronze,discipline=100 metres hurdles;performance=12.55 SB;country=JAM,1.0
+world_athletics_championships_2009_women_100-metres-hurdles,athlete_Priscilla_Lopes-Schliep_CAN,2,silver,discipline=100 metres hurdles;performance=12.54;country=CAN,2.0
+world_athletics_championships_2009_women_1500-metres,athlete_Lisa_Dobriskey_GBR,2,silver,discipline=1500 metres;performance=4:03.75;country=GBR,2.0
+world_athletics_championships_2009_women_1500-metres,athlete_Maryam_Yusuf_Jamal_BHR,1,gold,discipline=1500 metres;performance=4:03.74;country=BHR,3.0
+world_athletics_championships_2009_women_1500-metres,athlete_Shannon_Rowbury_USA,3,bronze,discipline=1500 metres;performance=4:04.18;country=USA,1.0
+world_athletics_championships_2009_women_20-kilometres-walk,athlete_Liu_Hong_CHN,2,silver,discipline=20 kilometres walk;performance=1:29:10 SB;country=CHN,2.0
+world_athletics_championships_2009_women_20-kilometres-walk,athlete_Olive_Loughnane_IRL,1,gold,discipline=20 kilometres walk;performance=1:28:58 SB;country=IRL,3.0
+world_athletics_championships_2009_women_200-metres,athlete_Allyson_Felix_USA,1,gold,discipline=200 metres;performance=22.02;country=USA,3.0
+world_athletics_championships_2009_women_200-metres,athlete_Debbie_Ferguson-McKenzie_BHS,3,bronze,discipline=200 metres;performance=22.41;country=BHS,1.0
+world_athletics_championships_2009_women_200-metres,athlete_Veronica_Campbell_Brown_JAM,2,silver,discipline=200 metres;performance=22.35;country=JAM,2.0
+world_athletics_championships_2009_women_3000-metres-steeplechase,athlete_Milcah_Chemos_Cheywa_KEN,2,silver,discipline=3000 metres steeplechase;performance=9:08.57 PB;country=KEN,2.0
+world_athletics_championships_2009_women_4-100-metres-relay,BHS,2,silver,discipline=4 × 100 metres relay;performance=42.29 SB;country=BHS,2.0
+world_athletics_championships_2009_women_4-100-metres-relay,DEU,3,bronze,discipline=4 × 100 metres relay;performance=42.87 SB;country=DEU,1.0
+world_athletics_championships_2009_women_4-100-metres-relay,JAM,1,gold,discipline=4 × 100 metres relay;performance=42.06;country=JAM,3.0
+world_athletics_championships_2009_women_4-400-metres-relay,GBR,3,bronze,discipline=4 × 400 metres relay;performance=3:25.16;country=GBR,1.0
+world_athletics_championships_2009_women_4-400-metres-relay,JAM,2,silver,discipline=4 × 400 metres relay;performance=3:21.15 SB;country=JAM,2.0
+world_athletics_championships_2009_women_4-400-metres-relay,USA,1,gold,discipline=4 × 400 metres relay;performance=3:17.83 WL;country=USA,3.0
+world_athletics_championships_2009_women_400-metres,athlete_Sanya_Richards_USA,1,gold,discipline=400 metres;performance=49.00 WL;country=USA,3.0
+world_athletics_championships_2009_women_400-metres,athlete_Shericka_Williams_JAM,2,silver,discipline=400 metres;performance=49.32 PB;country=JAM,2.0
+world_athletics_championships_2009_women_400-metres-hurdles,athlete_Josanne_Lucas_TTO,3,bronze,discipline=400 metres hurdles;performance=53.20;country=TTO,1.0
+world_athletics_championships_2009_women_400-metres-hurdles,athlete_Lashinda_Demus_USA,2,silver,discipline=400 metres hurdles;performance=52.96;country=USA,2.0
+world_athletics_championships_2009_women_400-metres-hurdles,athlete_Melaine_Walker_JAM,1,gold,discipline=400 metres hurdles;performance=52.42 CR;country=JAM,3.0
+world_athletics_championships_2009_women_5000-metres,athlete_Meseret_Defar_ETH,3,bronze,discipline=5000 metres;performance=14:58.41;country=ETH,1.0
+world_athletics_championships_2009_women_5000-metres,athlete_Sylvia_Jebiwott_Kibet_KEN,2,silver,discipline=5000 metres;performance=14:58.33;country=KEN,2.0
+world_athletics_championships_2009_women_5000-metres,athlete_Vivian_Cheruiyot_KEN,1,gold,discipline=5000 metres;performance=14:57.97;country=KEN,3.0
+world_athletics_championships_2009_women_800-metres,athlete_Caster_Semenya_ZAF,1,gold,discipline=800 metres;performance=1:55.45 WL;country=ZAF,3.0
+world_athletics_championships_2009_women_800-metres,athlete_Janeth_Jepkosgei_KEN,2,silver,discipline=800 metres;performance=1:57.90 SB;country=KEN,2.0
+world_athletics_championships_2009_women_800-metres,athlete_Jenny_Meadows_GBR,3,bronze,discipline=800 metres;performance=1:57.93 PB;country=GBR,1.0
+world_athletics_championships_2009_women_discus-throw,athlete_Dani_Samuels_AUS,1,gold,discipline=Discus throw;performance=65.44 m PB;country=AUS,3.0
+world_athletics_championships_2009_women_discus-throw,athlete_Nicoleta_Grasu_ROU,3,bronze,discipline=Discus throw;performance=65.20 m SB;country=ROU,1.0
+world_athletics_championships_2009_women_discus-throw,athlete_Yarelis_Barrios_CUB,2,silver,discipline=Discus throw;performance=65.31 m SB;country=CUB,2.0
+world_athletics_championships_2009_women_hammer-throw,athlete_Anita_Wodarczyk_POL,1,gold,discipline=Hammer throw;performance=77.96 m WR;country=POL,3.0
+world_athletics_championships_2009_women_hammer-throw,athlete_Betty_Heidler_DEU,2,silver,discipline=Hammer throw;performance=77.12 m NR;country=DEU,2.0
+world_athletics_championships_2009_women_hammer-throw,athlete_Martina_Hrasnova_SVK,3,bronze,discipline=Hammer throw;performance=74.49 m;country=SVK,1.0
+world_athletics_championships_2009_women_heptathlon,athlete_Jennifer_Oeser_DEU,2,silver,discipline=Heptathlon;performance=6493 pts PB;country=DEU,2.0
+world_athletics_championships_2009_women_heptathlon,athlete_Jessica_Ennis_GBR,1,gold,discipline=Heptathlon;performance=6731 pts WL;country=GBR,3.0
+world_athletics_championships_2009_women_heptathlon,athlete_Kamila_Chudzik_POL,3,bronze,discipline=Heptathlon;performance=6471 pts SB;country=POL,1.0
+world_athletics_championships_2009_women_high-jump,athlete_Antonietta_Di_Martino_ITA,3,bronze,discipline=High jump;performance=1.99 m;country=ITA,1.0
+world_athletics_championships_2009_women_high-jump,athlete_Ariane_Friedrich_DEU,2,silver,discipline=High jump;performance=2.02 m;country=DEU,2.0
+world_athletics_championships_2009_women_high-jump,athlete_Blanka_Vlai_HRV,1,gold,discipline=High jump;performance=2.04 m;country=HRV,3.0
+world_athletics_championships_2009_women_javelin-throw,athlete_Barbora_potáková_CZE,2,silver,discipline=Javelin throw;performance=66.42 m;country=CZE,2.0
+world_athletics_championships_2009_women_javelin-throw,athlete_Monica_Stoian_ROU,3,bronze,discipline=Javelin throw;performance=64.51 m PB;country=ROU,1.0
+world_athletics_championships_2009_women_javelin-throw,athlete_Steffi_Nerius_DEU,1,gold,discipline=Javelin throw;performance=67.30 m SB;country=DEU,3.0
+world_athletics_championships_2009_women_long-jump,athlete_Brittney_Reese_USA,1,gold,discipline=Long jump;performance=7.10 m WL;country=USA,3.0
+world_athletics_championships_2009_women_long-jump,athlete_Naide_Gomes_PRT,3,bronze,discipline=Long jump;performance=6.77 m;country=PRT,1.0
+world_athletics_championships_2009_women_marathon,athlete_Aselefech_Mergia_ETH,3,bronze,discipline=Marathon;performance=2:25:32;country=ETH,1.0
+world_athletics_championships_2009_women_marathon,athlete_Bai_Xue_CHN,1,gold,discipline=Marathon;performance=2:25:15;country=CHN,3.0
+world_athletics_championships_2009_women_marathon,athlete_Yoshimi_Ozaki_JPN,2,silver,discipline=Marathon;performance=2:25:25;country=JPN,2.0
+world_athletics_championships_2009_women_shot-put,athlete_Gong_Lijiao_CHN,3,bronze,discipline=Shot put;performance=19.89 m PB;country=CHN,1.0
+world_athletics_championships_2009_women_shot-put,athlete_Nadine_Kleinert_DEU,2,silver,discipline=Shot put;performance=20.20 m PB;country=DEU,2.0
+world_athletics_championships_2009_women_shot-put,athlete_Valerie_Vili_NZL,1,gold,discipline=Shot put;performance=20.44 m;country=NZL,3.0
+world_athletics_championships_2009_women_triple-jump,athlete_Mabel_Gay_CUB,2,silver,discipline=Triple jump;performance=14.61 m SB;country=CUB,2.0
+world_athletics_championships_2009_women_triple-jump,athlete_Yargelis_Savigne_CUB,1,gold,discipline=Triple jump;performance=14.95 m;country=CUB,3.0
+world_athletics_championships_2011_men_10-000-metres,athlete_Ibrahim_Jeilan_ETH,1,gold,"discipline=10,000 metres;performance=27:13.81;country=ETH",3.0
+world_athletics_championships_2011_men_10-000-metres,athlete_Imane_Merga_ETH,3,bronze,"discipline=10,000 metres;performance=27:19.14;country=ETH",1.0
+world_athletics_championships_2011_men_10-000-metres,athlete_Mo_Farah_GBR,2,silver,"discipline=10,000 metres;performance=27:14.07;country=GBR",2.0
+world_athletics_championships_2011_men_100-metres,athlete_Kim_Collins_KNA,3,bronze,discipline=100 metres;performance=10.09;country=KNA,1.0
+world_athletics_championships_2011_men_100-metres,athlete_Walter_Dix_USA,2,silver,discipline=100 metres;performance=10.08;country=USA,2.0
+world_athletics_championships_2011_men_100-metres,athlete_Yohan_Blake_JAM,1,gold,discipline=100 metres;performance=9.92 SB;country=JAM,3.0
+world_athletics_championships_2011_men_110-metres-hurdles,athlete_Andy_Turner_GBR,3,bronze,discipline=110 metres hurdles;performance=13.44;country=GBR,1.0
+world_athletics_championships_2011_men_110-metres-hurdles,athlete_Jason_Richardson_USA,1,gold,discipline=110 metres hurdles;performance=13.16;country=USA,3.0
+world_athletics_championships_2011_men_110-metres-hurdles,athlete_Liu_Xiang_CHN,2,silver,discipline=110 metres hurdles;performance=13.27;country=CHN,2.0
+world_athletics_championships_2011_men_1500-metres,athlete_Asbel_Kiprop_KEN,1,gold,discipline=1500 metres;performance=3:35.69;country=KEN,3.0
+world_athletics_championships_2011_men_1500-metres,athlete_Matthew_Centrowitz_USA,3,bronze,discipline=1500 metres;performance=3:36.08;country=USA,1.0
+world_athletics_championships_2011_men_1500-metres,athlete_Silas_Kiplagat_KEN,2,silver,discipline=1500 metres;performance=3:35.92;country=KEN,2.0
+world_athletics_championships_2011_men_20-kilometres-walk,athlete_Kim_Hyun-sub_KOR,3,bronze,discipline=20 kilometres walk;performance=1:21:17;country=KOR,1.0
+world_athletics_championships_2011_men_20-kilometres-walk,athlete_Luis_Fernando_López_COL,1,gold,discipline=20 kilometres walk;performance=1:20:38 SB;country=COL,3.0
+world_athletics_championships_2011_men_20-kilometres-walk,athlete_Wang_Zhen_CHN,2,silver,discipline=20 kilometres walk;performance=1:20:54;country=CHN,2.0
+world_athletics_championships_2011_men_200-metres,athlete_Christophe_Lemaitre_FRA,3,bronze,discipline=200 metres;performance=19.80 NR;country=FRA,1.0
+world_athletics_championships_2011_men_200-metres,athlete_Usain_Bolt_JAM,1,gold,discipline=200 metres;performance=19.40 WL;country=JAM,3.0
+world_athletics_championships_2011_men_200-metres,athlete_Walter_Dix_USA,2,silver,discipline=200 metres;performance=19.70 SB;country=USA,2.0
+world_athletics_championships_2011_men_3000-metres-steeplechase,athlete_Brimin_Kipruto_KEN,2,silver,discipline=3000 metres steeplechase;performance=8:16.05;country=KEN,2.0
+world_athletics_championships_2011_men_3000-metres-steeplechase,athlete_Ezekiel_Kemboi_KEN,1,gold,discipline=3000 metres steeplechase;performance=8:14.85;country=KEN,3.0
+world_athletics_championships_2011_men_3000-metres-steeplechase,athlete_Mahiedine_Mekhissi-Benabbad_FRA,3,bronze,discipline=3000 metres steeplechase;performance=8:16.09;country=FRA,1.0
+world_athletics_championships_2011_men_4-100-metres-relay,FRA,2,silver,discipline=4 × 100 metres relay;performance=38.20 SB;country=FRA,2.0
+world_athletics_championships_2011_men_4-100-metres-relay,JAM,1,gold,discipline=4 × 100 metres relay;performance=37.04 WR;country=JAM,3.0
+world_athletics_championships_2011_men_4-100-metres-relay,KNA,3,bronze,discipline=4 × 100 metres relay;performance=38.49;country=KNA,1.0
+world_athletics_championships_2011_men_4-400-metres-relay,JAM,3,bronze,discipline=4 × 400 metres relay;performance=3:00.10;country=JAM,1.0
+world_athletics_championships_2011_men_4-400-metres-relay,USA,1,gold,discipline=4 × 400 metres relay;performance=2:59.31 WL;country=USA,3.0
+world_athletics_championships_2011_men_4-400-metres-relay,ZAF,2,silver,discipline=4 × 400 metres relay;performance=2:59.87;country=ZAF,2.0
+world_athletics_championships_2011_men_400-metres,athlete_Kirani_James_GRD,1,gold,discipline=400 metres;performance=44.60 PB;country=GRD,3.0
+world_athletics_championships_2011_men_400-metres,athlete_Kévin_Borlée_BEL,3,bronze,discipline=400 metres;performance=44.90;country=BEL,1.0
+world_athletics_championships_2011_men_400-metres,athlete_LaShawn_Merritt_USA,2,silver,discipline=400 metres;performance=44.63;country=USA,2.0
+world_athletics_championships_2011_men_400-metres-hurdles,athlete_Dai_Greene_GBR,1,gold,discipline=400 metres hurdles;performance=48.26;country=GBR,3.0
+world_athletics_championships_2011_men_400-metres-hurdles,athlete_Javier_Culson_PUR,2,silver,discipline=400 metres hurdles;performance=48.44;country=PUR,2.0
+world_athletics_championships_2011_men_400-metres-hurdles,athlete_L_J_van_Zyl_ZAF,3,bronze,discipline=400 metres hurdles;performance=48.80;country=ZAF,1.0
+world_athletics_championships_2011_men_50-kilometres-walk,athlete_Jared_Tallent_AUS,2,silver,discipline=50 kilometres walk;performance=3:43:36 SB;country=AUS,2.0
+world_athletics_championships_2011_men_50-kilometres-walk,athlete_Si_Tianfeng_CHN,3,bronze,discipline=50 kilometres walk;performance=3:44:40;country=CHN,1.0
+world_athletics_championships_2011_men_5000-metres,athlete_Bernard_Lagat_USA,2,silver,discipline=5000 metres;performance=13:23.64;country=USA,2.0
+world_athletics_championships_2011_men_5000-metres,athlete_Dejen_Gebremeskel_ETH,3,bronze,discipline=5000 metres;performance=13:23.92;country=ETH,1.0
+world_athletics_championships_2011_men_5000-metres,athlete_Mo_Farah_GBR,1,gold,discipline=5000 metres;performance=13:23.36;country=GBR,3.0
+world_athletics_championships_2011_men_800-metres,athlete_Abubaker_Kaki_SDN,2,silver,discipline=800 metres;performance=1:44.41;country=SDN,2.0
+world_athletics_championships_2011_men_800-metres,athlete_David_Rudisha_KEN,1,gold,discipline=800 metres;performance=1:43.91;country=KEN,3.0
+world_athletics_championships_2011_men_decathlon,athlete_Ashton_Eaton_USA,2,silver,discipline=Decathlon;performance=8505;country=USA,2.0
+world_athletics_championships_2011_men_decathlon,athlete_Leonel_Suárez_CUB,3,bronze,discipline=Decathlon;performance=8501 SB;country=CUB,1.0
+world_athletics_championships_2011_men_decathlon,athlete_Trey_Hardee_USA,1,gold,discipline=Decathlon;performance=8607;country=USA,3.0
+world_athletics_championships_2011_men_discus-throw,athlete_Ehsan_Haddadi_IRN,3,bronze,discipline=Discus throw;performance=66.08 SB;country=IRN,1.0
+world_athletics_championships_2011_men_discus-throw,athlete_Gerd_Kanter_EST,2,silver,discipline=Discus throw;performance=66.95;country=EST,2.0
+world_athletics_championships_2011_men_discus-throw,athlete_Robert_Harting_DEU,1,gold,discipline=Discus throw;performance=68.97;country=DEU,3.0
+world_athletics_championships_2011_men_hammer-throw,athlete_Koji_Murofushi_JPN,1,gold,discipline=Hammer throw;performance=81.24 SB;country=JPN,3.0
+world_athletics_championships_2011_men_hammer-throw,athlete_Krisztián_Pars_HUN,2,silver,discipline=Hammer throw;performance=81.18 SB;country=HUN,2.0
+world_athletics_championships_2011_men_hammer-throw,athlete_Primo_Kozmus_SVN,3,bronze,discipline=Hammer throw;performance=79.39 SB;country=SVN,1.0
+world_athletics_championships_2011_men_high-jump,athlete_Jesse_Williams_USA,1,gold,discipline=High jump;performance=2.35;country=USA,3.0
+world_athletics_championships_2011_men_high-jump,athlete_Trevor_Barry_BHS,3,bronze,discipline=High jump;performance=2.32 PB;country=BHS,1.0
+world_athletics_championships_2011_men_javelin-throw,athlete_Andreas_Thorkildsen_NOR,2,silver,discipline=Javelin throw;performance=84.78;country=NOR,2.0
+world_athletics_championships_2011_men_javelin-throw,athlete_Guillermo_Martínez_CUB,3,bronze,discipline=Javelin throw;performance=84.30;country=CUB,1.0
+world_athletics_championships_2011_men_javelin-throw,athlete_Matthias_de_Zordo_DEU,1,gold,discipline=Javelin throw;performance=86.27 SB;country=DEU,3.0
+world_athletics_championships_2011_men_long-jump,athlete_Dwight_Phillips_USA,1,gold,discipline=Long jump;performance=8.45 SB;country=USA,3.0
+world_athletics_championships_2011_men_long-jump,athlete_Mitchell_Watt_AUS,2,silver,discipline=Long jump;performance=8.33;country=AUS,2.0
+world_athletics_championships_2011_men_long-jump,athlete_Ngonidzashe_Makusha_ZWE,3,bronze,discipline=Long jump;performance=8.29;country=ZWE,1.0
+world_athletics_championships_2011_men_marathon,athlete_Abel_Kirui_KEN,1,gold,discipline=Marathon;performance=2:07:38 SB;country=KEN,3.0
+world_athletics_championships_2011_men_marathon,athlete_Feyisa_Lilesa_ETH,3,bronze,discipline=Marathon;performance=2:10:32 SB;country=ETH,1.0
+world_athletics_championships_2011_men_marathon,athlete_Vincent_Kipruto_KEN,2,silver,discipline=Marathon;performance=2:10:06;country=KEN,2.0
+world_athletics_championships_2011_men_pole-vault,athlete_Lázaro_Borges_CUB,2,silver,discipline=Pole vault;performance=5.90 NR;country=CUB,2.0
+world_athletics_championships_2011_men_pole-vault,athlete_Pawe_Wojciechowski_POL,1,gold,discipline=Pole vault;performance=5.90;country=POL,3.0
+world_athletics_championships_2011_men_pole-vault,athlete_Renaud_Lavillenie_FRA,3,bronze,discipline=Pole vault;performance=5.85;country=FRA,1.0
+world_athletics_championships_2011_men_shot-put,athlete_Christian_Cantwell_USA,3,bronze,discipline=Shot put;performance=21.36;country=USA,1.0
+world_athletics_championships_2011_men_shot-put,athlete_David_Storl_DEU,1,gold,discipline=Shot put;performance=21.78 PB;country=DEU,3.0
+world_athletics_championships_2011_men_shot-put,athlete_Dylan_Armstrong_CAN,2,silver,discipline=Shot put;performance=21.64;country=CAN,2.0
+world_athletics_championships_2011_men_triple-jump,athlete_Christian_Taylor_USA,1,gold,discipline=Triple jump;performance=17.96 WL;country=USA,3.0
+world_athletics_championships_2011_men_triple-jump,athlete_Phillips_Idowu_GBR,2,silver,discipline=Triple jump;performance=17.77 SB;country=GBR,2.0
+world_athletics_championships_2011_men_triple-jump,athlete_Will_Claye_USA,3,bronze,discipline=Triple jump;performance=17.50 PB;country=USA,1.0
+world_athletics_championships_2011_women_10-000-metres,athlete_Linet_Masai_KEN,3,bronze,"discipline=10,000 metres;performance=30:53.59;country=KEN",1.0
+world_athletics_championships_2011_women_10-000-metres,athlete_Sally_Kipyego_KEN,2,silver,"discipline=10,000 metres;performance=30:50.04;country=KEN",2.0
+world_athletics_championships_2011_women_10-000-metres,athlete_Vivian_Cheruiyot_KEN,1,gold,"discipline=10,000 metres;performance=30:48.98;country=KEN",3.0
+world_athletics_championships_2011_women_100-metres,athlete_Carmelita_Jeter_USA,1,gold,discipline=100 metres;performance=10.90;country=USA,3.0
+world_athletics_championships_2011_women_100-metres,athlete_Kelly-Ann_Baptiste_TTO,3,bronze,discipline=100 metres;performance=10.98;country=TTO,1.0
+world_athletics_championships_2011_women_100-metres,athlete_Veronica_Campbell-Brown_JAM,2,silver,discipline=100 metres;performance=10.97;country=JAM,2.0
+world_athletics_championships_2011_women_100-metres-hurdles,athlete_Danielle_Carruthers_USA,2,silver,discipline=100 metres hurdles;performance=12.47 PB;country=USA,2.0
+world_athletics_championships_2011_women_100-metres-hurdles,athlete_Dawn_Harper_USA,3,bronze,discipline=100 metres hurdles;performance=12.47 PB;country=USA,1.0
+world_athletics_championships_2011_women_100-metres-hurdles,athlete_Sally_Pearson_AUS,1,gold,"discipline=100 metres hurdles;performance=12.28 CR , AR;country=AUS",3.0
+world_athletics_championships_2011_women_1500-metres,athlete_Hannah_England_GBR,2,silver,discipline=1500 metres;performance=4:05.68;country=GBR,2.0
+world_athletics_championships_2011_women_1500-metres,athlete_Jennifer_Simpson_USA,1,gold,discipline=1500 metres;performance=4:05.40;country=USA,3.0
+world_athletics_championships_2011_women_1500-metres,athlete_Natalia_Rodríguez_ESP,3,bronze,discipline=1500 metres;performance=4:05.87;country=ESP,1.0
+world_athletics_championships_2011_women_20-kilometres-walk,athlete_Elisa_Rigaudo_ITA,2,silver,discipline=20 kilometres walk;performance=1:30:44 SB;country=ITA,2.0
+world_athletics_championships_2011_women_20-kilometres-walk,athlete_Liu_Hong_CHN,1,gold,discipline=20 kilometres walk;performance=1:30:00;country=CHN,3.0
+world_athletics_championships_2011_women_20-kilometres-walk,athlete_Qieyang_Shenjie_CHN,3,bronze,discipline=20 kilometres walk;performance=1:31:14;country=CHN,1.0
+world_athletics_championships_2011_women_200-metres,athlete_Allyson_Felix_USA,3,bronze,discipline=200 metres;performance=22.42;country=USA,1.0
+world_athletics_championships_2011_women_200-metres,athlete_Carmelita_Jeter_USA,2,silver,discipline=200 metres;performance=22.37;country=USA,2.0
+world_athletics_championships_2011_women_200-metres,athlete_Veronica_Campbell-Brown_JAM,1,gold,discipline=200 metres;performance=22.22 SB;country=JAM,3.0
+world_athletics_championships_2011_women_3000-metres-steeplechase,athlete_Habiba_Ghribi_TUN,1,gold,discipline=3000 metres steeplechase;performance=9:11.97 NR;country=TUN,3.0
+world_athletics_championships_2011_women_3000-metres-steeplechase,athlete_Mercy_Wanjiku_KEN,3,bronze,discipline=3000 metres steeplechase;performance=9:17.88;country=KEN,1.0
+world_athletics_championships_2011_women_3000-metres-steeplechase,athlete_Milcah_Chemos_Cheywa_KEN,2,silver,discipline=3000 metres steeplechase;performance=9:17.16;country=KEN,2.0
+world_athletics_championships_2011_women_4-100-metres-relay,JAM,2,silver,discipline=4 × 100 metres relay;performance=41.70 NR;country=JAM,2.0
+world_athletics_championships_2011_women_4-100-metres-relay,UKR,3,bronze,discipline=4 × 100 metres relay;performance=42.51 SB;country=UKR,1.0
+world_athletics_championships_2011_women_4-100-metres-relay,USA,1,gold,discipline=4 × 100 metres relay;performance=41.56 WL;country=USA,3.0
+world_athletics_championships_2011_women_4-400-metres-relay,GBR,3,bronze,discipline=4 × 400 metres relay;performance=3:23.63;country=GBR,1.0
+world_athletics_championships_2011_women_4-400-metres-relay,JAM,2,silver,discipline=4 × 400 metres relay;performance=3:18.71 NR;country=JAM,2.0
+world_athletics_championships_2011_women_4-400-metres-relay,USA,1,gold,discipline=4 × 400 metres relay;performance=3:18.09 WL;country=USA,3.0
+world_athletics_championships_2011_women_400-metres,athlete_Allyson_Felix_USA,2,silver,discipline=400 metres;performance=49.59 PB;country=USA,2.0
+world_athletics_championships_2011_women_400-metres,athlete_Amantle_Montsho_BWA,1,gold,discipline=400 metres;performance=49.56 NR;country=BWA,3.0
+world_athletics_championships_2011_women_400-metres,athlete_Francena_McCorory_USA,3,bronze,discipline=400 metres;performance=50.45;country=USA,1.0
+world_athletics_championships_2011_women_400-metres-hurdles,athlete_Lashinda_Demus_USA,1,gold,"discipline=400 metres hurdles;performance=52.47 WL , NR;country=USA",3.0
+world_athletics_championships_2011_women_400-metres-hurdles,athlete_Melaine_Walker_JAM,2,silver,discipline=400 metres hurdles;performance=52.73 SB;country=JAM,2.0
+world_athletics_championships_2011_women_5000-metres,athlete_Meseret_Defar_ETH,3,bronze,discipline=5000 metres;performance=14:56.94;country=ETH,1.0
+world_athletics_championships_2011_women_5000-metres,athlete_Sylvia_Jebiwott_Kibet_KEN,2,silver,discipline=5000 metres;performance=14:56.21;country=KEN,2.0
+world_athletics_championships_2011_women_5000-metres,athlete_Vivian_Cheruiyot_KEN,1,gold,discipline=5000 metres;performance=14:55.36;country=KEN,3.0
+world_athletics_championships_2011_women_800-metres,athlete_Alysia_Johnson_Montaño_USA,3,bronze,discipline=800 metres;performance=1:57.48 SB;country=USA,1.0
+world_athletics_championships_2011_women_800-metres,athlete_Caster_Semenya_ZAF,1,gold,discipline=800 metres;performance=1:56.35 SB;country=ZAF,3.0
+world_athletics_championships_2011_women_800-metres,athlete_Janeth_Jepkosgei_KEN,2,silver,discipline=800 metres;performance=1:57.42 SB;country=KEN,2.0
+world_athletics_championships_2011_women_discus-throw,athlete_Li_Yanfeng_CHN,1,gold,discipline=Discus throw;performance=66.52;country=CHN,3.0
+world_athletics_championships_2011_women_discus-throw,athlete_Nadine_Müller_DEU,2,silver,discipline=Discus throw;performance=65.97;country=DEU,2.0
+world_athletics_championships_2011_women_discus-throw,athlete_Yarelis_Barrios_CUB,3,bronze,discipline=Discus throw;performance=65.73 SB;country=CUB,1.0
+world_athletics_championships_2011_women_hammer-throw,athlete_Betty_Heidler_DEU,2,silver,discipline=Hammer throw;performance=76.06;country=DEU,2.0
+world_athletics_championships_2011_women_hammer-throw,athlete_Zhang_Wenxiu_CHN,3,bronze,discipline=Hammer throw;performance=75.03;country=CHN,1.0
+world_athletics_championships_2011_women_heptathlon,athlete_Jennifer_Oeser_DEU,2,silver,discipline=Heptathlon;performance=6572;country=DEU,2.0
+world_athletics_championships_2011_women_heptathlon,athlete_Jessica_Ennis_GBR,1,gold,discipline=Heptathlon;performance=6751;country=GBR,3.0
+world_athletics_championships_2011_women_heptathlon,athlete_Karolina_Tymiska_POL,3,bronze,discipline=Heptathlon;performance=6544;country=POL,1.0
+world_athletics_championships_2011_women_high-jump,athlete_Antonietta_Di_Martino_ITA,3,bronze,discipline=High jump;performance=2.00;country=ITA,1.0
+world_athletics_championships_2011_women_high-jump,athlete_Blanka_Vlai_HRV,2,silver,discipline=High jump;performance=2.03 SB;country=HRV,2.0
+world_athletics_championships_2011_women_javelin-throw,athlete_Barbora_potáková_CZE,1,gold,discipline=Javelin throw;performance=71.58 SB;country=CZE,3.0
+world_athletics_championships_2011_women_javelin-throw,athlete_Christina_Obergföll_DEU,3,bronze,discipline=Javelin throw;performance=65.24;country=DEU,1.0
+world_athletics_championships_2011_women_javelin-throw,athlete_Sunette_Viljoen_ZAF,2,silver,discipline=Javelin throw;performance=68.38 AR;country=ZAF,2.0
+world_athletics_championships_2011_women_long-jump,athlete_Brittney_Reese_USA,1,gold,discipline=Long jump;performance=6.82;country=USA,3.0
+world_athletics_championships_2011_women_long-jump,athlete_Ineta_Radvia_LVA,2,silver,discipline=Long jump;performance=6.76;country=LVA,2.0
+world_athletics_championships_2011_women_long-jump,athlete_Nastassia_Mironchyk-Ivanova_BLR,3,bronze,discipline=Long jump;performance=6.74;country=BLR,1.0
+world_athletics_championships_2011_women_marathon,athlete_Edna_Kiplagat_KEN,1,gold,discipline=Marathon;performance=2:28:43;country=KEN,3.0
+world_athletics_championships_2011_women_marathon,athlete_Priscah_Jeptoo_KEN,2,silver,discipline=Marathon;performance=2:29:00;country=KEN,2.0
+world_athletics_championships_2011_women_marathon,athlete_Sharon_Cherop_KEN,3,bronze,discipline=Marathon;performance=2:29:14 SB;country=KEN,1.0
+world_athletics_championships_2011_women_pole-vault,athlete_Fabiana_Murer_BRA,1,gold,discipline=Pole vault;performance=4.85 AR;country=BRA,3.0
+world_athletics_championships_2011_women_pole-vault,athlete_Martina_Strutz_DEU,2,silver,discipline=Pole vault;performance=4.80 NR;country=DEU,2.0
+world_athletics_championships_2011_women_shot-put,athlete_Gong_Lijiao_CHN,3,bronze,discipline=Shot put;performance=19.97;country=CHN,1.0
+world_athletics_championships_2011_women_shot-put,athlete_Jillian_Camarena-Williams_USA,2,silver,discipline=Shot put;performance=20.02;country=USA,2.0
+world_athletics_championships_2011_women_shot-put,athlete_Valerie_Adams_NZL,1,gold,"discipline=Shot put;performance=21.24 CR , AR;country=NZL",3.0
+world_athletics_championships_2011_women_triple-jump,athlete_Caterine_Ibargüen_COL,3,bronze,discipline=Triple jump;performance=14.84;country=COL,1.0
+world_athletics_championships_2011_women_triple-jump,athlete_Olga_Rypakova_KAZ,2,silver,discipline=Triple jump;performance=14.89;country=KAZ,2.0
+world_athletics_championships_2011_women_triple-jump,athlete_Olha_Saladukha_UKR,1,gold,discipline=Triple jump;performance=14.94;country=UKR,3.0
+world_athletics_championships_2013_men_10-000-metres,athlete_Ibrahim_Jeilan_ETH,2,silver,"discipline=10,000 metres;performance=27:22.23 SB;country=ETH",2.0
+world_athletics_championships_2013_men_10-000-metres,athlete_Mo_Farah_GBR,1,gold,"discipline=10,000 metres;performance=27:21.71 SB;country=GBR",3.0
+world_athletics_championships_2013_men_10-000-metres,athlete_Paul_Tanui_KEN,3,bronze,"discipline=10,000 metres;performance=27:22.61;country=KEN",1.0
+world_athletics_championships_2013_men_100-metres,athlete_Justin_Gatlin_USA,2,silver,discipline=100 metres;performance=9.85 SB;country=USA,2.0
+world_athletics_championships_2013_men_100-metres,athlete_Nesta_Carter_JAM,3,bronze,discipline=100 metres;performance=9.95;country=JAM,1.0
+world_athletics_championships_2013_men_100-metres,athlete_Usain_Bolt_JAM,1,gold,discipline=100 metres;performance=9.77 WL;country=JAM,3.0
+world_athletics_championships_2013_men_110-metres-hurdles,athlete_David_Oliver_USA,1,gold,discipline=110 metres hurdles;performance=13.00 WL;country=USA,3.0
+world_athletics_championships_2013_men_110-metres-hurdles,athlete_Ryan_Wilson_USA,2,silver,discipline=110 metres hurdles;performance=13.13;country=USA,2.0
+world_athletics_championships_2013_men_1500-metres,athlete_Asbel_Kiprop_KEN,1,gold,discipline=1500 metres;performance=3:36.28;country=KEN,3.0
+world_athletics_championships_2013_men_1500-metres,athlete_Johan_Cronje_ZAF,3,bronze,discipline=1500 metres;performance=3:36.83;country=ZAF,1.0
+world_athletics_championships_2013_men_1500-metres,athlete_Matthew_Centrowitz_Jr_USA,2,silver,discipline=1500 metres;performance=3:36.78;country=USA,2.0
+world_athletics_championships_2013_men_20-kilometres-walk,athlete_Chen_Ding_CHN,1,gold,discipline=20 kilometres walk;performance=1:21:09 SB;country=CHN,3.0
+world_athletics_championships_2013_men_20-kilometres-walk,athlete_João_Vieira_PRT,3,bronze,discipline=20 kilometres walk;performance=1:22:05;country=PRT,1.0
+world_athletics_championships_2013_men_20-kilometres-walk,athlete_Miguel_Ángel_López_ESP,2,silver,discipline=20 kilometres walk;performance=1:21:21 SB;country=ESP,2.0
+world_athletics_championships_2013_men_200-metres,athlete_Curtis_Mitchell_USA,3,bronze,discipline=200 metres;performance=20.04;country=USA,1.0
+world_athletics_championships_2013_men_200-metres,athlete_Usain_Bolt_JAM,1,gold,discipline=200 metres;performance=19.66 WL;country=JAM,3.0
+world_athletics_championships_2013_men_200-metres,athlete_Warren_Weir_JAM,2,silver,discipline=200 metres;performance=19.79 = PB;country=JAM,2.0
+world_athletics_championships_2013_men_3000-metres-steeplechase,athlete_Conseslus_Kipruto_KEN,2,silver,discipline=3000 metres steeplechase;performance=8:06.37;country=KEN,2.0
+world_athletics_championships_2013_men_3000-metres-steeplechase,athlete_Ezekiel_Kemboi_KEN,1,gold,discipline=3000 metres steeplechase;performance=8:06.01;country=KEN,3.0
+world_athletics_championships_2013_men_3000-metres-steeplechase,athlete_Mahiedine_Mekhissi-Benabbad_FRA,3,bronze,discipline=3000 metres steeplechase;performance=8:07.86;country=FRA,1.0
+world_athletics_championships_2013_men_4-100-metres-relay,CAN,3,bronze,discipline=4 × 100 metres relay;performance=37.92 SB;country=CAN,1.0
+world_athletics_championships_2013_men_4-100-metres-relay,JAM,1,gold,discipline=4 × 100 metres relay;performance=37.36 WL;country=JAM,3.0
+world_athletics_championships_2013_men_4-100-metres-relay,USA,2,silver,discipline=4 × 100 metres relay;performance=37.66;country=USA,2.0
+world_athletics_championships_2013_men_4-400-metres-relay,GBR,3,bronze,discipline=4 × 400 metres relay;performance=3:00.88;country=GBR,1.0
+world_athletics_championships_2013_men_4-400-metres-relay,JAM,2,silver,discipline=4 × 400 metres relay;performance=2:59.88 SB;country=JAM,2.0
+world_athletics_championships_2013_men_4-400-metres-relay,USA,1,gold,discipline=4 × 400 metres relay;performance=2:58.71 WL;country=USA,3.0
+world_athletics_championships_2013_men_400-metres,athlete_LaShawn_Merritt_USA,1,gold,"discipline=400 metres;performance=43.74 WL , PB;country=USA",3.0
+world_athletics_championships_2013_men_400-metres,athlete_Luguelín_Santos_DOM,3,bronze,discipline=400 metres;performance=44.52 SB;country=DOM,1.0
+world_athletics_championships_2013_men_400-metres,athlete_Tony_McQuay_USA,2,silver,discipline=400 metres;performance=44.40 PB;country=USA,2.0
+world_athletics_championships_2013_men_400-metres-hurdles,athlete_Emir_Bekri_SRB,3,bronze,discipline=400 metres hurdles;performance=48.05 NR;country=SRB,1.0
+world_athletics_championships_2013_men_400-metres-hurdles,athlete_Jehue_Gordon_TTO,1,gold,"discipline=400 metres hurdles;performance=47.69 WL , NR;country=TTO",3.0
+world_athletics_championships_2013_men_400-metres-hurdles,athlete_Michael_Tinsley_USA,2,silver,discipline=400 metres hurdles;performance=47.70 PB;country=USA,2.0
+world_athletics_championships_2013_men_50-kilometres-walk,athlete_Ihor_Hlavan_UKR,3,bronze,discipline=50 kilometres walk;performance=3:40:39 PB;country=UKR,1.0
+world_athletics_championships_2013_men_50-kilometres-walk,athlete_Jared_Tallent_AUS,2,silver,discipline=50 kilometres walk;performance=3:40:03 SB;country=AUS,2.0
+world_athletics_championships_2013_men_50-kilometres-walk,athlete_Robert_Heffernan_IRL,1,gold,discipline=50 kilometres walk;performance=3:37:56 WL;country=IRL,3.0
+world_athletics_championships_2013_men_5000-metres,athlete_Hagos_Gebrhiwet_ETH,2,silver,discipline=5000 metres;performance=13:27.26;country=ETH,2.0
+world_athletics_championships_2013_men_5000-metres,athlete_Isiah_Koech_KEN,3,bronze,discipline=5000 metres;performance=13:27.26;country=KEN,1.0
+world_athletics_championships_2013_men_5000-metres,athlete_Mo_Farah_GBR,1,gold,discipline=5000 metres;performance=13:26.98;country=GBR,3.0
+world_athletics_championships_2013_men_800-metres,athlete_Ayanleh_Souleiman_DJI,3,bronze,discipline=800 metres;performance=1:43.76;country=DJI,1.0
+world_athletics_championships_2013_men_800-metres,athlete_Mohammed_Aman_ETH,1,gold,discipline=800 metres;performance=1:43.31 SB;country=ETH,3.0
+world_athletics_championships_2013_men_800-metres,athlete_Nick_Symmonds_USA,2,silver,discipline=800 metres;performance=1:43.55 SB;country=USA,2.0
+world_athletics_championships_2013_men_decathlon,athlete_Ashton_Eaton_USA,1,gold,discipline=Decathlon;performance=8809 WL;country=USA,3.0
+world_athletics_championships_2013_men_decathlon,athlete_Damian_Warner_CAN,3,bronze,discipline=Decathlon;performance=8512 PB;country=CAN,1.0
+world_athletics_championships_2013_men_decathlon,athlete_Michael_Schrader_DEU,2,silver,discipline=Decathlon;performance=8670 PB;country=DEU,2.0
+world_athletics_championships_2013_men_discus-throw,athlete_Gerd_Kanter_EST,3,bronze,discipline=Discus throw;performance=65.19;country=EST,1.0
+world_athletics_championships_2013_men_discus-throw,athlete_Piotr_Maachowski_POL,2,silver,discipline=Discus throw;performance=68.36;country=POL,2.0
+world_athletics_championships_2013_men_discus-throw,athlete_Robert_Harting_DEU,1,gold,discipline=Discus throw;performance=69.11;country=DEU,3.0
+world_athletics_championships_2013_men_hammer-throw,athlete_Krisztián_Pars_HUN,2,silver,discipline=Hammer throw;performance=80.30;country=HUN,2.0
+world_athletics_championships_2013_men_hammer-throw,athlete_Luká_Melich_CZE,3,bronze,discipline=Hammer throw;performance=79.36;country=CZE,1.0
+world_athletics_championships_2013_men_hammer-throw,athlete_Pawe_Fajdek_POL,1,gold,"discipline=Hammer throw;performance=81.97 WL , PB;country=POL",3.0
+world_athletics_championships_2013_men_high-jump,athlete_Bohdan_Bondarenko_UKR,1,gold,"discipline=High jump;performance=2.41 WL , CR , = NR;country=UKR",3.0
+world_athletics_championships_2013_men_high-jump,athlete_Derek_Drouin_CAN,3,bronze,discipline=High jump;performance=2.38 NR;country=CAN,1.0
+world_athletics_championships_2013_men_high-jump,athlete_Mutaz_Essa_Barshim_QAT,2,silver,discipline=High jump;performance=2.38;country=QAT,2.0
+world_athletics_championships_2013_men_javelin-throw,athlete_Tero_Pitkämäki_FIN,2,silver,discipline=Javelin throw;performance=87.07;country=FIN,2.0
+world_athletics_championships_2013_men_javelin-throw,athlete_Vítzslav_Veselý_CZE,1,gold,discipline=Javelin throw;performance=87.17;country=CZE,3.0
+world_athletics_championships_2013_men_long-jump,athlete_Ignisious_Gaisah_NLD,2,silver,discipline=Long jump;performance=8.29 NR;country=NLD,2.0
+world_athletics_championships_2013_men_long-jump,athlete_Luis_Rivera_MEX,3,bronze,discipline=Long jump;performance=8.27;country=MEX,1.0
+world_athletics_championships_2013_men_marathon,athlete_Lelisa_Desisa_ETH,2,silver,discipline=Marathon;performance=2:10:12;country=ETH,2.0
+world_athletics_championships_2013_men_marathon,athlete_Stephen_Kiprotich_UGA,1,gold,discipline=Marathon;performance=2:09:51;country=UGA,3.0
+world_athletics_championships_2013_men_marathon,athlete_Tadese_Tola_ETH,3,bronze,discipline=Marathon;performance=2:10:23;country=ETH,1.0
+world_athletics_championships_2013_men_pole-vault,athlete_Björn_Otto_DEU,3,bronze,discipline=Pole vault;performance=5.82;country=DEU,1.0
+world_athletics_championships_2013_men_pole-vault,athlete_Raphael_Holzdeppe_DEU,1,gold,discipline=Pole vault;performance=5.89;country=DEU,3.0
+world_athletics_championships_2013_men_pole-vault,athlete_Renaud_Lavillenie_FRA,2,silver,discipline=Pole vault;performance=5.89;country=FRA,2.0
+world_athletics_championships_2013_men_shot-put,athlete_David_Storl_DEU,1,gold,discipline=Shot put;performance=21.73 SB;country=DEU,3.0
+world_athletics_championships_2013_men_shot-put,athlete_Dylan_Armstrong_CAN,3,bronze,discipline=Shot put;performance=21.34 SB;country=CAN,1.0
+world_athletics_championships_2013_men_shot-put,athlete_Ryan_Whiting_USA,2,silver,discipline=Shot put;performance=21.57;country=USA,2.0
+world_athletics_championships_2013_men_triple-jump,athlete_Pedro_Pablo_Pichardo_CUB,2,silver,discipline=Triple jump;performance=17.68;country=CUB,2.0
+world_athletics_championships_2013_men_triple-jump,athlete_Teddy_Tamgho_FRA,1,gold,"discipline=Triple jump;performance=18.04 WL , NR;country=FRA",3.0
+world_athletics_championships_2013_men_triple-jump,athlete_Will_Claye_USA,3,bronze,discipline=Triple jump;performance=17.52 SB;country=USA,1.0
+world_athletics_championships_2013_women_10-000-metres,athlete_Belaynesh_Oljira_ETH,3,bronze,"discipline=10,000 metres;performance=30:46.98;country=ETH",1.0
+world_athletics_championships_2013_women_10-000-metres,athlete_Gladys_Cherono_KEN,2,silver,"discipline=10,000 metres;performance=30:45.17;country=KEN",2.0
+world_athletics_championships_2013_women_10-000-metres,athlete_Tirunesh_Dibaba_ETH,1,gold,"discipline=10,000 metres;performance=30:43.35;country=ETH",3.0
+world_athletics_championships_2013_women_100-metres,athlete_Carmelita_Jeter_USA,3,bronze,discipline=100 metres;performance=10.94;country=USA,1.0
+world_athletics_championships_2013_women_100-metres,athlete_Shelly-Ann_Fraser-Pryce_JAM,1,gold,discipline=100 metres;performance=10.71 WL;country=JAM,3.0
+world_athletics_championships_2013_women_100-metres-hurdles,athlete_Brianna_Rollins_USA,1,gold,discipline=100 metres hurdles;performance=12.44;country=USA,3.0
+world_athletics_championships_2013_women_100-metres-hurdles,athlete_Sally_Pearson_AUS,2,silver,discipline=100 metres hurdles;performance=12.50 SB;country=AUS,2.0
+world_athletics_championships_2013_women_100-metres-hurdles,athlete_Tiffany_Porter_GBR,3,bronze,discipline=100 metres hurdles;performance=12.55 PB;country=GBR,1.0
+world_athletics_championships_2013_women_1500-metres,athlete_Abeba_Aregawi_SWE,1,gold,discipline=1500 metres;performance=4:02.67;country=SWE,3.0
+world_athletics_championships_2013_women_1500-metres,athlete_Hellen_Obiri_KEN,3,bronze,discipline=1500 metres;performance=4:03.86;country=KEN,1.0
+world_athletics_championships_2013_women_1500-metres,athlete_Jennifer_Simpson_USA,2,silver,discipline=1500 metres;performance=4:02.99;country=USA,2.0
+world_athletics_championships_2013_women_20-kilometres-walk,athlete_Elisa_Rigaudo_ITA,3,bronze,discipline=20 kilometres walk;performance=1:28:41;country=ITA,1.0
+world_athletics_championships_2013_women_20-kilometres-walk,athlete_Liu_Hong_CHN,1,gold,discipline=20 kilometres walk;performance=1:28:10;country=CHN,3.0
+world_athletics_championships_2013_women_20-kilometres-walk,athlete_Sun_Huanhuan_CHN,2,silver,discipline=20 kilometres walk;performance=1:28:32;country=CHN,2.0
+world_athletics_championships_2013_women_200-metres,athlete_Blessing_Okagbare_NGA,3,bronze,discipline=200 metres;performance=22.32;country=NGA,1.0
+world_athletics_championships_2013_women_200-metres,athlete_Shelly-Ann_Fraser-Pryce_JAM,1,gold,discipline=200 metres;performance=22.17;country=JAM,3.0
+world_athletics_championships_2013_women_3000-metres-steeplechase,athlete_Lydiah_Chepkurui_KEN,2,silver,discipline=3000 metres steeplechase;performance=9:12.55 PB;country=KEN,2.0
+world_athletics_championships_2013_women_3000-metres-steeplechase,athlete_Milcah_Chemos_Cheywa_KEN,1,gold,discipline=3000 metres steeplechase;performance=9:11.65 WL;country=KEN,3.0
+world_athletics_championships_2013_women_3000-metres-steeplechase,athlete_Sofia_Assefa_ETH,3,bronze,discipline=3000 metres steeplechase;performance=9:12.84 SB;country=ETH,1.0
+world_athletics_championships_2013_women_4-100-metres-relay,GBR,3,bronze,discipline=4 × 100 metres relay;performance=42.87;country=GBR,1.0
+world_athletics_championships_2013_women_4-100-metres-relay,JAM,1,gold,"discipline=4 × 100 metres relay;performance=41.29 WL , CR;country=JAM",3.0
+world_athletics_championships_2013_women_4-100-metres-relay,USA,2,silver,discipline=4 × 100 metres relay;performance=42.75;country=USA,2.0
+world_athletics_championships_2013_women_4-400-metres-relay,FRA,3,bronze,discipline=4 × 400 metres relay;performance=3:24.21;country=FRA,1.0
+world_athletics_championships_2013_women_4-400-metres-relay,GBR,2,silver,discipline=4 × 400 metres relay;performance=3:22.61 SB;country=GBR,2.0
+world_athletics_championships_2013_women_4-400-metres-relay,USA,1,gold,discipline=4 × 400 metres relay;performance=3:20.41 SB;country=USA,3.0
+world_athletics_championships_2013_women_400-metres,athlete_Amantle_Montsho_BWA,2,silver,discipline=400 metres;performance=49.41;country=BWA,2.0
+world_athletics_championships_2013_women_400-metres,athlete_Christine_Ohuruogu_GBR,1,gold,discipline=400 metres;performance=49.41 NR;country=GBR,3.0
+world_athletics_championships_2013_women_400-metres,athlete_Stephenie_Ann_McPherson_JAM,3,bronze,discipline=400 metres;performance=49.99;country=JAM,1.0
+world_athletics_championships_2013_women_400-metres-hurdles,athlete_Dalilah_Muhammad_USA,2,silver,discipline=400 metres hurdles;performance=54.09;country=USA,2.0
+world_athletics_championships_2013_women_400-metres-hurdles,athlete_Lashinda_Demus_USA,3,bronze,discipline=400 metres hurdles;performance=54.27;country=USA,1.0
+world_athletics_championships_2013_women_400-metres-hurdles,athlete_Zuzana_Hejnová_CZE,1,gold,"discipline=400 metres hurdles;performance=52.83 WL , NR;country=CZE",3.0
+world_athletics_championships_2013_women_5000-metres,athlete_Almaz_Ayana_ETH,3,bronze,discipline=5000 metres;performance=14:51.33;country=ETH,1.0
+world_athletics_championships_2013_women_5000-metres,athlete_Mercy_Cherono_KEN,2,silver,discipline=5000 metres;performance=14:51.22;country=KEN,2.0
+world_athletics_championships_2013_women_5000-metres,athlete_Meseret_Defar_ETH,1,gold,discipline=5000 metres;performance=14:50.19;country=ETH,3.0
+world_athletics_championships_2013_women_800-metres,athlete_Alysia_Montaño_USA,3,bronze,discipline=800 metres;performance=1:57.95;country=USA,1.0
+world_athletics_championships_2013_women_800-metres,athlete_Brenda_Martinez_USA,2,silver,discipline=800 metres;performance=1:57.91 PB;country=USA,2.0
+world_athletics_championships_2013_women_800-metres,athlete_Eunice_Sum_KEN,1,gold,discipline=800 metres;performance=1:57.38 PB;country=KEN,3.0
+world_athletics_championships_2013_women_discus-throw,athlete_Mélina_Robert-Michon_FRA,2,silver,discipline=Discus throw;performance=66.28 NR;country=FRA,2.0
+world_athletics_championships_2013_women_discus-throw,athlete_Sandra_Perkovi_HRV,1,gold,discipline=Discus throw;performance=67.99;country=HRV,3.0
+world_athletics_championships_2013_women_discus-throw,athlete_Yarelys_Barrios_CUB,3,bronze,discipline=Discus throw;performance=64.96;country=CUB,1.0
+world_athletics_championships_2013_women_hammer-throw,athlete_Anita_Wodarczyk_POL,1,gold,discipline=Hammer throw;performance=78.46 NR;country=POL,3.0
+world_athletics_championships_2013_women_hammer-throw,athlete_Wang_Zheng_CHN,3,bronze,discipline=Hammer throw;performance=74.90 PB;country=CHN,1.0
+world_athletics_championships_2013_women_hammer-throw,athlete_Zhang_Wenxiu_CHN,2,silver,discipline=Hammer throw;performance=75.58 SB;country=CHN,2.0
+world_athletics_championships_2013_women_heptathlon,athlete_Brianne_Theisen-Eaton_CAN,2,silver,discipline=Heptathlon;performance=6530 PB;country=CAN,2.0
+world_athletics_championships_2013_women_heptathlon,athlete_Dafne_Schippers_NLD,3,bronze,discipline=Heptathlon;performance=6477 NR;country=NLD,1.0
+world_athletics_championships_2013_women_heptathlon,athlete_Hanna_Melnychenko_UKR,1,gold,discipline=Heptathlon;performance=6586 PB;country=UKR,3.0
+world_athletics_championships_2013_women_javelin-throw,athlete_Christina_Obergföll_DEU,1,gold,discipline=Javelin throw;performance=69.05 SB;country=DEU,3.0
+world_athletics_championships_2013_women_javelin-throw,athlete_Kimberley_Mickle_AUS,2,silver,discipline=Javelin throw;performance=66.60 PB;country=AUS,2.0
+world_athletics_championships_2013_women_long-jump,athlete_Blessing_Okagbare_NGA,2,silver,discipline=Long jump;performance=6.99;country=NGA,2.0
+world_athletics_championships_2013_women_long-jump,athlete_Brittney_Reese_USA,1,gold,discipline=Long jump;performance=7.01;country=USA,3.0
+world_athletics_championships_2013_women_long-jump,athlete_Ivana_panovi_SRB,3,bronze,discipline=Long jump;performance=6.82 NR;country=SRB,1.0
+world_athletics_championships_2013_women_marathon,athlete_Edna_Kiplagat_KEN,1,gold,discipline=Marathon;performance=2:25:44;country=KEN,3.0
+world_athletics_championships_2013_women_marathon,athlete_Kayoko_Fukushi_JPN,3,bronze,discipline=Marathon;performance=2:27:45;country=JPN,1.0
+world_athletics_championships_2013_women_marathon,athlete_Valeria_Straneo_ITA,2,silver,discipline=Marathon;performance=2:25:58 SB;country=ITA,2.0
+world_athletics_championships_2013_women_pole-vault,athlete_Jenn_Suhr_USA,2,silver,discipline=Pole vault;performance=4.82;country=USA,2.0
+world_athletics_championships_2013_women_pole-vault,athlete_Yarisley_Silva_CUB,3,bronze,discipline=Pole vault;performance=4.82;country=CUB,1.0
+world_athletics_championships_2013_women_shot-put,athlete_Christina_Schwanitz_DEU,2,silver,discipline=Shot put;performance=20.41 PB;country=DEU,2.0
+world_athletics_championships_2013_women_shot-put,athlete_Gong_Lijiao_CHN,3,bronze,discipline=Shot put;performance=19.95;country=CHN,1.0
+world_athletics_championships_2013_women_shot-put,athlete_Valerie_Adams_NZL,1,gold,discipline=Shot put;performance=20.88;country=NZL,3.0
+world_athletics_championships_2013_women_triple-jump,athlete_Caterine_Ibargüen_COL,1,gold,discipline=Triple jump;performance=14.85 WL;country=COL,3.0
+world_athletics_championships_2013_women_triple-jump,athlete_Olha_Saladuha_UKR,3,bronze,discipline=Triple jump;performance=14.65;country=UKR,1.0
+world_athletics_championships_2015_men_10-000-metres,athlete_Geoffrey_Kamworor_KEN,2,silver,"discipline=10,000 metres;performance=27:01.76;country=KEN",2.0
+world_athletics_championships_2015_men_10-000-metres,athlete_Mo_Farah_GBR,1,gold,"discipline=10,000 metres;performance=27:01.13;country=GBR",3.0
+world_athletics_championships_2015_men_10-000-metres,athlete_Paul_Tanui_KEN,3,bronze,"discipline=10,000 metres;performance=27:02.83;country=KEN",1.0
+world_athletics_championships_2015_men_100-metres,athlete_Justin_Gatlin_USA,2,silver,discipline=100 metres;performance=9.80;country=USA,2.0
+world_athletics_championships_2015_men_100-metres,athlete_Trayvon_Bromell_USA,3,bronze,discipline=100 metres;performance=9.92;country=USA,1.0
+world_athletics_championships_2015_men_100-metres,athlete_Usain_Bolt_JAM,1,gold,discipline=100 metres;performance=9.79 SB;country=JAM,3.0
+world_athletics_championships_2015_men_110-metres-hurdles,athlete_Aries_Merritt_USA,3,bronze,discipline=110 metres hurdles;performance=13.04;country=USA,1.0
+world_athletics_championships_2015_men_110-metres-hurdles,athlete_Hansle_Parchment_JAM,2,silver,discipline=110 metres hurdles;performance=13.03;country=JAM,2.0
+world_athletics_championships_2015_men_1500-metres,athlete_Abdalaati_Iguider_MAR,3,bronze,discipline=1500 metres;performance=3:34.67;country=MAR,1.0
+world_athletics_championships_2015_men_1500-metres,athlete_Asbel_Kiprop_KEN,1,gold,discipline=1500 metres;performance=3:34.40;country=KEN,3.0
+world_athletics_championships_2015_men_1500-metres,athlete_Elijah_Manangoi_KEN,2,silver,discipline=1500 metres;performance=3:34.63;country=KEN,2.0
+world_athletics_championships_2015_men_20-kilometres-walk,athlete_Benjamin_Thorne_CAN,3,bronze,discipline=20 kilometres walk;performance=1:19:57 NR;country=CAN,1.0
+world_athletics_championships_2015_men_20-kilometres-walk,athlete_Miguel_Ángel_López_ESP,1,gold,discipline=20 kilometres walk;performance=1:19:14 PB;country=ESP,3.0
+world_athletics_championships_2015_men_20-kilometres-walk,athlete_Wang_Zhen_CHN,2,silver,discipline=20 kilometres walk;performance=1:19:29;country=CHN,2.0
+world_athletics_championships_2015_men_200-metres,athlete_Anaso_Jobodwana_ZAF,3,bronze,discipline=200 metres;performance=19.87 NR;country=ZAF,1.0
+world_athletics_championships_2015_men_200-metres,athlete_Justin_Gatlin_USA,2,silver,discipline=200 metres;performance=19.74;country=USA,2.0
+world_athletics_championships_2015_men_200-metres,athlete_Usain_Bolt_JAM,1,gold,discipline=200 metres;performance=19.55 WL;country=JAM,3.0
+world_athletics_championships_2015_men_3000-metres-steeplechase,athlete_Brimin_Kipruto_KEN,3,bronze,discipline=3000 metres steeplechase;performance=8:12.54;country=KEN,1.0
+world_athletics_championships_2015_men_3000-metres-steeplechase,athlete_Conseslus_Kipruto_KEN,2,silver,discipline=3000 metres steeplechase;performance=8:12.38;country=KEN,2.0
+world_athletics_championships_2015_men_3000-metres-steeplechase,athlete_Ezekiel_Kemboi_KEN,1,gold,discipline=3000 metres steeplechase;performance=8:11.28;country=KEN,3.0
+world_athletics_championships_2015_men_4-100-metres-relay,CAN,3,bronze,discipline=4 × 100 metres relay;performance=38.13;country=CAN,1.0
+world_athletics_championships_2015_men_4-100-metres-relay,CHN,2,silver,discipline=4 × 100 metres relay;performance=38.01;country=CHN,2.0
+world_athletics_championships_2015_men_4-100-metres-relay,JAM,1,gold,discipline=4 × 100 metres relay;performance=37.36 WL;country=JAM,3.0
+world_athletics_championships_2015_men_4-400-metres-relay,GBR,3,bronze,discipline=4 × 400 metres relay;performance=2:58.51;country=GBR,1.0
+world_athletics_championships_2015_men_4-400-metres-relay,TTO,2,silver,discipline=4 × 400 metres relay;performance=2:58.20 NR;country=TTO,2.0
+world_athletics_championships_2015_men_4-400-metres-relay,USA,1,gold,discipline=4 × 400 metres relay;performance=2:57.82 WL;country=USA,3.0
+world_athletics_championships_2015_men_400-metres,athlete_Kirani_James_GRD,3,bronze,discipline=400 metres;performance=43.78;country=GRD,1.0
+world_athletics_championships_2015_men_400-metres,athlete_LaShawn_Merritt_USA,2,silver,discipline=400 metres;performance=43.65 PB;country=USA,2.0
+world_athletics_championships_2015_men_400-metres,athlete_Wayde_van_Niekerk_ZAF,1,gold,discipline=400 metres;performance=43.48 WL AR;country=ZAF,3.0
+world_athletics_championships_2015_men_400-metres-hurdles,athlete_Jeffery_Gibson_BHS,3,bronze,discipline=400 metres hurdles;performance=48.17 NR;country=BHS,1.0
+world_athletics_championships_2015_men_400-metres-hurdles,athlete_Nicholas_Bett_KEN,1,gold,discipline=400 metres hurdles;performance=47.79 WL NR;country=KEN,3.0
+world_athletics_championships_2015_men_50-kilometres-walk,athlete_Jared_Tallent_AUS,2,silver,discipline=50 kilometres walk;performance=3:42:17;country=AUS,2.0
+world_athletics_championships_2015_men_50-kilometres-walk,athlete_Matej_Tóth_SVK,1,gold,discipline=50 kilometres walk;performance=3:40:32;country=SVK,3.0
+world_athletics_championships_2015_men_50-kilometres-walk,athlete_Takayuki_Tanii_JPN,3,bronze,discipline=50 kilometres walk;performance=3:42:55;country=JPN,1.0
+world_athletics_championships_2015_men_5000-metres,athlete_Caleb_Ndiku_KEN,2,silver,discipline=5000 metres;performance=13:51.75;country=KEN,2.0
+world_athletics_championships_2015_men_5000-metres,athlete_Hagos_Gebrhiwet_ETH,3,bronze,discipline=5000 metres;performance=13:51.86;country=ETH,1.0
+world_athletics_championships_2015_men_5000-metres,athlete_Mo_Farah_GBR,1,gold,discipline=5000 metres;performance=13:50.38;country=GBR,3.0
+world_athletics_championships_2015_men_800-metres,athlete_Adam_Kszczot_POL,2,silver,discipline=800 metres;performance=1:46.08;country=POL,2.0
+world_athletics_championships_2015_men_800-metres,athlete_Amel_Tuka_BIH,3,bronze,discipline=800 metres;performance=1:46.30;country=BIH,1.0
+world_athletics_championships_2015_men_800-metres,athlete_David_Rudisha_KEN,1,gold,discipline=800 metres;performance=1:45.84;country=KEN,3.0
+world_athletics_championships_2015_men_decathlon,athlete_Ashton_Eaton_USA,1,gold,discipline=Decathlon;performance=9045 pts WR;country=USA,3.0
+world_athletics_championships_2015_men_decathlon,athlete_Damian_Warner_CAN,2,silver,discipline=Decathlon;performance=8695 pts NR;country=CAN,2.0
+world_athletics_championships_2015_men_decathlon,athlete_Rico_Freimuth_DEU,3,bronze,discipline=Decathlon;performance=8561 pts PB;country=DEU,1.0
+world_athletics_championships_2015_men_discus-throw,athlete_Philip_Milanov_BEL,2,silver,discipline=Discus throw;performance=66.90 m NR;country=BEL,2.0
+world_athletics_championships_2015_men_discus-throw,athlete_Piotr_Maachowski_POL,1,gold,discipline=Discus throw;performance=67.40 m;country=POL,3.0
+world_athletics_championships_2015_men_discus-throw,athlete_Robert_Urbanek_POL,3,bronze,discipline=Discus throw;performance=65.18 m;country=POL,1.0
+world_athletics_championships_2015_men_hammer-throw,athlete_Dilshod_Nazarov_TJK,2,silver,discipline=Hammer throw;performance=78.55 m;country=TJK,2.0
+world_athletics_championships_2015_men_hammer-throw,athlete_Pawe_Fajdek_POL,1,gold,discipline=Hammer throw;performance=80.88 m;country=POL,3.0
+world_athletics_championships_2015_men_hammer-throw,athlete_Wojciech_Nowicki_POL,3,bronze,discipline=Hammer throw;performance=78.55 m;country=POL,1.0
+world_athletics_championships_2015_men_high-jump,athlete_Bohdan_Bondarenko_Ukraine_UKR_Zhang_Guowei_CHN,2,silver,discipline=High jump;performance=2.33 m;country=CHN,2.0
+world_athletics_championships_2015_men_high-jump,athlete_Derek_Drouin_CAN,1,gold,discipline=High jump;performance=2.34 m;country=CAN,3.0
+world_athletics_championships_2015_men_javelin-throw,athlete_Ihab_El-Sayed_EGY,2,silver,discipline=Javelin throw;performance=88.99 m;country=EGY,2.0
+world_athletics_championships_2015_men_javelin-throw,athlete_Julius_Yego_KEN,1,gold,discipline=Javelin throw;performance=92.72 m WL AR;country=KEN,3.0
+world_athletics_championships_2015_men_javelin-throw,athlete_Tero_Pitkämäki_FIN,3,bronze,discipline=Javelin throw;performance=87.64 m;country=FIN,1.0
+world_athletics_championships_2015_men_long-jump,athlete_Fabrice_Lapierre_AUS,2,silver,discipline=Long jump;performance=8.24 m;country=AUS,2.0
+world_athletics_championships_2015_men_long-jump,athlete_Greg_Rutherford_GBR,1,gold,discipline=Long jump;performance=8.41 m;country=GBR,3.0
+world_athletics_championships_2015_men_long-jump,athlete_Wang_Jianan_CHN,3,bronze,discipline=Long jump;performance=8.18 m;country=CHN,1.0
+world_athletics_championships_2015_men_marathon,athlete_Ghirmay_Ghebreslassie_ERI,1,gold,discipline=Marathon;performance=2:12:27;country=ERI,3.0
+world_athletics_championships_2015_men_marathon,athlete_Solomon_Mutai_UGA,3,bronze,discipline=Marathon;performance=2:13:29;country=UGA,1.0
+world_athletics_championships_2015_men_marathon,athlete_Yemane_Tsegay_ETH,2,silver,discipline=Marathon;performance=2:13:07;country=ETH,2.0
+world_athletics_championships_2015_men_pole-vault,athlete_Raphael_Holzdeppe_DEU,2,silver,discipline=Pole vault;performance=5.90 m;country=DEU,2.0
+world_athletics_championships_2015_men_pole-vault,athlete_Renaud_Lavillenie_France_FRA_Piotr_Lisek_Poland_POL_Pawe_Wojciechowski_POL,3,bronze,discipline=Pole vault;performance=5.80 m;country=POL,1.0
+world_athletics_championships_2015_men_pole-vault,athlete_Shawnacy_Barber_CAN,1,gold,discipline=Pole vault;performance=5.90 m;country=CAN,3.0
+world_athletics_championships_2015_men_shot-put,athlete_David_Storl_DEU,2,silver,discipline=Shot put;performance=21.74 m;country=DEU,2.0
+world_athletics_championships_2015_men_shot-put,athlete_Joe_Kovacs_USA,1,gold,discipline=Shot put;performance=21.93 m;country=USA,3.0
+world_athletics_championships_2015_men_shot-put,athlete_ODayne_Richards_JAM,3,bronze,discipline=Shot put;performance=21.69 m NR;country=JAM,1.0
+world_athletics_championships_2015_men_triple-jump,athlete_Christian_Taylor_USA,1,gold,discipline=Triple jump;performance=18.21 m WL AR;country=USA,3.0
+world_athletics_championships_2015_men_triple-jump,athlete_Nelson_Évora_PRT,3,bronze,discipline=Triple jump;performance=17.52 m;country=PRT,1.0
+world_athletics_championships_2015_men_triple-jump,athlete_Pedro_Pablo_Pichardo_CUB,2,silver,discipline=Triple jump;performance=17.73 m;country=CUB,2.0
+world_athletics_championships_2015_women_10-000-metres,athlete_Emily_Infeld_USA,3,bronze,"discipline=10,000 metres;performance=31:43.49;country=USA",1.0
+world_athletics_championships_2015_women_10-000-metres,athlete_Gelete_Burka_ETH,2,silver,"discipline=10,000 metres;performance=31:41.77;country=ETH",2.0
+world_athletics_championships_2015_women_10-000-metres,athlete_Vivian_Cheruiyot_KEN,1,gold,"discipline=10,000 metres;performance=31:41.31;country=KEN",3.0
+world_athletics_championships_2015_women_100-metres,athlete_Dafne_Schippers_NLD,2,silver,discipline=100 metres;performance=10.81 NR;country=NLD,2.0
+world_athletics_championships_2015_women_100-metres,athlete_Shelly-Ann_Fraser-Pryce_JAM,1,gold,discipline=100 metres;performance=10.76;country=JAM,3.0
+world_athletics_championships_2015_women_100-metres,athlete_Tori_Bowie_USA,3,bronze,discipline=100 metres;performance=10.86;country=USA,1.0
+world_athletics_championships_2015_women_100-metres-hurdles,athlete_Alina_Talay_BLR,3,bronze,discipline=100 metres hurdles;performance=12.66 NR;country=BLR,1.0
+world_athletics_championships_2015_women_100-metres-hurdles,athlete_Cindy_Roleder_DEU,2,silver,discipline=100 metres hurdles;performance=12.59 PB;country=DEU,2.0
+world_athletics_championships_2015_women_100-metres-hurdles,athlete_Danielle_Williams_JAM,1,gold,discipline=100 metres hurdles;performance=12.57 PB;country=JAM,3.0
+world_athletics_championships_2015_women_1500-metres,athlete_Faith_Kipyegon_KEN,2,silver,discipline=1500 metres;performance=4:08.96;country=KEN,2.0
+world_athletics_championships_2015_women_1500-metres,athlete_Genzebe_Dibaba_ETH,1,gold,discipline=1500 metres;performance=4:08.09;country=ETH,3.0
+world_athletics_championships_2015_women_1500-metres,athlete_Sifan_Hassan_NLD,3,bronze,discipline=1500 metres;performance=4:09.34;country=NLD,1.0
+world_athletics_championships_2015_women_20-kilometres-walk,athlete_Liu_Hong_CHN,1,gold,discipline=20 kilometres walk;performance=1:27:45;country=CHN,3.0
+world_athletics_championships_2015_women_20-kilometres-walk,athlete_Lyudmyla_Olyanovska_UKR,3,bronze,discipline=20 kilometres walk;performance=1:28:13;country=UKR,1.0
+world_athletics_championships_2015_women_20-kilometres-walk,athlete_Lü_Xiuzhi_CHN,2,silver,discipline=20 kilometres walk;performance=1:27:45;country=CHN,2.0
+world_athletics_championships_2015_women_200-metres,athlete_Dafne_Schippers_NLD,1,gold,discipline=200 metres;performance=21.63 CR AR WL;country=NLD,3.0
+world_athletics_championships_2015_women_200-metres,athlete_Elaine_Thompson_JAM,2,silver,discipline=200 metres;performance=21.66 PB;country=JAM,2.0
+world_athletics_championships_2015_women_200-metres,athlete_Veronica_Campbell-Brown_JAM,3,bronze,discipline=200 metres;performance=21.97;country=JAM,1.0
+world_athletics_championships_2015_women_3000-metres-steeplechase,athlete_Gesa_Felicitas_Krause_DEU,3,bronze,discipline=3000 metres steeplechase;performance=9:19.25 PB;country=DEU,1.0
+world_athletics_championships_2015_women_3000-metres-steeplechase,athlete_Habiba_Ghribi_TUN,2,silver,discipline=3000 metres steeplechase;performance=9:19.24;country=TUN,2.0
+world_athletics_championships_2015_women_3000-metres-steeplechase,athlete_Hyvin_Jepkemoi_KEN,1,gold,discipline=3000 metres steeplechase;performance=9:19.11;country=KEN,3.0
+world_athletics_championships_2015_women_4-100-metres-relay,JAM,1,gold,discipline=4 × 100 metres relay;performance=41.07 CR WL;country=JAM,3.0
+world_athletics_championships_2015_women_4-100-metres-relay,TTO,3,bronze,discipline=4 × 100 metres relay;performance=42.03 NR;country=TTO,1.0
+world_athletics_championships_2015_women_4-100-metres-relay,USA,2,silver,discipline=4 × 100 metres relay;performance=41.68;country=USA,2.0
+world_athletics_championships_2015_women_4-400-metres-relay,GBR,3,bronze,discipline=4 × 400 metres relay;performance=3:23.62;country=GBR,1.0
+world_athletics_championships_2015_women_4-400-metres-relay,JAM,1,gold,discipline=4 × 400 metres relay;performance=3:19.13 WL;country=JAM,3.0
+world_athletics_championships_2015_women_4-400-metres-relay,USA,2,silver,discipline=4 × 400 metres relay;performance=3:19.44;country=USA,2.0
+world_athletics_championships_2015_women_400-metres,athlete_Allyson_Felix_USA,1,gold,discipline=400 metres;performance=49.26 WL PB;country=USA,3.0
+world_athletics_championships_2015_women_400-metres,athlete_Shaunae_Miller_BHS,2,silver,discipline=400 metres;performance=49.67 PB;country=BHS,2.0
+world_athletics_championships_2015_women_400-metres,athlete_Shericka_Jackson_JAM,3,bronze,discipline=400 metres;performance=49.99 PB;country=JAM,1.0
+world_athletics_championships_2015_women_400-metres-hurdles,athlete_Cassandra_Tate_USA,3,bronze,discipline=400 metres hurdles;performance=54.02;country=USA,1.0
+world_athletics_championships_2015_women_400-metres-hurdles,athlete_Shamier_Little_USA,2,silver,discipline=400 metres hurdles;performance=53.94;country=USA,2.0
+world_athletics_championships_2015_women_400-metres-hurdles,athlete_Zuzana_Hejnová_CZE,1,gold,discipline=400 metres hurdles;performance=53.50 WL;country=CZE,3.0
+world_athletics_championships_2015_women_5000-metres,athlete_Almaz_Ayana_ETH,1,gold,discipline=5000 metres;performance=14:26.83 CR;country=ETH,3.0
+world_athletics_championships_2015_women_5000-metres,athlete_Genzebe_Dibaba_ETH,3,bronze,discipline=5000 metres;performance=14:44.14;country=ETH,1.0
+world_athletics_championships_2015_women_5000-metres,athlete_Senbere_Teferi_ETH,2,silver,discipline=5000 metres;performance=14:44.07;country=ETH,2.0
+world_athletics_championships_2015_women_800-metres,athlete_Eunice_Jepkoech_Sum_KEN,3,bronze,discipline=800 metres;performance=1:58.18;country=KEN,1.0
+world_athletics_championships_2015_women_800-metres,athlete_Maryna_Arzamasava_BLR,1,gold,discipline=800 metres;performance=1:58.03;country=BLR,3.0
+world_athletics_championships_2015_women_800-metres,athlete_Melissa_Bishop_CAN,2,silver,discipline=800 metres;performance=1:58.12;country=CAN,2.0
+world_athletics_championships_2015_women_discus-throw,athlete_Denia_Caballero_CUB,1,gold,discipline=Discus throw;performance=69.28 m;country=CUB,3.0
+world_athletics_championships_2015_women_discus-throw,athlete_Nadine_Müller_DEU,3,bronze,discipline=Discus throw;performance=65.53 m;country=DEU,1.0
+world_athletics_championships_2015_women_discus-throw,athlete_Sandra_Perkovi_HRV,2,silver,discipline=Discus throw;performance=67.39 m;country=HRV,2.0
+world_athletics_championships_2015_women_hammer-throw,athlete_Alexandra_Tavernier_FRA,3,bronze,discipline=Hammer throw;performance=74.02 m;country=FRA,1.0
+world_athletics_championships_2015_women_hammer-throw,athlete_Anita_Wodarczyk_POL,1,gold,discipline=Hammer throw;performance=80.85 m CR;country=POL,3.0
+world_athletics_championships_2015_women_hammer-throw,athlete_Zhang_Wenxiu_CHN,2,silver,discipline=Hammer throw;performance=76.33 m;country=CHN,2.0
+world_athletics_championships_2015_women_heptathlon,athlete_Brianne_Theisen-Eaton_CAN,2,silver,discipline=Heptathlon;performance=6554 pts;country=CAN,2.0
+world_athletics_championships_2015_women_heptathlon,athlete_Jessica_Ennis-Hill_GBR,1,gold,discipline=Heptathlon;performance=6669 pts;country=GBR,3.0
+world_athletics_championships_2015_women_heptathlon,athlete_Laura_Ikauniece-Admidia_LVA,3,bronze,discipline=Heptathlon;performance=6516 pts NR;country=LVA,1.0
+world_athletics_championships_2015_women_high-jump,athlete_Blanka_Vlai_HRV,2,silver,discipline=High jump;performance=2.01 m;country=HRV,2.0
+world_athletics_championships_2015_women_javelin-throw,athlete_Katharina_Molitor_DEU,1,gold,discipline=Javelin throw;performance=67.69 m WL PB;country=DEU,3.0
+world_athletics_championships_2015_women_javelin-throw,athlete_Lü_Huihui_CHN,2,silver,discipline=Javelin throw;performance=66.13 m AR;country=CHN,2.0
+world_athletics_championships_2015_women_javelin-throw,athlete_Sunette_Viljoen_ZAF,3,bronze,discipline=Javelin throw;performance=65.79 m;country=ZAF,1.0
+world_athletics_championships_2015_women_long-jump,athlete_Ivana_panovi_SRB,3,bronze,discipline=Long jump;performance=7.01 m NR;country=SRB,1.0
+world_athletics_championships_2015_women_long-jump,athlete_Shara_Proctor_GBR,2,silver,discipline=Long jump;performance=7.07 m NR;country=GBR,2.0
+world_athletics_championships_2015_women_long-jump,athlete_Tianna_Bartoletta_USA,1,gold,discipline=Long jump;performance=7.14 m WL PB;country=USA,3.0
+world_athletics_championships_2015_women_marathon,athlete_Eunice_Kirwa_BHR,3,bronze,discipline=Marathon;performance=2:27:39;country=BHR,1.0
+world_athletics_championships_2015_women_marathon,athlete_Helah_Kiprop_KEN,2,silver,discipline=Marathon;performance=2:27:36;country=KEN,2.0
+world_athletics_championships_2015_women_marathon,athlete_Mare_Dibaba_ETH,1,gold,discipline=Marathon;performance=2:27:35;country=ETH,3.0
+world_athletics_championships_2015_women_pole-vault,athlete_Fabiana_Murer_BRA,2,silver,discipline=Pole vault;performance=4.85 m = AR;country=BRA,2.0
+world_athletics_championships_2015_women_pole-vault,athlete_Nikoleta_Kyriakopoulou_GRC,3,bronze,discipline=Pole vault;performance=4.80 m;country=GRC,1.0
+world_athletics_championships_2015_women_pole-vault,athlete_Yarisley_Silva_CUB,1,gold,discipline=Pole vault;performance=4.90 m;country=CUB,3.0
+world_athletics_championships_2015_women_shot-put,athlete_Christina_Schwanitz_DEU,1,gold,discipline=Shot put;performance=20.37 m;country=DEU,3.0
+world_athletics_championships_2015_women_shot-put,athlete_Gong_Lijiao_CHN,2,silver,discipline=Shot put;performance=20.30 m;country=CHN,2.0
+world_athletics_championships_2015_women_shot-put,athlete_Michelle_Carter_USA,3,bronze,discipline=Shot put;performance=19.76 m;country=USA,1.0
+world_athletics_championships_2015_women_triple-jump,athlete_Caterine_Ibargüen_COL,1,gold,discipline=Triple jump;performance=14.90 m;country=COL,3.0
+world_athletics_championships_2015_women_triple-jump,athlete_Hanna_Knyazyeva-Minenko_ISR,2,silver,discipline=Triple jump;performance=14.78 m NR;country=ISR,2.0
+world_athletics_championships_2015_women_triple-jump,athlete_Olga_Rypakova_KAZ,3,bronze,discipline=Triple jump;performance=14.77 m;country=KAZ,1.0
+world_athletics_championships_2017_men_10-000-metres,athlete_Joshua_Cheptegei_UGA,2,silver,"discipline=10,000 metres;performance=26:49.94 PB;country=UGA",2.0
+world_athletics_championships_2017_men_10-000-metres,athlete_Mo_Farah_GBR,1,gold,"discipline=10,000 metres;performance=26:49.51 WL;country=GBR",3.0
+world_athletics_championships_2017_men_10-000-metres,athlete_Paul_Tanui_KEN,3,bronze,"discipline=10,000 metres;performance=26:50.60 SB;country=KEN",1.0
+world_athletics_championships_2017_men_100-metres,athlete_Christian_Coleman_USA,2,silver,discipline=100 metres;performance=9.94;country=USA,2.0
+world_athletics_championships_2017_men_100-metres,athlete_Justin_Gatlin_USA,1,gold,"discipline=100 metres;performance=9.92 SB , WMR;country=USA",3.0
+world_athletics_championships_2017_men_100-metres,athlete_Usain_Bolt_JAM,3,bronze,discipline=100 metres;performance=9.95 SB;country=JAM,1.0
+world_athletics_championships_2017_men_110-metres-hurdles,athlete_Balázs_Baji_HUN,3,bronze,discipline=110 metres hurdles;performance=13.28;country=HUN,1.0
+world_athletics_championships_2017_men_110-metres-hurdles,athlete_Omar_McLeod_JAM,1,gold,discipline=110 metres hurdles;performance=13.04;country=JAM,3.0
+world_athletics_championships_2017_men_1500-metres,athlete_Elijah_Manangoi_KEN,1,gold,discipline=1500 metres;performance=3:33.61;country=KEN,3.0
+world_athletics_championships_2017_men_1500-metres,athlete_Filip_Ingebrigtsen_NOR,3,bronze,discipline=1500 metres;performance=3:34.53;country=NOR,1.0
+world_athletics_championships_2017_men_1500-metres,athlete_Timothy_Cheruiyot_KEN,2,silver,discipline=1500 metres;performance=3:33.99;country=KEN,2.0
+world_athletics_championships_2017_men_20-kilometres-walk,athlete_Caio_Bonfim_BRA,3,bronze,discipline=20 kilometres walk;performance=1:19:04 NR;country=BRA,1.0
+world_athletics_championships_2017_men_20-kilometres-walk,athlete_Éider_Arévalo_COL,1,gold,discipline=20 kilometres walk;performance=1:18:53 NR;country=COL,3.0
+world_athletics_championships_2017_men_200-metres,athlete_Jereem_Richards_TTO,3,bronze,discipline=200 metres;performance=20.11;country=TTO,1.0
+world_athletics_championships_2017_men_200-metres,athlete_Wayde_van_Niekerk_ZAF,2,silver,discipline=200 metres;performance=20.11;country=ZAF,2.0
+world_athletics_championships_2017_men_3000-metres-steeplechase,athlete_Conseslus_Kipruto_KEN,1,gold,discipline=3000 metres steeplechase;performance=8:14.12;country=KEN,3.0
+world_athletics_championships_2017_men_3000-metres-steeplechase,athlete_Evan_Jager_USA,3,bronze,discipline=3000 metres steeplechase;performance=8:15.53;country=USA,1.0
+world_athletics_championships_2017_men_3000-metres-steeplechase,athlete_Soufiane_El_Bakkali_MAR,2,silver,discipline=3000 metres steeplechase;performance=8:14.49;country=MAR,2.0
+world_athletics_championships_2017_men_4-100-metres-relay,GBR,1,gold,"discipline=4 × 100 metres relay;performance=37.47 WL , AR;country=GBR",3.0
+world_athletics_championships_2017_men_4-100-metres-relay,JPN,3,bronze,discipline=4 × 100 metres relay;performance=38.04 SB;country=JPN,1.0
+world_athletics_championships_2017_men_4-100-metres-relay,USA,2,silver,discipline=4 × 100 metres relay;performance=37.52 SB;country=USA,2.0
+world_athletics_championships_2017_men_4-400-metres-relay,GBR,3,bronze,discipline=4 × 400 metres relay;performance=2:59.00 SB;country=GBR,1.0
+world_athletics_championships_2017_men_4-400-metres-relay,TTO,1,gold,"discipline=4 × 400 metres relay;performance=2:58.12 WL , NR;country=TTO",3.0
+world_athletics_championships_2017_men_4-400-metres-relay,USA,2,silver,discipline=4 × 400 metres relay;performance=2:58.61 SB;country=USA,2.0
+world_athletics_championships_2017_men_400-metres,athlete_Abdalelah_Haroun_QAT,3,bronze,discipline=400 metres;performance=44.48 SB;country=QAT,1.0
+world_athletics_championships_2017_men_400-metres,athlete_Steven_Gardiner_BHS,2,silver,discipline=400 metres;performance=44.41;country=BHS,2.0
+world_athletics_championships_2017_men_400-metres,athlete_Wayde_van_Niekerk_ZAF,1,gold,discipline=400 metres;performance=43.98;country=ZAF,3.0
+world_athletics_championships_2017_men_400-metres-hurdles,athlete_Karsten_Warholm_NOR,1,gold,discipline=400 metres hurdles;performance=48.35;country=NOR,3.0
+world_athletics_championships_2017_men_400-metres-hurdles,athlete_Kerron_Clement_USA,3,bronze,discipline=400 metres hurdles;performance=48.52;country=USA,1.0
+world_athletics_championships_2017_men_50-kilometres-walk,athlete_Hirooki_Arai_JPN,2,silver,discipline=50 kilometres walk;performance=3:41:17 SB;country=JPN,2.0
+world_athletics_championships_2017_men_50-kilometres-walk,athlete_Kai_Kobayashi_JPN,3,bronze,discipline=50 kilometres walk;performance=3:41:19 PB;country=JPN,1.0
+world_athletics_championships_2017_men_50-kilometres-walk,athlete_Yohann_Diniz_FRA,1,gold,discipline=50 kilometres walk;performance=3:33:12 CR;country=FRA,3.0
+world_athletics_championships_2017_men_5000-metres,athlete_Mo_Farah_GBR,2,silver,discipline=5000 metres;performance=13:33.22;country=GBR,2.0
+world_athletics_championships_2017_men_5000-metres,athlete_Muktar_Edris_ETH,1,gold,discipline=5000 metres;performance=13:32.79;country=ETH,3.0
+world_athletics_championships_2017_men_5000-metres,athlete_Paul_Chelimo_USA,3,bronze,discipline=5000 metres;performance=13:33.30;country=USA,1.0
+world_athletics_championships_2017_men_800-metres,athlete_Adam_Kszczot_POL,2,silver,discipline=800 metres;performance=1:44.95 SB;country=POL,2.0
+world_athletics_championships_2017_men_800-metres,athlete_Kipyegon_Bett_KEN,3,bronze,discipline=800 metres;performance=1:45.21;country=KEN,1.0
+world_athletics_championships_2017_men_800-metres,athlete_Pierre-Ambroise_Bosse_FRA,1,gold,discipline=800 metres;performance=1:44.67 SB;country=FRA,3.0
+world_athletics_championships_2017_men_decathlon,athlete_Kai_Kazmirek_DEU,3,bronze,discipline=Decathlon;performance=8488 SB;country=DEU,1.0
+world_athletics_championships_2017_men_decathlon,athlete_Kevin_Mayer_FRA,1,gold,discipline=Decathlon;performance=8768 WL;country=FRA,3.0
+world_athletics_championships_2017_men_decathlon,athlete_Rico_Freimuth_DEU,2,silver,discipline=Decathlon;performance=8564;country=DEU,2.0
+world_athletics_championships_2017_men_discus-throw,athlete_Andrius_Gudius_LTU,1,gold,discipline=Discus throw;performance=69.21 m PB;country=LTU,3.0
+world_athletics_championships_2017_men_discus-throw,athlete_Daniel_Ståhl_SWE,2,silver,discipline=Discus throw;performance=69.19 m;country=SWE,2.0
+world_athletics_championships_2017_men_discus-throw,athlete_Mason_Finley_USA,3,bronze,discipline=Discus throw;performance=68.03 m PB;country=USA,1.0
+world_athletics_championships_2017_men_hammer-throw,athlete_Pawe_Fajdek_POL,1,gold,discipline=Hammer throw;performance=79.81 m;country=POL,3.0
+world_athletics_championships_2017_men_hammer-throw,athlete_Wojciech_Nowicki_POL,3,bronze,discipline=Hammer throw;performance=78.03 m;country=POL,1.0
+world_athletics_championships_2017_men_high-jump,athlete_Majd_Eddin_Ghazal_SYR,3,bronze,discipline=High jump;performance=2.29 m;country=SYR,1.0
+world_athletics_championships_2017_men_high-jump,athlete_Mutaz_Essa_Barshim_QAT,1,gold,discipline=High jump;performance=2.35 m;country=QAT,3.0
+world_athletics_championships_2017_men_javelin-throw,athlete_Jakub_Vadlejch_CZE,2,silver,discipline=Javelin throw;performance=89.73 m PB;country=CZE,2.0
+world_athletics_championships_2017_men_javelin-throw,athlete_Johannes_Vetter_DEU,1,gold,discipline=Javelin throw;performance=89.89 m;country=DEU,3.0
+world_athletics_championships_2017_men_javelin-throw,athlete_Petr_Frydrych_CZE,3,bronze,discipline=Javelin throw;performance=88.32 m PB;country=CZE,1.0
+world_athletics_championships_2017_men_long-jump,athlete_Jarrion_Lawson_USA,2,silver,discipline=Long jump;performance=8.44 m;country=USA,2.0
+world_athletics_championships_2017_men_long-jump,athlete_Luvo_Manyonga_ZAF,1,gold,discipline=Long jump;performance=8.48 m;country=ZAF,3.0
+world_athletics_championships_2017_men_long-jump,athlete_Rushwahl_Samaai_ZAF,3,bronze,discipline=Long jump;performance=8.32 m;country=ZAF,1.0
+world_athletics_championships_2017_men_marathon,athlete_Alphonce_Simbu_TZA,3,bronze,discipline=Marathon;performance=2:09:51;country=TZA,1.0
+world_athletics_championships_2017_men_marathon,athlete_Geoffrey_Kirui_KEN,1,gold,discipline=Marathon;performance=2:08:27;country=KEN,3.0
+world_athletics_championships_2017_men_marathon,athlete_Tamirat_Tola_ETH,2,silver,discipline=Marathon;performance=2:09:49;country=ETH,2.0
+world_athletics_championships_2017_men_pole-vault,athlete_Piotr_Lisek_POL,2,silver,discipline=Pole vault;performance=5.89 m;country=POL,2.0
+world_athletics_championships_2017_men_pole-vault,athlete_Renaud_Lavillenie_FRA,3,bronze,discipline=Pole vault;performance=5.89 m SB;country=FRA,1.0
+world_athletics_championships_2017_men_pole-vault,athlete_Sam_Kendricks_USA,1,gold,discipline=Pole vault;performance=5.95 m;country=USA,3.0
+world_athletics_championships_2017_men_shot-put,athlete_Joe_Kovacs_USA,2,silver,discipline=Shot put;performance=21.66 m;country=USA,2.0
+world_athletics_championships_2017_men_shot-put,athlete_Stipe_uni_HRV,3,bronze,discipline=Shot put;performance=21.46 m;country=HRV,1.0
+world_athletics_championships_2017_men_shot-put,athlete_Tomas_Walsh_NZL,1,gold,discipline=Shot put;performance=22.03 m;country=NZL,3.0
+world_athletics_championships_2017_men_triple-jump,athlete_Christian_Taylor_USA,1,gold,discipline=Triple jump;performance=17.68 m;country=USA,3.0
+world_athletics_championships_2017_men_triple-jump,athlete_Nelson_Évora_PRT,3,bronze,discipline=Triple jump;performance=17.19 m;country=PRT,1.0
+world_athletics_championships_2017_men_triple-jump,athlete_Will_Claye_USA,2,silver,discipline=Triple jump;performance=17.63 m;country=USA,2.0
+world_athletics_championships_2017_women_10-000-metres,athlete_Agnes_Jebet_Tirop_KEN,3,bronze,"discipline=10,000 metres;performance=31:03.50 PB;country=KEN",1.0
+world_athletics_championships_2017_women_10-000-metres,athlete_Almaz_Ayana_ETH,1,gold,"discipline=10,000 metres;performance=30:16.32 WL;country=ETH",3.0
+world_athletics_championships_2017_women_10-000-metres,athlete_Tirunesh_Dibaba_ETH,2,silver,"discipline=10,000 metres;performance=31:02.69 SB;country=ETH",2.0
+world_athletics_championships_2017_women_100-metres,athlete_Dafne_Schippers_NLD,3,bronze,discipline=100 metres;performance=10.96;country=NLD,1.0
+world_athletics_championships_2017_women_100-metres,athlete_Tori_Bowie_USA,1,gold,discipline=100 metres;performance=10.85 SB;country=USA,3.0
+world_athletics_championships_2017_women_100-metres-hurdles,athlete_Dawn_Harper-Nelson_USA,2,silver,discipline=100 metres hurdles;performance=12.63 SB;country=USA,2.0
+world_athletics_championships_2017_women_100-metres-hurdles,athlete_Pamela_Dutkiewicz_DEU,3,bronze,discipline=100 metres hurdles;performance=12.72;country=DEU,1.0
+world_athletics_championships_2017_women_100-metres-hurdles,athlete_Sally_Pearson_AUS,1,gold,discipline=100 metres hurdles;performance=12.59;country=AUS,3.0
+world_athletics_championships_2017_women_1500-metres,athlete_Caster_Semenya_ZAF,3,bronze,discipline=1500 metres;performance=4:02.90;country=ZAF,1.0
+world_athletics_championships_2017_women_1500-metres,athlete_Faith_Kipyegon_KEN,1,gold,discipline=1500 metres;performance=4:02.59;country=KEN,3.0
+world_athletics_championships_2017_women_1500-metres,athlete_Jennifer_Simpson_USA,2,silver,discipline=1500 metres;performance=4:02.76;country=USA,2.0
+world_athletics_championships_2017_women_20-kilometres-walk,athlete_Antonella_Palmisano_ITA,3,bronze,discipline=20 kilometres walk;performance=1:26:36 PB;country=ITA,1.0
+world_athletics_championships_2017_women_20-kilometres-walk,athlete_Lupita_González_MEX,2,silver,discipline=20 kilometres walk;performance=1:26:19 SB;country=MEX,2.0
+world_athletics_championships_2017_women_20-kilometres-walk,athlete_Yang_Jiayu_CHN,1,gold,discipline=20 kilometres walk;performance=1:26:18 PB;country=CHN,3.0
+world_athletics_championships_2017_women_200-metres,athlete_Dafne_Schippers_NLD,1,gold,discipline=200 metres;performance=22.05 SB;country=NLD,3.0
+world_athletics_championships_2017_women_200-metres,athlete_Shaunae_Miller-Uibo_BHS,3,bronze,discipline=200 metres;performance=22.15;country=BHS,1.0
+world_athletics_championships_2017_women_3000-metres-steeplechase,athlete_Courtney_Frerichs_USA,2,silver,discipline=3000 metres steeplechase;performance=9:03.77 PB;country=USA,2.0
+world_athletics_championships_2017_women_3000-metres-steeplechase,athlete_Emma_Coburn_USA,1,gold,discipline=3000 metres steeplechase;performance=9:02.58 CR;country=USA,3.0
+world_athletics_championships_2017_women_3000-metres-steeplechase,athlete_Hyvin_Jepkemoi_KEN,3,bronze,discipline=3000 metres steeplechase;performance=9:04.03;country=KEN,1.0
+world_athletics_championships_2017_women_4-100-metres-relay,GBR,2,silver,discipline=4 × 100 metres relay;performance=42.12;country=GBR,2.0
+world_athletics_championships_2017_women_4-100-metres-relay,JAM,3,bronze,discipline=4 × 100 metres relay;performance=42.19 SB;country=JAM,1.0
+world_athletics_championships_2017_women_4-100-metres-relay,USA,1,gold,discipline=4 × 100 metres relay;performance=41.82 WL;country=USA,3.0
+world_athletics_championships_2017_women_4-400-metres-relay,GBR,2,silver,discipline=4 × 400 metres relay;performance=3:25:00;country=GBR,2.0
+world_athletics_championships_2017_women_4-400-metres-relay,POL,3,bronze,discipline=4 × 400 metres relay;performance=3:25:41 SB;country=POL,1.0
+world_athletics_championships_2017_women_4-400-metres-relay,USA,1,gold,discipline=4 × 400 metres relay;performance=3:19:02 WL;country=USA,3.0
+world_athletics_championships_2017_women_400-metres,athlete_Allyson_Felix_USA,3,bronze,discipline=400 metres;performance=50.08;country=USA,1.0
+world_athletics_championships_2017_women_400-metres,athlete_Phyllis_Francis_USA,1,gold,discipline=400 metres;performance=49.92 PB;country=USA,3.0
+world_athletics_championships_2017_women_400-metres,athlete_Salwa_Eid_Naser_BHR,2,silver,discipline=400 metres;performance=50.06 NR;country=BHR,2.0
+world_athletics_championships_2017_women_400-metres-hurdles,athlete_Dalilah_Muhammad_USA,2,silver,discipline=400 metres hurdles;performance=53.50;country=USA,2.0
+world_athletics_championships_2017_women_400-metres-hurdles,athlete_Kori_Carter_USA,1,gold,discipline=400 metres hurdles;performance=53.07;country=USA,3.0
+world_athletics_championships_2017_women_400-metres-hurdles,athlete_Ristananna_Tracey_JAM,3,bronze,discipline=400 metres hurdles;performance=53.74 PB;country=JAM,1.0
+world_athletics_championships_2017_women_50-kilometres-walk,athlete_Inês_Henriques_PRT,1,gold,discipline=50 kilometres walk;performance=4:05:56 WR;country=PRT,3.0
+world_athletics_championships_2017_women_50-kilometres-walk,athlete_Yang_Shuqing_CHN,3,bronze,discipline=50 kilometres walk;performance=4:20:50;country=CHN,1.0
+world_athletics_championships_2017_women_50-kilometres-walk,athlete_Yin_Hang_CHN,2,silver,discipline=50 kilometres walk;performance=4:08:58 AR;country=CHN,2.0
+world_athletics_championships_2017_women_5000-metres,athlete_Almaz_Ayana_ETH,2,silver,discipline=5000 metres;performance=14:40.35 SB;country=ETH,2.0
+world_athletics_championships_2017_women_5000-metres,athlete_Hellen_Obiri_KEN,1,gold,discipline=5000 metres;performance=14:34.86;country=KEN,3.0
+world_athletics_championships_2017_women_5000-metres,athlete_Sifan_Hassan_NLD,3,bronze,discipline=5000 metres;performance=14:42.73;country=NLD,1.0
+world_athletics_championships_2017_women_800-metres,athlete_Ajeé_Wilson_USA,3,bronze,discipline=800 metres;performance=1:56.65;country=USA,1.0
+world_athletics_championships_2017_women_800-metres,athlete_Caster_Semenya_ZAF,1,gold,"discipline=800 metres;performance=1:55.16 WL , NR;country=ZAF",3.0
+world_athletics_championships_2017_women_800-metres,athlete_Francine_Niyonsaba_BDI,2,silver,discipline=800 metres;performance=1:55.92;country=BDI,2.0
+world_athletics_championships_2017_women_discus-throw,athlete_Dani_Stevens_AUS,2,silver,discipline=Discus throw;performance=69.64 m;country=AUS,2.0
+world_athletics_championships_2017_women_discus-throw,athlete_Mélina_Robert-Michon_FRA,3,bronze,discipline=Discus throw;performance=66.21 m SB;country=FRA,1.0
+world_athletics_championships_2017_women_discus-throw,athlete_Sandra_Perkovi_HRV,1,gold,discipline=Discus throw;performance=70.31 m;country=HRV,3.0
+world_athletics_championships_2017_women_hammer-throw,athlete_Anita_Wodarczyk_POL,1,gold,discipline=Hammer throw;performance=77.90 m;country=POL,3.0
+world_athletics_championships_2017_women_hammer-throw,athlete_Malwina_Kopron_POL,3,bronze,discipline=Hammer throw;performance=74.76 m;country=POL,1.0
+world_athletics_championships_2017_women_hammer-throw,athlete_Wang_Zheng_CHN,2,silver,discipline=Hammer throw;performance=75.98 m;country=CHN,2.0
+world_athletics_championships_2017_women_heptathlon,athlete_Anouk_Vetter_NLD,3,bronze,discipline=Heptathlon;performance=6636;country=NLD,1.0
+world_athletics_championships_2017_women_heptathlon,athlete_Carolin_Schäfer_DEU,2,silver,discipline=Heptathlon;performance=6696;country=DEU,2.0
+world_athletics_championships_2017_women_heptathlon,athlete_Nafissatou_Thiam_BEL,1,gold,discipline=Heptathlon;performance=6784;country=BEL,3.0
+world_athletics_championships_2017_women_high-jump,athlete_Kamila_Liwinko_POL,3,bronze,discipline=High jump;performance=1.99 m SB;country=POL,1.0
+world_athletics_championships_2017_women_high-jump,athlete_Yuliya_Levchenko_UKR,2,silver,discipline=High jump;performance=2.01 m PB;country=UKR,2.0
+world_athletics_championships_2017_women_javelin-throw,athlete_Barbora_potáková_CZE,1,gold,discipline=Javelin throw;performance=66.76 m;country=CZE,3.0
+world_athletics_championships_2017_women_javelin-throw,athlete_Li_Lingwei_CHN,2,silver,discipline=Javelin throw;performance=66.25 m PB;country=CHN,2.0
+world_athletics_championships_2017_women_javelin-throw,athlete_Lü_Huihui_CHN,3,bronze,discipline=Javelin throw;performance=65.26 m;country=CHN,1.0
+world_athletics_championships_2017_women_long-jump,athlete_Brittney_Reese_USA,1,gold,discipline=Long jump;performance=7.02 m;country=USA,3.0
+world_athletics_championships_2017_women_long-jump,athlete_Tianna_Bartoletta_USA,3,bronze,discipline=Long jump;performance=6.97 m;country=USA,1.0
+world_athletics_championships_2017_women_marathon,athlete_Amy_Cragg_USA,3,bronze,discipline=Marathon;performance=2:27:18;country=USA,1.0
+world_athletics_championships_2017_women_marathon,athlete_Edna_Kiplagat_KEN,2,silver,discipline=Marathon;performance=2:27:18;country=KEN,2.0
+world_athletics_championships_2017_women_marathon,athlete_Rose_Chelimo_BHR,1,gold,discipline=Marathon;performance=2:27:11;country=BHR,3.0
+world_athletics_championships_2017_women_pole-vault,athlete_Katerina_Stefanidi_GRC,1,gold,"discipline=Pole vault;performance=4.91 m WL , NR;country=GRC",3.0
+world_athletics_championships_2017_women_pole-vault,athlete_Robeilys_Peinado_Venezuela_VEN_Yarisley_Silva_CUB,3,bronze,discipline=Pole vault;performance=4.65 m = NR 4.65 m;country=CUB,1.0
+world_athletics_championships_2017_women_pole-vault,athlete_Sandi_Morris_USA,2,silver,discipline=Pole vault;performance=4.75 m;country=USA,2.0
+world_athletics_championships_2017_women_shot-put,athlete_Anita_Márton_HUN,2,silver,discipline=Shot put;performance=19.49 m;country=HUN,2.0
+world_athletics_championships_2017_women_shot-put,athlete_Gong_Lijiao_CHN,1,gold,discipline=Shot put;performance=19.94 m;country=CHN,3.0
+world_athletics_championships_2017_women_shot-put,athlete_Michelle_Carter_USA,3,bronze,discipline=Shot put;performance=19.14 m;country=USA,1.0
+world_athletics_championships_2017_women_triple-jump,athlete_Caterine_Ibargüen_COL,2,silver,discipline=Triple jump;performance=14.89 m SB;country=COL,2.0
+world_athletics_championships_2017_women_triple-jump,athlete_Olga_Rypakova_KAZ,3,bronze,discipline=Triple jump;performance=14.77 m SB;country=KAZ,1.0
+world_athletics_championships_2017_women_triple-jump,athlete_Yulimar_Rojas_VEN,1,gold,discipline=Triple jump;performance=14.91 m;country=VEN,3.0
+world_athletics_championships_2019_men_10-000-metres,athlete_Andamlak_Belihu_ETH,3,bronze,"discipline=10,000 metres;performance=26:56.71;country=ETH",1.0
+world_athletics_championships_2019_men_10-000-metres,athlete_Joshua_Cheptegei_UGA,1,gold,"discipline=10,000 metres;performance=26:48.36 WL;country=UGA",3.0
+world_athletics_championships_2019_men_10-000-metres,athlete_Yomif_Kejelcha_ETH,2,silver,"discipline=10,000 metres;performance=26:49.34 SB;country=ETH",2.0
+world_athletics_championships_2019_men_100-metres,athlete_Andre_De_Grasse_CAN,3,bronze,discipline=100 metres;performance=9.90 SB;country=CAN,1.0
+world_athletics_championships_2019_men_100-metres,athlete_Christian_Coleman_USA,1,gold,discipline=100 metres;performance=9.76 WL;country=USA,3.0
+world_athletics_championships_2019_men_100-metres,athlete_Justin_Gatlin_USA,2,silver,discipline=100 metres;performance=9.89;country=USA,2.0
+world_athletics_championships_2019_men_110-metres-hurdles,athlete_Grant_Holloway_USA,1,gold,discipline=110 metres hurdles;performance=13.10;country=USA,3.0
+world_athletics_championships_2019_men_110-metres-hurdles,athlete_Pascal_Martinot-Lagarde_France_FRA_Orlando_Ortega_ESP,3,bronze,discipline=110 metres hurdles;performance=13.18 13.30;country=ESP,1.0
+world_athletics_championships_2019_men_1500-metres,athlete_Marcin_Lewandowski_POL,3,bronze,discipline=1500 metres;performance=3:31.46 NR;country=POL,1.0
+world_athletics_championships_2019_men_1500-metres,athlete_Taoufik_Makhloufi_DZA,2,silver,discipline=1500 metres;performance=3:31.38 SB;country=DZA,2.0
+world_athletics_championships_2019_men_1500-metres,athlete_Timothy_Cheruiyot_KEN,1,gold,discipline=1500 metres;performance=3:29.26;country=KEN,3.0
+world_athletics_championships_2019_men_20-kilometres-walk,athlete_Perseus_Karlström_SWE,3,bronze,discipline=20 kilometres walk;performance=1:27.00;country=SWE,1.0
+world_athletics_championships_2019_men_20-kilometres-walk,athlete_Toshikazu_Yamanishi_JPN,1,gold,discipline=20 kilometres walk;performance=1:26.34;country=JPN,3.0
+world_athletics_championships_2019_men_200-metres,athlete_Andre_De_Grasse_CAN,2,silver,discipline=200 metres;performance=19.95;country=CAN,2.0
+world_athletics_championships_2019_men_200-metres,athlete_Noah_Lyles_USA,1,gold,discipline=200 metres;performance=19.83;country=USA,3.0
+world_athletics_championships_2019_men_200-metres,athlete_Álex_Quiñónez_ECU,3,bronze,discipline=200 metres;performance=19.98;country=ECU,1.0
+world_athletics_championships_2019_men_3000-metres-steeplechase,athlete_Conseslus_Kipruto_KEN,1,gold,discipline=3000 metres steeplechase;performance=8:01.35 WL;country=KEN,3.0
+world_athletics_championships_2019_men_3000-metres-steeplechase,athlete_Lamecha_Girma_ETH,2,silver,discipline=3000 metres steeplechase;performance=8:01.36 NR;country=ETH,2.0
+world_athletics_championships_2019_men_3000-metres-steeplechase,athlete_Soufiane_El_Bakkali_MAR,3,bronze,discipline=3000 metres steeplechase;performance=8:03.76 SB;country=MAR,1.0
+world_athletics_championships_2019_men_4-100-metres-relay,GBR,2,silver,discipline=4 × 100 metres relay;performance=37.36 AR;country=GBR,2.0
+world_athletics_championships_2019_men_4-100-metres-relay,JPN,3,bronze,discipline=4 × 100 metres relay;performance=37.43 AR;country=JPN,1.0
+world_athletics_championships_2019_men_4-100-metres-relay,USA,1,gold,discipline=4 × 100 metres relay;performance=37.10 WL;country=USA,3.0
+world_athletics_championships_2019_men_4-400-metres-relay,BEL,3,bronze,discipline=4 × 400 metres relay;performance=2:58.78 SB;country=BEL,1.0
+world_athletics_championships_2019_men_4-400-metres-relay,JAM,2,silver,discipline=4 × 400 metres relay;performance=2:57.90 SB;country=JAM,2.0
+world_athletics_championships_2019_men_4-400-metres-relay,USA,1,gold,discipline=4 × 400 metres relay;performance=2:56.69 WL;country=USA,3.0
+world_athletics_championships_2019_men_400-metres,athlete_Anthony_Zambrano_COL,2,silver,discipline=400 metres;performance=44.15 AR;country=COL,2.0
+world_athletics_championships_2019_men_400-metres,athlete_Fred_Kerley_USA,3,bronze,discipline=400 metres;performance=44.17;country=USA,1.0
+world_athletics_championships_2019_men_400-metres,athlete_Steven_Gardiner_BHS,1,gold,discipline=400 metres;performance=43.48 NR;country=BHS,3.0
+world_athletics_championships_2019_men_400-metres-hurdles,athlete_Abderrahman_Samba_QAT,3,bronze,discipline=400 metres hurdles;performance=48.03;country=QAT,1.0
+world_athletics_championships_2019_men_400-metres-hurdles,athlete_Karsten_Warholm_NOR,1,gold,discipline=400 metres hurdles;performance=47.42;country=NOR,3.0
+world_athletics_championships_2019_men_400-metres-hurdles,athlete_Rai_Benjamin_USA,2,silver,discipline=400 metres hurdles;performance=47.66;country=USA,2.0
+world_athletics_championships_2019_men_50-kilometres-walk,athlete_Evan_Dunfee_CAN,3,bronze,discipline=50 kilometres walk;performance=4:05.02;country=CAN,1.0
+world_athletics_championships_2019_men_50-kilometres-walk,athlete_João_Vieira_PRT,2,silver,discipline=50 kilometres walk;performance=4:04.59;country=PRT,2.0
+world_athletics_championships_2019_men_50-kilometres-walk,athlete_Yusuke_Suzuki_JPN,1,gold,discipline=50 kilometres walk;performance=4:04.20;country=JPN,3.0
+world_athletics_championships_2019_men_5000-metres,athlete_Mohamed_Ahmed_CAN,3,bronze,discipline=5000 metres;performance=13:01.11;country=CAN,1.0
+world_athletics_championships_2019_men_5000-metres,athlete_Muktar_Edris_ETH,1,gold,discipline=5000 metres;performance=12:58.85 SB;country=ETH,3.0
+world_athletics_championships_2019_men_5000-metres,athlete_Selemon_Barega_ETH,2,silver,discipline=5000 metres;performance=12:59.70;country=ETH,2.0
+world_athletics_championships_2019_men_800-metres,athlete_Amel_Tuka_BIH,2,silver,discipline=800 metres;performance=1:43.47 SB;country=BIH,2.0
+world_athletics_championships_2019_men_800-metres,athlete_Donavan_Brazier_USA,1,gold,"discipline=800 metres;performance=1:42.34 CR , AR;country=USA",3.0
+world_athletics_championships_2019_men_800-metres,athlete_Ferguson_Rotich_KEN,3,bronze,discipline=800 metres;performance=1:43.82;country=KEN,1.0
+world_athletics_championships_2019_men_decathlon,athlete_Damian_Warner_CAN,3,bronze,discipline=Decathlon;performance=8529;country=CAN,1.0
+world_athletics_championships_2019_men_decathlon,athlete_Maicel_Uibo_EST,2,silver,discipline=Decathlon;performance=8604 PB;country=EST,2.0
+world_athletics_championships_2019_men_decathlon,athlete_Niklas_Kaul_DEU,1,gold,discipline=Decathlon;performance=8691 PB;country=DEU,3.0
+world_athletics_championships_2019_men_discus-throw,athlete_Daniel_Ståhl_SWE,1,gold,discipline=Discus throw;performance=67.59 m;country=SWE,3.0
+world_athletics_championships_2019_men_discus-throw,athlete_Fedrick_Dacres_JAM,2,silver,discipline=Discus throw;performance=66.94 m;country=JAM,2.0
+world_athletics_championships_2019_men_discus-throw,athlete_Lukas_Weißhaidinger_AUT,3,bronze,discipline=Discus throw;performance=66.82 m;country=AUT,1.0
+world_athletics_championships_2019_men_hammer-throw,athlete_Bence_Halász_Hungary_HUN_Wojciech_Nowicki_POL,3,bronze,discipline=Hammer throw;performance=78.18 m 77.69 m;country=POL,1.0
+world_athletics_championships_2019_men_hammer-throw,athlete_Pawe_Fajdek_POL,1,gold,discipline=Hammer throw;performance=80.50 m;country=POL,3.0
+world_athletics_championships_2019_men_hammer-throw,athlete_Quentin_Bigot_FRA,2,silver,discipline=Hammer throw;performance=78.19 m SB;country=FRA,2.0
+world_athletics_championships_2019_men_high-jump,athlete_Mutaz_Essa_Barshim_QAT,1,gold,discipline=High jump;performance=2.37 m WL;country=QAT,3.0
+world_athletics_championships_2019_men_javelin-throw,athlete_Anderson_Peters_GRD,1,gold,discipline=Javelin throw;performance=86.89 m;country=GRD,3.0
+world_athletics_championships_2019_men_javelin-throw,athlete_Johannes_Vetter_DEU,3,bronze,discipline=Javelin throw;performance=85.37 m;country=DEU,1.0
+world_athletics_championships_2019_men_javelin-throw,athlete_Magnus_Kirt_EST,2,silver,discipline=Javelin throw;performance=86.21 m;country=EST,2.0
+world_athletics_championships_2019_men_long-jump,athlete_Jeff_Henderson_USA,2,silver,discipline=Long jump;performance=8.39 m SB;country=USA,2.0
+world_athletics_championships_2019_men_long-jump,athlete_Juan_Miguel_Echevarría_CUB,3,bronze,discipline=Long jump;performance=8.34 m;country=CUB,1.0
+world_athletics_championships_2019_men_long-jump,athlete_Tajay_Gayle_JAM,1,gold,"discipline=Long jump;performance=8.69 m WL , NR;country=JAM",3.0
+world_athletics_championships_2019_men_marathon,athlete_Amos_Kipruto_KEN,3,bronze,discipline=Marathon;performance=2:10:51;country=KEN,1.0
+world_athletics_championships_2019_men_marathon,athlete_Lelisa_Desisa_ETH,1,gold,discipline=Marathon;performance=2:10:40 SB;country=ETH,3.0
+world_athletics_championships_2019_men_marathon,athlete_Mosinet_Geremew_ETH,2,silver,discipline=Marathon;performance=2:10:44;country=ETH,2.0
+world_athletics_championships_2019_men_pole-vault,athlete_Armand_Duplantis_SWE,2,silver,discipline=Pole vault;performance=5.97 m;country=SWE,2.0
+world_athletics_championships_2019_men_pole-vault,athlete_Piotr_Lisek_POL,3,bronze,discipline=Pole vault;performance=5.87 m;country=POL,1.0
+world_athletics_championships_2019_men_pole-vault,athlete_Sam_Kendricks_USA,1,gold,discipline=Pole vault;performance=5.97 m;country=USA,3.0
+world_athletics_championships_2019_men_shot-put,athlete_Joe_Kovacs_USA,1,gold,discipline=Shot put;performance=22.91 m CR;country=USA,3.0
+world_athletics_championships_2019_men_shot-put,athlete_Ryan_Crouser_USA,2,silver,discipline=Shot put;performance=22.90 m SB;country=USA,2.0
+world_athletics_championships_2019_men_shot-put,athlete_Tom_Walsh_NZL,3,bronze,discipline=Shot put;performance=22.90 m AR;country=NZL,1.0
+world_athletics_championships_2019_men_triple-jump,athlete_Christian_Taylor_USA,1,gold,discipline=Triple jump;performance=17.92 m SB;country=USA,3.0
+world_athletics_championships_2019_men_triple-jump,athlete_Hugues_Fabrice_Zango_BFA,3,bronze,discipline=Triple jump;performance=17.66 m AR;country=BFA,1.0
+world_athletics_championships_2019_men_triple-jump,athlete_Will_Claye_USA,2,silver,discipline=Triple jump;performance=17.74 m;country=USA,2.0
+world_athletics_championships_2019_mixed_4-400-metres-relay,BHR,3,bronze,discipline=4 × 400 metres relay;performance=3:11.82 AR;country=BHR,1.0
+world_athletics_championships_2019_mixed_4-400-metres-relay,JAM,2,silver,discipline=4 × 400 metres relay;performance=3:11.78 NR;country=JAM,2.0
+world_athletics_championships_2019_mixed_4-400-metres-relay,USA,1,gold,discipline=4 × 400 metres relay;performance=3:09.34 WR;country=USA,3.0
+world_athletics_championships_2019_women_10-000-metres,athlete_Agnes_Jebet_Tirop_KEN,3,bronze,"discipline=10,000 metres;performance=30:25.20 PB;country=KEN",1.0
+world_athletics_championships_2019_women_10-000-metres,athlete_Letesenbet_Gidey_ETH,2,silver,"discipline=10,000 metres;performance=30:21.23 PB;country=ETH",2.0
+world_athletics_championships_2019_women_10-000-metres,athlete_Sifan_Hassan_NLD,1,gold,"discipline=10,000 metres;performance=30:17.62 WL;country=NLD",3.0
+world_athletics_championships_2019_women_100-metres,athlete_Dina_Asher-Smith_GBR,2,silver,discipline=100 metres;performance=10.83 NR;country=GBR,2.0
+world_athletics_championships_2019_women_100-metres,athlete_Shelly-Ann_Fraser-Pryce_JAM,1,gold,discipline=100 metres;performance=10.71 WL;country=JAM,3.0
+world_athletics_championships_2019_women_100-metres-hurdles,athlete_Danielle_Williams_JAM,3,bronze,discipline=100 metres hurdles;performance=12.47;country=JAM,1.0
+world_athletics_championships_2019_women_100-metres-hurdles,athlete_Kendra_Harrison_USA,2,silver,discipline=100 metres hurdles;performance=12.46;country=USA,2.0
+world_athletics_championships_2019_women_100-metres-hurdles,athlete_Nia_Ali_USA,1,gold,discipline=100 metres hurdles;performance=12.34 PB;country=USA,3.0
+world_athletics_championships_2019_women_1500-metres,athlete_Faith_Kipyegon_KEN,2,silver,discipline=1500 metres;performance=3:54.22 NR;country=KEN,2.0
+world_athletics_championships_2019_women_1500-metres,athlete_Gudaf_Tsegay_ETH,3,bronze,discipline=1500 metres;performance=3:54.38 PB;country=ETH,1.0
+world_athletics_championships_2019_women_1500-metres,athlete_Sifan_Hassan_NLD,1,gold,"discipline=1500 metres;performance=3:51.95 CR , AR;country=NLD",3.0
+world_athletics_championships_2019_women_20-kilometres-walk,athlete_Liu_Hong_CHN,1,gold,discipline=20 kilometres walk;performance=1:32.53;country=CHN,3.0
+world_athletics_championships_2019_women_20-kilometres-walk,athlete_Qieyang_Shijie_CHN,2,silver,discipline=20 kilometres walk;performance=1:33.10;country=CHN,2.0
+world_athletics_championships_2019_women_20-kilometres-walk,athlete_Yang_Liujing_CHN,3,bronze,discipline=20 kilometres walk;performance=1:33.17;country=CHN,1.0
+world_athletics_championships_2019_women_200-metres,athlete_Brittany_Brown_USA,2,silver,discipline=200 metres;performance=22.22 PB;country=USA,2.0
+world_athletics_championships_2019_women_200-metres,athlete_Dina_Asher-Smith_GBR,1,gold,discipline=200 metres;performance=21.88 NR;country=GBR,3.0
+world_athletics_championships_2019_women_200-metres,athlete_Mujinga_Kambundji_CHE,3,bronze,discipline=200 metres;performance=22.51;country=CHE,1.0
+world_athletics_championships_2019_women_3000-metres-steeplechase,athlete_Beatrice_Chepkoech_KEN,1,gold,discipline=3000 metres steeplechase;performance=8:57.84 CR;country=KEN,3.0
+world_athletics_championships_2019_women_3000-metres-steeplechase,athlete_Emma_Coburn_USA,2,silver,discipline=3000 metres steeplechase;performance=9:02.35 PB;country=USA,2.0
+world_athletics_championships_2019_women_3000-metres-steeplechase,athlete_Gesa_Felicitas_Krause_DEU,3,bronze,discipline=3000 metres steeplechase;performance=9:03.30 NR;country=DEU,1.0
+world_athletics_championships_2019_women_4-100-metres-relay,GBR,2,silver,discipline=4 × 100 metres relay;performance=41.85 SB;country=GBR,2.0
+world_athletics_championships_2019_women_4-100-metres-relay,JAM,1,gold,discipline=4 × 100 metres relay;performance=41.44 WL;country=JAM,3.0
+world_athletics_championships_2019_women_4-100-metres-relay,USA,3,bronze,discipline=4 × 100 metres relay;performance=42.10 SB;country=USA,1.0
+world_athletics_championships_2019_women_4-400-metres-relay,JAM,3,bronze,discipline=4 × 400 metres relay;performance=3:22.37 SB;country=JAM,1.0
+world_athletics_championships_2019_women_4-400-metres-relay,POL,2,silver,discipline=4 × 400 metres relay;performance=3:21.89 NR;country=POL,2.0
+world_athletics_championships_2019_women_4-400-metres-relay,USA,1,gold,discipline=4 × 400 metres relay;performance=3:18.92 WL;country=USA,3.0
+world_athletics_championships_2019_women_400-metres,athlete_Salwa_Eid_Naser_BHR,1,gold,"discipline=400 metres;performance=48.14 AR , WL;country=BHR",3.0
+world_athletics_championships_2019_women_400-metres,athlete_Shaunae_Miller-Uibo_BHS,2,silver,discipline=400 metres;performance=48.37 AR;country=BHS,2.0
+world_athletics_championships_2019_women_400-metres,athlete_Shericka_Jackson_JAM,3,bronze,discipline=400 metres;performance=49.47 PB;country=JAM,1.0
+world_athletics_championships_2019_women_400-metres-hurdles,athlete_Dalilah_Muhammad_USA,1,gold,discipline=400 metres hurdles;performance=52.16 WR;country=USA,3.0
+world_athletics_championships_2019_women_400-metres-hurdles,athlete_Rushell_Clayton_JAM,3,bronze,discipline=400 metres hurdles;performance=53.74 PB;country=JAM,1.0
+world_athletics_championships_2019_women_400-metres-hurdles,athlete_Sydney_McLaughlin_USA,2,silver,discipline=400 metres hurdles;performance=52.23 PB;country=USA,2.0
+world_athletics_championships_2019_women_50-kilometres-walk,athlete_Eleonora_Giorgi_ITA,3,bronze,discipline=50 kilometres walk;performance=4:29.13;country=ITA,1.0
+world_athletics_championships_2019_women_50-kilometres-walk,athlete_Li_Maocuo_CHN,2,silver,discipline=50 kilometres walk;performance=4:26.40;country=CHN,2.0
+world_athletics_championships_2019_women_50-kilometres-walk,athlete_Liang_Rui_CHN,1,gold,discipline=50 kilometres walk;performance=4:23.26;country=CHN,3.0
+world_athletics_championships_2019_women_5000-metres,athlete_Hellen_Obiri_KEN,1,gold,discipline=5000 metres;performance=14:26.72 CR;country=KEN,3.0
+world_athletics_championships_2019_women_5000-metres,athlete_Konstanze_Klosterhalfen_DEU,3,bronze,discipline=5000 metres;performance=14:28.43;country=DEU,1.0
+world_athletics_championships_2019_women_5000-metres,athlete_Margaret_Kipkemboi_KEN,2,silver,discipline=5000 metres;performance=14:27.49 PB;country=KEN,2.0
+world_athletics_championships_2019_women_800-metres,athlete_Ajeé_Wilson_USA,3,bronze,discipline=800 metres;performance=1:58.84;country=USA,1.0
+world_athletics_championships_2019_women_800-metres,athlete_Halimah_Nakaayi_UGA,1,gold,discipline=800 metres;performance=1:58.04 NR;country=UGA,3.0
+world_athletics_championships_2019_women_800-metres,athlete_Raevyn_Rogers_USA,2,silver,discipline=800 metres;performance=1:58.18 SB;country=USA,2.0
+world_athletics_championships_2019_women_discus-throw,athlete_Denia_Caballero_CUB,2,silver,discipline=Discus throw;performance=68.44 m;country=CUB,2.0
+world_athletics_championships_2019_women_discus-throw,athlete_Sandra_Perkovi_HRV,3,bronze,discipline=Discus throw;performance=66.72 m;country=HRV,1.0
+world_athletics_championships_2019_women_discus-throw,athlete_Yaime_Pérez_CUB,1,gold,discipline=Discus throw;performance=69.17 m;country=CUB,3.0
+world_athletics_championships_2019_women_hammer-throw,athlete_DeAnna_Price_USA,1,gold,discipline=Hammer throw;performance=77.54 m;country=USA,3.0
+world_athletics_championships_2019_women_hammer-throw,athlete_Joanna_Fiodorow_POL,2,silver,discipline=Hammer throw;performance=76.35 m PB;country=POL,2.0
+world_athletics_championships_2019_women_hammer-throw,athlete_Wang_Zheng_CHN,3,bronze,discipline=Hammer throw;performance=74.76 m;country=CHN,1.0
+world_athletics_championships_2019_women_heptathlon,athlete_Katarina_Johnson-Thompson_GBR,1,gold,"discipline=Heptathlon;performance=6981 WL , NR;country=GBR",3.0
+world_athletics_championships_2019_women_heptathlon,athlete_Nafissatou_Thiam_BEL,2,silver,discipline=Heptathlon;performance=6677;country=BEL,2.0
+world_athletics_championships_2019_women_heptathlon,athlete_Verena_Preiner_AUT,3,bronze,discipline=Heptathlon;performance=6560;country=AUT,1.0
+world_athletics_championships_2019_women_high-jump,athlete_Vashti_Cunningham_USA,3,bronze,discipline=High jump;performance=2.00 m PB;country=USA,1.0
+world_athletics_championships_2019_women_high-jump,athlete_Yaroslava_Mahuchikh_UKR,2,silver,discipline=High jump;performance=2.04 m WU20R;country=UKR,2.0
+world_athletics_championships_2019_women_javelin-throw,athlete_Kelsey-Lee_Barber_AUS,1,gold,discipline=Javelin throw;performance=66.56 m;country=AUS,3.0
+world_athletics_championships_2019_women_javelin-throw,athlete_Liu_Shiying_CHN,2,silver,discipline=Javelin throw;performance=65.88 m SB;country=CHN,2.0
+world_athletics_championships_2019_women_javelin-throw,athlete_Lü_Huihui_CHN,3,bronze,discipline=Javelin throw;performance=65.49 m;country=CHN,1.0
+world_athletics_championships_2019_women_long-jump,athlete_Ese_Brume_NGA,3,bronze,discipline=Long jump;performance=6.91 m;country=NGA,1.0
+world_athletics_championships_2019_women_long-jump,athlete_Malaika_Mihambo_DEU,1,gold,"discipline=Long jump;performance=7.30 m WL , PB;country=DEU",3.0
+world_athletics_championships_2019_women_long-jump,athlete_Maryna_Bekh-Romanchuk_UKR,2,silver,discipline=Long jump;performance=6.92 m SB;country=UKR,2.0
+world_athletics_championships_2019_women_marathon,athlete_Helalia_Johannes_NAM,3,bronze,discipline=Marathon;performance=2:34:15;country=NAM,1.0
+world_athletics_championships_2019_women_marathon,athlete_Rose_Chelimo_BHR,2,silver,discipline=Marathon;performance=2:33:46;country=BHR,2.0
+world_athletics_championships_2019_women_marathon,athlete_Ruth_Chepngetich_KEN,1,gold,discipline=Marathon;performance=2:32:43;country=KEN,3.0
+world_athletics_championships_2019_women_pole-vault,athlete_Katerina_Stefanidi_GRC,3,bronze,discipline=Pole vault;performance=4.85 m;country=GRC,1.0
+world_athletics_championships_2019_women_pole-vault,athlete_Sandi_Morris_USA,2,silver,discipline=Pole vault;performance=4.90 m;country=USA,2.0
+world_athletics_championships_2019_women_shot-put,athlete_Christina_Schwanitz_DEU,3,bronze,discipline=Shot put;performance=19.17 m;country=DEU,1.0
+world_athletics_championships_2019_women_shot-put,athlete_Danniel_Thomas-Dodd_JAM,2,silver,discipline=Shot put;performance=19.47 m;country=JAM,2.0
+world_athletics_championships_2019_women_shot-put,athlete_Gong_Lijiao_CHN,1,gold,discipline=Shot put;performance=19.55 m;country=CHN,3.0
+world_athletics_championships_2019_women_triple-jump,athlete_Caterine_Ibargüen_COL,3,bronze,discipline=Triple jump;performance=14.73 m;country=COL,1.0
+world_athletics_championships_2019_women_triple-jump,athlete_Shanieka_Ricketts_JAM,2,silver,discipline=Triple jump;performance=14.92 m;country=JAM,2.0
+world_athletics_championships_2019_women_triple-jump,athlete_Yulimar_Rojas_VEN,1,gold,discipline=Triple jump;performance=15.37 m;country=VEN,3.0
 world_athletics_championships_2022_men_10-000-metres,athlete_Jacob_Kiplimo_UGA,3,bronze,"discipline=10,000 metres;performance=27:27.97 SB;country=UGA",1.0
 world_athletics_championships_2022_men_10-000-metres,athlete_Joshua_Cheptegei_UGA,1,gold,"discipline=10,000 metres;performance=27:27.43 SB;country=UGA",3.0
 world_athletics_championships_2022_men_10-000-metres,athlete_Stanley_Mburu_KEN,2,silver,"discipline=10,000 metres;performance=27:27.90 SB;country=KEN",2.0
@@ -74,6 +1369,9 @@ world_athletics_championships_2022_men_triple-jump,athlete_Zhu_Yaming_CHN,3,bron
 world_athletics_championships_2022_mixed_4-400-metres-relay,DOM,1,gold,discipline=4 × 400 metres relay;performance=3:09.82 WL;country=DOM,3.0
 world_athletics_championships_2022_mixed_4-400-metres-relay,NLD,2,silver,discipline=4 × 400 metres relay;performance=3:09.90 NR;country=NLD,2.0
 world_athletics_championships_2022_mixed_4-400-metres-relay,USA,3,bronze,discipline=4 × 400 metres relay;performance=3:10.16 SB;country=USA,1.0
+world_athletics_championships_2022_mixed_world-team,ETH,3,bronze,discipline=World Team;performance=106 pts;country=ETH,1.0
+world_athletics_championships_2022_mixed_world-team,JAM,2,silver,discipline=World Team;performance=110 pts;country=JAM,2.0
+world_athletics_championships_2022_mixed_world-team,USA,1,gold,discipline=World Team;performance=328 pts;country=USA,3.0
 world_athletics_championships_2022_women_10-000-metres,athlete_Hellen_Obiri_KEN,2,silver,"discipline=10,000 metres;performance=30:10.02 PB;country=KEN",2.0
 world_athletics_championships_2022_women_10-000-metres,athlete_Letesenbet_Gidey_ETH,1,gold,"discipline=10,000 metres;performance=30:09.94 WL;country=ETH",3.0
 world_athletics_championships_2022_women_10-000-metres,athlete_Margaret_Kipkemboi_KEN,3,bronze,"discipline=10,000 metres;performance=30:10.07 PB;country=KEN",1.0

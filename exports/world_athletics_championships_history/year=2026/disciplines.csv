@@ -1,27 +1,55 @@
 discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
-athletics_10-000-metres,"10,000 metres",10-000-metres,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T22:53:25+00:00
-athletics_100-metres,100 metres,100-metres,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T22:53:25+00:00
-athletics_100-metres-hurdles,100 metres hurdles,100-metres-hurdles,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T22:53:25+00:00
-athletics_110-metres-hurdles,110 metres hurdles,110-metres-hurdles,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T22:53:25+00:00
-athletics_1500-metres,1500 metres,1500-metres,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T22:53:25+00:00
-athletics_20-kilometres-walk,20 kilometres walk,20-kilometres-walk,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T22:53:25+00:00
-athletics_200-metres,200 metres,200-metres,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T22:53:25+00:00
-athletics_3000-metres-steeplechase,3000 metres steeplechase,3000-metres-steeplechase,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T22:53:25+00:00
-athletics_35-kilometres-walk,35 kilometres walk,35-kilometres-walk,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T22:53:25+00:00
-athletics_4-100-metres-relay,4 × 100 metres relay,4-100-metres-relay,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T22:53:25+00:00
-athletics_4-400-metres-relay,4 × 400 metres relay,4-400-metres-relay,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T22:53:25+00:00
-athletics_400-metres,400 metres,400-metres,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T22:53:25+00:00
-athletics_400-metres-hurdles,400 metres hurdles,400-metres-hurdles,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T22:53:25+00:00
-athletics_5000-metres,5000 metres,5000-metres,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T22:53:25+00:00
-athletics_800-metres,800 metres,800-metres,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T22:53:25+00:00
-athletics_decathlon,Decathlon,decathlon,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T22:53:25+00:00
-athletics_discus-throw,Discus throw,discus-throw,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T22:53:25+00:00
-athletics_hammer-throw,Hammer throw,hammer-throw,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T22:53:25+00:00
-athletics_heptathlon,Heptathlon,heptathlon,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T22:53:25+00:00
-athletics_high-jump,High jump,high-jump,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T22:53:25+00:00
-athletics_javelin-throw,Javelin throw,javelin-throw,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T22:53:25+00:00
-athletics_long-jump,Long jump,long-jump,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T22:53:25+00:00
-athletics_marathon,Marathon,marathon,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T22:53:25+00:00
-athletics_pole-vault,Pole vault,pole-vault,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T22:53:25+00:00
-athletics_shot-put,Shot put,shot-put,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T22:53:25+00:00
-athletics_triple-jump,Triple jump,triple-jump,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T22:53:25+00:00
+athletics_10-000-m,"10,000 m",10-000-m,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_10-000-metres,"10,000 metres",10-000-metres,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_100-m,100 m,100-m,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_100-m-hurdles,100 m hurdles,100-m-hurdles,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_100-metres,100 metres,100-metres,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_100-metres-hurdles,100 metres hurdles,100-metres-hurdles,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_110-m-hurdles,110 m hurdles,110-m-hurdles,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_110-metres-hurdles,110 metres hurdles,110-metres-hurdles,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_1500-m,1500 m,1500-m,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_1500-metres,1500 metres,1500-metres,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_20-kilometres-walk,20 kilometres walk,20-kilometres-walk,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_20-km-race-walk,20 km race walk,20-km-race-walk,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_20-km-walk,20 km walk,20-km-walk,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_200-m,200 m,200-m,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_200-metres,200 metres,200-metres,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_3000-m-s-chase,3000 m s'chase,3000-m-s-chase,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_3000-m-st,3000 m st.,3000-m-st,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_3000-m-steeplechase,3000 m steeplechase,3000-m-steeplechase,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_3000-metres-steeplechase,3000 metres steeplechase,3000-metres-steeplechase,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_35-kilometres-walk,35 kilometres walk,35-kilometres-walk,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_4-100-m-relay,4 × 100 m relay,4-100-m-relay,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_4-100-metres-relay,4 × 100 metres relay,4-100-metres-relay,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_4-400-m-relay,4 × 400 m relay,4-400-m-relay,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_4-400-metres-relay,4 × 400 metres relay,4-400-metres-relay,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_400-m,400 m,400-m,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_400-m-hurdles,400 m hurdles,400-m-hurdles,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_400-metres,400 metres,400-metres,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_400-metres-hurdles,400 metres hurdles,400-metres-hurdles,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_50-kilometres-walk,50 kilometres walk,50-kilometres-walk,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_50-km-race-walk,50 km race walk,50-km-race-walk,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_50-km-walk,50 km walk,50-km-walk,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_5000-m,5000 m,5000-m,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_5000-metres,5000 metres,5000-metres,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_800-m,800 m,800-m,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_800-metres,800 metres,800-metres,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_decathlon,Decathlon,decathlon,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_discus,Discus,discus,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_discus-throw,Discus throw,discus-throw,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_hammer,Hammer,hammer,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_hammer-throw,Hammer throw,hammer-throw,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_heptathlon,Heptathlon,heptathlon,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_high-jump,High jump,high-jump,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_javelin,Javelin,javelin,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_javelin-throw,Javelin throw,javelin-throw,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_long-jump,Long jump,long-jump,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_marathon,Marathon,marathon,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_pole-vault,Pole vault,pole-vault,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_shot-put,Shot put,shot-put,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_t12-visually-impaired-200-m-women,T12 Visually impaired 200 m women,t12-visually-impaired-200-m-women,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_t54-wheelchair-racing-100-m-men,T54 Wheelchair racing 100 m men,t54-wheelchair-racing-100-m-men,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_t54-wheelchair-racing-200-m-men,T54 Wheelchair racing 200 m men,t54-wheelchair-racing-200-m-men,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_triple-jump,Triple jump,triple-jump,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_wheelchair-javelin-men,Wheelchair javelin men,wheelchair-javelin-men,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00
+athletics_world-team,World Team,world-team,athletics,1.0,connector_world_athletics_championships_history,2026-02-24T23:10:17+00:00

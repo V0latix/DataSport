@@ -259,6 +259,7 @@ python -m pipelines.init_databases
   - si un athlete existe deja dans `participants` (match nom + pays), reutiliser son `participant_id`
 - seed local:
   - `data/raw/athletics/world_athletics_championships_top3_seed.csv`
+  - couverture actuelle: editions >= 2000 (2001, 2003, ..., 2019, 2022, 2023, 2025)
 
 ## 10) Cas JO d'été Paris 2024
 
