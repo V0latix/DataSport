@@ -380,7 +380,7 @@ Comportement:
   - `olympics_summer`
   - `olympics_winter`
 - intègre Paris 2024 dans `olympics_summer` via `data/raw/olympics/paris2024_medals_by_event.csv`
-- ajoute les JO d'hiver 2026 dans `olympics_winter` via le seed `data/raw/olympics/winter2026_medal_table_seed.csv` (event national `medal table`)
+- intègre les JO d'hiver 2026 dans `olympics_winter` via `data/raw/olympics/winter2026_medals_by_event_seed.csv` (médaillés par épreuve, top 3)
 - crée un event par épreuve et ne conserve que les résultats médaillés (or/argent/bronze)
 - `event_id` porte le niveau édition+épreuve (ex: `olympics_summer_2020_athletics_100m-men`)
 - conserve des IDs explicites (`athlete_*` / `nation_*`)

@@ -82,3 +82,6 @@ import_2b0f0e59490a6f2ff2251f9cf45afb1365292320,world_athletics_championships_hi
 import_6ef8482d78f762f75973541d44dc8d6d89575853,olympics_keith_history,2026-02-24T23:21:30+00:00,/Users/romain/dev/DataSport/data/raw/olympics_keith_history/20260224T232123Z,success,
 import_9d911086540320b9b559312f4241ec84494ca696,olympics_keith_history,2026-02-24T23:33:19+00:00,/Users/romain/dev/DataSport/data/raw/olympics_keith_history/20260224T233313Z,success,
 import_a7860046bb156158b9ae61b9edbdf6bdb110c18c,olympics_keith_history,2026-02-24T23:35:08+00:00,/Users/romain/dev/DataSport/data/raw/olympics_keith_history/20260224T233503Z,success,
+import_70a1052156ff5cb8aa85ed5e9b6ee0f4e456db95,olympics_keith_history,2026-02-25T00:03:55+00:00,/Users/romain/dev/DataSport/data/raw/olympics_keith_history/20260225T000350Z,success,
+import_8c62133a66069f49857a648491495594813f3317,olympics_keith_history,2026-02-25T00:05:34+00:00,/Users/romain/dev/DataSport/data/raw/olympics_keith_history/20260225T000532Z,error,FOREIGN KEY constraint failed
+import_06413e553d52d6e4825ce58689b88c6b944ade65,olympics_keith_history,2026-02-25T00:05:57+00:00,/Users/romain/dev/DataSport/data/raw/olympics_keith_history/20260225T000552Z,success,

@@ -1,0 +1,350 @@
+code,name,discipline,event,color
+SUI,Franjo von Allmen,Alpine skiing,Men's Downhill,G
+ITA,Giovanni Franzoni,Alpine skiing,Men's Downhill,S
+ITA,Dominik Paris,Alpine skiing,Men's Downhill,B
+SUI,Franjo von Allmen,Alpine skiing,Men's Super-G,G
+USA,Ryan Cochran-Siegle,Alpine skiing,Men's Super-G,S
+SUI,Marco Odermatt,Alpine skiing,Men's Super-G,B
+BRA,Lucas Pinheiro Braathen,Alpine skiing,Men's Giant slalom,G
+SUI,Marco Odermatt,Alpine skiing,Men's Giant slalom,S
+SUI,Loïc Meillard,Alpine skiing,Men's Giant slalom,B
+SUI,Loïc Meillard,Alpine skiing,Men's Slalom,G
+AUT,Fabio Gstrein,Alpine skiing,Men's Slalom,S
+NOR,Henrik Kristoffersen,Alpine skiing,Men's Slalom,B
+SUI,,Alpine skiing,Men's Team combined,G
+AUT,,Alpine skiing,Men's Team combined,S
+SUI,,Alpine skiing,Men's Team combined,S
+USA,Breezy Johnson,Alpine skiing,Women's Downhill,G
+GER,Emma Aicher,Alpine skiing,Women's Downhill,S
+ITA,Sofia Goggia,Alpine skiing,Women's Downhill,B
+ITA,Federica Brignone,Alpine skiing,Women's Super-G,G
+FRA,Romane Miradoli,Alpine skiing,Women's Super-G,S
+AUT,Cornelia Hütter,Alpine skiing,Women's Super-G,B
+ITA,Federica Brignone,Alpine skiing,Women's Giant slalom,G
+NOR,Thea Louise Stjernesund,Alpine skiing,Women's Giant slalom,S
+SWE,Sara Hector,Alpine skiing,Women's Giant slalom,S
+USA,Mikaela Shiffrin,Alpine skiing,Women's Slalom,G
+SUI,Camille Rast,Alpine skiing,Women's Slalom,S
+SWE,Anna Swenn-Larsson,Alpine skiing,Women's Slalom,B
+AUT,,Alpine skiing,Women's Team combined,G
+GER,,Alpine skiing,Women's Team combined,S
+USA,,Alpine skiing,Women's Team combined,B
+NOR,Johan-Olav Botn,Biathlon,Men's Individual,G
+FRA,Éric Perrot,Biathlon,Men's Individual,S
+NOR,Sturla Holm Lægreid,Biathlon,Men's Individual,B
+FRA,Quentin Fillon Maillet,Biathlon,Men's Sprint,G
+NOR,Vetle Sjåstad Christiansen,Biathlon,Men's Sprint,S
+NOR,Sturla Holm Lægreid,Biathlon,Men's Sprint,B
+SWE,Martin Ponsiluoma,Biathlon,Men's Pursuit,G
+NOR,Sturla Holm Lægreid,Biathlon,Men's Pursuit,S
+FRA,Émilien Jacquelin,Biathlon,Men's Pursuit,B
+NOR,Johannes Dale-Skjevdal,Biathlon,Men's Mass start,G
+NOR,Sturla Holm Lægreid,Biathlon,Men's Mass start,S
+FRA,Quentin Fillon Maillet,Biathlon,Men's Mass start,B
+FRA,,Biathlon,Men's Relay,G
+NOR,,Biathlon,Men's Relay,S
+SWE,,Biathlon,Men's Relay,B
+FRA,Julia Simon,Biathlon,Women's Individual,G
+FRA,Lou Jeanmonnot,Biathlon,Women's Individual,S
+BUL,Lora Hristova,Biathlon,Women's Individual,B
+NOR,Maren Kirkeeide,Biathlon,Women's Sprint,G
+FRA,Océane Michelon,Biathlon,Women's Sprint,S
+FRA,Lou Jeanmonnot,Biathlon,Women's Sprint,B
+ITA,Lisa Vittozzi,Biathlon,Women's Pursuit,G
+NOR,Maren Kirkeeide,Biathlon,Women's Pursuit,S
+FIN,Suvi Minkkinen,Biathlon,Women's Pursuit,B
+FRA,Océane Michelon,Biathlon,Women's Mass start,G
+FRA,Julia Simon,Biathlon,Women's Mass start,S
+CZE,Tereza Voborníková,Biathlon,Women's Mass start,B
+FRA,,Biathlon,Women's Relay,G
+SWE,,Biathlon,Women's Relay,S
+NOR,,Biathlon,Women's Relay,B
+FRA,,Biathlon,Mixed Relay,G
+ITA,,Biathlon,Mixed Relay,S
+GER,,Biathlon,Mixed Relay,B
+GER,,Bobsleigh,Two-man,G
+GER,,Bobsleigh,Two-man,S
+GER,,Bobsleigh,Two-man,B
+GER,,Bobsleigh,Four-man,G
+GER,,Bobsleigh,Four-man,S
+SUI,,Bobsleigh,Four-man,B
+USA,Elana Meyers Taylor,Bobsleigh,Women's monobob,G
+GER,Laura Nolte,Bobsleigh,Women's monobob,S
+USA,Kaillie Humphries,Bobsleigh,Women's monobob,B
+GER,,Bobsleigh,Two-woman,G
+GER,,Bobsleigh,Two-woman,S
+USA,,Bobsleigh,Two-woman,B
+NOR,Johannes Høsflot Klæbo,Cross-country skiing,Men's 10 kilometre freestyle,G
+FRA,Mathis Desloges,Cross-country skiing,Men's 10 kilometre freestyle,S
+NOR,Einar Hedegart,Cross-country skiing,Men's 10 kilometre freestyle,B
+NOR,Johannes Høsflot Klæbo,Cross-country skiing,Men's 20 kilometre skiathlon,G
+FRA,Mathis Desloges,Cross-country skiing,Men's 20 kilometre skiathlon,S
+NOR,Martin Løwstrøm Nyenget,Cross-country skiing,Men's 20 kilometre skiathlon,B
+NOR,Johannes Høsflot Klæbo,Cross-country skiing,Men's 50 kilometre classical,G
+NOR,Martin Løwstrøm Nyenget,Cross-country skiing,Men's 50 kilometre classical,S
+NOR,Emil Iversen,Cross-country skiing,Men's 50 kilometre classical,B
+NOR,,Cross-country skiing,Men's 4 × 7.5 kilometre relay,G
+FRA,,Cross-country skiing,Men's 4 × 7.5 kilometre relay,S
+ITA,,Cross-country skiing,Men's 4 × 7.5 kilometre relay,B
+NOR,Johannes Høsflot Klæbo,Cross-country skiing,Men's Sprint classical,G
+USA,Ben Ogden,Cross-country skiing,Men's Sprint classical,S
+NOR,Oskar Opstad Vike,Cross-country skiing,Men's Sprint classical,B
+NOR,,Cross-country skiing,Men's Team sprint freestyle,G
+USA,,Cross-country skiing,Men's Team sprint freestyle,S
+ITA,,Cross-country skiing,Men's Team sprint freestyle,B
+SWE,Frida Karlsson,Cross-country skiing,Women's 10 kilometre freestyle,G
+SWE,Ebba Andersson,Cross-country skiing,Women's 10 kilometre freestyle,S
+USA,Jessie Diggins,Cross-country skiing,Women's 10 kilometre freestyle,B
+SWE,Frida Karlsson,Cross-country skiing,Women's 20 kilometre skiathlon,G
+SWE,Ebba Andersson,Cross-country skiing,Women's 20 kilometre skiathlon,S
+NOR,Heidi Weng,Cross-country skiing,Women's 20 kilometre skiathlon,B
+SWE,Ebba Andersson,Cross-country skiing,Women's 50 kilometre classical,G
+NOR,Heidi Weng,Cross-country skiing,Women's 50 kilometre classical,S
+SUI,Nadja Kälin,Cross-country skiing,Women's 50 kilometre classical,B
+NOR,,Cross-country skiing,Women's 4 × 7.5 kilometre relay,G
+SWE,,Cross-country skiing,Women's 4 × 7.5 kilometre relay,S
+FIN,,Cross-country skiing,Women's 4 × 7.5 kilometre relay,B
+SWE,Linn Svahn,Cross-country skiing,Women's Sprint classical,G
+SWE,Jonna Sundling,Cross-country skiing,Women's Sprint classical,S
+SWE,Maja Dahlqvist,Cross-country skiing,Women's Sprint classical,B
+SWE,,Cross-country skiing,Women's Team sprint freestyle,G
+SUI,,Cross-country skiing,Women's Team sprint freestyle,S
+GER,,Cross-country skiing,Women's Team sprint freestyle,B
+CAN,,Curling,Men,G
+GBR,,Curling,Men,S
+SUI,,Curling,Men,B
+SWE,,Curling,Women,G
+SUI,,Curling,Women,S
+CAN,,Curling,Women,B
+SWE,,Curling,Mixed doubles,G
+USA,,Curling,Mixed doubles,S
+ITA,,Curling,Mixed doubles,B
+KAZ,,Figure skating,Men's singles,G
+JPN,,Figure skating,Men's singles,S
+JPN,,Figure skating,Men's singles,B
+USA,,Figure skating,Women's singles,G
+JPN,,Figure skating,Women's singles,S
+JPN,,Figure skating,Women's singles,B
+JPN,,Figure skating,Pair skating,G
+GEO,,Figure skating,Pair skating,S
+GER,,Figure skating,Pair skating,B
+FRA,,Figure skating,Ice dance,G
+USA,,Figure skating,Ice dance,S
+CAN,,Figure skating,Ice dance,B
+USA,,Figure skating,Team event,G
+JPN,,Figure skating,Team event,S
+ITA,,Figure skating,Team event,B
+CHN,Wang Xindi,Freestyle skiing,Men's Aerials,G
+SUI,Noé Roth,Freestyle skiing,Men's Aerials,S
+CHN,Li Tianma,Freestyle skiing,Men's Aerials,B
+NOR,Tormod Frostad,Freestyle skiing,Men's Big air,G
+USA,Mac Forehand,Freestyle skiing,Men's Big air,S
+AUT,Matěj Švancer,Freestyle skiing,Men's Big air,B
+USA,Alex Ferreira,Freestyle skiing,Men's Halfpipe,G
+EST,Henry Sildaru,Freestyle skiing,Men's Halfpipe,S
+CAN,Brendan Mackay,Freestyle skiing,Men's Halfpipe,B
+NOR,Birk Ruud,Freestyle skiing,Men's Slopestyle,G
+USA,Alex Hall,Freestyle skiing,Men's Slopestyle,S
+NZL,Luca Harrington,Freestyle skiing,Men's Slopestyle,B
+AUS,Cooper Woods-Topalovic,Freestyle skiing,Men's Moguls,G
+CAN,Mikaël Kingsbury,Freestyle skiing,Men's Moguls,S
+JPN,Ikuma Horishima,Freestyle skiing,Men's Moguls,B
+CAN,Mikaël Kingsbury,Freestyle skiing,Men's Dual moguls,G
+JPN,Ikuma Horishima,Freestyle skiing,Men's Dual moguls,S
+AUS,Matt Graham,Freestyle skiing,Men's Dual moguls,B
+ITA,Simone Deromedis,Freestyle skiing,Men's Ski cross,G
+ITA,Federico Tomasoni,Freestyle skiing,Men's Ski cross,S
+SUI,Alex Fiva,Freestyle skiing,Men's Ski cross,B
+CHN,Xu Mengtao,Freestyle skiing,Women's Aerials,G
+AUS,Danielle Scott,Freestyle skiing,Women's Aerials,S
+CHN,Shao Qi,Freestyle skiing,Women's Aerials,B
+CAN,Megan Oldham,Freestyle skiing,Women's Big air,G
+CHN,Eileen Gu,Freestyle skiing,Women's Big air,S
+ITA,Flora Tabanelli,Freestyle skiing,Women's Big air,B
+CHN,Eileen Gu,Freestyle skiing,Women's Halfpipe,G
+CHN,Li Fanghui,Freestyle skiing,Women's Halfpipe,S
+GBR,Zoe Atkin,Freestyle skiing,Women's Halfpipe,B
+SUI,Mathilde Gremaud,Freestyle skiing,Women's Slopestyle,G
+CHN,Eileen Gu,Freestyle skiing,Women's Slopestyle,S
+CAN,Megan Oldham,Freestyle skiing,Women's Slopestyle,B
+USA,Elizabeth Lemley,Freestyle skiing,Women's Moguls,G
+USA,Jaelin Kauf,Freestyle skiing,Women's Moguls,S
+FRA,Perrine Laffont,Freestyle skiing,Women's Moguls,B
+AUS,Jakara Anthony,Freestyle skiing,Women's Dual moguls,G
+USA,Jaelin Kauf,Freestyle skiing,Women's Dual moguls,S
+USA,Elizabeth Lemley,Freestyle skiing,Women's Dual moguls,B
+GER,Daniela Maier,Freestyle skiing,Women's Ski cross,G
+SUI,Fanny Smith,Freestyle skiing,Women's Ski cross,S
+SWE,Sandra Näslund,Freestyle skiing,Women's Ski cross,B
+USA,,Freestyle skiing,Mixed Team aerials,G
+SUI,,Freestyle skiing,Mixed Team aerials,S
+CHN,,Freestyle skiing,Mixed Team aerials,B
+USA,,Ice hockey,Men's tournament,G
+CAN,,Ice hockey,Men's tournament,S
+FIN,,Ice hockey,Men's tournament,B
+USA,,Ice hockey,Women's tournament,G
+CAN,,Ice hockey,Women's tournament,S
+SUI,,Ice hockey,Women's tournament,B
+GER,Max Langenhan,Luge,Men's singles,G
+AUT,Jonas Müller,Luge,Men's singles,S
+ITA,Dominik Fischnaller,Luge,Men's singles,B
+GER,Julia Taubitz,Luge,Women's singles,G
+LAT,Elīna Ieva Bota,Luge,Women's singles,S
+USA,Ashley Farquharson,Luge,Women's singles,B
+ITA,,Luge,Men's doubles,G
+AUT,,Luge,Men's doubles,S
+GER,,Luge,Men's doubles,B
+ITA,,Luge,Women's doubles,G
+GER,,Luge,Women's doubles,S
+AUT,,Luge,Women's doubles,B
+GER,,Luge,Team relay,G
+AUT,,Luge,Team relay,S
+ITA,,Luge,Team relay,B
+NOR,Jens Lurås Oftebro,Nordic combined,Individual large hill/10 km,G
+AUT,Johannes Lamparter,Nordic combined,Individual large hill/10 km,S
+FIN,Ilkka Herola,Nordic combined,Individual large hill/10 km,B
+NOR,Jens Lurås Oftebro,Nordic combined,Individual normal hill/10 km,G
+AUT,Johannes Lamparter,Nordic combined,Individual normal hill/10 km,S
+FIN,Eero Hirvonen,Nordic combined,Individual normal hill/10 km,B
+NOR,,Nordic combined,Team large hill/2 x 7.5 km,G
+FIN,,Nordic combined,Team large hill/2 x 7.5 km,S
+AUT,,Nordic combined,Team large hill/2 x 7.5 km,B
+CAN,Steven Dubois,Short-track speed skating,Men's 500 metres,G
+NED,Melle van 't Wout,Short-track speed skating,Men's 500 metres,S
+NED,Jens van 't Wout,Short-track speed skating,Men's 500 metres,B
+NED,Jens van 't Wout,Short-track speed skating,Men's 1000 metres,G
+CHN,Sun Long,Short-track speed skating,Men's 1000 metres,S
+KOR,Rim Jong-un,Short-track speed skating,Men's 1000 metres,B
+NED,Jens van 't Wout,Short-track speed skating,Men's 1500 metres,G
+KOR,Hwang Dae-heon,Short-track speed skating,Men's 1500 metres,S
+LAT,Roberts Krūzbergs,Short-track speed skating,Men's 1500 metres,B
+NED,,Short-track speed skating,Men's 5000 metre relay,G
+KOR,,Short-track speed skating,Men's 5000 metre relay,S
+ITA,,Short-track speed skating,Men's 5000 metre relay,B
+NED,Xandra Velzeboer,Short-track speed skating,Women's 500 metres,G
+ITA,Arianna Fontana,Short-track speed skating,Women's 500 metres,S
+CAN,Courtney Sarault,Short-track speed skating,Women's 500 metres,B
+NED,Xandra Velzeboer,Short-track speed skating,Women's 1000 metres,G
+CAN,Courtney Sarault,Short-track speed skating,Women's 1000 metres,S
+KOR,Kim Gil-li,Short-track speed skating,Women's 1000 metres,B
+KOR,Kim Gil-li,Short-track speed skating,Women's 1500 metres,G
+KOR,Choi Min-jeong,Short-track speed skating,Women's 1500 metres,S
+USA,Corinne Stoddard,Short-track speed skating,Women's 1500 metres,B
+KOR,,Short-track speed skating,Women's 3000 metre relay,G
+ITA,,Short-track speed skating,Women's 3000 metre relay,S
+CAN,,Short-track speed skating,Women's 3000 metre relay,B
+ITA,,Short-track speed skating,Mixed 2000 metre relay,G
+CAN,,Short-track speed skating,Mixed 2000 metre relay,S
+BEL,,Short-track speed skating,Mixed 2000 metre relay,B
+GBR,Matt Weston,Skeleton,Men's Skeleton,G
+GER,Axel Jungk,Skeleton,Men's Skeleton,S
+GER,Christopher Grotheer,Skeleton,Men's Skeleton,B
+AUT,Janine Flock,Skeleton,Women's Skeleton,G
+GER,Susanne Kreher,Skeleton,Women's Skeleton,S
+GER,Jacqueline Pfeifer,Skeleton,Women's Skeleton,B
+GBR,,Skeleton,Mixed team,G
+GER,,Skeleton,Mixed team,S
+GER,,Skeleton,Mixed team,B
+GER,Philipp Raimund,Ski jumping,Men's normal hill individual,G
+POL,Kacper Tomasiak,Ski jumping,Men's normal hill individual,S
+JPN,Ren Nikaidō,Ski jumping,Men's normal hill individual,B
+SUI,Gregor Deschwanden,Ski jumping,Men's normal hill individual,B
+SLO,Domen Prevc,Ski jumping,Men's large hill individual,G
+JPN,Ren Nikaidō,Ski jumping,Men's large hill individual,S
+POL,Kacper Tomasiak,Ski jumping,Men's large hill individual,B
+AUT,,Ski jumping,Men's large hill super team,G
+POL,,Ski jumping,Men's large hill super team,S
+NOR,,Ski jumping,Men's large hill super team,B
+NOR,Anna Odine Strøm,Ski jumping,Women's normal hill individual,G
+SLO,Nika Prevc,Ski jumping,Women's normal hill individual,S
+JPN,Nozomi Maruyama,Ski jumping,Women's normal hill individual,B
+NOR,Anna Odine Strøm,Ski jumping,Women's large hill individual,G
+NOR,Eirin Maria Kvandal,Ski jumping,Women's large hill individual,S
+SLO,Nika Prevc,Ski jumping,Women's large hill individual,B
+SLO,,Ski jumping,Mixed normal hill team,G
+NOR,,Ski jumping,Mixed normal hill team,S
+JPN,,Ski jumping,Mixed normal hill team,B
+ESP,Oriol Cardona,Ski mountaineering,Men's sprint,G
+AIN,Nikita Filippov,Ski mountaineering,Men's sprint,S
+FRA,Thibault Anselmet,Ski mountaineering,Men's sprint,B
+SUI,Marianne Fatton,Ski mountaineering,Women's sprint,G
+FRA,Emily Harrop,Ski mountaineering,Women's sprint,S
+ESP,Ana Alonso,Ski mountaineering,Women's sprint,B
+FRA,,Ski mountaineering,Mixed relay,G
+SUI,,Ski mountaineering,Mixed relay,S
+ESP,,Ski mountaineering,Mixed relay,B
+JPN,Kira Kimura,Snowboarding,Men's Big air,G
+JPN,Ryoma Kimata,Snowboarding,Men's Big air,S
+CHN,Su Yiming,Snowboarding,Men's Big air,B
+JPN,Yūto Totsuka,Snowboarding,Men's Halfpipe,G
+AUS,Scotty James,Snowboarding,Men's Halfpipe,S
+JPN,Ryusei Yamada,Snowboarding,Men's Halfpipe,B
+CHN,Su Yiming,Snowboarding,Men's Slopestyle,G
+JPN,Taiga Hasegawa,Snowboarding,Men's Slopestyle,S
+USA,Jake Canter,Snowboarding,Men's Slopestyle,B
+AUT,Benjamin Karl,Snowboarding,Men's Parallel giant slalom,G
+KOR,Kim Sang-kyum,Snowboarding,Men's Parallel giant slalom,S
+BUL,Tervel Zamfirov,Snowboarding,Men's Parallel giant slalom,B
+AUT,Alessandro Hämmerle,Snowboarding,Men's Snowboard cross,G
+CAN,Éliot Grondin,Snowboarding,Men's Snowboard cross,S
+AUT,Jakob Dusek,Snowboarding,Men's Snowboard cross,B
+JPN,Kokomo Murase,Snowboarding,Women's Big air,G
+NZL,Zoi Sadowski-Synnott,Snowboarding,Women's Big air,S
+KOR,Yu Seung-eun,Snowboarding,Women's Big air,B
+KOR,Choi Ga-on,Snowboarding,Women's Halfpipe,G
+USA,Chloe Kim,Snowboarding,Women's Halfpipe,S
+JPN,Mitsuki Ono,Snowboarding,Women's Halfpipe,B
+JPN,Mari Fukada,Snowboarding,Women's Slopestyle,G
+NZL,Zoi Sadowski-Synnott,Snowboarding,Women's Slopestyle,S
+JPN,Kokomo Murase,Snowboarding,Women's Slopestyle,B
+CZE,Zuzana Maděrová,Snowboarding,Women's Parallel giant slalom,G
+AUT,Sabine Payer,Snowboarding,Women's Parallel giant slalom,S
+ITA,Lucia Dalmasso,Snowboarding,Women's Parallel giant slalom,B
+AUS,Josie Baff,Snowboarding,Women's Snowboard cross,G
+CZE,Eva Adamczyková,Snowboarding,Women's Snowboard cross,S
+ITA,Michela Moioli,Snowboarding,Women's Snowboard cross,B
+GBR,,Snowboarding,Women's Team snowboard cross,G
+ITA,,Snowboarding,Women's Team snowboard cross,S
+FRA,,Snowboarding,Women's Team snowboard cross,B
+USA,Jordan Stolz,Speed skating,Men's 500 metres,G
+NED,Jenning de Boo,Speed skating,Men's 500 metres,S
+CAN,Laurent Dubreuil,Speed skating,Men's 500 metres,B
+USA,Jordan Stolz,Speed skating,Men's 1000 metres,G
+NED,Jenning de Boo,Speed skating,Men's 1000 metres,S
+CHN,Ning Zhongyan,Speed skating,Men's 1000 metres,B
+CHN,Ning Zhongyan,Speed skating,Men's 1500 metres,G
+USA,Jordan Stolz,Speed skating,Men's 1500 metres,S
+NED,Kjeld Nuis,Speed skating,Men's 1500 metres,B
+NOR,Sander Eitrem,Speed skating,Men's 5000 metres,G
+CZE,Metoděj Jílek,Speed skating,Men's 5000 metres,S
+ITA,Riccardo Lorello,Speed skating,Men's 5000 metres,B
+CZE,Metoděj Jílek,Speed skating,"Men's 10,000 metres",G
+POL,Vladimir Semirunniy,Speed skating,"Men's 10,000 metres",S
+NED,Jorrit Bergsma,Speed skating,"Men's 10,000 metres",B
+NED,Jorrit Bergsma,Speed skating,Men's Mass start,G
+DEN,Viktor Hald Thorup,Speed skating,Men's Mass start,S
+ITA,Andrea Giovannini,Speed skating,Men's Mass start,B
+ITA,,Speed skating,Men's Team pursuit,G
+USA,,Speed skating,Men's Team pursuit,S
+CHN,,Speed skating,Men's Team pursuit,B
+NED,Femke Kok,Speed skating,Women's 500 metres,G
+NED,Jutta Leerdam,Speed skating,Women's 500 metres,S
+JPN,Miho Takagi,Speed skating,Women's 500 metres,B
+NED,Jutta Leerdam,Speed skating,Women's 1000 metres,G
+NED,Femke Kok,Speed skating,Women's 1000 metres,S
+JPN,Miho Takagi,Speed skating,Women's 1000 metres,B
+NED,Antoinette Rijpma-de Jong,Speed skating,Women's 1500 metres,G
+NOR,Ragne Wiklund,Speed skating,Women's 1500 metres,S
+CAN,Valérie Maltais,Speed skating,Women's 1500 metres,B
+ITA,Francesca Lollobrigida,Speed skating,Women's 3000 metres,G
+NOR,Ragne Wiklund,Speed skating,Women's 3000 metres,S
+CAN,Valérie Maltais,Speed skating,Women's 3000 metres,B
+ITA,Francesca Lollobrigida,Speed skating,Women's 5000 metres,G
+NED,Merel Conijn,Speed skating,Women's 5000 metres,S
+NOR,Ragne Wiklund,Speed skating,Women's 5000 metres,B
+NED,Marijke Groenewoud,Speed skating,Women's Mass start,G
+CAN,Ivanie Blondin,Speed skating,Women's Mass start,S
+USA,Mia Manganello,Speed skating,Women's Mass start,B
+CAN,,Speed skating,Women's Team pursuit,G
+NED,,Speed skating,Women's Team pursuit,S
+JPN,,Speed skating,Women's Team pursuit,B

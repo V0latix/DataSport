@@ -1,0 +1,8 @@
+{
+  "mode": "keith:local_seed, paris2024:local_seed, winter2026_medals:local_seed",
+  "sources": {
+    "keith": "/Users/romain/dev/DataSport/data/raw/olympics/keithgalli_results.csv",
+    "paris2024": "/Users/romain/dev/DataSport/data/raw/olympics/paris2024_medals_by_event.csv",
+    "winter2026": "/Users/romain/dev/DataSport/data/raw/olympics/winter2026_medals_by_event_seed.csv"
+  }
+}

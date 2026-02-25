@@ -16,7 +16,7 @@ from .base import Connector
 
 KEITH_RESULTS_URL = "https://raw.githubusercontent.com/KeithGalli/Olympics-Dataset/refs/heads/master/clean-data/results.csv"
 PARIS2024_MEDALS_URL = "https://raw.githubusercontent.com/taniki/paris2024-data/main/datasets/medals.csv"
-WINTER_2026_MEDAL_TABLE_URL = "https://en.wikipedia.org/wiki/2026_Winter_Olympics_medal_table"
+WINTER_2026_MEDAL_WINNERS_URL = "https://en.wikipedia.org/wiki/List_of_2026_Winter_Olympics_medal_winners"
 MEDAL_TEXT_TO_VALUE = {"Gold": "gold", "Silver": "silver", "Bronze": "bronze"}
 MEDAL_TO_POINTS = {"gold": 3.0, "silver": 2.0, "bronze": 1.0}
 PARIS_COLOR_TO_MEDAL = {"G": "Gold", "S": "Silver", "B": "Bronze"}
@@ -38,9 +38,9 @@ class OlympicsKeithHistoryConnector(Connector):
             "license_notes": (
                 "Primary historical source: KeithGalli Olympics Dataset (repository indicates CC BY 4.0). "
                 "Supplementary sources: taniki/paris2024-data for Paris 2024 event medals and "
-                "Wikipedia 2026 Winter Olympics medal table seed."
+                "Wikipedia 2026 Winter Olympics medal winners seed."
             ),
-            "base_url": f"{KEITH_RESULTS_URL} | {PARIS2024_MEDALS_URL} | {WINTER_2026_MEDAL_TABLE_URL}",
+            "base_url": f"{KEITH_RESULTS_URL} | {PARIS2024_MEDALS_URL} | {WINTER_2026_MEDAL_WINNERS_URL}",
         }
 
     def _local_seed_path(self) -> Path:
@@ -49,8 +49,8 @@ class OlympicsKeithHistoryConnector(Connector):
     def _local_paris_medals_path(self) -> Path:
         return Path(__file__).resolve().parents[2] / "data" / "raw" / "olympics" / "paris2024_medals_by_event.csv"
 
-    def _local_winter_2026_medal_table_path(self) -> Path:
-        return Path(__file__).resolve().parents[2] / "data" / "raw" / "olympics" / "winter2026_medal_table_seed.csv"
+    def _local_winter_2026_medals_path(self) -> Path:
+        return Path(__file__).resolve().parents[2] / "data" / "raw" / "olympics" / "winter2026_medals_by_event_seed.csv"
 
     @staticmethod
     def _download_csv(url: str, out_path: Path) -> Path:
@@ -90,16 +90,16 @@ class OlympicsKeithHistoryConnector(Connector):
             source_refs["paris2024"] = PARIS2024_MEDALS_URL
         raw_paths.append(out_paris)
 
-        out_winter_2026 = out_dir / "winter2026_medal_table_seed.csv"
-        local_winter_2026 = self._local_winter_2026_medal_table_path()
+        out_winter_2026 = out_dir / "winter2026_medals_by_event_seed.csv"
+        local_winter_2026 = self._local_winter_2026_medals_path()
         if local_winter_2026.exists():
             shutil.copy2(local_winter_2026, out_winter_2026)
-            mode_parts.append("winter2026:local_seed")
+            mode_parts.append("winter2026_medals:local_seed")
             source_refs["winter2026"] = str(local_winter_2026)
             raw_paths.append(out_winter_2026)
         else:
-            mode_parts.append("winter2026:missing_seed")
-            source_refs["winter2026"] = WINTER_2026_MEDAL_TABLE_URL
+            mode_parts.append("winter2026_medals:missing_seed")
+            source_refs["winter2026"] = WINTER_2026_MEDAL_WINNERS_URL
 
         self._write_json(
             out_dir / "fetch_meta.json",
@@ -186,27 +186,6 @@ class OlympicsKeithHistoryConnector(Connector):
             return None
         return rank
 
-    @staticmethod
-    def _resolve_country_code(country_name: str) -> str:
-        cleaned = str(country_name).replace("*", "").strip()
-        try:
-            import pycountry
-
-            country = pycountry.countries.lookup(cleaned)
-            code = getattr(country, "alpha_3", None)
-            if code:
-                return str(code)
-        except Exception:
-            pass
-        aliases = {
-            "United States": "USA",
-            "Great Britain": "GBR",
-            "ROC": "RUS",
-        }
-        if cleaned in aliases:
-            return aliases[cleaned]
-        return slugify(cleaned)[:3].upper()
-
     def _build_paris_2024_rows(self, paris_path: Path) -> pd.DataFrame:
         medals = pd.read_csv(paris_path).rename(columns={"code": "noc", "name": "athlete_name"}).copy()
         medals["noc"] = medals["noc"].fillna("").astype(str).str.strip().str.upper()
@@ -255,36 +234,51 @@ class OlympicsKeithHistoryConnector(Connector):
         return pd.DataFrame(rows)
 
     def _build_winter_2026_rows(self, winter_path: Path) -> pd.DataFrame:
-        seed = pd.read_csv(winter_path)
-        required = {"rank", "country_name"}
-        if not required.issubset(set(seed.columns)):
-            raise RuntimeError(f"Unsupported Winter 2026 medal table seed format: {list(seed.columns)}")
+        medals = pd.read_csv(winter_path).rename(columns={"code": "noc", "name": "athlete_name"}).copy()
+        required = {"noc", "athlete_name", "discipline", "event", "color"}
+        if not required.issubset(set(medals.columns)):
+            raise RuntimeError(f"Unsupported Winter 2026 medals seed format: {list(medals.columns)}")
+
+        medals["noc"] = medals["noc"].fillna("").astype(str).str.strip().str.upper()
+        medals["athlete_name"] = medals["athlete_name"].fillna("").astype(str).str.strip()
+        medals["discipline"] = medals["discipline"].fillna("").astype(str).str.strip()
+        medals["event"] = medals["event"].fillna("").astype(str).str.strip()
+        medals["color"] = medals["color"].fillna("").astype(str).str.strip().str.upper()
+        medals = medals.loc[
+            (medals["noc"] != "")
+            & (medals["discipline"] != "")
+            & (medals["event"] != "")
+            & (medals["color"].isin(["G", "S", "B"]))
+        ].copy()
+
+        grouped = (
+            medals.groupby(["discipline", "event", "color", "noc"], as_index=False)
+            .agg(athletes_count=("athlete_name", "count"), representative_name=("athlete_name", "first"))
+            .sort_values(["discipline", "event", "color", "noc"])
+            .reset_index(drop=True)
+        )
+        tie_counts = grouped.groupby(["discipline", "event", "color"]).size().to_dict()
 
         rows: list[dict[str, Any]] = []
-        for row in seed.itertuples(index=False):
-            rank = pd.to_numeric(getattr(row, "rank"), errors="coerce")
-            if pd.isna(rank):
+        for row in grouped.itertuples(index=False):
+            color = str(row.color).upper()
+            rank = PARIS_COLOR_TO_RANK.get(color)
+            medal = PARIS_COLOR_TO_MEDAL.get(color)
+            if rank is None or medal is None:
                 continue
-            rank_int = int(rank)
-            if rank_int < 1:
-                continue
-            country_name = str(getattr(row, "country_name", "")).replace("*", "").strip()
-            if not country_name:
-                continue
-            country_code = self._resolve_country_code(country_name)
-            medal = "Gold" if rank_int == 1 else "Silver" if rank_int == 2 else "Bronze" if rank_int == 3 else ""
+            participant_name = str(row.representative_name).strip() if int(row.athletes_count) == 1 else ""
             rows.append(
                 {
                     "year": 2026,
                     "type": "Winter",
-                    "discipline": "Winter Olympics Medal Table",
-                    "event": "Nation medal table (Winter Olympics 2026)",
-                    "as": "",
+                    "discipline": str(row.discipline),
+                    "event": str(row.event),
+                    "as": participant_name,
                     "athlete_id": None,
-                    "noc": country_code,
+                    "noc": str(row.noc),
                     "team": None,
-                    "place": rank_int,
-                    "tied": False,
+                    "place": rank,
+                    "tied": bool(tie_counts.get((row.discipline, row.event, row.color), 0) > 1),
                     "medal": medal,
                 }
             )
@@ -293,7 +287,7 @@ class OlympicsKeithHistoryConnector(Connector):
     def parse(self, raw_paths: list[Path], season_year: int) -> dict[str, pd.DataFrame]:
         csv_path = next(path for path in raw_paths if path.name == "keithgalli_results.csv")
         paris_path = next((path for path in raw_paths if path.name == "paris2024_medals_by_event.csv"), None)
-        winter_2026_path = next((path for path in raw_paths if path.name == "winter2026_medal_table_seed.csv"), None)
+        winter_2026_path = next((path for path in raw_paths if path.name == "winter2026_medals_by_event_seed.csv"), None)
 
         frame = pd.read_csv(csv_path)
         required = {"year", "type", "discipline", "event", "as", "athlete_id", "noc", "place", "tied", "medal"}
@@ -571,6 +565,18 @@ class OlympicsKeithHistoryConnector(Connector):
                 )
                   AND participant_id NOT IN (SELECT DISTINCT participant_id FROM results)
                 """
+            )
+            conn.execute(
+                """
+                DELETE FROM disciplines
+                WHERE mapping_source = ?
+                  AND discipline_id NOT IN (
+                      SELECT DISTINCT discipline_id
+                      FROM events
+                      WHERE discipline_id IS NOT NULL
+                  )
+                """,
+                ("connector_olympics_keith_history",),
             )
             conn.commit()
 

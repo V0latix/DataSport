@@ -11,7 +11,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] ICC Men's Team Rankings (Test/ODI/T20I) ajoute via `icc_team_ranking_history` (commit `675bebc`, 2026-02-20)
 - [x] Harmonisation disciplines/sports sur competitions deja ingerees (rugby, fiba, fifa women, cricket, handball) (commit `79d7145`, 2026-02-21)
 - [x] World Athletics Championships (top 3 par discipline) ajoute via `world_athletics_championships_history` (2026-02-24)
-- [x] JO unifies: Paris 2024 integre dans `olympics_summer` + JO hiver 2026 ajoutes dans `olympics_winter` (medal table national) via `olympics_keith_history` (2026-02-24)
+- [x] JO unifies: Paris 2024 integre dans `olympics_summer` + JO hiver 2026 ajoutes dans `olympics_winter` (medailles par epreuve) via `olympics_keith_history` (2026-02-24)
 
 ### Competitions mondiales
 

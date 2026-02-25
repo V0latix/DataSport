@@ -278,7 +278,7 @@ python -m pipelines.init_databases
 - source: `data/raw/olympics/keithgalli_results.csv` (fallback download depuis GitHub)
 - sources complémentaires intégrées:
   - `data/raw/olympics/paris2024_medals_by_event.csv` (Paris 2024)
-  - `data/raw/olympics/winter2026_medal_table_seed.csv` (JO hiver 2026, event national)
+  - `data/raw/olympics/winter2026_medals_by_event_seed.csv` (JO hiver 2026, médaillés par épreuve)
 - filtre temporel: toutes les éditions `>= --year` (exemple `--year 2000`)
 - `competition_id`: `olympics_<summer|winter>`
 - `event_id`: `olympics_<summer|winter>_<year>_<discipline>_<event>`
