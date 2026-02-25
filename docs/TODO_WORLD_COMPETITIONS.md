@@ -4,7 +4,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 
 ## Etat actuel (deja ingere)
 
-### Derniers ajouts (2026-02-20 -> 2026-02-24)
+### Derniers ajouts (2026-02-20 -> 2026-02-25)
 
 - [x] IHF Handball World Championship (men/women) ajoute via `ihf_handball_world_championship_history` (commit `959b7ac`, 2026-02-20)
 - [x] ICC Cricket World Cup (ODI men/women) ajoute via `icc_cricket_world_cup_history` (commits `eda104c` et `3376ab8`, 2026-02-20 -> 2026-02-21)
@@ -12,6 +12,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] Harmonisation disciplines/sports sur competitions deja ingerees (rugby, fiba, fifa women, cricket, handball) (commit `79d7145`, 2026-02-21)
 - [x] World Athletics Championships (top 3 par discipline) ajoute via `world_athletics_championships_history` (2026-02-24)
 - [x] JO unifies: Paris 2024 integre dans `olympics_summer` + JO hiver 2026 ajoutes dans `olympics_winter` (medailles par epreuve) via `olympics_keith_history` (2026-02-24)
+- [x] World Aquatics Championships (top 3 par epreuve) ajoute via `world_aquatics_championships_history` (2026-02-25)
 
 ### Competitions mondiales
 
@@ -28,7 +29,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] World Athletics Championships (`world_athletics_championships_history`)
 - [x] Summer/Winter Olympics historiques (`olympics_keith_history`)
 - [x] Paris 2024 Summer Olympics (`paris_2024_summer_olympics`)
-- [ ] World Aquatics Championships
+- [x] World Aquatics Championships (`world_aquatics_championships_history`)
 - [ ] FIVB Volleyball World Championship (men)
 - [ ] FIVB Women's Volleyball World Championship
 - [ ] FIFA Club World Cup (clubs)
@@ -67,6 +68,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 
 - [ ] Bien dissocier les disciplines/formats du cricket (Test, ODI, T20I, T10, The Hundred, etc.) dans `sports`/`competitions`/`events`.
 - [x] Faire une distinction stricte entre `competition` JO (ex: `olympics_summer`) et `event` JO (ex: `olympics_summer_athletics_100m__men_2020`) pour eviter les melanges de granularite.
+- [ ] Régler le probleme des disciplines, il y a encore des doublons et des choses qui ne sont pas des disciplines
 
 ## Regles de selection
 

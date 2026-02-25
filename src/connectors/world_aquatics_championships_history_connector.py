@@ -13,63 +13,20 @@ from src.core.utils import slugify, utc_now_iso
 from .base import Connector
 
 
-SEED_FILE = "world_athletics_championships_top3_seed.csv"
+SEED_FILE = "world_aquatics_championships_top3_seed.csv"
 RANK_TO_MEDAL = {1: "gold", 2: "silver", 3: "bronze"}
 RANK_TO_POINTS = {1: 3.0, 2: 2.0, 3: 1.0}
-ATHLETICS_DISCIPLINE_CANONICAL: dict[str, str] = {
-    "10-000-m": "10,000 m",
-    "10-000-metres": "10,000 m",
-    "100-m": "100 m",
-    "100-metres": "100 m",
-    "100-m-hurdles": "100 m hurdles",
-    "100-metres-hurdles": "100 m hurdles",
-    "110-m-hurdles": "110 m hurdles",
-    "110-metres-hurdles": "110 m hurdles",
-    "1500-m": "1500 m",
-    "1500-metres": "1500 m",
-    "20-km-walk": "20 km walk",
-    "20-km-race-walk": "20 km walk",
-    "20-kilometres-walk": "20 km walk",
-    "200-m": "200 m",
-    "200-metres": "200 m",
-    "3000-m-s-chase": "3000 m steeplechase",
-    "3000-m-st": "3000 m steeplechase",
-    "3000-m-steeplechase": "3000 m steeplechase",
-    "3000-metres-steeplechase": "3000 m steeplechase",
-    "35-kilometres-walk": "35 km walk",
-    "4-100-m-relay": "4 x 100 m relay",
-    "4-100-metres-relay": "4 x 100 m relay",
-    "4-400-m-relay": "4 x 400 m relay",
-    "4-400-metres-relay": "4 x 400 m relay",
-    "400-m": "400 m",
-    "400-metres": "400 m",
-    "400-m-hurdles": "400 m hurdles",
-    "400-metres-hurdles": "400 m hurdles",
-    "50-km-walk": "50 km walk",
-    "50-km-race-walk": "50 km walk",
-    "50-kilometres-walk": "50 km walk",
-    "5000-m": "5000 m",
-    "5000-metres": "5000 m",
-    "800-m": "800 m",
-    "800-metres": "800 m",
-    "discus": "discus throw",
-    "discus-throw": "discus throw",
-    "hammer": "hammer throw",
-    "hammer-throw": "hammer throw",
-    "javelin": "javelin throw",
-    "javelin-throw": "javelin throw",
-}
 
 
-class WorldAthleticsChampionshipsHistoryConnector(Connector):
-    id = "world_athletics_championships_history"
-    name = "World Athletics Championships Historical Podiums (Top 3 by Discipline)"
+class WorldAquaticsChampionshipsHistoryConnector(Connector):
+    id = "world_aquatics_championships_history"
+    name = "World Aquatics Championships Historical Podiums (Top 3 by Event)"
     source_type = "csv"
     license_notes = (
-        "Historical podium seed curated from public World Athletics Championships medal summary pages "
+        "Historical podium seed curated from public World Aquatics Championships discipline pages "
         "(Wikipedia). Verify downstream redistribution requirements."
     )
-    base_url = "https://en.wikipedia.org/wiki/World_Athletics_Championships"
+    base_url = "https://en.wikipedia.org/wiki/World_Aquatics_Championships"
 
     def source_row(self) -> dict[str, str]:
         return {
@@ -77,21 +34,21 @@ class WorldAthleticsChampionshipsHistoryConnector(Connector):
             "source_name": self.name,
             "source_type": self.source_type,
             "license_notes": (
-                "Local seed data/raw/athletics/world_athletics_championships_top3_seed.csv "
-                "curated from public medal summary pages (editions >= 2000, currently 2001-2025). "
-                "Top 3 retained per discipline and gender."
+                "Local seed data/raw/aquatics/world_aquatics_championships_top3_seed.csv "
+                "curated from public discipline medal summary pages (editions >= 2000, currently 2001-2025). "
+                "Top 3 retained per event."
             ),
-            "base_url": "https://en.wikipedia.org/wiki/World_Athletics_Championships",
+            "base_url": self.base_url,
         }
 
     def _local_seed_path(self) -> Path:
-        return Path(__file__).resolve().parents[2] / "data" / "raw" / "athletics" / SEED_FILE
+        return Path(__file__).resolve().parents[2] / "data" / "raw" / "aquatics" / SEED_FILE
 
     def fetch(self, season_year: int, out_dir: Path) -> list[Path]:
         del season_year
         local_seed = self._local_seed_path()
         if not local_seed.exists():
-            raise RuntimeError(f"Missing local seed for world athletics championships history: {local_seed}")
+            raise RuntimeError(f"Missing local seed for world aquatics championships history: {local_seed}")
 
         out_file = out_dir / SEED_FILE
         shutil.copy2(local_seed, out_file)
@@ -123,19 +80,77 @@ class WorldAthleticsChampionshipsHistoryConnector(Connector):
 
     @staticmethod
     def _discipline_id(discipline_name: str) -> str:
-        return f"athletics_{slugify(discipline_name)}"
+        return f"aquatics_{slugify(discipline_name)}"
 
     @staticmethod
     def _event_id(year: int, gender: str, discipline_name: str) -> str:
-        return f"world_athletics_championships_{year}_{slugify(gender)}_{slugify(discipline_name)}"
+        return f"world_aquatics_championships_{year}_{slugify(gender)}_{slugify(discipline_name)}"
 
     @staticmethod
-    def _canonical_discipline_name(discipline_name: str) -> str:
-        raw = str(discipline_name).strip()
-        key = slugify(raw)
-        if not key:
-            return raw
-        return ATHLETICS_DISCIPLINE_CANONICAL.get(key, raw)
+    def _normalize_base_discipline_name(name: str) -> str:
+        value = str(name).strip().lower()
+        value = re.sub(r"\s+", " ", value)
+        aliases = {
+            "synchronised swimming": "artistic swimming",
+            "synchronized swimming": "artistic swimming",
+        }
+        return aliases.get(value, value)
+
+    @staticmethod
+    def _strip_gender_prefix(event_name: str) -> str:
+        value = str(event_name).strip()
+        value = re.sub(r"^(men|women|mixed)(?:'s)?\s+", "", value, flags=re.I)
+        value = re.sub(r"^(men|women|mixed)(?:'s)?$", "", value, flags=re.I)
+        value = value.strip(" -")
+        return value
+
+    @staticmethod
+    def _canonical_event_core(base_discipline: str, event_name: str) -> str:
+        core = WorldAquaticsChampionshipsHistoryConnector._strip_gender_prefix(event_name)
+        core = core.replace("×", "x")
+        core = core.lower()
+        core = re.sub(r"details?$", "", core).strip()
+        core = core.replace("metres", "m").replace("metre", "m")
+        core = core.replace("kilometres", "km").replace("kilometre", "km")
+        core = core.replace("synchronized", "synchro").replace("synchronised", "synchro")
+        core = re.sub(r"\bi\s*m\b", "individual medley", core)
+        core = re.sub(r"\bi\.?\s*m\.?\b", "individual medley", core)
+        core = re.sub(r"\b(\d{2,4})\s+(freestyle|backstroke|breaststroke|butterfly|individual medley)\b", r"\1 m \2", core)
+        core = re.sub(r"\b(\d+)\s*m\s*free\b", r"\1 m freestyle", core)
+        core = re.sub(r"\b(\d+)\s*m\s*back\b", r"\1 m backstroke", core)
+        core = re.sub(r"\b(\d+)\s*m\s*breast\b", r"\1 m breaststroke", core)
+        core = re.sub(r"\b(\d+)\s*m\s*fly\b", r"\1 m butterfly", core)
+        core = re.sub(r"\b(\d+)\s+free\b", r"\1 m freestyle", core)
+        core = re.sub(r"\b(\d+)\s+back\b", r"\1 m backstroke", core)
+        core = re.sub(r"\b(\d+)\s+breast\b", r"\1 m breaststroke", core)
+        core = re.sub(r"\b(\d+)\s+fly\b", r"\1 m butterfly", core)
+        core = re.sub(r"\b4\s*x\s*(\d+)\s*m\s*free relay\b", r"4 x \1 m freestyle relay", core)
+        core = re.sub(r"\b4\s*x\s*(\d+)\s*free relay\b", r"4 x \1 m freestyle relay", core)
+        core = re.sub(r"\s*details?\s*$", "", core).strip()
+        core = re.sub(r"\s+", " ", core).strip()
+
+        if base_discipline == "water polo":
+            return "tournament"
+
+        if base_discipline == "diving":
+            if "10 m platform" in core and "synchro" in core:
+                return "10 m platform synchro"
+            if "3 m springboard" in core and "synchro" in core:
+                return "3 m springboard synchro"
+            if core in {"mixed team", "team"}:
+                return "team"
+
+        if not core:
+            return "tournament"
+        return core
+
+    @classmethod
+    def _discipline_name_from_row(cls, discipline_name: str, event_name: str) -> str:
+        base = cls._normalize_base_discipline_name(discipline_name)
+        event_core = cls._canonical_event_core(base, event_name)
+        if not base or not event_core:
+            return ""
+        return f"{slugify(base)}-{slugify(event_core)}"
 
     def parse(self, raw_paths: list[Path], season_year: int) -> dict[str, pd.DataFrame]:
         seed_path = next((path for path in raw_paths if path.name == SEED_FILE), None)
@@ -148,6 +163,7 @@ class WorldAthleticsChampionshipsHistoryConnector(Connector):
             "event_date",
             "gender",
             "discipline_name",
+            "event_name",
             "rank",
             "medal",
             "participant_type",
@@ -158,7 +174,7 @@ class WorldAthleticsChampionshipsHistoryConnector(Connector):
         }
         if not required_cols.issubset(set(frame.columns)):
             raise RuntimeError(
-                f"Unsupported World Athletics seed format for {seed_path.name}: {list(frame.columns)}"
+                f"Unsupported World Aquatics seed format for {seed_path.name}: {list(frame.columns)}"
             )
 
         frame = frame.copy()
@@ -167,23 +183,29 @@ class WorldAthleticsChampionshipsHistoryConnector(Connector):
         frame["event_date"] = pd.to_datetime(frame["event_date"], errors="coerce")
         frame["gender"] = frame["gender"].fillna("").astype(str).str.strip().str.lower()
         frame["discipline_name"] = frame["discipline_name"].fillna("").astype(str).str.strip()
+        frame["event_name"] = frame["event_name"].fillna("").astype(str).str.strip()
         frame["medal"] = frame["medal"].fillna("").astype(str).str.strip().str.lower()
         frame["participant_type"] = frame["participant_type"].fillna("").astype(str).str.strip().str.lower()
         frame["athlete_name"] = frame["athlete_name"].fillna("").astype(str).str.strip()
         frame["country_name"] = frame["country_name"].fillna("").astype(str).str.strip()
         frame["country_code"] = frame["country_code"].fillna("").astype(str).str.strip().str.upper()
         frame["performance"] = frame["performance"].fillna("").astype(str).str.strip()
-        frame["discipline_name"] = frame["discipline_name"].map(self._canonical_discipline_name)
+        frame["discipline_name_norm"] = frame.apply(
+            lambda row: self._discipline_name_from_row(row["discipline_name"], row["event_name"]),
+            axis=1,
+        )
 
         frame = frame.dropna(subset=["year", "rank", "event_date"])
         frame["year"] = frame["year"].astype(int)
         frame["rank"] = frame["rank"].astype(int)
         frame["event_date"] = frame["event_date"].dt.strftime("%Y-%m-%d")
-        frame = frame.loc[(frame["year"] <= season_year) & (frame["rank"] >= 1) & (frame["rank"] <= 3)].copy()
+        frame = frame.loc[(frame["year"] <= season_year) & frame["rank"].between(1, 3)].copy()
         frame = frame.loc[
             frame["gender"].isin(["men", "women", "mixed"])
             & frame["participant_type"].isin(["athlete", "team"])
             & (frame["discipline_name"] != "")
+            & (frame["event_name"] != "")
+            & (frame["discipline_name_norm"] != "")
             & (frame["country_code"] != "")
         ].copy()
         frame = frame.loc[~((frame["participant_type"] == "athlete") & (frame["athlete_name"] == ""))].copy()
@@ -192,21 +214,31 @@ class WorldAthleticsChampionshipsHistoryConnector(Connector):
             axis=1,
         )
         frame = frame.drop_duplicates(
-            subset=["year", "gender", "discipline_name", "rank", "participant_type", "athlete_name", "country_code"]
+            subset=[
+                "year",
+                "discipline_name_norm",
+                "gender",
+                "rank",
+                "participant_type",
+                "athlete_name",
+                "country_code",
+            ]
         )
-        frame = frame.sort_values(["year", "gender", "discipline_name", "rank"]).reset_index(drop=True)
+        frame = frame.sort_values(["year", "discipline_name_norm", "gender", "rank", "country_code"]).reset_index(
+            drop=True
+        )
 
         if frame.empty:
-            raise RuntimeError(f"No world athletics rows available for year <= {season_year}.")
+            raise RuntimeError(f"No world aquatics rows available for year <= {season_year}.")
 
         timestamp = utc_now_iso()
-        sport_id = slugify("Athletics")
+        sport_id = slugify("Aquatics")
 
         sports_df = pd.DataFrame(
             [
                 {
                     "sport_id": sport_id,
-                    "sport_name": "Athletics",
+                    "sport_name": "Aquatics",
                     "sport_slug": sport_id,
                     "created_at_utc": timestamp,
                 }
@@ -214,7 +246,7 @@ class WorldAthleticsChampionshipsHistoryConnector(Connector):
         )
 
         disciplines_rows: list[dict[str, Any]] = []
-        for discipline_name in sorted(frame["discipline_name"].unique()):
+        for discipline_name in sorted(frame["discipline_name_norm"].unique()):
             discipline_id = self._discipline_id(discipline_name)
             disciplines_rows.append(
                 {
@@ -223,18 +255,18 @@ class WorldAthleticsChampionshipsHistoryConnector(Connector):
                     "discipline_slug": slugify(discipline_name),
                     "sport_id": sport_id,
                     "confidence": 1.0,
-                    "mapping_source": "connector_world_athletics_championships_history",
+                    "mapping_source": "connector_world_aquatics_championships_history",
                     "created_at_utc": timestamp,
                 }
             )
 
-        competition_id = "world_athletics_championships"
+        competition_id = "world_aquatics_championships"
         competitions_df = pd.DataFrame(
             [
                 {
                     "competition_id": competition_id,
                     "sport_id": sport_id,
-                    "name": "World Athletics Championships",
+                    "name": "World Aquatics Championships",
                     "season_year": None,
                     "level": "international_championship",
                     "start_date": frame["event_date"].min(),
@@ -245,10 +277,10 @@ class WorldAthleticsChampionshipsHistoryConnector(Connector):
         )
 
         events_rows: list[dict[str, Any]] = []
-        for year, gender, discipline_name, event_date in (
-            frame[["year", "gender", "discipline_name", "event_date"]]
+        for year, discipline_name, gender, event_date in (
+            frame[["year", "discipline_name_norm", "gender", "event_date"]]
             .drop_duplicates()
-            .sort_values(["year", "gender", "discipline_name"])
+            .sort_values(["year", "discipline_name_norm", "gender"])
             .itertuples(index=False)
         ):
             events_rows.append(
@@ -257,7 +289,7 @@ class WorldAthleticsChampionshipsHistoryConnector(Connector):
                     "competition_id": competition_id,
                     "discipline_id": self._discipline_id(str(discipline_name)),
                     "gender": str(gender),
-                    "event_class": "podium_top3_by_discipline",
+                    "event_class": "podium_top3_by_event",
                     "event_date": str(event_date),
                 }
             )
@@ -304,8 +336,11 @@ class WorldAthleticsChampionshipsHistoryConnector(Connector):
 
             rank = int(row.rank)
             medal = str(row.medal)
-            event_id = self._event_id(int(row.year), str(row.gender), str(row.discipline_name))
-            score_raw = f"discipline={row.discipline_name};performance={row.performance};country={country_code}"
+            event_id = self._event_id(int(row.year), str(row.gender), str(row.discipline_name_norm))
+            score_raw = (
+                f"discipline={row.discipline_name_norm};source_discipline={row.discipline_name};"
+                f"source_event={row.event_name};performance={row.performance};country={country_code}"
+            )
             results_rows.append(
                 {
                     "event_id": event_id,
@@ -397,49 +432,6 @@ class WorldAthleticsChampionshipsHistoryConnector(Connector):
         filtered_participants = participants_df.loc[~participants_df["participant_id"].isin(replacement.keys())].copy()
         return filtered_participants, remapped_results
 
-    def _normalize_athletics_discipline_ids(self, db: SQLiteDB) -> None:
-        with db.connect() as conn:
-            conn.execute(
-                """
-                UPDATE events
-                SET discipline_id = (
-                    SELECT d_pref.discipline_id
-                    FROM disciplines d_pref
-                    WHERE d_pref.discipline_id LIKE 'athletics_%'
-                      AND d_pref.discipline_name = (
-                          SELECT d_legacy.discipline_name
-                          FROM disciplines d_legacy
-                          WHERE d_legacy.discipline_id = events.discipline_id
-                      )
-                )
-                WHERE discipline_id IN (
-                    SELECT d_legacy.discipline_id
-                    FROM disciplines d_pref
-                    JOIN disciplines d_legacy
-                      ON d_pref.discipline_name = d_legacy.discipline_name
-                    WHERE d_pref.discipline_id LIKE 'athletics_%'
-                      AND d_legacy.discipline_id = REPLACE(d_pref.discipline_id, 'athletics_', '')
-                )
-                """
-            )
-            conn.execute(
-                """
-                DELETE FROM disciplines
-                WHERE discipline_id IN (
-                    SELECT d_legacy.discipline_id
-                    FROM disciplines d_pref
-                    JOIN disciplines d_legacy
-                      ON d_pref.discipline_name = d_legacy.discipline_name
-                    WHERE d_pref.discipline_id LIKE 'athletics_%'
-                      AND d_legacy.discipline_id = REPLACE(d_pref.discipline_id, 'athletics_', '')
-                )
-                  AND discipline_id NOT IN (
-                      SELECT DISTINCT discipline_id FROM events WHERE discipline_id IS NOT NULL
-                  )
-                """
-            )
-            conn.commit()
-
     def upsert(self, db: SQLiteDB, payload: dict[str, pd.DataFrame]) -> None:
         with db.connect() as conn:
             conn.execute(
@@ -464,7 +456,7 @@ class WorldAthleticsChampionshipsHistoryConnector(Connector):
                 (self.id,),
             )
             conn.execute("DELETE FROM competitions WHERE source_id = ?", (self.id,))
-            conn.execute("DELETE FROM disciplines WHERE mapping_source = 'connector_world_athletics_championships_history'")
+            conn.execute("DELETE FROM disciplines WHERE mapping_source = 'connector_world_aquatics_championships_history'")
             conn.execute(
                 """
                 DELETE FROM participants
@@ -484,6 +476,5 @@ class WorldAthleticsChampionshipsHistoryConnector(Connector):
         db.upsert_dataframe("disciplines", payload.get("disciplines", pd.DataFrame()), ["discipline_id"])
         db.upsert_dataframe("competitions", payload.get("competitions", pd.DataFrame()), ["competition_id"])
         db.upsert_dataframe("events", payload.get("events", pd.DataFrame()), ["event_id"])
-        self._normalize_athletics_discipline_ids(db)
         db.upsert_dataframe("participants", payload.get("participants", pd.DataFrame()), ["participant_id"])
         db.upsert_dataframe("results", payload.get("results", pd.DataFrame()), ["event_id", "participant_id"])

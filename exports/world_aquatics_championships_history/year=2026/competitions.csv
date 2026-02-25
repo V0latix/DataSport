@@ -1,0 +1,2 @@
+competition_id,sport_id,name,season_year,level,start_date,end_date,source_id
+world_aquatics_championships,aquatics,World Aquatics Championships,,international_championship,2001-01-01,2025-01-01,world_aquatics_championships_history

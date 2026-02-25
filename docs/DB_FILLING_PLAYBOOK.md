@@ -259,6 +259,25 @@ python -m pipelines.init_databases
   - `data/raw/athletics/world_athletics_championships_top3_seed.csv`
   - couverture actuelle: editions >= 2000 (2001, 2003, ..., 2019, 2022, 2023, 2025)
 
+## 9h) Cas World Aquatics Championships (historique, top 3 par epreuve)
+
+- connecteur: `world_aquatics_championships_history`
+- `competition_id` unique: `world_aquatics_championships`
+- distinction stricte sport / discipline:
+  - sport unique: `Aquatics`
+  - disciplines au niveau epreuve (ex: `diving-10-m-platform`, `open-water-swimming-10-km`)
+- `event_id` par edition / genre / discipline:
+  - `world_aquatics_championships_<YYYY>_<men|women|mixed>_<discipline>`
+- `results`: podium uniquement (`rank` 1 a 3) par epreuve
+- `participant_id`:
+  - athlete individuel: `athlete_<nom_prenom>_<noc>`
+  - epreuves team/nation: code pays (`country_id`)
+- regle anti-doublon athlete:
+  - si un athlete existe deja dans `participants` (match nom + pays), reutiliser son `participant_id`
+- seed local:
+  - `data/raw/aquatics/world_aquatics_championships_top3_seed.csv`
+  - couverture actuelle: editions >= 2000 (2001, 2003, ..., 2019, 2022, 2023, 2024, 2025)
+
 ## 10) Cas JO d'été Paris 2024 (connecteur dédié, optionnel)
 
 - `competition_id` unique: `summer_olympics_paris_2024`
@@ -302,6 +321,7 @@ python -m pipelines.ingest --connector fiba_basketball_world_cup_history --year 
 python -m pipelines.ingest --connector ihf_handball_world_championship_history --year 2026
 python -m pipelines.ingest --connector icc_cricket_world_cup_history --year 2026
 python -m pipelines.ingest --connector world_athletics_championships_history --year 2026
+python -m pipelines.ingest --connector world_aquatics_championships_history --year 2026
 python -m pipelines.validate
 python -m pipelines.init_databases
 ```

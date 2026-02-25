@@ -85,3 +85,7 @@ import_a7860046bb156158b9ae61b9edbdf6bdb110c18c,olympics_keith_history,2026-02-2
 import_70a1052156ff5cb8aa85ed5e9b6ee0f4e456db95,olympics_keith_history,2026-02-25T00:03:55+00:00,/Users/romain/dev/DataSport/data/raw/olympics_keith_history/20260225T000350Z,success,
 import_8c62133a66069f49857a648491495594813f3317,olympics_keith_history,2026-02-25T00:05:34+00:00,/Users/romain/dev/DataSport/data/raw/olympics_keith_history/20260225T000532Z,error,FOREIGN KEY constraint failed
 import_06413e553d52d6e4825ce58689b88c6b944ade65,olympics_keith_history,2026-02-25T00:05:57+00:00,/Users/romain/dev/DataSport/data/raw/olympics_keith_history/20260225T000552Z,success,
+import_d81873b392422d43b612ee5de184b9885026529e,world_aquatics_championships_history,2026-02-25T00:35:26+00:00,/Users/romain/dev/DataSport/data/raw/world_aquatics_championships_history/20260225T003524Z,success,
+import_58d206eb1a5fbed4049675a843cdd6205ebd6d0d,world_athletics_championships_history,2026-02-25T00:51:09+00:00,/Users/romain/dev/DataSport/data/raw/world_athletics_championships_history/20260225T005106Z,success,
+import_92291b734b223b493f4a2d2f266ea8b3c6203ef1,world_aquatics_championships_history,2026-02-25T00:51:11+00:00,/Users/romain/dev/DataSport/data/raw/world_aquatics_championships_history/20260225T005106Z,success,
+import_8ed53e30e1572e1032139e4c23ce5a414ff1d900,world_aquatics_championships_history,2026-02-25T00:51:53+00:00,/Users/romain/dev/DataSport/data/raw/world_aquatics_championships_history/20260225T005150Z,success,

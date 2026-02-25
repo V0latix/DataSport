@@ -345,6 +345,28 @@ Comportement:
   - relais/mixed: code pays (`country_id`)
 - contrainte d'upsert: réutilise un `participant_id` athlète déjà existant (match nom + pays), n'ajoute pas de doublons
 
+### 8h) Ingest World Aquatics Championships (historique, top 3 par epreuve)
+
+```bash
+python -m pipelines.ingest --connector world_aquatics_championships_history --year 2026
+```
+
+Comportement:
+- ingère le seed historique local:
+  - `data/raw/aquatics/world_aquatics_championships_top3_seed.csv`
+  - couverture actuelle: éditions >= 2000 (2001, 2003, ..., 2019, 2022, 2023, 2024, 2025)
+- crée une compétition unique:
+  - `world_aquatics_championships`
+- distingue strictement `sport` vs `discipline`:
+  - sport unique: `Aquatics`
+  - disciplines au niveau épreuve (ex: `diving-10-m-platform`, `open-water-swimming-10-km`)
+- crée un event par édition / genre / discipline-épreuve
+- alimente uniquement le podium (`rank` 1/2/3) par épreuve
+- `participant_id`:
+  - athlète individuel: `athlete_<nom_prenom>_<noc>`
+  - épreuves par nation/équipe: code pays (`country_id`)
+- contrainte d'upsert: réutilise un `participant_id` athlète déjà existant (match nom + pays), n'ajoute pas de doublons
+
 ### 9) Ingest JO d'été Paris 2024 (connecteur dédié, optionnel)
 
 ```bash
