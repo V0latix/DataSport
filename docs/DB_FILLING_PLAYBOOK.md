@@ -298,12 +298,14 @@ python -m pipelines.init_databases
   - `icc_cricket_world_cup_men` (ODI, men)
   - `icc_cricket_world_cup_women` (ODI, women)
   - `icc_mens_t20_world_cup` (T20, men)
+  - `icc_womens_t20_world_cup` (T20, women)
   - `icc_world_test_championship_men` (Test, men)
   - `icc_champions_trophy_men` (ODI, men)
 - `event_id` par édition:
   - `icc_cricket_world_cup_men_YY`
   - `icc_cricket_world_cup_women_YY`
   - `icc_mens_t20_world_cup_YY`
+  - `icc_womens_t20_world_cup_YY`
   - `icc_world_test_championship_men_YY`
   - `icc_champions_trophy_men_YY`
 - disciplines séparées:
@@ -312,16 +314,18 @@ python -m pipelines.init_databases
   - `cricket-test`
 - `results`:
   - ODI World Cup (men/women): top 4 (rangs 1 a 4)
-  - T20 World Cup / Champions Trophy: top 4 (rangs 1 a 4, demi-finalistes inclus)
+  - T20 World Cup (men/women) / Champions Trophy: top 4 (rangs 1 a 4, demi-finalistes inclus)
   - World Test Championship: finalistes (rangs 1 a 2)
 - `participant_id` = `country_id` (code pays, incluant `ENG` et `WIS`)
 - note métier:
   - ODI World Cup: pas de match officiel 3e place sur plusieurs éditions -> les rangs 3-4 proviennent des demi-finalistes
+  - Women's T20 World Cup 2020: demi-finales abandonnées -> finalistes qualifiés via classement de groupe, mais top 4 conservé (2 finalistes + 2 autres demi-finalistes)
   - Champions Trophy 2002: co-vainqueurs Inde / Sri Lanka (deux lignes `rank=1`) + demi-finalistes (rangs 3/4)
 - seeds locaux:
   - `data/raw/cricket/icc_cricket_world_cup_men_final_seed.csv`
   - `data/raw/cricket/icc_cricket_world_cup_women_final_seed.csv`
   - `data/raw/cricket/icc_mens_t20_world_cup_final_seed.csv`
+  - `data/raw/cricket/icc_womens_t20_world_cup_final_seed.csv`
   - `data/raw/cricket/icc_world_test_championship_men_final_seed.csv`
   - `data/raw/cricket/icc_champions_trophy_men_final_seed.csv`
 

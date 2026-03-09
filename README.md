@@ -316,23 +316,25 @@ Comportement:
   - `data/raw/cricket/icc_cricket_world_cup_men_final_seed.csv`
   - `data/raw/cricket/icc_cricket_world_cup_women_final_seed.csv`
   - `data/raw/cricket/icc_mens_t20_world_cup_final_seed.csv`
+  - `data/raw/cricket/icc_womens_t20_world_cup_final_seed.csv`
   - `data/raw/cricket/icc_world_test_championship_men_final_seed.csv`
   - `data/raw/cricket/icc_champions_trophy_men_final_seed.csv`
-- crée cinq compétitions:
+- crée six compétitions:
   - `icc_cricket_world_cup_men` (ODI)
   - `icc_cricket_world_cup_women` (ODI)
   - `icc_mens_t20_world_cup` (T20)
+  - `icc_womens_t20_world_cup` (T20)
   - `icc_world_test_championship_men` (Test)
   - `icc_champions_trophy_men` (ODI)
 - crée un event par édition (suffixe `YY`) pour chaque compétition
-- sépare les disciplines cricket par format/compétition:
-  - `cricket-odi-world-cup`
-  - `cricket-t20-world-cup`
-  - `cricket-test-world-championship`
-  - `cricket-champions-trophy`
+- sépare les disciplines cricket par format:
+  - `cricket-odi`
+  - `cricket-t20`
+  - `cricket-test`
 - résultats:
   - ODI World Cup (men/women): top 4 (1er à 4e)
-  - T20 World Cup / World Test Championship / Champions Trophy: finalistes (1er, 2e)
+  - T20 World Cup (men/women) / Champions Trophy: top 4 (1er à 4e)
+  - World Test Championship: finalistes (1er, 2e)
 - `participant_id` est le code pays (incluant `ENG`, `WIS`)
 
 ### 8g) Ingest World Athletics Championships (historique, top 3 par discipline)

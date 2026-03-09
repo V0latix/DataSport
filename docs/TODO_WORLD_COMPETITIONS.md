@@ -16,6 +16,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] FIVB Volleyball Men's World Championship (top 4 par edition) ajoute via `fivb_volleyball_world_championship_history` (2026-03-09)
 - [x] FIVB Women's Volleyball World Championship (top 4 par edition) ajoute via `fivb_volleyball_world_championship_history` (2026-03-09)
 - [x] Competitions mondiales ICC hommes splittees par format (ODI World Cup, T20 World Cup, World Test Championship, Champions Trophy) via `icc_cricket_world_cup_history` (2026-03-09)
+- [x] ICC Women's T20 World Cup (top 4 par edition) ajoute via `icc_cricket_world_cup_history` (2026-03-09)
 
 ### Competitions mondiales
 
@@ -30,6 +31,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] ICC Cricket World Cup (ODI men) (`icc_cricket_world_cup_history`)
 - [x] ICC Women's Cricket World Cup (`icc_cricket_world_cup_history`)
 - [x] ICC Men's T20 World Cup (`icc_cricket_world_cup_history`)
+- [x] ICC Women's T20 World Cup (`icc_cricket_world_cup_history`)
 - [x] ICC World Test Championship (men) (`icc_cricket_world_cup_history`)
 - [x] World Athletics Championships (`world_athletics_championships_history`)
 - [x] Summer/Winter Olympics historiques (`olympics_keith_history`)

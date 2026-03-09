@@ -51,6 +51,17 @@ COMPETITIONS: dict[str, dict[str, str]] = {
         "event_class": "final_ranking_top4",
         "score_prefix": "icc_mens_t20_world_cup_final_rank",
     },
+    "women_t20_world_cup": {
+        "seed_file": "icc_womens_t20_world_cup_final_seed.csv",
+        "competition_id": "icc_womens_t20_world_cup",
+        "competition_name": "ICC Women's T20 World Cup",
+        "discipline_id": "cricket-t20",
+        "discipline_name": "Cricket T20",
+        "gender": "women",
+        "max_rank": "4",
+        "event_class": "final_ranking_top4",
+        "score_prefix": "icc_womens_t20_world_cup_final_rank",
+    },
     "men_world_test_championship": {
         "seed_file": "icc_world_test_championship_men_final_seed.csv",
         "competition_id": "icc_world_test_championship_men",
@@ -96,6 +107,7 @@ class IccCricketWorldCupHistoryConnector(Connector):
                 "data/raw/cricket/icc_cricket_world_cup_men_final_seed.csv, "
                 "data/raw/cricket/icc_cricket_world_cup_women_final_seed.csv, "
                 "data/raw/cricket/icc_mens_t20_world_cup_final_seed.csv, "
+                "data/raw/cricket/icc_womens_t20_world_cup_final_seed.csv, "
                 "data/raw/cricket/icc_world_test_championship_men_final_seed.csv and "
                 "data/raw/cricket/icc_champions_trophy_men_final_seed.csv "
                 "(curated from ICC / Wikipedia public information). "

@@ -25,5 +25,6 @@ fivb_volleyball_world_championship_women,volleyball,FIVB Women's Volleyball Worl
 icc_cricket_world_cup_men,cricket,ICC Cricket World Cup (ODI Men),,national_team_tournament,1975-12-31,2023-12-31,icc_cricket_world_cup_history
 icc_cricket_world_cup_women,cricket,ICC Women's Cricket World Cup (ODI),,national_team_tournament,1973-12-31,2022-12-31,icc_cricket_world_cup_history
 icc_mens_t20_world_cup,cricket,ICC Men's T20 World Cup,,national_team_tournament,2007-12-31,2026-12-31,icc_cricket_world_cup_history
+icc_womens_t20_world_cup,cricket,ICC Women's T20 World Cup,,national_team_tournament,2009-12-31,2024-12-31,icc_cricket_world_cup_history
 icc_world_test_championship_men,cricket,ICC World Test Championship (Men),,national_team_tournament,2021-12-31,2025-12-31,icc_cricket_world_cup_history
 icc_champions_trophy_men,cricket,ICC Champions Trophy (Men),,national_team_tournament,1998-12-31,2025-12-31,icc_cricket_world_cup_history

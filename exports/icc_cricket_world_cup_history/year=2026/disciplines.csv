@@ -1,4 +1,4 @@
 discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
-cricket-odi,Cricket ODI,cricket-odi,cricket,1.0,connector_icc_cricket_world_cup_history,2026-03-09T10:52:50+00:00
-cricket-t20,Cricket T20,cricket-t20,cricket,1.0,connector_icc_cricket_world_cup_history,2026-03-09T10:52:50+00:00
-cricket-test,Cricket Test,cricket-test,cricket,1.0,connector_icc_cricket_world_cup_history,2026-03-09T10:52:50+00:00
+cricket-odi,Cricket ODI,cricket-odi,cricket,1.0,connector_icc_cricket_world_cup_history,2026-03-09T11:09:32+00:00
+cricket-t20,Cricket T20,cricket-t20,cricket,1.0,connector_icc_cricket_world_cup_history,2026-03-09T11:09:32+00:00
+cricket-test,Cricket Test,cricket-test,cricket,1.0,connector_icc_cricket_world_cup_history,2026-03-09T11:09:32+00:00
