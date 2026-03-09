@@ -18,32 +18,73 @@ COUNTRY_OVERRIDES = {
 }
 
 COMPETITIONS: dict[str, dict[str, str]] = {
-    "men": {
+    "men_odi_world_cup": {
         "seed_file": "icc_cricket_world_cup_men_final_seed.csv",
         "competition_id": "icc_cricket_world_cup_men",
-        "competition_name": "ICC Cricket World Cup (Men)",
-        "discipline_name": "ICC Cricket World Cup Men Final Ranking",
+        "competition_name": "ICC Cricket World Cup (ODI Men)",
+        "discipline_id": "cricket-odi-world-cup",
+        "discipline_name": "Cricket ODI World Cup",
         "gender": "men",
+        "max_rank": "4",
+        "event_class": "final_ranking_top4",
+        "score_prefix": "icc_cricket_world_cup_odi_final_rank",
     },
-    "women": {
+    "women_odi_world_cup": {
         "seed_file": "icc_cricket_world_cup_women_final_seed.csv",
         "competition_id": "icc_cricket_world_cup_women",
-        "competition_name": "ICC Women's Cricket World Cup",
-        "discipline_name": "ICC Cricket World Cup Women Final Ranking",
+        "competition_name": "ICC Women's Cricket World Cup (ODI)",
+        "discipline_id": "cricket-odi-world-cup",
+        "discipline_name": "Cricket ODI World Cup",
         "gender": "women",
+        "max_rank": "4",
+        "event_class": "final_ranking_top4",
+        "score_prefix": "icc_cricket_world_cup_odi_final_rank",
+    },
+    "men_t20_world_cup": {
+        "seed_file": "icc_mens_t20_world_cup_final_seed.csv",
+        "competition_id": "icc_mens_t20_world_cup",
+        "competition_name": "ICC Men's T20 World Cup",
+        "discipline_id": "cricket-t20-world-cup",
+        "discipline_name": "Cricket T20 World Cup",
+        "gender": "men",
+        "max_rank": "2",
+        "event_class": "final_ranking_top2",
+        "score_prefix": "icc_mens_t20_world_cup_final_rank",
+    },
+    "men_world_test_championship": {
+        "seed_file": "icc_world_test_championship_men_final_seed.csv",
+        "competition_id": "icc_world_test_championship_men",
+        "competition_name": "ICC World Test Championship (Men)",
+        "discipline_id": "cricket-test-world-championship",
+        "discipline_name": "Cricket World Test Championship",
+        "gender": "men",
+        "max_rank": "2",
+        "event_class": "final_ranking_top2",
+        "score_prefix": "icc_world_test_championship_final_rank",
+    },
+    "men_champions_trophy": {
+        "seed_file": "icc_champions_trophy_men_final_seed.csv",
+        "competition_id": "icc_champions_trophy_men",
+        "competition_name": "ICC Champions Trophy (Men)",
+        "discipline_id": "cricket-champions-trophy",
+        "discipline_name": "Cricket Champions Trophy",
+        "gender": "men",
+        "max_rank": "2",
+        "event_class": "final_ranking_top2",
+        "score_prefix": "icc_champions_trophy_final_rank",
     },
 }
 
 
 class IccCricketWorldCupHistoryConnector(Connector):
     id = "icc_cricket_world_cup_history"
-    name = "ICC Cricket World Cup Historical Results (Men/Women)"
+    name = "ICC Cricket World Competitions Historical Results (ODI/Test/T20/Champions Trophy)"
     source_type = "csv"
     license_notes = (
-        "Historical top4 seeds curated from public ICC / Wikipedia references. "
+        "Historical seeds curated from public ICC / Wikipedia references. "
         "Verify downstream redistribution requirements."
     )
-    base_url = "https://en.wikipedia.org/wiki/Cricket_World_Cup"
+    base_url = "https://www.icc-cricket.com"
 
     def source_row(self) -> dict[str, str]:
         return {
@@ -51,12 +92,14 @@ class IccCricketWorldCupHistoryConnector(Connector):
             "source_name": self.name,
             "source_type": self.source_type,
             "license_notes": (
-                "Historical top4 seeds from local files "
-                "data/raw/cricket/icc_cricket_world_cup_men_final_seed.csv and "
-                "data/raw/cricket/icc_cricket_world_cup_women_final_seed.csv "
+                "Historical seeds from local files "
+                "data/raw/cricket/icc_cricket_world_cup_men_final_seed.csv, "
+                "data/raw/cricket/icc_cricket_world_cup_women_final_seed.csv, "
+                "data/raw/cricket/icc_mens_t20_world_cup_final_seed.csv, "
+                "data/raw/cricket/icc_world_test_championship_men_final_seed.csv and "
+                "data/raw/cricket/icc_champions_trophy_men_final_seed.csv "
                 "(curated from ICC / Wikipedia public information). "
-                "Many editions have no official 3rd-place playoff; ranks 3-4 are sourced from "
-                "semi-finalists when no official bronze match exists."
+                "For selected tournaments with final-only format, only finalists are stored (rank 1-2)."
             ),
             "base_url": self.base_url,
         }
@@ -125,7 +168,8 @@ class IccCricketWorldCupHistoryConnector(Connector):
             annual_df["event_date"] = annual_df["event_date"].dt.strftime("%Y-%m-%d")
             annual_df = annual_df.drop_duplicates(subset=["year", "rank", "country_name"])
             annual_df = annual_df.sort_values(["year", "rank", "country_name"]).reset_index(drop=True)
-            annual_df = annual_df.loc[annual_df["rank"] <= 4].copy()
+            max_rank = int(meta.get("max_rank", "4"))
+            annual_df = annual_df.loc[annual_df["rank"] <= max_rank].copy()
             parsed_by_gender[gender] = annual_df
 
         if not parsed_by_gender:
@@ -156,8 +200,8 @@ class IccCricketWorldCupHistoryConnector(Connector):
             if annual_df.empty:
                 continue
 
-            discipline_name = "Cricket"
-            discipline_id = sport_id
+            discipline_name = meta["discipline_name"]
+            discipline_id = meta["discipline_id"]
             competition_id = meta["competition_id"]
             competition_name = meta["competition_name"]
 
@@ -194,7 +238,7 @@ class IccCricketWorldCupHistoryConnector(Connector):
                         "competition_id": competition_id,
                         "discipline_id": discipline_id,
                         "gender": meta["gender"],
-                        "event_class": "final_ranking_top4",
+                        "event_class": meta["event_class"],
                         "event_date": event_date,
                     }
                 )
@@ -234,7 +278,7 @@ class IccCricketWorldCupHistoryConnector(Connector):
                             "participant_id": participant_id,
                             "rank": rank,
                             "medal": medal,
-                            "score_raw": f"icc_cricket_world_cup_final_rank={rank}",
+                            "score_raw": f"{meta['score_prefix']}={rank}",
                             "points_awarded": points,
                         }
                     )

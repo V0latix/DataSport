@@ -15,6 +15,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] World Aquatics Championships (top 3 par epreuve) ajoute via `world_aquatics_championships_history` (2026-02-25)
 - [x] FIVB Volleyball Men's World Championship (top 4 par edition) ajoute via `fivb_volleyball_world_championship_history` (2026-03-09)
 - [x] FIVB Women's Volleyball World Championship (top 4 par edition) ajoute via `fivb_volleyball_world_championship_history` (2026-03-09)
+- [x] Competitions mondiales ICC hommes splittees par format (ODI World Cup, T20 World Cup, World Test Championship, Champions Trophy) via `icc_cricket_world_cup_history` (2026-03-09)
 
 ### Competitions mondiales
 
@@ -28,6 +29,8 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] IHF Women's Handball World Championship (`ihf_handball_world_championship_history`)
 - [x] ICC Cricket World Cup (ODI men) (`icc_cricket_world_cup_history`)
 - [x] ICC Women's Cricket World Cup (`icc_cricket_world_cup_history`)
+- [x] ICC Men's T20 World Cup (`icc_cricket_world_cup_history`)
+- [x] ICC World Test Championship (men) (`icc_cricket_world_cup_history`)
 - [x] World Athletics Championships (`world_athletics_championships_history`)
 - [x] Summer/Winter Olympics historiques (`olympics_keith_history`)
 - [x] Paris 2024 Summer Olympics (`paris_2024_summer_olympics`)
@@ -35,7 +38,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] FIVB Volleyball World Championship (men) (`fivb_volleyball_world_championship_history`)
 - [x] FIVB Women's Volleyball World Championship (`fivb_volleyball_world_championship_history`)
 - [ ] FIFA Club World Cup (clubs)
-- [ ] ICC Champions Trophy
+- [x] ICC Champions Trophy (`icc_cricket_world_cup_history`)
 - [ ] Rugby World Cup Sevens
 - [ ] World Baseball Classic
 - [ ] BWF World Championships (badminton)
@@ -68,7 +71,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 
 ### Qualite des donnees `competition/events`
 
-- [ ] Bien dissocier les disciplines/formats du cricket (Test, ODI, T20I, T10, The Hundred, etc.) dans `sports`/`competitions`/`events`.
+- [x] Bien dissocier les disciplines/formats du cricket (Test, ODI, T20I, T10, The Hundred, etc.) dans `sports`/`competitions`/`events`.
 - [x] Faire une distinction stricte entre `competition` JO (ex: `olympics_summer`) et `event` JO (ex: `olympics_summer_athletics_100m__men_2020`) pour eviter les melanges de granularite.
 - [ ] Régler le probleme des disciplines, il y a encore des doublons et des choses qui ne sont pas des disciplines
 

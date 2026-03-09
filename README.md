@@ -305,7 +305,7 @@ Comportement:
 - alimente le classement final top 4 par édition (1er, 2e, 3e, 4e)
 - `participant_id` est le code pays (avec mapping historique pour `URS`, `YUG`, `TCH`, `GDR`, `FRG`)
 
-### 8f) Ingest ICC Cricket World Cup (historique, hommes + femmes)
+### 8f) Ingest ICC Cricket competitions mondiales (historique, ODI/Test/T20/Champions Trophy)
 
 ```bash
 python -m pipelines.ingest --connector icc_cricket_world_cup_history --year 2026
@@ -315,12 +315,24 @@ Comportement:
 - ingère les seeds historiques locaux:
   - `data/raw/cricket/icc_cricket_world_cup_men_final_seed.csv`
   - `data/raw/cricket/icc_cricket_world_cup_women_final_seed.csv`
-- crée deux compétitions:
-  - `icc_cricket_world_cup_men`
-  - `icc_cricket_world_cup_women`
-- crée un event par édition (suffixe `YY`)
-- alimente le classement final top 4 par édition (1er, 2e, 3e, 4e)
-- note métier: pas de match officiel 3e place sur plusieurs éditions, donc les rangs 3-4 proviennent des demi-finalistes
+  - `data/raw/cricket/icc_mens_t20_world_cup_final_seed.csv`
+  - `data/raw/cricket/icc_world_test_championship_men_final_seed.csv`
+  - `data/raw/cricket/icc_champions_trophy_men_final_seed.csv`
+- crée cinq compétitions:
+  - `icc_cricket_world_cup_men` (ODI)
+  - `icc_cricket_world_cup_women` (ODI)
+  - `icc_mens_t20_world_cup` (T20)
+  - `icc_world_test_championship_men` (Test)
+  - `icc_champions_trophy_men` (ODI)
+- crée un event par édition (suffixe `YY`) pour chaque compétition
+- sépare les disciplines cricket par format/compétition:
+  - `cricket-odi-world-cup`
+  - `cricket-t20-world-cup`
+  - `cricket-test-world-championship`
+  - `cricket-champions-trophy`
+- résultats:
+  - ODI World Cup (men/women): top 4 (1er à 4e)
+  - T20 World Cup / World Test Championship / Champions Trophy: finalistes (1er, 2e)
 - `participant_id` est le code pays (incluant `ENG`, `WIS`)
 
 ### 8g) Ingest World Athletics Championships (historique, top 3 par discipline)

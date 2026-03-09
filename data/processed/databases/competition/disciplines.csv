@@ -20,7 +20,6 @@ fifa-world-cup-final-ranking,FIFA World Cup Final Ranking,fifa-world-cup-final-r
 basketball,Basketball,basketball,basketball,0.95,connector_olympics_keith_history,2026-02-25T00:05:53+00:00
 football,Football,football,football,0.95,connector_olympics_keith_history,2026-02-25T00:05:53+00:00
 handball,Handball,handball,handball,0.95,connector_olympics_keith_history,2026-02-25T00:05:53+00:00
-cricket,Cricket,cricket,cricket,1.0,connector_icc_cricket_world_cup_history,2026-02-20T23:15:39+00:00
 rugby-rugby,Rugby (Rugby),rugby-rugby,rugby-rugby,0.95,connector_olympics_keith_history,2026-02-20T19:43:38+00:00
 icc-men-test-team-ranking,ICC Men Test Team Ranking,icc-men-test-team-ranking,cricket,1.0,connector_icc_team_ranking_history,2026-02-20T22:49:20+00:00
 icc-men-odi-team-ranking,ICC Men ODI Team Ranking,icc-men-odi-team-ranking,cricket,1.0,connector_icc_team_ranking_history,2026-02-20T22:49:20+00:00
@@ -203,3 +202,7 @@ aquatics_swimming-50-m-butterfly,swimming-50-m-butterfly,swimming-50-m-butterfly
 aquatics_swimming-50-m-freestyle,swimming-50-m-freestyle,swimming-50-m-freestyle,aquatics,1.0,connector_world_aquatics_championships_history,2026-02-25T00:51:50+00:00
 aquatics_swimming-800-m-freestyle,swimming-800-m-freestyle,swimming-800-m-freestyle,aquatics,1.0,connector_world_aquatics_championships_history,2026-02-25T00:51:50+00:00
 aquatics_water-polo-tournament,water-polo-tournament,water-polo-tournament,aquatics,1.0,connector_world_aquatics_championships_history,2026-02-25T00:51:50+00:00
+cricket-odi-world-cup,Cricket ODI World Cup,cricket-odi-world-cup,cricket,1.0,connector_icc_cricket_world_cup_history,2026-03-09T10:29:08+00:00
+cricket-t20-world-cup,Cricket T20 World Cup,cricket-t20-world-cup,cricket,1.0,connector_icc_cricket_world_cup_history,2026-03-09T10:29:08+00:00
+cricket-test-world-championship,Cricket World Test Championship,cricket-test-world-championship,cricket,1.0,connector_icc_cricket_world_cup_history,2026-03-09T10:29:08+00:00
+cricket-champions-trophy,Cricket Champions Trophy,cricket-champions-trophy,cricket,1.0,connector_icc_cricket_world_cup_history,2026-03-09T10:29:08+00:00

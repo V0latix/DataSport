@@ -228,21 +228,39 @@ python -m pipelines.init_databases
   - `data/raw/handball/ihf_world_men_handball_championship_top4_seed.csv`
   - `data/raw/handball/ihf_world_women_handball_championship_top4_seed.csv`
 
-## 9f) Cas ICC Cricket World Cup (historique, hommes + femmes)
+## 9f) Cas ICC Cricket competitions mondiales (historique, ODI/Test/T20/Champions Trophy)
 
 - connecteur: `icc_cricket_world_cup_history`
 - compétitions:
-  - `icc_cricket_world_cup_men`
-  - `icc_cricket_world_cup_women`
+  - `icc_cricket_world_cup_men` (ODI, men)
+  - `icc_cricket_world_cup_women` (ODI, women)
+  - `icc_mens_t20_world_cup` (T20, men)
+  - `icc_world_test_championship_men` (Test, men)
+  - `icc_champions_trophy_men` (ODI, men)
 - `event_id` par édition:
   - `icc_cricket_world_cup_men_YY`
   - `icc_cricket_world_cup_women_YY`
-- `results`: top 4 (rangs 1 a 4) par édition
+  - `icc_mens_t20_world_cup_YY`
+  - `icc_world_test_championship_men_YY`
+  - `icc_champions_trophy_men_YY`
+- disciplines séparées:
+  - `cricket-odi-world-cup`
+  - `cricket-t20-world-cup`
+  - `cricket-test-world-championship`
+  - `cricket-champions-trophy`
+- `results`:
+  - ODI World Cup (men/women): top 4 (rangs 1 a 4)
+  - T20 World Cup / World Test Championship / Champions Trophy: finalistes (rangs 1 a 2)
 - `participant_id` = `country_id` (code pays, incluant `ENG` et `WIS`)
-- note métier: pas de match officiel 3e place sur plusieurs éditions -> les rangs 3-4 proviennent des demi-finalistes
+- note métier:
+  - ODI World Cup: pas de match officiel 3e place sur plusieurs éditions -> les rangs 3-4 proviennent des demi-finalistes
+  - Champions Trophy 2002: co-vainqueurs Inde / Sri Lanka (deux lignes `rank=1`)
 - seeds locaux:
   - `data/raw/cricket/icc_cricket_world_cup_men_final_seed.csv`
   - `data/raw/cricket/icc_cricket_world_cup_women_final_seed.csv`
+  - `data/raw/cricket/icc_mens_t20_world_cup_final_seed.csv`
+  - `data/raw/cricket/icc_world_test_championship_men_final_seed.csv`
+  - `data/raw/cricket/icc_champions_trophy_men_final_seed.csv`
 
 ## 9g) Cas World Athletics Championships (historique, top 3 par discipline)
 

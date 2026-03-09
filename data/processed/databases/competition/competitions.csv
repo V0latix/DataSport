@@ -16,11 +16,14 @@ fiba_men_ranking,basketball,FIBA Men's World Ranking,,national_team_ranking,2010
 fiba_women_ranking,basketball,FIBA Women's World Ranking,,national_team_ranking,2010-12-31,2025-08-08,fiba_ranking_history
 ihf_handball_world_championship_men,handball,IHF World Men's Handball Championship,,national_team_tournament,1938-12-31,2025-12-31,ihf_handball_world_championship_history
 ihf_handball_world_championship_women,handball,IHF Women's Handball World Championship,,national_team_tournament,1957-12-31,2025-12-31,ihf_handball_world_championship_history
-icc_cricket_world_cup_men,cricket,ICC Cricket World Cup (Men),,national_team_tournament,1975-12-31,2023-12-31,icc_cricket_world_cup_history
-icc_cricket_world_cup_women,cricket,ICC Women's Cricket World Cup,,national_team_tournament,1973-12-31,2022-12-31,icc_cricket_world_cup_history
 olympics_summer,olympic-games,Summer Olympics,,multi_sport_games,2000-01-01,2024-12-31,olympics_keith_history
 olympics_winter,olympic-games,Winter Olympics,,multi_sport_games,2002-01-01,2026-12-31,olympics_keith_history
 world_athletics_championships,athletics,World Athletics Championships,,international_championship,2001-12-31,2025-12-31,world_athletics_championships_history
 world_aquatics_championships,aquatics,World Aquatics Championships,,international_championship,2001-01-01,2025-01-01,world_aquatics_championships_history
 fivb_volleyball_world_championship_men,volleyball,FIVB Volleyball Men's World Championship,,national_team_tournament,1949-12-31,2025-12-31,fivb_volleyball_world_championship_history
 fivb_volleyball_world_championship_women,volleyball,FIVB Women's Volleyball World Championship,,national_team_tournament,1952-12-31,2025-12-31,fivb_volleyball_world_championship_history
+icc_cricket_world_cup_men,cricket,ICC Cricket World Cup (ODI Men),,national_team_tournament,1975-12-31,2023-12-31,icc_cricket_world_cup_history
+icc_cricket_world_cup_women,cricket,ICC Women's Cricket World Cup (ODI),,national_team_tournament,1973-12-31,2022-12-31,icc_cricket_world_cup_history
+icc_mens_t20_world_cup,cricket,ICC Men's T20 World Cup,,national_team_tournament,2007-12-31,2026-12-31,icc_cricket_world_cup_history
+icc_world_test_championship_men,cricket,ICC World Test Championship (Men),,national_team_tournament,2021-12-31,2025-12-31,icc_cricket_world_cup_history
+icc_champions_trophy_men,cricket,ICC Champions Trophy (Men),,national_team_tournament,1998-12-31,2025-12-31,icc_cricket_world_cup_history
