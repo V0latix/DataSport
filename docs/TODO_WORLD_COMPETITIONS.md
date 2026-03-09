@@ -4,7 +4,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 
 ## Etat actuel (deja ingere)
 
-### Derniers ajouts (2026-02-20 -> 2026-02-25)
+### Derniers ajouts (2026-02-20 -> 2026-03-09)
 
 - [x] IHF Handball World Championship (men/women) ajoute via `ihf_handball_world_championship_history` (commit `959b7ac`, 2026-02-20)
 - [x] ICC Cricket World Cup (ODI men/women) ajoute via `icc_cricket_world_cup_history` (commits `eda104c` et `3376ab8`, 2026-02-20 -> 2026-02-21)
@@ -13,6 +13,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] World Athletics Championships (top 3 par discipline) ajoute via `world_athletics_championships_history` (2026-02-24)
 - [x] JO unifies: Paris 2024 integre dans `olympics_summer` + JO hiver 2026 ajoutes dans `olympics_winter` (medailles par epreuve) via `olympics_keith_history` (2026-02-24)
 - [x] World Aquatics Championships (top 3 par epreuve) ajoute via `world_aquatics_championships_history` (2026-02-25)
+- [x] FIVB Volleyball Men's World Championship (top 4 par edition) ajoute via `fivb_volleyball_world_championship_history` (2026-03-09)
 
 ### Competitions mondiales
 
@@ -30,7 +31,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] Summer/Winter Olympics historiques (`olympics_keith_history`)
 - [x] Paris 2024 Summer Olympics (`paris_2024_summer_olympics`)
 - [x] World Aquatics Championships (`world_aquatics_championships_history`)
-- [ ] FIVB Volleyball World Championship (men)
+- [x] FIVB Volleyball World Championship (men) (`fivb_volleyball_world_championship_history`)
 - [ ] FIVB Women's Volleyball World Championship
 - [ ] FIFA Club World Cup (clubs)
 - [ ] ICC Champions Trophy

@@ -1,0 +1,22 @@
+participant_id,type,display_name,country_id
+URS,team,Soviet Union,URS
+TCH,team,Czechoslovakia,TCH
+BGR,team,Bulgaria,BGR
+ROU,team,Romania,ROU
+BRA,team,Brazil,BRA
+GDR,team,East Germany,GDR
+POL,team,Poland,POL
+ITA,team,Italy,ITA
+CUB,team,Cuba,CUB
+KOR,team,South Korea,KOR
+ARG,team,Argentina,ARG
+JPN,team,Japan,JPN
+USA,team,United States,USA
+NLD,team,Netherlands,NLD
+YUG,team,Yugoslavia,YUG
+RUS,team,Russia,RUS
+FRA,team,France,FRA
+SCG,team,Serbia and Montenegro,SCG
+SRB,team,Serbia,SRB
+DEU,team,Germany,DEU
+SVN,team,Slovenia,SVN

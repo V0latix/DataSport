@@ -57,6 +57,10 @@ python -m pipelines.init_databases
 - Éviter de multiplier artificiellement les compétitions.
 - Si le domaine métier est une seule compétition logique (ex: FIFA ranking): 1 ligne.
 
+### `discipline`
+- Attention a ne pas confondre discipline et event. Ou alors discipline et sport.
+- Par exemple le football est a la fois une disicpline et un sport mais le 100m est une discipline qui fait parti du sport athletics
+
 ### `events`
 - 1 ligne par “publication sportive” retenue.
 - IDs lisibles et stables quand possible (ex: `fifa_ranking_95`).
@@ -278,6 +282,18 @@ python -m pipelines.init_databases
   - `data/raw/aquatics/world_aquatics_championships_top3_seed.csv`
   - couverture actuelle: editions >= 2000 (2001, 2003, ..., 2019, 2022, 2023, 2024, 2025)
 
+## 9i) Cas FIVB Volleyball Men's World Championship (historique, top 4)
+
+- connecteur: `fivb_volleyball_world_championship_history`
+- `competition_id` unique: `fivb_volleyball_world_championship_men`
+- `event_id` par edition:
+  - `fivb_volleyball_world_championship_men_YY`
+- `results`: top 4 (rangs 1 a 4) par edition
+- `participant_id` = `country_id` (codes historiques inclus: `URS`, `TCH`, `GDR`, `YUG`, `SCG`)
+- seed local:
+  - `data/raw/volleyball/fivb_world_championship_men_top4_seed.csv`
+  - couverture actuelle: editions 1949 -> 2025
+
 ## 10) Cas JO d'été Paris 2024 (connecteur dédié, optionnel)
 
 - `competition_id` unique: `summer_olympics_paris_2024`
@@ -322,6 +338,7 @@ python -m pipelines.ingest --connector ihf_handball_world_championship_history -
 python -m pipelines.ingest --connector icc_cricket_world_cup_history --year 2026
 python -m pipelines.ingest --connector world_athletics_championships_history --year 2026
 python -m pipelines.ingest --connector world_aquatics_championships_history --year 2026
+python -m pipelines.ingest --connector fivb_volleyball_world_championship_history --year 2026
 python -m pipelines.validate
 python -m pipelines.init_databases
 ```

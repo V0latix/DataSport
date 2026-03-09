@@ -3,6 +3,7 @@ from __future__ import annotations
 from .balldontlie_nba_connector import BallDontLieNBAConnector
 from .fiba_basketball_world_cup_history_connector import FibaBasketballWorldCupHistoryConnector
 from .fiba_ranking_history_connector import FibaRankingHistoryConnector
+from .fivb_volleyball_world_championship_history_connector import FivbVolleyballWorldChampionshipHistoryConnector
 from .fifa_ranking_history_connector import FifaRankingHistoryConnector
 from .fifa_women_ranking_history_connector import FifaWomenRankingHistoryConnector
 from .fifa_women_world_cup_history_connector import FifaWomenWorldCupHistoryConnector
@@ -26,6 +27,7 @@ CONNECTOR_REGISTRY = {
     "balldontlie_nba": BallDontLieNBAConnector,
     "fiba_ranking_history": FibaRankingHistoryConnector,
     "fiba_basketball_world_cup_history": FibaBasketballWorldCupHistoryConnector,
+    "fivb_volleyball_world_championship_history": FivbVolleyballWorldChampionshipHistoryConnector,
     "fifa_ranking_history": FifaRankingHistoryConnector,
     "fifa_women_ranking_history": FifaWomenRankingHistoryConnector,
     "fifa_women_world_cup_history": FifaWomenWorldCupHistoryConnector,

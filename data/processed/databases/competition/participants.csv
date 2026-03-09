@@ -7,7 +7,7 @@ ENG,team,England,ENG
 NLD,team,Netherlands,NLD
 IRL,team,Ireland,IRL
 DNK,team,Denmark,DNK
-RUS,team,Russian Federation,RUS
+RUS,team,Russia,RUS
 ARG,team,Argentina,ARG
 NOR,team,Norway,NOR
 ESP,team,Spain,ESP
@@ -18,7 +18,7 @@ CZE,team,Czech Republic,CZE
 MEX,team,Mexico,MEX
 ROU,team,Romania,ROU
 HRV,team,Croatia,HRV
-YUG,team,FR Yugoslavia,YUG
+YUG,team,Yugoslavia,YUG
 PRT,team,Portugal,PRT
 PRY,team,Paraguay,PRY
 TUR,team,Türkiye,TUR
@@ -13971,3 +13971,4 @@ athlete_Simone_Cerasuolo_ITA,athlete,Simone Cerasuolo,ITA
 athlete_Kirill_Prigoda_NAB,athlete,Kirill Prigoda,NAB
 athlete_Wu_Qingfeng_CHN,athlete,Wu Qingfeng,CHN
 athlete_Cheng_Yujie_CHN,athlete,Cheng Yujie,CHN
+SCG,team,Serbia and Montenegro,SCG
