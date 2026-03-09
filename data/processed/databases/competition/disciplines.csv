@@ -202,7 +202,6 @@ aquatics_swimming-50-m-butterfly,swimming-50-m-butterfly,swimming-50-m-butterfly
 aquatics_swimming-50-m-freestyle,swimming-50-m-freestyle,swimming-50-m-freestyle,aquatics,1.0,connector_world_aquatics_championships_history,2026-02-25T00:51:50+00:00
 aquatics_swimming-800-m-freestyle,swimming-800-m-freestyle,swimming-800-m-freestyle,aquatics,1.0,connector_world_aquatics_championships_history,2026-02-25T00:51:50+00:00
 aquatics_water-polo-tournament,water-polo-tournament,water-polo-tournament,aquatics,1.0,connector_world_aquatics_championships_history,2026-02-25T00:51:50+00:00
-cricket-odi-world-cup,Cricket ODI World Cup,cricket-odi-world-cup,cricket,1.0,connector_icc_cricket_world_cup_history,2026-03-09T10:29:08+00:00
-cricket-t20-world-cup,Cricket T20 World Cup,cricket-t20-world-cup,cricket,1.0,connector_icc_cricket_world_cup_history,2026-03-09T10:29:08+00:00
-cricket-test-world-championship,Cricket World Test Championship,cricket-test-world-championship,cricket,1.0,connector_icc_cricket_world_cup_history,2026-03-09T10:29:08+00:00
-cricket-champions-trophy,Cricket Champions Trophy,cricket-champions-trophy,cricket,1.0,connector_icc_cricket_world_cup_history,2026-03-09T10:29:08+00:00
+cricket-odi,Cricket ODI,cricket-odi,cricket,1.0,connector_icc_cricket_world_cup_history,2026-03-09T10:52:50+00:00
+cricket-t20,Cricket T20,cricket-t20,cricket,1.0,connector_icc_cricket_world_cup_history,2026-03-09T10:52:50+00:00
+cricket-test,Cricket Test,cricket-test,cricket,1.0,connector_icc_cricket_world_cup_history,2026-03-09T10:52:50+00:00

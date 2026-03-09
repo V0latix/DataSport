@@ -57,9 +57,14 @@ python -m pipelines.init_databases
 - Éviter de multiplier artificiellement les compétitions.
 - Si le domaine métier est une seule compétition logique (ex: FIFA ranking): 1 ligne.
 
-### `discipline`
-- Attention a ne pas confondre discipline et event. Ou alors discipline et sport.
-- Par exemple le football est a la fois une disicpline et un sport mais le 100m est une discipline qui fait parti du sport athletics
+### `disciplines`
+- Ne pas confondre `sport` (famille), `discipline` (format), `event` (édition datée).
+- Exemples cricket:
+  - `sport_id=cricket`
+  - `discipline_id=cricket-odi`, `cricket-t20`, `cricket-test`
+- Exemple athletics:
+  - `sport_id=athletics`
+  - `discipline_id=athletics_100-m`, `athletics_marathon`
 
 ### `events`
 - 1 ligne par “publication sportive” retenue.
@@ -74,6 +79,64 @@ python -m pipelines.init_databases
 - Clé `(event_id, participant_id)` unique.
 - `rank` positif (`>=1`) ou `NULL`.
 - Sur un top 10: exactement 10 lignes par event (sauf égalités métier explicitement acceptées et documentées).
+
+## 4b) Exemples concrets par table (anti-erreurs)
+
+### `sources` (1 ligne par connecteur)
+```csv
+source_id,source_name,source_type,license_notes,base_url
+icc_cricket_world_cup_history,ICC Cricket World Competitions Historical Results (ODI/Test/T20/Champions Trophy),csv,Historical seeds curated from ICC/Wikipedia public info,https://www.icc-cricket.com
+```
+
+### `raw_imports` (1 ligne par run)
+```csv
+import_id,source_id,fetched_at_utc,raw_path,status,error
+import_xxx,icc_cricket_world_cup_history,2026-03-09T10:29:09+00:00,data/raw/icc_cricket_world_cup_history/20260309T102908Z,success,
+```
+
+### `sports` (famille sportive)
+```csv
+sport_id,sport_name,sport_slug,created_at_utc
+cricket,Cricket,cricket,2026-03-09T10:29:08+00:00
+```
+
+### `disciplines` (format de pratique)
+```csv
+discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
+cricket-odi,Cricket ODI,cricket-odi,cricket,1.0,connector_icc_cricket_world_cup_history,2026-03-09T10:29:08+00:00
+cricket-t20,Cricket T20,cricket-t20,cricket,1.0,connector_icc_cricket_world_cup_history,2026-03-09T10:29:08+00:00
+cricket-test,Cricket Test,cricket-test,cricket,1.0,connector_icc_cricket_world_cup_history,2026-03-09T10:29:08+00:00
+```
+
+### `competitions` (compétition logique)
+```csv
+competition_id,sport_id,name,season_year,level,start_date,end_date,source_id
+icc_cricket_world_cup_men,cricket,ICC Cricket World Cup (ODI Men),,national_team_tournament,1975-12-31,2023-12-31,icc_cricket_world_cup_history
+icc_mens_t20_world_cup,cricket,ICC Men's T20 World Cup,,national_team_tournament,2007-12-31,2026-12-31,icc_cricket_world_cup_history
+```
+
+### `events` (édition datée d’une compétition)
+```csv
+event_id,competition_id,discipline_id,gender,event_class,event_date
+icc_cricket_world_cup_men_23,icc_cricket_world_cup_men,cricket-odi,men,final_ranking_top4,2023-12-31
+icc_mens_t20_world_cup_24,icc_mens_t20_world_cup,cricket-t20,men,final_ranking_top4,2024-12-31
+```
+
+### `participants` (nation/équipe/athlète)
+```csv
+participant_id,type,display_name,country_id
+IND,team,India,IND
+AUS,team,Australia,AUS
+```
+
+### `results` (classement final de l’event)
+```csv
+event_id,participant_id,rank,medal,score_raw,points_awarded
+icc_mens_t20_world_cup_24,IND,1,gold,icc_mens_t20_world_cup_final_rank=1,10.0
+icc_mens_t20_world_cup_24,ZAF,2,silver,icc_mens_t20_world_cup_final_rank=2,7.0
+icc_mens_t20_world_cup_24,AFG,3,bronze,icc_mens_t20_world_cup_final_rank=3,5.0
+icc_mens_t20_world_cup_24,ENG,4,,icc_mens_t20_world_cup_final_rank=4,4.0
+```
 
 ## 5) Règles pays / IDs
 
@@ -244,17 +307,17 @@ python -m pipelines.init_databases
   - `icc_world_test_championship_men_YY`
   - `icc_champions_trophy_men_YY`
 - disciplines séparées:
-  - `cricket-odi-world-cup`
-  - `cricket-t20-world-cup`
-  - `cricket-test-world-championship`
-  - `cricket-champions-trophy`
+  - `cricket-odi`
+  - `cricket-t20`
+  - `cricket-test`
 - `results`:
   - ODI World Cup (men/women): top 4 (rangs 1 a 4)
-  - T20 World Cup / World Test Championship / Champions Trophy: finalistes (rangs 1 a 2)
+  - T20 World Cup / Champions Trophy: top 4 (rangs 1 a 4, demi-finalistes inclus)
+  - World Test Championship: finalistes (rangs 1 a 2)
 - `participant_id` = `country_id` (code pays, incluant `ENG` et `WIS`)
 - note métier:
   - ODI World Cup: pas de match officiel 3e place sur plusieurs éditions -> les rangs 3-4 proviennent des demi-finalistes
-  - Champions Trophy 2002: co-vainqueurs Inde / Sri Lanka (deux lignes `rank=1`)
+  - Champions Trophy 2002: co-vainqueurs Inde / Sri Lanka (deux lignes `rank=1`) + demi-finalistes (rangs 3/4)
 - seeds locaux:
   - `data/raw/cricket/icc_cricket_world_cup_men_final_seed.csv`
   - `data/raw/cricket/icc_cricket_world_cup_women_final_seed.csv`
