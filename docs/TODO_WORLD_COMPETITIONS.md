@@ -14,6 +14,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] JO unifies: Paris 2024 integre dans `olympics_summer` + JO hiver 2026 ajoutes dans `olympics_winter` (medailles par epreuve) via `olympics_keith_history` (2026-02-24)
 - [x] World Aquatics Championships (top 3 par epreuve) ajoute via `world_aquatics_championships_history` (2026-02-25)
 - [x] FIVB Volleyball Men's World Championship (top 4 par edition) ajoute via `fivb_volleyball_world_championship_history` (2026-03-09)
+- [x] FIVB Women's Volleyball World Championship (top 4 par edition) ajoute via `fivb_volleyball_world_championship_history` (2026-03-09)
 
 ### Competitions mondiales
 
@@ -32,7 +33,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] Paris 2024 Summer Olympics (`paris_2024_summer_olympics`)
 - [x] World Aquatics Championships (`world_aquatics_championships_history`)
 - [x] FIVB Volleyball World Championship (men) (`fivb_volleyball_world_championship_history`)
-- [ ] FIVB Women's Volleyball World Championship
+- [x] FIVB Women's Volleyball World Championship (`fivb_volleyball_world_championship_history`)
 - [ ] FIFA Club World Cup (clubs)
 - [ ] ICC Champions Trophy
 - [ ] Rugby World Cup Sevens

@@ -367,19 +367,23 @@ Comportement:
   - épreuves par nation/équipe: code pays (`country_id`)
 - contrainte d'upsert: réutilise un `participant_id` athlète déjà existant (match nom + pays), n'ajoute pas de doublons
 
-### 8i) Ingest FIVB Volleyball Men's World Championship (historique, top 4)
+### 8i) Ingest FIVB Volleyball World Championship (historique, hommes + femmes, top 4)
 
 ```bash
 python -m pipelines.ingest --connector fivb_volleyball_world_championship_history --year 2026
 ```
 
 Comportement:
-- ingère le seed historique local:
+- ingère les seeds historiques locaux:
   - `data/raw/volleyball/fivb_world_championship_men_top4_seed.csv`
-  - couverture actuelle: éditions `1949 -> 2025`
-- crée une compétition unique:
+  - `data/raw/volleyball/fivb_world_championship_women_top4_seed.csv`
+  - couverture actuelle:
+    - men: éditions `1949 -> 2025`
+    - women: éditions `1952 -> 2025`
+- crée deux compétitions:
   - `fivb_volleyball_world_championship_men`
-- crée un event par édition (suffixe `YY`)
+  - `fivb_volleyball_world_championship_women`
+- crée un event par édition (suffixe `YY`) pour chaque genre
 - alimente le classement final top 4 par édition (1er, 2e, 3e, 4e)
 - `participant_id` est le code pays (avec mapping historique `URS`, `TCH`, `GDR`, `YUG`, `SCG`)
 
