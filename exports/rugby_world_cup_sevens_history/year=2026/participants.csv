@@ -1,0 +1,15 @@
+participant_id,type,display_name,country_id
+ENG,team,England,ENG
+AUS,team,Australia,AUS
+FJI,team,Fiji,FJI
+IRL,team,Ireland,IRL
+ZAF,team,South Africa,ZAF
+NZL,team,New Zealand,NZL
+WSM,team,Samoa,WSM
+ARG,team,Argentina,ARG
+WAL,team,Wales,WAL
+KEN,team,Kenya,KEN
+USA,team,United States,USA
+CAN,team,Canada,CAN
+ESP,team,Spain,ESP
+FRA,team,France,FRA

@@ -4,7 +4,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 
 ## Etat actuel (deja ingere)
 
-### Derniers ajouts (2026-02-20 -> 2026-03-09)
+### Derniers ajouts (2026-02-20 -> 2026-03-18)
 
 - [x] IHF Handball World Championship (men/women) ajoute via `ihf_handball_world_championship_history` (commit `959b7ac`, 2026-02-20)
 - [x] ICC Cricket World Cup (ODI men/women) ajoute via `icc_cricket_world_cup_history` (commits `eda104c` et `3376ab8`, 2026-02-20 -> 2026-02-21)
@@ -19,6 +19,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] ICC Women's T20 World Cup (top 4 par edition) ajoute via `icc_cricket_world_cup_history` (2026-03-09)
 - [x] ICC Team Rankings (men Test/ODI/T20I + women ODI/T20I, top 10) mis a jour via `icc_team_ranking_history` (2026-03-09)
 - [x] ICC Team Rankings historiques annuels etendus (2000-2025 selon disponibilite API) via `icc_team_ranking_history` (2026-03-18)
+- [x] Rugby World Cup Sevens (men/women, top 4 avec egalites de 3e conservees) ajoute via `rugby_world_cup_sevens_history` (2026-03-18)
 
 ### Competitions mondiales
 
@@ -42,7 +43,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] FIVB Volleyball World Championship (men) (`fivb_volleyball_world_championship_history`)
 - [x] FIVB Women's Volleyball World Championship (`fivb_volleyball_world_championship_history`)
 - [x] ICC Champions Trophy (`icc_cricket_world_cup_history`)
-- [ ] Rugby World Cup Sevens
+- [x] Rugby World Cup Sevens (`rugby_world_cup_sevens_history`)
 - [ ] World Baseball Classic
 - [ ] BWF World Championships (badminton)
 - [ ] ITTF World Team Championships (table tennis)

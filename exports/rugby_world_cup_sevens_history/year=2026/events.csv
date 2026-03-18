@@ -1,0 +1,13 @@
+event_id,competition_id,discipline_id,gender,event_class,event_date
+rugby_world_cup_sevens_men_93,rugby_world_cup_sevens_men,rugby-sevens,men,final_ranking_top4,1993-12-31
+rugby_world_cup_sevens_men_97,rugby_world_cup_sevens_men,rugby-sevens,men,final_ranking_top4,1997-12-31
+rugby_world_cup_sevens_men_01,rugby_world_cup_sevens_men,rugby-sevens,men,final_ranking_top4,2001-12-31
+rugby_world_cup_sevens_men_05,rugby_world_cup_sevens_men,rugby-sevens,men,final_ranking_top4,2005-12-31
+rugby_world_cup_sevens_men_09,rugby_world_cup_sevens_men,rugby-sevens,men,final_ranking_top4,2009-12-31
+rugby_world_cup_sevens_men_13,rugby_world_cup_sevens_men,rugby-sevens,men,final_ranking_top4,2013-12-31
+rugby_world_cup_sevens_men_18,rugby_world_cup_sevens_men,rugby-sevens,men,final_ranking_top4,2018-12-31
+rugby_world_cup_sevens_men_22,rugby_world_cup_sevens_men,rugby-sevens,men,final_ranking_top4,2022-12-31
+rugby_world_cup_sevens_women_09,rugby_world_cup_sevens_women,rugby-sevens,women,final_ranking_top4,2009-12-31
+rugby_world_cup_sevens_women_13,rugby_world_cup_sevens_women,rugby-sevens,women,final_ranking_top4,2013-12-31
+rugby_world_cup_sevens_women_18,rugby_world_cup_sevens_women,rugby-sevens,women,final_ranking_top4,2018-12-31
+rugby_world_cup_sevens_women_22,rugby_world_cup_sevens_women,rugby-sevens,women,final_ranking_top4,2022-12-31

@@ -278,6 +278,22 @@ python -m pipelines.init_databases
   - `data/raw/world_rugby/rugby_world_cup_top4_seed.csv`
   - `data/raw/world_rugby/womens_rugby_world_cup_top4_seed.csv`
 
+## 9c2) Cas Rugby World Cup Sevens (historique, hommes + femmes)
+
+- connecteur: `rugby_world_cup_sevens_history`
+- compétitions:
+  - `rugby_world_cup_sevens_men`
+  - `rugby_world_cup_sevens_women`
+- discipline: `rugby-sevens`
+- `event_id` par édition:
+  - `rugby_world_cup_sevens_men_YY`
+  - `rugby_world_cup_sevens_women_YY`
+- `results`: top 4 par édition; conserver les égalités de rang lorsqu'il n'y a pas de match pour la 3e place
+- `participant_id` = `country_id` (code pays)
+- seeds locaux:
+  - `data/raw/world_rugby/rugby_world_cup_sevens_men_top4_seed.csv`
+  - `data/raw/world_rugby/rugby_world_cup_sevens_women_top4_seed.csv`
+
 ## 9d) Cas Coupe du Monde FIBA Basketball (historique, hommes + femmes)
 
 - connecteur: `fiba_basketball_world_cup_history`
@@ -439,6 +455,7 @@ python -m pipelines.ingest --connector fifa_women_ranking_history --year 2026
 python -m pipelines.ingest --connector fifa_women_world_cup_history --year 2026
 python -m pipelines.ingest --connector world_rugby_ranking_history --year 2026
 python -m pipelines.ingest --connector rugby_world_cup_history --year 2026
+python -m pipelines.ingest --connector rugby_world_cup_sevens_history --year 2026
 python -m pipelines.ingest --connector fiba_ranking_history --year 2026
 python -m pipelines.ingest --connector icc_team_ranking_history --year 2026
 python -m pipelines.ingest --connector fiba_basketball_world_cup_history --year 2026

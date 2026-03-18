@@ -14,6 +14,7 @@ from .icc_cricket_world_cup_history_connector import IccCricketWorldCupHistoryCo
 from .olympics_keith_history_connector import OlympicsKeithHistoryConnector
 from .paris_2024_summer_olympics_connector import Paris2024SummerOlympicsConnector
 from .rugby_world_cup_history_connector import RugbyWorldCupHistoryConnector
+from .rugby_world_cup_sevens_history_connector import RugbyWorldCupSevensHistoryConnector
 from .wikidata_connector import WikidataConnector
 from .world_cup_history_connector import WorldCupHistoryConnector
 from .world_athletics_championships_history_connector import WorldAthleticsChampionshipsHistoryConnector
@@ -33,6 +34,7 @@ CONNECTOR_REGISTRY = {
     "fifa_women_world_cup_history": FifaWomenWorldCupHistoryConnector,
     "world_rugby_ranking_history": WorldRugbyRankingHistoryConnector,
     "rugby_world_cup_history": RugbyWorldCupHistoryConnector,
+    "rugby_world_cup_sevens_history": RugbyWorldCupSevensHistoryConnector,
     "ihf_handball_world_championship_history": IhfHandballWorldChampionshipHistoryConnector,
     "icc_team_ranking_history": IccTeamRankingHistoryConnector,
     "icc_cricket_world_cup_history": IccCricketWorldCupHistoryConnector,

@@ -289,6 +289,25 @@ Comportement:
 - alimente le classement final top 4 par édition (1er, 2e, 3e, 4e)
 - `participant_id` est le code pays
 
+### 8c2) Ingest Rugby World Cup Sevens (historique, hommes + femmes)
+
+```bash
+python -m pipelines.ingest --connector rugby_world_cup_sevens_history --year 2026
+```
+
+Comportement:
+- ingère les seeds historiques locaux:
+  - `data/raw/world_rugby/rugby_world_cup_sevens_men_top4_seed.csv`
+  - `data/raw/world_rugby/rugby_world_cup_sevens_women_top4_seed.csv`
+- crée deux compétitions:
+  - `rugby_world_cup_sevens_men`
+  - `rugby_world_cup_sevens_women`
+- crée un event par édition (suffixe `YY`)
+- alimente le classement final top 4 par édition
+- conserve les égalités de rang quand il n'y a pas de match pour la 3e place (ex: deux équipes classées `rank=3`)
+- discipline utilisée: `rugby-sevens`
+- `participant_id` est le code pays
+
 ### 8d) Ingest Coupe du Monde FIBA Basketball (historique, hommes + femmes)
 
 ```bash
