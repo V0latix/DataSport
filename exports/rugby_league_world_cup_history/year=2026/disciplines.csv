@@ -1,0 +1,2 @@
+discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
+rugby-league,Rugby League,rugby-league,rugby,1.0,connector_rugby_league_world_cup_history,2026-03-18T20:49:38+00:00

@@ -260,9 +260,9 @@ class WorldRugbyRankingHistoryConnector(Connector):
             ]
         )
         discipline_row = {
-            "discipline_id": "rugby-rugby",
-            "discipline_name": "Rugby (Rugby)",
-            "discipline_slug": "rugby-rugby",
+            "discipline_id": "rugby-union",
+            "discipline_name": "Rugby Union",
+            "discipline_slug": "rugby-union",
             "sport_id": sport_id,
             "confidence": 1.0,
             "mapping_source": "connector_world_rugby_ranking_history",
@@ -410,7 +410,6 @@ class WorldRugbyRankingHistoryConnector(Connector):
                 (self.id,),
             )
             conn.execute("DELETE FROM competitions WHERE source_id = ?", (self.id,))
-            conn.execute("DELETE FROM disciplines WHERE mapping_source = 'connector_world_rugby_ranking_history'")
             conn.commit()
 
         db.upsert_dataframe("countries", payload.get("countries", pd.DataFrame()), ["country_id"])

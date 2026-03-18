@@ -2,11 +2,7 @@ competition_id,sport_id,name,season_year,level,start_date,end_date,source_id
 fifa_ranking,football,FIFA Men's Ranking,,national_team_ranking,1992-12-31,2024-09-19,fifa_ranking_history
 fifa_world_cup,football,FIFA World Cup,,national_team_tournament,1930-12-31,2022-12-18,world_cup_history
 fifa_women_ranking,football,FIFA Women's Ranking,,national_team_ranking,2003-12-15,2025-12-11,fifa_women_ranking_history
-world_rugby_men_ranking,rugby,World Rugby Men's Rankings,,national_team_ranking,2003-11-24,2026-02-16,world_rugby_ranking_history
-world_rugby_women_ranking,rugby,World Rugby Women's Rankings,,national_team_ranking,2016-12-26,2026-02-16,world_rugby_ranking_history
 fifa_womens_world_cup,football,FIFA Women's World Cup,,national_team_tournament,1991-11-30,2023-08-20,fifa_women_world_cup_history
-rugby_world_cup_men,rugby,Rugby World Cup (Men),,national_team_tournament,1987-06-20,2023-10-28,rugby_world_cup_history
-rugby_world_cup_women,rugby,Rugby World Cup (Women),,national_team_tournament,1991-04-14,2025-09-27,rugby_world_cup_history
 fiba_basketball_world_cup_men,basketball,FIBA Basketball World Cup (Men),,national_team_tournament,1950-12-31,2023-12-31,fiba_basketball_world_cup_history
 fiba_basketball_world_cup_women,basketball,FIBA Women's Basketball World Cup,,national_team_tournament,1953-12-31,2022-12-31,fiba_basketball_world_cup_history
 fiba_men_ranking,basketball,FIBA Men's World Ranking,,national_team_ranking,2010-12-31,2025-12-02,fiba_ranking_history
@@ -30,5 +26,11 @@ icc_men_odi_team_ranking,cricket,ICC Men's ODI Team Ranking,,national_team_ranki
 icc_men_t20i_team_ranking,cricket,ICC Men's T20I Team Ranking,,national_team_ranking,2011-11-29,2025-12-29,icc_team_ranking_history
 icc_women_odi_team_ranking,cricket,ICC Women's ODI Team Ranking,,national_team_ranking,2018-10-22,2025-12-19,icc_team_ranking_history
 icc_women_t20i_team_ranking,cricket,ICC Women's T20I Team Ranking,,national_team_ranking,2018-11-24,2025-12-30,icc_team_ranking_history
+rugby_world_cup_men,rugby,Rugby World Cup (Men),,national_team_tournament,1987-06-20,2023-10-28,rugby_world_cup_history
+rugby_world_cup_women,rugby,Rugby World Cup (Women),,national_team_tournament,1991-04-14,2025-09-27,rugby_world_cup_history
+world_rugby_men_ranking,rugby,World Rugby Men's Rankings,,national_team_ranking,2003-11-24,2026-03-16,world_rugby_ranking_history
+world_rugby_women_ranking,rugby,World Rugby Women's Rankings,,national_team_ranking,2016-12-26,2026-03-16,world_rugby_ranking_history
 rugby_world_cup_sevens_men,rugby,Rugby World Cup Sevens (Men),,national_team_tournament,1993-12-31,2022-12-31,rugby_world_cup_sevens_history
 rugby_world_cup_sevens_women,rugby,Rugby World Cup Sevens (Women),,national_team_tournament,2009-12-31,2022-12-31,rugby_world_cup_sevens_history
+rugby_league_world_cup_men,rugby,Rugby League World Cup (Men),,national_team_tournament,1954-12-31,2022-11-19,rugby_league_world_cup_history
+rugby_league_world_cup_women,rugby,Rugby League World Cup (Women),,national_team_tournament,2000-12-31,2022-11-19,rugby_league_world_cup_history

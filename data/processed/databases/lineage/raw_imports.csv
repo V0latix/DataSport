@@ -104,3 +104,11 @@ import_3496bfb39eb3e1aa7bf3d79d6ce091d2765f9846,icc_team_ranking_history,2026-03
 import_44dd8b6b92cba5065e7f922d686d881b5c451de7,icc_team_ranking_history,2026-03-18T20:12:19+00:00,/Users/romain/dev/DataSport/data/raw/icc_team_ranking_history/20260318T201137Z,success,
 import_6f47dae977373ca5643ca3a438586fbf2e4f38d5,icc_team_ranking_history,2026-03-18T20:13:16+00:00,/Users/romain/dev/DataSport/data/raw/icc_team_ranking_history/20260318T201306Z,success,
 import_d3dbb8bbe8cda3803373cd186250c4e37d2240f6,rugby_world_cup_sevens_history,2026-03-18T20:37:12+00:00,/Users/romain/dev/DataSport/data/raw/rugby_world_cup_sevens_history/20260318T203712Z,success,
+import_e6ee1d65554caa7c953fa230586600dd19382e91,rugby_world_cup_history,2026-03-18T20:48:21+00:00,/Users/romain/dev/DataSport/data/raw/rugby_world_cup_history/20260318T204820Z,success,
+import_129382e96837e9f19e306dcdad33b864a6e274fc,world_rugby_ranking_history,2026-03-18T20:48:38+00:00,/Users/romain/dev/DataSport/data/raw/world_rugby_ranking_history/20260318T204820Z,success,
+import_59d715a044ec0200ed0709168e7f4cc836e344cf,rugby_world_cup_sevens_history,2026-03-18T20:48:43+00:00,/Users/romain/dev/DataSport/data/raw/rugby_world_cup_sevens_history/20260318T204842Z,error,FOREIGN KEY constraint failed
+import_a4841d50284fde9454834749f05039069001119c,rugby_league_world_cup_history,2026-03-18T20:48:43+00:00,/Users/romain/dev/DataSport/data/raw/rugby_league_world_cup_history/20260318T204843Z,success,
+import_eb8eafffe5301be45a83b01d12e726ee3e555035,rugby_world_cup_history,2026-03-18T20:49:19+00:00,/Users/romain/dev/DataSport/data/raw/rugby_world_cup_history/20260318T204919Z,success,
+import_292eec1d9af1ba7dad08195193ee5700384f800b,world_rugby_ranking_history,2026-03-18T20:49:32+00:00,/Users/romain/dev/DataSport/data/raw/world_rugby_ranking_history/20260318T204919Z,success,
+import_93c6ad40f3945308dbf0090fecf82aa827761acc,rugby_league_world_cup_history,2026-03-18T20:49:38+00:00,/Users/romain/dev/DataSport/data/raw/rugby_league_world_cup_history/20260318T204938Z,success,
+import_038ff19669c5338830a7f98ed7c374de655294e2,rugby_world_cup_sevens_history,2026-03-18T20:49:38+00:00,/Users/romain/dev/DataSport/data/raw/rugby_world_cup_sevens_history/20260318T204938Z,success,

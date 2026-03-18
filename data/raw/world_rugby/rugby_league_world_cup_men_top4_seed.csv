@@ -1,0 +1,65 @@
+year,rank,country_name,event_date
+1954,1,Great Britain,1954-12-31
+1954,2,France,1954-12-31
+1954,3,Australia,1954-12-31
+1954,4,New Zealand,1954-12-31
+1957,1,Australia,1957-12-31
+1957,2,Great Britain,1957-12-31
+1957,3,New Zealand,1957-12-31
+1957,4,France,1957-12-31
+1960,1,Great Britain,1960-12-31
+1960,2,Australia,1960-12-31
+1960,3,New Zealand,1960-12-31
+1960,4,France,1960-12-31
+1968,1,Australia,1968-12-31
+1968,2,France,1968-12-31
+1968,3,Great Britain,1968-12-31
+1968,4,New Zealand,1968-12-31
+1970,1,Australia,1970-12-31
+1970,2,Great Britain,1970-12-31
+1970,3,France,1970-12-31
+1970,4,New Zealand,1970-12-31
+1972,1,Great Britain,1972-12-31
+1972,2,Australia,1972-12-31
+1972,3,France,1972-12-31
+1972,4,New Zealand,1972-12-31
+1975,1,Australia,1975-12-31
+1975,2,England,1975-12-31
+1975,3,Wales,1975-12-31
+1975,4,New Zealand,1975-12-31
+1977,1,Australia,1977-12-31
+1977,2,Great Britain,1977-12-31
+1977,3,New Zealand,1977-12-31
+1977,4,France,1977-12-31
+1988,1,Australia,1988-12-31
+1988,2,New Zealand,1988-12-31
+1988,3,Great Britain,1988-12-31
+1988,4,Papua New Guinea,1988-12-31
+1992,1,Australia,1992-12-31
+1992,2,Great Britain,1992-12-31
+1992,3,New Zealand,1992-12-31
+1992,3,France,1992-12-31
+1995,1,Australia,1995-12-31
+1995,2,England,1995-12-31
+1995,3,New Zealand,1995-12-31
+1995,3,Wales,1995-12-31
+2000,1,Australia,2000-12-31
+2000,2,New Zealand,2000-12-31
+2000,3,England,2000-12-31
+2000,3,Wales,2000-12-31
+2008,1,New Zealand,2008-12-31
+2008,2,Australia,2008-12-31
+2008,3,England,2008-12-31
+2008,3,Fiji,2008-12-31
+2013,1,Australia,2013-12-31
+2013,2,New Zealand,2013-12-31
+2013,3,England,2013-12-31
+2013,3,Fiji,2013-12-31
+2017,1,Australia,2017-12-31
+2017,2,England,2017-12-31
+2017,3,Fiji,2017-12-31
+2017,3,Tonga,2017-12-31
+2021,1,Australia,2022-11-19
+2021,2,Samoa,2022-11-19
+2021,3,England,2022-11-19
+2021,3,New Zealand,2022-11-19

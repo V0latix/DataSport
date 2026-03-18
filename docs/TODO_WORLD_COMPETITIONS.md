@@ -20,6 +20,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] ICC Team Rankings (men Test/ODI/T20I + women ODI/T20I, top 10) mis a jour via `icc_team_ranking_history` (2026-03-09)
 - [x] ICC Team Rankings historiques annuels etendus (2000-2025 selon disponibilite API) via `icc_team_ranking_history` (2026-03-18)
 - [x] Rugby World Cup Sevens (men/women, top 4 avec egalites de 3e conservees) ajoute via `rugby_world_cup_sevens_history` (2026-03-18)
+- [x] Rugby League World Cup (men/women, top 4 avec egalites de 3e conservees) ajoute via `rugby_league_world_cup_history` (2026-03-18)
 
 ### Competitions mondiales
 
@@ -44,6 +45,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] FIVB Women's Volleyball World Championship (`fivb_volleyball_world_championship_history`)
 - [x] ICC Champions Trophy (`icc_cricket_world_cup_history`)
 - [x] Rugby World Cup Sevens (`rugby_world_cup_sevens_history`)
+- [x] Rugby League World Cup (`rugby_league_world_cup_history`)
 - [ ] World Baseball Classic
 - [ ] BWF World Championships (badminton)
 - [ ] ITTF World Team Championships (table tennis)

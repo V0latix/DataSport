@@ -1,2 +1,2 @@
 discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
-rugby,Rugby,rugby,rugby,1.0,connector_world_rugby_ranking_history,2026-02-20T23:15:10+00:00
+rugby-union,Rugby Union,rugby-union,rugby,1.0,connector_world_rugby_ranking_history,2026-03-18T20:49:32+00:00

@@ -13,7 +13,10 @@ from .base import Connector
 
 
 COUNTRY_OVERRIDES = {
-    "United States": "USA",
+    "Great Britain": "GBR",
+    "New Zealand Maori": "NZM",
+    "Pacific Islands": "PAC",
+    "Papua New Guinea": "PNG",
     "England": "ENG",
     "Wales": "WAL",
     "Scotland": "SCO",
@@ -21,30 +24,30 @@ COUNTRY_OVERRIDES = {
 
 COMPETITIONS: dict[str, dict[str, str]] = {
     "men": {
-        "seed_file": "rugby_world_cup_sevens_men_top4_seed.csv",
-        "competition_id": "rugby_world_cup_sevens_men",
-        "competition_name": "Rugby World Cup Sevens (Men)",
+        "seed_file": "rugby_league_world_cup_men_top4_seed.csv",
+        "competition_id": "rugby_league_world_cup_men",
+        "competition_name": "Rugby League World Cup (Men)",
         "gender": "men",
     },
     "women": {
-        "seed_file": "rugby_world_cup_sevens_women_top4_seed.csv",
-        "competition_id": "rugby_world_cup_sevens_women",
-        "competition_name": "Rugby World Cup Sevens (Women)",
+        "seed_file": "rugby_league_world_cup_women_top4_seed.csv",
+        "competition_id": "rugby_league_world_cup_women",
+        "competition_name": "Rugby League World Cup (Women)",
         "gender": "women",
     },
 }
 
 
-class RugbyWorldCupSevensHistoryConnector(Connector):
-    id = "rugby_world_cup_sevens_history"
-    name = "Rugby World Cup Sevens Historical Results (Men/Women)"
+class RugbyLeagueWorldCupHistoryConnector(Connector):
+    id = "rugby_league_world_cup_history"
+    name = "Rugby League World Cup Historical Results (Men/Women)"
     source_type = "csv"
     license_notes = (
-        "Historical top4 seeds curated from public World Rugby / Wikipedia references, "
+        "Historical top4 seeds curated from public Rugby League / Wikipedia references, "
         "including shared 3rd-place finishes when no bronze match was played. "
         "Verify downstream redistribution requirements."
     )
-    base_url = "https://en.wikipedia.org/wiki/Rugby_World_Cup_Sevens"
+    base_url = "https://en.wikipedia.org/wiki/Rugby_League_World_Cup"
 
     def source_row(self) -> dict[str, str]:
         return {
@@ -53,9 +56,9 @@ class RugbyWorldCupSevensHistoryConnector(Connector):
             "source_type": self.source_type,
             "license_notes": (
                 "Historical top4 seeds from local files "
-                "data/raw/world_rugby/rugby_world_cup_sevens_men_top4_seed.csv and "
-                "data/raw/world_rugby/rugby_world_cup_sevens_women_top4_seed.csv "
-                "(curated from World Rugby / Wikipedia public information; "
+                "data/raw/world_rugby/rugby_league_world_cup_men_top4_seed.csv and "
+                "data/raw/world_rugby/rugby_league_world_cup_women_top4_seed.csv "
+                "(curated from Rugby League World Cup / Wikipedia public information; "
                 "shared 3rd places are preserved when applicable)."
             ),
             "base_url": self.base_url,
@@ -73,7 +76,7 @@ class RugbyWorldCupSevensHistoryConnector(Connector):
             seed_file = meta["seed_file"]
             local_seed = self._local_seed_path(seed_file)
             if not local_seed.exists():
-                raise RuntimeError(f"Missing local seed for rugby world cup sevens history: {local_seed}")
+                raise RuntimeError(f"Missing local seed for rugby league world cup history: {local_seed}")
 
             out_file = out_dir / seed_file
             shutil.copy2(local_seed, out_file)
@@ -119,7 +122,7 @@ class RugbyWorldCupSevensHistoryConnector(Connector):
             required_cols = {"year", "rank", "country_name", "event_date"}
             if not required_cols.issubset(set(annual_df.columns)):
                 raise RuntimeError(
-                    f"Unsupported rugby world cup sevens seed format for {seed_file}: {list(annual_df.columns)}"
+                    f"Unsupported rugby league world cup seed format for {seed_file}: {list(annual_df.columns)}"
                 )
 
             annual_df["year"] = pd.to_numeric(annual_df["year"], errors="coerce")
@@ -136,7 +139,7 @@ class RugbyWorldCupSevensHistoryConnector(Connector):
             parsed_by_gender[gender] = annual_df
 
         if not parsed_by_gender:
-            raise RuntimeError("Rugby world cup sevens parsing returned no dataset.")
+            raise RuntimeError("Rugby league world cup parsing returned no dataset.")
 
         timestamp = utc_now_iso()
         sport_id = slugify("Rugby")
@@ -163,8 +166,8 @@ class RugbyWorldCupSevensHistoryConnector(Connector):
             if annual_df.empty:
                 continue
 
-            discipline_name = "Rugby Sevens"
-            discipline_id = "rugby-sevens"
+            discipline_name = "Rugby League"
+            discipline_id = "rugby-league"
             competition_id = meta["competition_id"]
             competition_name = meta["competition_name"]
             gender_value = meta["gender"]
@@ -176,7 +179,7 @@ class RugbyWorldCupSevensHistoryConnector(Connector):
                     "discipline_slug": discipline_id,
                     "sport_id": sport_id,
                     "confidence": 1.0,
-                    "mapping_source": "connector_rugby_world_cup_sevens_history",
+                    "mapping_source": "connector_rugby_league_world_cup_history",
                     "created_at_utc": timestamp,
                 }
             )
@@ -243,7 +246,7 @@ class RugbyWorldCupSevensHistoryConnector(Connector):
                             "participant_id": participant_id,
                             "rank": rank,
                             "medal": medal,
-                            "score_raw": f"rugby_world_cup_sevens_final_rank={rank}",
+                            "score_raw": f"rugby_league_world_cup_final_rank={rank}",
                             "points_awarded": points,
                         }
                     )

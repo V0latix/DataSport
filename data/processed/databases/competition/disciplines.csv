@@ -81,7 +81,7 @@ modern-pentathlon,Modern Pentathlon,modern-pentathlon,modern-pentathlon,0.95,con
 nordic-combined,Nordic combined,nordic-combined,nordic-combined,0.95,connector_olympics_keith_history,2026-02-25T00:05:53+00:00
 rhythmic-gymnastics-gymnastics,Rhythmic Gymnastics (Gymnastics),rhythmic-gymnastics-gymnastics,rhythmic-gymnastics-gymnastics,0.95,connector_olympics_keith_history,2026-02-25T00:05:53+00:00
 rowing,Rowing,rowing,rowing,0.95,connector_olympics_keith_history,2026-02-25T00:05:53+00:00
-rugby-sevens,Rugby Sevens,rugby-sevens,rugby,1.0,connector_rugby_world_cup_sevens_history,2026-03-18T20:37:12+00:00
+rugby-sevens,Rugby Sevens,rugby-sevens,rugby,1.0,connector_rugby_world_cup_sevens_history,2026-03-18T20:49:38+00:00
 rugby-sevens-rugby,Rugby Sevens (Rugby),rugby-sevens-rugby,rugby-sevens-rugby,0.95,connector_olympics_keith_history,2026-02-25T00:05:53+00:00
 sailing,Sailing,sailing,sailing,0.95,connector_olympics_keith_history,2026-02-25T00:05:53+00:00
 shooting,Shooting,shooting,shooting,0.95,connector_olympics_keith_history,2026-02-25T00:05:53+00:00
@@ -202,3 +202,5 @@ aquatics_water-polo-tournament,water-polo-tournament,water-polo-tournament,aquat
 cricket-odi,Cricket ODI,cricket-odi,cricket,1.0,connector_icc_team_ranking_history,2026-03-18T20:13:16+00:00
 cricket-t20,Cricket T20,cricket-t20,cricket,1.0,connector_icc_team_ranking_history,2026-03-18T20:13:16+00:00
 cricket-test,Cricket Test,cricket-test,cricket,1.0,connector_icc_team_ranking_history,2026-03-18T20:13:16+00:00
+rugby-union,Rugby Union,rugby-union,rugby,1.0,connector_world_rugby_ranking_history,2026-03-18T20:49:32+00:00
+rugby-league,Rugby League,rugby-league,rugby,1.0,connector_rugby_league_world_cup_history,2026-03-18T20:49:38+00:00

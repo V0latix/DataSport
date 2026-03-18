@@ -165,6 +165,7 @@ Comportement:
 - crée deux compétitions:
   - `world_rugby_men_ranking`
   - `world_rugby_women_ranking`
+- discipline utilisée: `rugby-union`
 - crée des events annuels lisibles: `world_rugby_men_ranking_25`, `world_rugby_women_ranking_25`, etc.
 - exporte les tables normalisées dans `exports/world_rugby_ranking_history/year=2026/`
 - seed local supporté: `data/raw/world_rugby/world_rugby_rankings_history.csv`
@@ -287,6 +288,7 @@ Comportement:
   - `rugby_world_cup_men_87`, ..., `rugby_world_cup_men_23`
   - `rugby_world_cup_women_91`, ..., `rugby_world_cup_women_25`
 - alimente le classement final top 4 par édition (1er, 2e, 3e, 4e)
+- discipline utilisée: `rugby-union`
 - `participant_id` est le code pays
 
 ### 8c2) Ingest Rugby World Cup Sevens (historique, hommes + femmes)
@@ -307,6 +309,25 @@ Comportement:
 - conserve les égalités de rang quand il n'y a pas de match pour la 3e place (ex: deux équipes classées `rank=3`)
 - discipline utilisée: `rugby-sevens`
 - `participant_id` est le code pays
+
+### 8c3) Ingest Rugby League World Cup (historique, hommes + femmes)
+
+```bash
+python -m pipelines.ingest --connector rugby_league_world_cup_history --year 2026
+```
+
+Comportement:
+- ingère les seeds historiques locaux:
+  - `data/raw/world_rugby/rugby_league_world_cup_men_top4_seed.csv`
+  - `data/raw/world_rugby/rugby_league_world_cup_women_top4_seed.csv`
+- crée deux compétitions:
+  - `rugby_league_world_cup_men`
+  - `rugby_league_world_cup_women`
+- crée un event par édition (suffixe `YY`)
+- alimente le classement final top 4 par édition
+- conserve les égalités de rang quand il n'y a pas de match de 3e place (deux équipes `rank=3`)
+- discipline utilisée: `rugby-league`
+- `participant_id` est le code pays quand disponible, sinon un code équipe stable
 
 ### 8d) Ingest Coupe du Monde FIBA Basketball (historique, hommes + femmes)
 

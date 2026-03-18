@@ -194,6 +194,7 @@ python -m pipelines.init_databases
 - `event_id` annuel:
   - `world_rugby_men_ranking_YY`
   - `world_rugby_women_ranking_YY`
+- discipline: `rugby-union`
 - `participant_id` = code pays (code World Rugby / ISO3 selon disponibilité)
 - `results`: top 10 par année pour chaque genre
 - source API: `https://api.wr-rims-prod.pulselive.com/rugby/v3/rankings/{mru|wru}?date=YYYY-12-31`
@@ -272,6 +273,7 @@ python -m pipelines.init_databases
 - `event_id` par édition:
   - `rugby_world_cup_men_YY`
   - `rugby_world_cup_women_YY`
+- discipline: `rugby-union`
 - `results`: top 4 par édition (1 à 4), pas de doublons `(event_id, participant_id)`
 - `participant_id` = `country_id` (code pays)
 - seeds locaux:
@@ -293,6 +295,22 @@ python -m pipelines.init_databases
 - seeds locaux:
   - `data/raw/world_rugby/rugby_world_cup_sevens_men_top4_seed.csv`
   - `data/raw/world_rugby/rugby_world_cup_sevens_women_top4_seed.csv`
+
+## 9c3) Cas Rugby League World Cup (historique, hommes + femmes)
+
+- connecteur: `rugby_league_world_cup_history`
+- compétitions:
+  - `rugby_league_world_cup_men`
+  - `rugby_league_world_cup_women`
+- discipline: `rugby-league`
+- `event_id` par édition:
+  - `rugby_league_world_cup_men_YY`
+  - `rugby_league_world_cup_women_YY`
+- `results`: top 4 par édition; conserver les égalités de rang lorsqu'il n'y a pas de match pour la 3e place
+- `participant_id` = `country_id` quand disponible (sinon code équipe stable documenté)
+- seeds locaux:
+  - `data/raw/world_rugby/rugby_league_world_cup_men_top4_seed.csv`
+  - `data/raw/world_rugby/rugby_league_world_cup_women_top4_seed.csv`
 
 ## 9d) Cas Coupe du Monde FIBA Basketball (historique, hommes + femmes)
 
@@ -454,6 +472,7 @@ python -m pipelines.ingest --connector fifa_ranking_history --year 2026
 python -m pipelines.ingest --connector fifa_women_ranking_history --year 2026
 python -m pipelines.ingest --connector fifa_women_world_cup_history --year 2026
 python -m pipelines.ingest --connector world_rugby_ranking_history --year 2026
+python -m pipelines.ingest --connector rugby_league_world_cup_history --year 2026
 python -m pipelines.ingest --connector rugby_world_cup_history --year 2026
 python -m pipelines.ingest --connector rugby_world_cup_sevens_history --year 2026
 python -m pipelines.ingest --connector fiba_ranking_history --year 2026

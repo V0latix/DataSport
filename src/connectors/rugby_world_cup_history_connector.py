@@ -161,8 +161,8 @@ class RugbyWorldCupHistoryConnector(Connector):
             if annual_df.empty:
                 continue
 
-            discipline_name = "Rugby (Rugby)"
-            discipline_id = "rugby-rugby"
+            discipline_name = "Rugby Union"
+            discipline_id = "rugby-union"
             competition_id = meta["competition_id"]
             competition_name = meta["competition_name"]
             gender_value = meta["gender"]
@@ -281,7 +281,6 @@ class RugbyWorldCupHistoryConnector(Connector):
                 (self.id,),
             )
             conn.execute("DELETE FROM competitions WHERE source_id = ?", (self.id,))
-            conn.execute("DELETE FROM disciplines WHERE mapping_source = 'connector_rugby_world_cup_history'")
             conn.commit()
 
         db.upsert_dataframe("countries", payload.get("countries", pd.DataFrame()), ["country_id"])
