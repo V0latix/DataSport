@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import shutil
+from datetime import datetime
 from pathlib import Path
 from typing import Any
 
@@ -15,25 +16,53 @@ from .base import Connector
 API_BASE = "https://assets-icc.sportz.io"
 RANKING_API_PATH = "/cricket/v1/ranking"
 CLIENT_ID = "tPZJbRgIub3Vua93/DWtyQ=="
+HISTORY_START_YEAR = 2000
 
 COMPETITIONS: dict[str, dict[str, str]] = {
     "test": {
         "comp_type": "test",
         "competition_id": "icc_men_test_team_ranking",
         "competition_name": "ICC Men's Test Team Ranking",
-        "discipline_name": "ICC Men Test Team Ranking",
+        "discipline_id": "cricket-test",
+        "discipline_name": "Cricket Test",
+        "gender": "men",
+        "history_start_year": "2000",
     },
     "odi": {
         "comp_type": "odi",
         "competition_id": "icc_men_odi_team_ranking",
         "competition_name": "ICC Men's ODI Team Ranking",
-        "discipline_name": "ICC Men ODI Team Ranking",
+        "discipline_id": "cricket-odi",
+        "discipline_name": "Cricket ODI",
+        "gender": "men",
+        "history_start_year": "2000",
     },
     "t20": {
         "comp_type": "t20",
         "competition_id": "icc_men_t20i_team_ranking",
         "competition_name": "ICC Men's T20I Team Ranking",
-        "discipline_name": "ICC Men T20I Team Ranking",
+        "discipline_id": "cricket-t20",
+        "discipline_name": "Cricket T20",
+        "gender": "men",
+        "history_start_year": "2011",
+    },
+    "odiw": {
+        "comp_type": "odiw",
+        "competition_id": "icc_women_odi_team_ranking",
+        "competition_name": "ICC Women's ODI Team Ranking",
+        "discipline_id": "cricket-odi",
+        "discipline_name": "Cricket ODI",
+        "gender": "women",
+        "history_start_year": "2018",
+    },
+    "t20w": {
+        "comp_type": "t20w",
+        "competition_id": "icc_women_t20i_team_ranking",
+        "competition_name": "ICC Women's T20I Team Ranking",
+        "discipline_id": "cricket-t20",
+        "discipline_name": "Cricket T20",
+        "gender": "women",
+        "history_start_year": "2018",
     },
 }
 
@@ -63,7 +92,7 @@ COUNTRY_CODE_ALIASES = {
 
 class IccTeamRankingHistoryConnector(Connector):
     id = "icc_team_ranking_history"
-    name = "ICC Team Rankings (Men Test/ODI/T20I)"
+    name = "ICC Team Rankings (Men Test/ODI/T20I + Women ODI/T20I)"
     source_type = "api"
     license_notes = (
         "Live ICC team rankings snapshots from ICC website API payloads. "
@@ -78,7 +107,10 @@ class IccTeamRankingHistoryConnector(Connector):
             "source_type": self.source_type,
             "license_notes": (
                 "ICC rankings fetched from assets-icc.sportz.io ranking endpoint "
-                "(comp_type=test|odi|t20, type=team) with client_id extracted from ICC rankings pages. "
+                "(comp_type=test|odi|t20|odiw|t20w, type=team) "
+                "with client_id extracted from ICC rankings pages. "
+                "Historical snapshots are requested per year with date=YYYY1231 "
+                f"from {HISTORY_START_YEAR} to --year. "
                 "Only top 10 is persisted in competition results."
             ),
             "base_url": self.base_url,
@@ -98,66 +130,83 @@ class IccTeamRankingHistoryConnector(Connector):
         return None
 
     def fetch(self, season_year: int, out_dir: Path) -> list[Path]:
-        del season_year
         out_file = out_dir / "icc_team_rankings_history_seed.csv"
         local_seed = self._local_seed_path()
         rows: list[dict[str, Any]] = []
         errors: list[str] = []
+        max_supported_year = datetime.utcnow().year
+        end_year = min(int(season_year), max_supported_year)
+        year_end_suffixes = ["1231", "1230", "1229", "1228", "1227", "1226", "1225", "1224", "1223", "1222", "1221", "1220"]
 
         for ranking_code, meta in COMPETITIONS.items():
-            try:
-                payload = self._request_json(
-                    f"{API_BASE}{RANKING_API_PATH}",
-                    params={
-                        "client_id": CLIENT_ID,
-                        "comp_type": meta["comp_type"],
-                        "lang": "en",
-                        "feed_format": "json",
-                        "type": "team",
-                    },
-                    timeout=90,
-                    retries=3,
-                )
-                rank_block = self._extract_rank_block(payload)
-                if not rank_block:
-                    errors.append(f"{ranking_code}:missing_rank_block")
-                    continue
-
-                rank_date = str(rank_block.get("rank_date") or "").strip()[:10]
-                if len(rank_date) != 10:
-                    errors.append(f"{ranking_code}:missing_rank_date")
-                    continue
-
-                last_updated = str(rank_block.get("last_updated") or "").strip()
-                rank_type = str(rank_block.get("rank-type") or "").strip()
-                entries = rank_block.get("rank") or []
-                if not isinstance(entries, list) or not entries:
-                    errors.append(f"{ranking_code}:empty_rank_entries")
-                    continue
-
-                for entry in entries:
-                    country_name = str(entry.get("Country") or "").strip()
-                    source_rank = entry.get("no")
-                    if not country_name or source_rank is None:
+            start_year = max(HISTORY_START_YEAR, int(meta.get("history_start_year", HISTORY_START_YEAR)))
+            for ranking_year in range(start_year, end_year + 1):
+                try:
+                    rank_block = None
+                    request_errors: list[str] = []
+                    for suffix in year_end_suffixes:
+                        try:
+                            payload = self._request_json(
+                                f"{API_BASE}{RANKING_API_PATH}",
+                                params={
+                                    "client_id": CLIENT_ID,
+                                    "comp_type": meta["comp_type"],
+                                    "lang": "en",
+                                    "feed_format": "json",
+                                    "type": "team",
+                                    # ICC historical snapshots are exposed via YYYYMMDD.
+                                    "date": f"{ranking_year}{suffix}",
+                                },
+                                timeout=30,
+                                retries=1,
+                            )
+                        except Exception as req_exc:
+                            request_errors.append(f"{suffix}:{req_exc}")
+                            continue
+                        rank_block = self._extract_rank_block(payload)
+                        if rank_block:
+                            break
+                    if not rank_block:
+                        if request_errors:
+                            errors.append(
+                                f"{ranking_code}:{ranking_year}:no_snapshot_after_fallback:{' | '.join(request_errors)}"
+                            )
                         continue
 
-                    rows.append(
-                        {
-                            "ranking_code": ranking_code,
-                            "comp_type": meta["comp_type"],
-                            "effective_date": rank_date,
-                            "last_updated": last_updated,
-                            "rank_type": rank_type,
-                            "country_name": country_name,
-                            "country_code_source": str(entry.get("shortname") or "").strip().upper(),
-                            "source_rank": source_rank,
-                            "matches": entry.get("Matches"),
-                            "points": entry.get("Points"),
-                            "rating": entry.get("Rating"),
-                        }
-                    )
-            except Exception as exc:
-                errors.append(f"{ranking_code}:fetch_failed:{exc}")
+                    last_updated = str(rank_block.get("last_updated") or "").strip()
+                    rank_type = str(rank_block.get("rank-type") or "").strip()
+                    entries = rank_block.get("rank") or []
+                    if not isinstance(entries, list) or not entries:
+                        continue
+                    rank_date = str(rank_block.get("rank_date") or "").strip()[:10]
+                    if len(rank_date) != 10:
+                        rank_date = str(entries[0].get("rankdate") or "").strip()[:10]
+                    if len(rank_date) != 10:
+                        continue
+
+                    for entry in entries:
+                        country_name = str(entry.get("Country") or "").strip()
+                        source_rank = entry.get("no")
+                        if not country_name or source_rank is None:
+                            continue
+
+                        rows.append(
+                            {
+                                "ranking_code": ranking_code,
+                                "comp_type": meta["comp_type"],
+                                "effective_date": rank_date,
+                                "last_updated": last_updated,
+                                "rank_type": rank_type,
+                                "country_name": country_name,
+                                "country_code_source": str(entry.get("shortname") or "").strip().upper(),
+                                "source_rank": source_rank,
+                                "matches": entry.get("Matches"),
+                                "points": entry.get("Points"),
+                                "rating": entry.get("Rating"),
+                            }
+                        )
+                except Exception as exc:
+                    errors.append(f"{ranking_code}:{ranking_year}:fetch_failed:{exc}")
 
         if not rows:
             if not local_seed.exists():
@@ -202,6 +251,8 @@ class IccTeamRankingHistoryConnector(Connector):
                 "rows": int(len(frame)),
                 "competitions": sorted(COMPETITIONS.keys()),
                 "api_base": API_BASE,
+                "history_start_year": HISTORY_START_YEAR,
+                "history_end_year": end_year,
                 "errors": errors,
             },
         )
@@ -313,12 +364,11 @@ class IccTeamRankingHistoryConnector(Connector):
 
         discipline_rows: list[dict[str, Any]] = []
         for ranking_code, meta in COMPETITIONS.items():
-            discipline_name = meta["discipline_name"]
             discipline_rows.append(
                 {
-                    "discipline_id": slugify(discipline_name),
-                    "discipline_name": discipline_name,
-                    "discipline_slug": slugify(discipline_name),
+                    "discipline_id": meta["discipline_id"],
+                    "discipline_name": meta["discipline_name"],
+                    "discipline_slug": meta["discipline_id"],
                     "sport_id": sport_id,
                     "confidence": 1.0,
                     "mapping_source": "connector_icc_team_ranking_history",
@@ -366,7 +416,7 @@ class IccTeamRankingHistoryConnector(Connector):
                         "event_id": event_id,
                         "competition_id": competition_id,
                         "discipline_id": discipline_lookup[ranking_code]["discipline_id"],
-                        "gender": "men",
+                        "gender": meta["gender"],
                         "event_class": "ranking_release_top10",
                         "event_date": rank_date.strftime("%Y-%m-%d"),
                     }
@@ -460,7 +510,6 @@ class IccTeamRankingHistoryConnector(Connector):
                 (self.id,),
             )
             conn.execute("DELETE FROM competitions WHERE source_id = ?", (self.id,))
-            conn.execute("DELETE FROM disciplines WHERE mapping_source = 'connector_icc_team_ranking_history'")
             conn.commit()
 
         db.upsert_dataframe("countries", payload.get("countries", pd.DataFrame()), ["country_id"])

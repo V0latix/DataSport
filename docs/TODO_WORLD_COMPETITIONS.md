@@ -17,6 +17,8 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] FIVB Women's Volleyball World Championship (top 4 par edition) ajoute via `fivb_volleyball_world_championship_history` (2026-03-09)
 - [x] Competitions mondiales ICC hommes splittees par format (ODI World Cup, T20 World Cup, World Test Championship, Champions Trophy) via `icc_cricket_world_cup_history` (2026-03-09)
 - [x] ICC Women's T20 World Cup (top 4 par edition) ajoute via `icc_cricket_world_cup_history` (2026-03-09)
+- [x] ICC Team Rankings (men Test/ODI/T20I + women ODI/T20I, top 10) mis a jour via `icc_team_ranking_history` (2026-03-09)
+- [x] ICC Team Rankings historiques annuels etendus (2000-2025 selon disponibilite API) via `icc_team_ranking_history` (2026-03-18)
 
 ### Competitions mondiales
 
@@ -39,7 +41,6 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] World Aquatics Championships (`world_aquatics_championships_history`)
 - [x] FIVB Volleyball World Championship (men) (`fivb_volleyball_world_championship_history`)
 - [x] FIVB Women's Volleyball World Championship (`fivb_volleyball_world_championship_history`)
-- [ ] FIFA Club World Cup (clubs)
 - [x] ICC Champions Trophy (`icc_cricket_world_cup_history`)
 - [ ] Rugby World Cup Sevens
 - [ ] World Baseball Classic
@@ -61,8 +62,8 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] FIBA World Ranking (women) (`fiba_ranking_history`)
 - [x] World Rugby Rankings (men) (`world_rugby_ranking_history`)
 - [x] World Rugby Rankings (women) (`world_rugby_ranking_history`)
-- [ ] ICC Men's Team Rankings (Test, ODI, T20I) (`icc_team_ranking_history`)
-- [ ] ICC Women's Team Rankings (ODI, T20I)
+- [x] ICC Men's Team Rankings (Test, ODI, T20I) (`icc_team_ranking_history`)
+- [x] ICC Women's Team Rankings (ODI, T20I) (`icc_team_ranking_history`)
 - [ ] Top 10 World Baseball Softball Confederation rankings
 - [ ] Top 10 BWF World Ranking (joueurs/paires -> agreger par nation)
 - [ ] Top 10 ITTF World Ranking (joueurs -> agreger par nation)

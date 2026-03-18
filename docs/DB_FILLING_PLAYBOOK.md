@@ -212,20 +212,37 @@ python -m pipelines.init_databases
 - source principale: pages FIBA + endpoint `getgdapfederationsranking`
 - seed local fallback/cache: `data/raw/basketball/fiba_rankings_history_seed.csv`
 
-## 8e) Cas ICC Team Rankings (historique, hommes Test/ODI/T20I)
+## 8e) Cas ICC Team Rankings (historique, hommes + femmes)
 
 - connecteur: `icc_team_ranking_history`
 - compétitions:
   - `icc_men_test_team_ranking`
   - `icc_men_odi_team_ranking`
   - `icc_men_t20i_team_ranking`
+  - `icc_women_odi_team_ranking`
+  - `icc_women_t20i_team_ranking`
 - `event_id` annuel:
   - `icc_men_test_team_ranking_YY`
   - `icc_men_odi_team_ranking_YY`
   - `icc_men_t20i_team_ranking_YY`
+  - `icc_women_odi_team_ranking_YY`
+  - `icc_women_t20i_team_ranking_YY`
+- disciplines:
+  - `cricket-test` (men test)
+  - `cricket-odi` (men/women ODI)
+  - `cricket-t20` (men/women T20I)
 - `participant_id` = code pays
-- `results`: top 10 par année pour chaque format
+- `results`: top 10 par année pour chaque format/genre
 - source principale: endpoint ICC assets `assets-icc.sportz.io/cricket/v1/ranking`
+- `comp_type` utilises: `test`, `odi`, `t20`, `odiw`, `t20w`
+- historique annuel: requete `date=YYYY1231` pour chaque année de `2000` a `--year`
+- couverture API constatee:
+  - `test`: 2000-...
+  - `odi`: 2000-...
+  - `t20`: 2011-...
+  - `odiw`: 2018-...
+  - `t20w`: 2018-...
+- attention: pour certaines années, l'API fournit moins de 10 équipes (ex. ancien Test / Women ODI), conserver ce volume tel quel
 - seed local fallback/cache: `data/raw/cricket/icc_team_rankings_history_seed.csv`
 
 ## 9) Cas Coupe du Monde FIFA (historique)

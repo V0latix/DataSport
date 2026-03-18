@@ -1,0 +1,4 @@
+discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
+cricket-test,Cricket Test,cricket-test,cricket,1.0,connector_icc_team_ranking_history,2026-03-18T20:13:16+00:00
+cricket-odi,Cricket ODI,cricket-odi,cricket,1.0,connector_icc_team_ranking_history,2026-03-18T20:13:16+00:00
+cricket-t20,Cricket T20,cricket-t20,cricket,1.0,connector_icc_team_ranking_history,2026-03-18T20:13:16+00:00

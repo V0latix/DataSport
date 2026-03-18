@@ -191,22 +191,40 @@ Comportement:
 - crée des events annuels lisibles: `fiba_men_ranking_25`, `fiba_women_ranking_25`
 - exporte les tables normalisées dans `exports/fiba_ranking_history/year=2026/`
 
-### 5e) Ingest ICC Team rankings historiques (hommes Test/ODI/T20I, top 10 nations)
+### 5e) Ingest ICC Team rankings historiques (hommes + femmes, top 10 nations)
 
 ```bash
 python -m pipelines.ingest --connector icc_team_ranking_history --year 2026
 ```
 
 Comportement:
-- récupère les classements équipes hommes ICC (Test, ODI, T20I) via l'endpoint rankings utilisé par le site ICC
+- récupère les classements équipes ICC via l'endpoint rankings utilisé par le site ICC:
+  - hommes: Test, ODI, T20I
+  - femmes: ODI, T20I
+- mode historique annuel: un snapshot par année avec `date=YYYY1231` (de 2000 à `--year`)
 - met à jour le seed local `data/raw/cricket/icc_team_rankings_history_seed.csv` après fetch réussi
 - fallback automatique sur seed local en cas d'échec distant
 - conserve une publication par année (la plus récente), puis le `top 10`
-- crée trois compétitions:
+- couverture observée (API ICC):
+  - men test: 2000-2025
+  - men odi: 2000-2025
+  - men t20i: 2011-2025
+  - women odi: 2018-2025
+  - women t20i: 2018-2025
+- note: certaines années ont moins de 10 équipes classées (ex. Test 2000/2009-2012, Women ODI 2020-2021)
+- crée cinq compétitions:
   - `icc_men_test_team_ranking`
   - `icc_men_odi_team_ranking`
   - `icc_men_t20i_team_ranking`
-- crée des events annuels lisibles: `icc_men_test_team_ranking_26`, `icc_men_odi_team_ranking_26`, `icc_men_t20i_team_ranking_26`
+  - `icc_women_odi_team_ranking`
+  - `icc_women_t20i_team_ranking`
+- disciplines normalisées: `cricket-test`, `cricket-odi`, `cricket-t20`
+- crée des events annuels lisibles:
+  - `icc_men_test_team_ranking_26`
+  - `icc_men_odi_team_ranking_26`
+  - `icc_men_t20i_team_ranking_26`
+  - `icc_women_odi_team_ranking_26`
+  - `icc_women_t20i_team_ranking_26`
 - exporte les tables normalisées dans `exports/icc_team_ranking_history/year=2026/`
 
 ### 6) Validation

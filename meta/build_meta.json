@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-03-09T11:09:32+00:00",
-  "git_hash": "4c68aad",
+  "generated_at_utc": "2026-03-18T20:13:16+00:00",
+  "git_hash": "67aa686",
   "db_path": "/Users/romain/dev/DataSport/data/processed/sports_nations.db",
   "row_counts": {
     "countries": 318,
     "sports": 88,
-    "disciplines": 206,
-    "competitions": 29,
-    "events": 5189,
-    "participants": 13974,
-    "results": 24699,
+    "disciplines": 203,
+    "competitions": 31,
+    "events": 5269,
+    "participants": 13976,
+    "results": 25492,
     "sources": 20,
-    "raw_imports": 98,
+    "raw_imports": 104,
     "sport_federations": 3
   },
   "pipeline": "ingest",
-  "connector": "icc_cricket_world_cup_history",
-  "year": 2026,
+  "connector": "icc_team_ranking_history",
+  "year": 2025,
   "status": "success",
   "validation_passed": true
 }

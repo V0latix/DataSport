@@ -1,0 +1,16 @@
+participant_id,type,display_name,country_id
+AUS,team,Australia,AUS
+ZAF,team,South Africa,ZAF
+LKA,team,Sri Lanka,LKA
+ENG,team,England,ENG
+NZL,team,New Zealand,NZL
+PAK,team,Pakistan,PAK
+IND,team,India,IND
+WIS,team,West Indies,WIS
+ZWE,team,Zimbabwe,ZWE
+BGD,team,Bangladesh,BGD
+IRL,team,Ireland,IRL
+KEN,team,Kenya,KEN
+AFG,team,Afghanistan,AFG
+NLD,team,Netherlands,NLD
+THA,team,Thailand,THA

@@ -97,3 +97,9 @@ import_ae91845ca61a58173b15d4341c3a96a884940937,fivb_volleyball_world_championsh
 import_5c5b9d708e55febf071de230c022f5879e34c48e,icc_cricket_world_cup_history,2026-03-09T10:29:09+00:00,/Users/romain/dev/DataSport/data/raw/icc_cricket_world_cup_history/20260309T102908Z,success,
 import_bba9254bee4bfd2a1b26ffa1aa5ec315313d3233,icc_cricket_world_cup_history,2026-03-09T10:52:51+00:00,/Users/romain/dev/DataSport/data/raw/icc_cricket_world_cup_history/20260309T105250Z,success,
 import_f93594bb98cdb668f8b3cbe13210b4e125570d40,icc_cricket_world_cup_history,2026-03-09T11:09:32+00:00,/Users/romain/dev/DataSport/data/raw/icc_cricket_world_cup_history/20260309T110932Z,success,
+import_c7abe1fd9aea05dffd03e7a6c64bd014d3d1bc9d,icc_team_ranking_history,2026-03-09T12:27:37+00:00,/Users/romain/dev/DataSport/data/raw/icc_team_ranking_history/20260309T122733Z,success,
+import_bf3b0508fc754f50ac1618348f1dd54708061e43,icc_team_ranking_history,2026-03-18T20:01:31+00:00,/Users/romain/dev/DataSport/data/raw/icc_team_ranking_history/20260318T195731Z,error,FOREIGN KEY constraint failed
+import_15340db9a00578bc0761da2a252407008f5de874,icc_team_ranking_history,2026-03-18T20:04:49+00:00,/Users/romain/dev/DataSport/data/raw/icc_team_ranking_history/20260318T200348Z,success,
+import_3496bfb39eb3e1aa7bf3d79d6ce091d2765f9846,icc_team_ranking_history,2026-03-18T20:07:53+00:00,/Users/romain/dev/DataSport/data/raw/icc_team_ranking_history/20260318T200656Z,success,
+import_44dd8b6b92cba5065e7f922d686d881b5c451de7,icc_team_ranking_history,2026-03-18T20:12:19+00:00,/Users/romain/dev/DataSport/data/raw/icc_team_ranking_history/20260318T201137Z,success,
+import_6f47dae977373ca5643ca3a438586fbf2e4f38d5,icc_team_ranking_history,2026-03-18T20:13:16+00:00,/Users/romain/dev/DataSport/data/raw/icc_team_ranking_history/20260318T201306Z,success,
