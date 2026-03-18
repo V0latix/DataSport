@@ -21,6 +21,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] ICC Team Rankings historiques annuels etendus (2000-2025 selon disponibilite API) via `icc_team_ranking_history` (2026-03-18)
 - [x] Rugby World Cup Sevens (men/women, top 4 avec egalites de 3e conservees) ajoute via `rugby_world_cup_sevens_history` (2026-03-18)
 - [x] Rugby League World Cup (men/women, top 4 avec egalites de 3e conservees) ajoute via `rugby_league_world_cup_history` (2026-03-18)
+- [x] WBSC Baseball World Cup + Women's Baseball World Cup + Men's Softball World Cup + Women's Softball World Cup (top 4, hommes/femmes) ajoutes via `wbsc_baseball_softball_world_championship_history` (2026-03-18)
 
 ### Competitions mondiales
 
@@ -46,6 +47,10 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] ICC Champions Trophy (`icc_cricket_world_cup_history`)
 - [x] Rugby World Cup Sevens (`rugby_world_cup_sevens_history`)
 - [x] Rugby League World Cup (`rugby_league_world_cup_history`)
+- [x] WBSC Baseball World Cup (men) (`wbsc_baseball_softball_world_championship_history`)
+- [x] WBSC Women's Baseball World Cup (`wbsc_baseball_softball_world_championship_history`)
+- [x] WBSC Men's Softball World Cup (`wbsc_baseball_softball_world_championship_history`)
+- [x] WBSC Women's Softball World Cup (`wbsc_baseball_softball_world_championship_history`)
 - [ ] World Baseball Classic
 - [ ] BWF World Championships (badminton)
 - [ ] ITTF World Team Championships (table tennis)

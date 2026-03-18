@@ -459,6 +459,31 @@ Comportement:
 - alimente le classement final top 4 par édition (1er, 2e, 3e, 4e)
 - `participant_id` est le code pays (avec mapping historique `URS`, `TCH`, `GDR`, `YUG`, `SCG`)
 
+### 8j) Ingest WBSC Baseball/Softball World Championships (historique, hommes + femmes, top 4)
+
+```bash
+python -m pipelines.ingest --connector wbsc_baseball_softball_world_championship_history --year 2026
+```
+
+Comportement:
+- ingère les seeds historiques locaux:
+  - `data/raw/baseball/wbsc_baseball_world_cup_men_top4_seed.csv`
+  - `data/raw/baseball/wbsc_womens_baseball_world_cup_top4_seed.csv`
+  - `data/raw/baseball/wbsc_mens_softball_world_cup_top4_seed.csv`
+  - `data/raw/baseball/wbsc_womens_softball_world_cup_top4_seed.csv`
+- crée quatre compétitions:
+  - `wbsc_baseball_world_cup_men`
+  - `wbsc_womens_baseball_world_cup`
+  - `wbsc_mens_softball_world_cup`
+  - `wbsc_womens_softball_world_cup`
+- crée un event par édition (suffixe `YY`) pour chaque compétition
+- alimente les résultats top 4 par édition (avec gestion des égalités historiques, ex: édition 1976 en softball hommes)
+- sport utilisé: `baseball`
+- disciplines utilisées:
+  - `baseball` (sport `baseball`)
+  - `softball` (discipline du sport `baseball`)
+- `participant_id` est le code pays (avec mapping pour codes non-ISO usuels, ex: `Chinese Taipei -> TPE`)
+
 ### 9) Ingest JO d'été Paris 2024 (connecteur dédié, optionnel)
 
 ```bash

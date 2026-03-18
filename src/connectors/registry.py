@@ -16,6 +16,9 @@ from .paris_2024_summer_olympics_connector import Paris2024SummerOlympicsConnect
 from .rugby_league_world_cup_history_connector import RugbyLeagueWorldCupHistoryConnector
 from .rugby_world_cup_history_connector import RugbyWorldCupHistoryConnector
 from .rugby_world_cup_sevens_history_connector import RugbyWorldCupSevensHistoryConnector
+from .wbsc_baseball_softball_world_championship_history_connector import (
+    WbscBaseballSoftballWorldChampionshipHistoryConnector,
+)
 from .wikidata_connector import WikidataConnector
 from .world_cup_history_connector import WorldCupHistoryConnector
 from .world_athletics_championships_history_connector import WorldAthleticsChampionshipsHistoryConnector
@@ -37,6 +40,7 @@ CONNECTOR_REGISTRY = {
     "rugby_league_world_cup_history": RugbyLeagueWorldCupHistoryConnector,
     "rugby_world_cup_history": RugbyWorldCupHistoryConnector,
     "rugby_world_cup_sevens_history": RugbyWorldCupSevensHistoryConnector,
+    "wbsc_baseball_softball_world_championship_history": WbscBaseballSoftballWorldChampionshipHistoryConnector,
     "ihf_handball_world_championship_history": IhfHandballWorldChampionshipHistoryConnector,
     "icc_team_ranking_history": IccTeamRankingHistoryConnector,
     "icc_cricket_world_cup_history": IccCricketWorldCupHistoryConnector,

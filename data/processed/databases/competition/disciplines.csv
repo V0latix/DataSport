@@ -204,3 +204,5 @@ cricket-t20,Cricket T20,cricket-t20,cricket,1.0,connector_icc_team_ranking_histo
 cricket-test,Cricket Test,cricket-test,cricket,1.0,connector_icc_team_ranking_history,2026-03-18T20:13:16+00:00
 rugby-union,Rugby Union,rugby-union,rugby,1.0,connector_world_rugby_ranking_history,2026-03-18T20:49:32+00:00
 rugby-league,Rugby League,rugby-league,rugby,1.0,connector_rugby_league_world_cup_history,2026-03-18T20:49:38+00:00
+baseball,Baseball,baseball,baseball,1.0,connector_wbsc_baseball_softball_world_championship_history,2026-03-18T22:57:20+00:00
+softball,Softball,softball,baseball,1.0,connector_wbsc_baseball_softball_world_championship_history,2026-03-18T22:57:20+00:00
