@@ -1,0 +1,1516 @@
+year,event_date,discipline_key,discipline_name,gender,rank,medal,participant_type,participant_name,country_name
+1926,1926-12-31,mens_doubles,Men's doubles,men,1,gold,team,Roland Jacobi / Daniel Pecsi,Kingdom of Hungary
+1926,1926-12-31,mens_doubles,Men's doubles,men,2,silver,team,Béla von Kehrling / Zoltán Mechlovits,Kingdom of Hungary
+1926,1926-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Cyril Mossford / Hedley Penny,Wales
+1926,1926-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Paul Flussmann / Munio Pillinger,Austria
+1926,1926-12-31,mens_singles,Men's singles,men,1,gold,athlete,Roland Jacobi,Kingdom of Hungary
+1926,1926-12-31,mens_singles,Men's singles,men,2,silver,athlete,Zoltán Mechlovits,Kingdom of Hungary
+1926,1926-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Munio Pillinger,Austria
+1926,1926-12-31,mens_singles,Men's singles,men,3,bronze,athlete,S.R.G. Suppiah,India
+1926,1926-12-31,mens_team,Men's team,men,1,gold,team,Kingdom of Hungary,Kingdom of Hungary
+1926,1926-12-31,mens_team,Men's team,men,2,silver,team,Austria,Austria
+1926,1926-12-31,mens_team,Men's team,men,3,bronze,team,England,England
+1926,1926-12-31,mens_team,Men's team,men,3,bronze,team,India,India
+1926,1926-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Zoltán Mechlovits / Mária Mednyánszky,Kingdom of Hungary
+1926,1926-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Roland Jacobi / Linda Gleeson,Kingdom of Hungary
+1926,1926-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Eduard Freudenheim / Gertrude Wildam,Austria
+1926,1926-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,H.A. Bennett / Winifred Land,England
+1926,1926-12-31,womens_singles,Women's singles,women,1,gold,athlete,Mária Mednyánszky,Kingdom of Hungary
+1926,1926-12-31,womens_singles,Women's singles,women,2,silver,athlete,Doris Gubbins,Wales
+1926,1926-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Anastasia Flussmann,Austria
+1926,1926-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Winifred Land,England
+1928,1928-12-31,mens_doubles,Men's doubles,men,1,gold,team,Alfred Liebster / Robert Thum,Austria
+1928,1928-12-31,mens_doubles,Men's doubles,men,2,silver,team,Charlie Bull / Fred Perry,England
+1928,1928-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Laszlo Bellak / Sándor Glancz,Kingdom of Hungary
+1928,1928-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Roland Jacobi / Zoltán Mechlovits,Kingdom of Hungary
+1928,1928-12-31,mens_singles,Men's singles,men,1,gold,athlete,Zoltán Mechlovits,Kingdom of Hungary
+1928,1928-12-31,mens_singles,Men's singles,men,2,silver,athlete,Laszlo Bellak,Kingdom of Hungary
+1928,1928-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Alfred Liebster,Austria
+1928,1928-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Paul Flussmann,Austria
+1928,1928-12-31,mens_team,Men's team,men,1,gold,team,Kingdom of Hungary,Kingdom of Hungary
+1928,1928-12-31,mens_team,Men's team,men,2,silver,team,Austria,Austria
+1928,1928-12-31,mens_team,Men's team,men,3,bronze,team,England,England
+1928,1928-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Zoltán Mechlovits / Mária Mednyánszky,Kingdom of Hungary
+1928,1928-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Daniel Pecsi / Erika Metzger,Kingdom of Hungary
+1928,1928-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Charles Bull / Joan Ingram,England
+1928,1928-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Fred Perry / Winifred Land,England
+1928,1928-12-31,womens_doubles,Women's doubles,women,1,gold,team,Fanchette Flamm / Mária Mednyánszky,Austria
+1928,1928-12-31,womens_doubles,Women's doubles,women,2,silver,team,Doris Gubbins / Brenda Sommerville,Wales
+1928,1928-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Joan Ingram / Winifred Land,England
+1928,1928-12-31,womens_singles,Women's singles,women,1,gold,athlete,Mária Mednyánszky,Kingdom of Hungary
+1928,1928-12-31,womens_singles,Women's singles,women,2,silver,athlete,Erika Metzger,Weimar Republic
+1928,1928-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Doris Gubbins,Wales
+1928,1928-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Joan Ingram,England
+1929,1929-12-31,mens_doubles,Men's doubles,men,1,gold,team,Viktor Barna / Miklós Szabados,Kingdom of Hungary
+1929,1929-12-31,mens_doubles,Men's doubles,men,2,silver,team,Laszlo Bellak / Sándor Glancz,Kingdom of Hungary
+1929,1929-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Charlie Bull / Fred Perry,England
+1929,1929-12-31,mens_doubles,Men's doubles,men,3,bronze,team,István Reti / György Szegedi,Kingdom of Hungary
+1929,1929-12-31,mens_singles,Men's singles,men,1,gold,athlete,Fred Perry,England
+1929,1929-12-31,mens_singles,Men's singles,men,2,silver,athlete,Miklós Szabados,Kingdom of Hungary
+1929,1929-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Adrian Haydon,England
+1929,1929-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Zoltán Mechlovits,Kingdom of Hungary
+1929,1929-12-31,mens_team,Men's team,men,1,gold,team,Kingdom of Hungary,Kingdom of Hungary
+1929,1929-12-31,mens_team,Men's team,men,2,silver,team,Austria,Austria
+1929,1929-12-31,mens_team,Men's team,men,3,bronze,team,England,England
+1929,1929-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Stephen Kelen / Anna Sipos,Kingdom of Hungary
+1929,1929-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Laszlo Bellak / Magda Gál,Kingdom of Hungary
+1929,1929-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Alfred Liebster / Gertrude Wildam,Austria
+1929,1929-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Zoltán Mechlovits / Mária Mednyánszky,Kingdom of Hungary
+1929,1929-12-31,womens_doubles,Women's doubles,women,1,gold,team,Erika Metzger / Mona Rüster,Weimar Republic
+1929,1929-12-31,womens_doubles,Women's doubles,women,2,silver,team,Fanchette Flamm / Gertrude Wildam,Austria
+1929,1929-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Magda Gál / IIona Zádor,Kingdom of Hungary
+1929,1929-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Mária Mednyánszky / Anna Sipos,Kingdom of Hungary
+1929,1929-12-31,womens_singles,Women's singles,women,1,gold,athlete,Mária Mednyánszky,Kingdom of Hungary
+1929,1929-12-31,womens_singles,Women's singles,women,2,silver,athlete,Gertrude Wildam,Austria
+1929,1929-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Anna Sipos,Kingdom of Hungary
+1929,1929-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Magda Gál,Kingdom of Hungary
+1930,1930-12-31,mens_doubles,Men's doubles,men,1,gold,team,Viktor Barna / Miklós Szabados,Kingdom of Hungary
+1930,1930-12-31,mens_doubles,Men's doubles,men,2,silver,team,Alfred Liebster / Robert Thum,Austria
+1930,1930-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Laszlo Bellak / Sándor Glancz,Kingdom of Hungary
+1930,1930-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Valter Kolmodin / Hille Nilsson,Sweden
+1930,1930-12-31,mens_singles,Men's singles,men,1,gold,athlete,Viktor Barna,Kingdom of Hungary
+1930,1930-12-31,mens_singles,Men's singles,men,2,silver,athlete,Laszlo Bellak,Kingdom of Hungary
+1930,1930-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Lajos Dávid,Kingdom of Hungary
+1930,1930-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Stephen Kelen,Kingdom of Hungary
+1930,1930-12-31,mens_team,Men's team,men,1,gold,team,Kingdom of Hungary,Kingdom of Hungary
+1930,1930-12-31,mens_team,Men's team,men,2,silver,team,Sweden,Sweden
+1930,1930-12-31,mens_team,Men's team,men,3,bronze,team,Czechoslovakia,Czechoslovakia
+1930,1930-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Miklós Szabados / Mária Mednyánszky,Kingdom of Hungary
+1930,1930-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Stephen Kelen / Anna Sipos,Kingdom of Hungary
+1930,1930-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Sándor Glancz / Ingeborg Carnatz,Kingdom of Hungary
+1930,1930-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Viktor Barna / Magda Gál,Kingdom of Hungary
+1930,1930-12-31,womens_doubles,Women's doubles,women,1,gold,team,Mária Mednyánszky / Anna Sipos,Kingdom of Hungary
+1930,1930-12-31,womens_doubles,Women's doubles,women,2,silver,team,Magda Gál / Márta Komáromi,Kingdom of Hungary
+1930,1930-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Helly Reitzer / Gertrude Wildam,Austria
+1930,1930-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Josefine Kolbe / Etta Neumann,Austria
+1930,1930-12-31,womens_singles,Women's singles,women,1,gold,athlete,Mária Mednyánszky,Kingdom of Hungary
+1930,1930-12-31,womens_singles,Women's singles,women,2,silver,athlete,Anna Sipos,Kingdom of Hungary
+1930,1930-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Gertrude Wildam,Austria
+1930,1930-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Josefine Kolbe,Austria
+1931,1931-12-31,mens_doubles,Men's doubles,men,1,gold,team,Viktor Barna / Miklós Szabados,Kingdom of Hungary
+1931,1931-12-31,mens_doubles,Men's doubles,men,2,silver,team,Lajos Dávid / Stephen Kelen,Kingdom of Hungary
+1931,1931-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Jindřich Lauterbach / Karel Svoboda,Czechoslovakia
+1931,1931-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Manfred Feher / Alfred Liebster,Austria
+1931,1931-12-31,mens_singles,Men's singles,men,1,gold,athlete,Miklós Szabados,Kingdom of Hungary
+1931,1931-12-31,mens_singles,Men's singles,men,2,silver,athlete,Viktor Barna,Kingdom of Hungary
+1931,1931-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Ferenc Kovács,Kingdom of Hungary
+1931,1931-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Nikita Madjaroglou,Weimar Republic
+1931,1931-12-31,mens_team,Men's team,men,1,gold,team,Kingdom of Hungary,Kingdom of Hungary
+1931,1931-12-31,mens_team,Men's team,men,2,silver,team,Czechoslovakia,Czechoslovakia
+1931,1931-12-31,mens_team,Men's team,men,2,silver,team,England,England
+1931,1931-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Miklós Szabados / Mária Mednyánszky,Kingdom of Hungary
+1931,1931-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Viktor Barna / Anna Sipos,Kingdom of Hungary
+1931,1931-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Laszlo Bellak / Márta Komáromi,Kingdom of Hungary
+1931,1931-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Sándor Glancz / Magda Gál,Kingdom of Hungary
+1931,1931-12-31,womens_doubles,Women's doubles,women,1,gold,team,Mária Mednyánszky / Anna Sipos,Kingdom of Hungary
+1931,1931-12-31,womens_doubles,Women's doubles,women,2,silver,team,Magda Gál / Lili Tiszai,Kingdom of Hungary
+1931,1931-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Lili Forbath / Helly Reitzer,Austria
+1931,1931-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Mona Muller-Rüster / Marie Šmídová,Weimar Republic
+1931,1931-12-31,womens_singles,Women's singles,women,1,gold,athlete,Mária Mednyánszky,Kingdom of Hungary
+1931,1931-12-31,womens_singles,Women's singles,women,2,silver,athlete,Mona Muller-Rüster,Weimar Republic
+1931,1931-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Anna Sipos,Kingdom of Hungary
+1931,1931-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Magda Gál,Kingdom of Hungary
+1932,1932-12-31,mens_doubles,Men's doubles,men,1,gold,team,Viktor Barna / Miklós Szabados,Kingdom of Hungary
+1932,1932-12-31,mens_doubles,Men's doubles,men,2,silver,team,Laszlo Bellak / Sándor Glancz,Kingdom of Hungary
+1932,1932-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Charlie Bull / David Jones,England
+1932,1932-12-31,mens_doubles,Men's doubles,men,3,bronze,team,István Boros / Tibor Házi,Kingdom of Hungary
+1932,1932-12-31,mens_singles,Men's singles,men,1,gold,athlete,Viktor Barna,Kingdom of Hungary
+1932,1932-12-31,mens_singles,Men's singles,men,2,silver,athlete,Miklós Szabados,Kingdom of Hungary
+1932,1932-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Erwin Kohn,Austria
+1932,1932-12-31,mens_singles,Men's singles,men,3,bronze,athlete,István Boros,Kingdom of Hungary
+1932,1932-12-31,mens_team,Men's team,men,1,gold,team,Czechoslovakia,Czechoslovakia
+1932,1932-12-31,mens_team,Men's team,men,2,silver,team,Kingdom of Hungary,Kingdom of Hungary
+1932,1932-12-31,mens_team,Men's team,men,3,bronze,team,Austria,Austria
+1932,1932-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Viktor Barna / Anna Sipos,Kingdom of Hungary
+1932,1932-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Miklós Szabados / Mária Mednyánszky,Kingdom of Hungary
+1932,1932-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Jaroslav Jílek / Marie Šmídová,Czechoslovakia
+1932,1932-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Sándor Glancz / Magda Gál,Kingdom of Hungary
+1932,1932-12-31,womens_doubles,Women's doubles,women,1,gold,team,Mária Mednyánszky / Anna Sipos,Kingdom of Hungary
+1932,1932-12-31,womens_doubles,Women's doubles,women,2,silver,team,Anna Braunová / Marie Šmídová,Czechoslovakia
+1932,1932-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Anita Felguth / Magda Gál,Weimar Republic
+1932,1932-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Věra Pavlásková / Berta Zdobnická,Czechoslovakia
+1932,1932-12-31,womens_singles,Women's singles,women,1,gold,athlete,Anna Sipos,Kingdom of Hungary
+1932,1932-12-31,womens_singles,Women's singles,women,2,silver,athlete,Mária Mednyánszky,Kingdom of Hungary
+1932,1932-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Magda Gál,Kingdom of Hungary
+1932,1932-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Marie Šmídová,Czechoslovakia
+1933,1933-12-31,mens_doubles,Men's doubles,men,1,gold,team,Viktor Barna / Sándor Glancz,Kingdom of Hungary
+1933,1933-12-31,mens_doubles,Men's doubles,men,2,silver,team,Lajos Dávid / Stephen Kelen,Kingdom of Hungary
+1933,1933-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Manfred Feher / Alfred Liebster,Austria
+1933,1933-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Paul Flussmann / Erwin Kohn,Austria
+1933,1933-12-31,mens_singles,Men's singles,men,1,gold,athlete,Viktor Barna,Kingdom of Hungary
+1933,1933-12-31,mens_singles,Men's singles,men,2,silver,athlete,Stanislav Kolář,Czechoslovakia
+1933,1933-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Adrian Haydon,England
+1933,1933-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Sándor Glancz,Kingdom of Hungary
+1933,1933-12-31,mens_team,Men's team,men,1,gold,team,Kingdom of Hungary,Kingdom of Hungary
+1933,1933-12-31,mens_team,Men's team,men,2,silver,team,Czechoslovakia,Czechoslovakia
+1933,1933-12-31,mens_team,Men's team,men,3,bronze,team,Austria,Austria
+1933,1933-12-31,mens_team,Men's team,men,3,bronze,team,England,England
+1933,1933-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Stephen Kelen / Mária Mednyánszky,Kingdom of Hungary
+1933,1933-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Sándor Glancz / Magda Gál,Kingdom of Hungary
+1933,1933-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Nikita Madjaroglou / Annemarie Schulz,Weimar Republic
+1933,1933-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Viktor Barna / Anna Sipos,Kingdom of Hungary
+1933,1933-12-31,womens_doubles,Women's doubles,women,1,gold,team,Mária Mednyánszky / Anna Sipos,Kingdom of Hungary
+1933,1933-12-31,womens_doubles,Women's doubles,women,2,silver,team,Magda Gál / Emilné Rácz,Kingdom of Hungary
+1933,1933-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Anita Felguth / Annemarie Schulz,Weimar Republic
+1933,1933-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Jozka Veselska / Marie Walterová,Czechoslovakia
+1933,1933-12-31,womens_singles,Women's singles,women,1,gold,athlete,Anna Sipos,Kingdom of Hungary
+1933,1933-12-31,womens_singles,Women's singles,women,2,silver,athlete,Mária Mednyánszky,Kingdom of Hungary
+1933,1933-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Astrid Krebsbach,Weimar Republic
+1933,1933-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Magda Gál,Kingdom of Hungary
+1934,1934-12-31,mens_doubles,Men's doubles,men,1,gold,team,Viktor Barna / Miklós Szabados,Kingdom of Hungary
+1934,1934-12-31,mens_doubles,Men's doubles,men,2,silver,team,Sándor Glancz / Tibor Házi,Kingdom of Hungary
+1934,1934-12-31,mens_doubles,Men's doubles,men,3,bronze,team,István Boros / Béla Nyitrai,Kingdom of Hungary
+1934,1934-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Miloslav Hamr / Erwin Koln-Korda,Czechoslovakia
+1934,1934-12-31,mens_singles,Men's singles,men,1,gold,athlete,Viktor Barna,Kingdom of Hungary
+1934,1934-12-31,mens_singles,Men's singles,men,2,silver,athlete,Laszlo Bellak,Kingdom of Hungary
+1934,1934-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Miklós Szabados,Kingdom of Hungary
+1934,1934-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Tibor Házi,Kingdom of Hungary
+1934,1934-12-31,mens_team,Men's team,men,1,gold,team,Kingdom of Hungary,Kingdom of Hungary
+1934,1934-12-31,mens_team,Men's team,men,2,silver,team,Austria,Austria
+1934,1934-12-31,mens_team,Men's team,men,2,silver,team,Czechoslovakia,Czechoslovakia
+1934,1934-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Miklós Szabados / Mária Mednyánszky,Kingdom of Hungary
+1934,1934-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Viktor Barna / Anna Sipos,Kingdom of Hungary
+1934,1934-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Laszlo Bellak / Kathleen Berry,Kingdom of Hungary
+1934,1934-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Stanislav Kolář / Marie Šmídová,Czechoslovakia
+1934,1934-12-31,womens_doubles,Women's doubles,women,1,gold,team,Mária Mednyánszky / Anna Sipos,Kingdom of Hungary
+1934,1934-12-31,womens_doubles,Women's doubles,women,2,silver,team,Anita Felguth / Astrid Krebsbach,Nazi Germany
+1934,1934-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Hilde Bussmann / Magda Gál,Nazi Germany
+1934,1934-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Marie Kettnerová / Marie Šmídová,Czechoslovakia
+1934,1934-12-31,womens_singles,Women's singles,women,1,gold,athlete,Marie Kettnerová,Czechoslovakia
+1934,1934-12-31,womens_singles,Women's singles,women,2,silver,athlete,Astrid Krebsbach,Nazi Germany
+1934,1934-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Dora Emdin,England
+1934,1934-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Magda Gál,Kingdom of Hungary
+1934,1934-12-31,womens_team,Women's team,women,1,gold,team,Nazi Germany,Nazi Germany
+1934,1934-12-31,womens_team,Women's team,women,2,silver,team,Kingdom of Hungary,Kingdom of Hungary
+1934,1934-12-31,womens_team,Women's team,women,3,bronze,team,Czechoslovakia,Czechoslovakia
+1935,1935-12-31,mens_doubles,Men's doubles,men,1,gold,team,Viktor Barna / Miklós Szabados,Kingdom of Hungary
+1935,1935-12-31,mens_doubles,Men's doubles,men,2,silver,team,Adrian Haydon / Alfred Liebster,England
+1935,1935-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Laszlo Bellak / Stephen Kelen,Kingdom of Hungary
+1935,1935-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Raoul Bedoc / Daniel Guérin,France
+1935,1935-12-31,mens_singles,Men's singles,men,1,gold,athlete,Viktor Barna,Kingdom of Hungary
+1935,1935-12-31,mens_singles,Men's singles,men,2,silver,athlete,Miklós Szabados,Kingdom of Hungary
+1935,1935-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Alojzy Ehrlich,Poland
+1935,1935-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Erwin Kohn,Austria
+1935,1935-12-31,mens_team,Men's team,men,1,gold,team,Kingdom of Hungary,Kingdom of Hungary
+1935,1935-12-31,mens_team,Men's team,men,2,silver,team,Czechoslovakia,Czechoslovakia
+1935,1935-12-31,mens_team,Men's team,men,3,bronze,team,Austria,Austria
+1935,1935-12-31,mens_team,Men's team,men,3,bronze,team,Poland,Poland
+1935,1935-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Viktor Barna / Anna Sipos,Kingdom of Hungary
+1935,1935-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Stanislav Kolář / Marie Kettnerová,Czechoslovakia
+1935,1935-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Adrian Haydon / Margaret Osborne,England
+1935,1935-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Miklós Szabados / Mária Mednyánszky,Kingdom of Hungary
+1935,1935-12-31,womens_doubles,Women's doubles,women,1,gold,team,Mária Mednyánszky / Anna Sipos,Kingdom of Hungary
+1935,1935-12-31,womens_doubles,Women's doubles,women,2,silver,team,Marie Kettnerová / Marie Šmídová,Czechoslovakia
+1935,1935-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Anita Felguth / Astrid Krebsbach,Nazi Germany
+1935,1935-12-31,womens_doubles,Women's doubles,women,3,bronze,team,L. Booker / Hilde Bussmann,England
+1935,1935-12-31,womens_singles,Women's singles,women,1,gold,athlete,Marie Kettnerová,Czechoslovakia
+1935,1935-12-31,womens_singles,Women's singles,women,2,silver,athlete,Magda Gál,Kingdom of Hungary
+1935,1935-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Marcelle Delacour,France
+1935,1935-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Marie Šmídová,Czechoslovakia
+1935,1935-12-31,womens_team,Women's team,women,1,gold,team,Czechoslovakia,Czechoslovakia
+1935,1935-12-31,womens_team,Women's team,women,2,silver,team,Kingdom of Hungary,Kingdom of Hungary
+1935,1935-12-31,womens_team,Women's team,women,3,bronze,team,Nazi Germany,Nazi Germany
+1936,1936-12-31,mens_doubles,Men's doubles,men,1,gold,team,Robert Blattner / James McClure,United States
+1936,1936-12-31,mens_doubles,Men's doubles,men,2,silver,team,Stanislav Kolář / Okter Petrisek,Czechoslovakia
+1936,1936-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Karel Fleischner / Adolf Šlár,Czechoslovakia
+1936,1936-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Tibor Házi / Ferenc Soos,Kingdom of Hungary
+1936,1936-12-31,mens_singles,Men's singles,men,1,gold,athlete,Stanislav Kolář,Czechoslovakia
+1936,1936-12-31,mens_singles,Men's singles,men,2,silver,athlete,Alojzy Ehrlich,Poland
+1936,1936-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Ferenc Soos,Kingdom of Hungary
+1936,1936-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Richard Bergmann,Austria
+1936,1936-12-31,mens_team,Men's team,men,1,gold,team,Austria,Austria
+1936,1936-12-31,mens_team,Men's team,men,2,silver,team,Romania,Romania
+1936,1936-12-31,mens_team,Men's team,men,3,bronze,team,Czechoslovakia,Czechoslovakia
+1936,1936-12-31,mens_team,Men's team,men,3,bronze,team,France,France
+1936,1936-12-31,mens_team,Men's team,men,3,bronze,team,Kingdom of Hungary,Kingdom of Hungary
+1936,1936-12-31,mens_team,Men's team,men,3,bronze,team,Poland,Poland
+1936,1936-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Miloslav Hamr / Gertrude Kleinová,Czechoslovakia
+1936,1936-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Stephen Kelen / Mária Mednyánszky,Kingdom of Hungary
+1936,1936-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Helmut Ullrich / Annemarie Schulz,Nazi Germany
+1936,1936-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Stanislav Kolář / Marie Šmídová,Czechoslovakia
+1936,1936-12-31,womens_doubles,Women's doubles,women,1,gold,team,Marie Kettnerová / Marie Šmídová,Czechoslovakia
+1936,1936-12-31,womens_doubles,Women's doubles,women,2,silver,team,Vlasta Depetrisová / Věra Votrubcová,Czechoslovakia
+1936,1936-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Magda Gál / Mária Mednyánszky,Kingdom of Hungary
+1936,1936-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Ruth Aarons / Jessie Purves,United States
+1936,1936-12-31,womens_singles,Women's singles,women,1,gold,athlete,Ruth Aarons,United States
+1936,1936-12-31,womens_singles,Women's singles,women,2,silver,athlete,Astrid Krebsbach,Nazi Germany
+1936,1936-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Marie Kettnerová,Czechoslovakia
+1936,1936-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Marie Šmídová,Czechoslovakia
+1936,1936-12-31,womens_team,Women's team,women,1,gold,team,Czechoslovakia,Czechoslovakia
+1936,1936-12-31,womens_team,Women's team,women,2,silver,team,Nazi Germany,Nazi Germany
+1936,1936-12-31,womens_team,Women's team,women,2,silver,team,United States,United States
+1937,1937-12-31,mens_doubles,Men's doubles,men,1,gold,team,Robert Blattner / James McClure,United States
+1937,1937-12-31,mens_doubles,Men's doubles,men,2,silver,team,Richard Bergmann / Helmut Goebel,Austria
+1937,1937-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Adolf Šlár / Václav Tereba,Czechoslovakia
+1937,1937-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Miloslav Hamr / František Hanec Pivec,Czechoslovakia
+1937,1937-12-31,mens_singles,Men's singles,men,1,gold,athlete,Richard Bergmann,Austria
+1937,1937-12-31,mens_singles,Men's singles,men,2,silver,athlete,Alojzy Ehrlich,Poland
+1937,1937-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Ferenc Soos,Kingdom of Hungary
+1937,1937-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Hans Hartinger,Austria
+1937,1937-12-31,mens_team,Men's team,men,1,gold,team,United States,United States
+1937,1937-12-31,mens_team,Men's team,men,2,silver,team,Kingdom of Hungary,Kingdom of Hungary
+1937,1937-12-31,mens_team,Men's team,men,3,bronze,team,Czechoslovakia,Czechoslovakia
+1937,1937-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Bohumil Váňa / Věra Votrubcová,Czechoslovakia
+1937,1937-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Stanislav Kolář / Marie Kettnerová,Czechoslovakia
+1937,1937-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Abe Berenbaum / Emily Fuller,United States
+1937,1937-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Geza Eros / Angelica Adelstein,Romania
+1937,1937-12-31,womens_doubles,Women's doubles,women,1,gold,team,Vlasta Depetrisová / Věra Votrubcová,Czechoslovakia
+1937,1937-12-31,womens_doubles,Women's doubles,women,2,silver,team,Margaret Osborne / Wendy Woodhead,England
+1937,1937-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Lillian Hutchings / Stefanie Werle,England
+1937,1937-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Marie Kettnerová / Annemarie Schulz,Czechoslovakia
+1937,1937-12-31,womens_singles,Women's singles,women,1,gold,athlete,Gertrude Pritzi,United States
+1937,1937-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Hilde Bussmann,Nazi Germany
+1937,1937-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Marie Kettnerová,Czechoslovakia
+1937,1937-12-31,womens_team,Women's team,women,1,gold,team,United States,United States
+1937,1937-12-31,womens_team,Women's team,women,2,silver,team,Nazi Germany,Nazi Germany
+1937,1937-12-31,womens_team,Women's team,women,3,bronze,team,Czechoslovakia,Czechoslovakia
+1938,1938-12-31,mens_doubles,Men's doubles,men,1,gold,team,James McClure / Sol Schiff,United States
+1938,1938-12-31,mens_doubles,Men's doubles,men,2,silver,team,Viktor Barna / Laszlo Bellak,Kingdom of Hungary
+1938,1938-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Eric Filby / Hyman Lurie,England
+1938,1938-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Stanislav Kolář / Václav Tereba,Czechoslovakia
+1938,1938-12-31,mens_singles,Men's singles,men,1,gold,athlete,Bohumil Váňa,Czechoslovakia
+1938,1938-12-31,mens_singles,Men's singles,men,2,silver,athlete,Richard Bergmann,Austria
+1938,1938-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Tibor Házi,Kingdom of Hungary
+1938,1938-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Viktor Barna,Kingdom of Hungary
+1938,1938-12-31,mens_team,Men's team,men,1,gold,team,Kingdom of Hungary,Kingdom of Hungary
+1938,1938-12-31,mens_team,Men's team,men,2,silver,team,Austria,Austria
+1938,1938-12-31,mens_team,Men's team,men,3,bronze,team,Czechoslovakia,Czechoslovakia
+1938,1938-12-31,mens_team,Men's team,men,3,bronze,team,United States,United States
+1938,1938-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Laszlo Bellak / Wendy Woodhead,Kingdom of Hungary
+1938,1938-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Bohumil Váňa / Věra Votrubcová,Czechoslovakia
+1938,1938-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Alfred Liebster / Gertrude Pritzi,Austria
+1938,1938-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Václav Tereba / Marie Kettnerová,Czechoslovakia
+1938,1938-12-31,womens_doubles,Women's doubles,women,1,gold,team,Vlasta Depetrisová / Věra Votrubcová,Czechoslovakia
+1938,1938-12-31,womens_doubles,Women's doubles,women,2,silver,team,Dora Beregi / Ida Ferenczy,Kingdom of Hungary
+1938,1938-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Dora Emdin / Margaret Osborne,England
+1938,1938-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Phyllis Hodgkinson / Doris Jordan,England
+1938,1938-12-31,womens_singles,Women's singles,women,1,gold,athlete,Gertrude Pritzi,Austria
+1938,1938-12-31,womens_singles,Women's singles,women,2,silver,athlete,Vlasta Depetrisová,Czechoslovakia
+1938,1938-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Betty Henry,United States
+1938,1938-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Věra Votrubcová,Czechoslovakia
+1938,1938-12-31,womens_team,Women's team,women,1,gold,team,Czechoslovakia,Czechoslovakia
+1938,1938-12-31,womens_team,Women's team,women,2,silver,team,England,England
+1938,1938-12-31,womens_team,Women's team,women,3,bronze,team,Austria,Austria
+1939,1939-12-31,mens_doubles,Men's doubles,men,1,gold,team,Viktor Barna / Richard Bergmann,England
+1939,1939-12-31,mens_doubles,Men's doubles,men,2,silver,team,Miloslav Hamr / Josef Tartakower,Czechoslovakia
+1939,1939-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Ken Hyde / Hyman Lurie,England
+1939,1939-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Raoul Bedoc / Michel Haguenauer,France
+1939,1939-12-31,mens_singles,Men's singles,men,1,gold,athlete,Richard Bergmann,England
+1939,1939-12-31,mens_singles,Men's singles,men,2,silver,athlete,Alojzy Ehrlich,Poland
+1939,1939-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Bohumil Váňa,Czechoslovakia
+1939,1939-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Žarko Dolinar,Socialist Federal Republic of Yugoslavia
+1939,1939-12-31,mens_team,Men's team,men,1,gold,team,Czechoslovakia,Czechoslovakia
+1939,1939-12-31,mens_team,Men's team,men,2,silver,team,Kingdom of Yugoslavia,Kingdom of Yugoslavia
+1939,1939-12-31,mens_team,Men's team,men,3,bronze,team,England,England
+1939,1939-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Bohumil Váňa / Věra Votrubcová,Czechoslovakia
+1939,1939-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Václav Tereba / Marie Kettnerová,Czechoslovakia
+1939,1939-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Mansour Helmy / Gertrude Pritzi,Egypt
+1939,1939-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Marcel Geargoura / Hilde Bussmann,Egypt
+1939,1939-12-31,womens_doubles,Women's doubles,women,1,gold,team,Hilde Bussmann / Gertrude Pritzi,Nazi Germany
+1939,1939-12-31,womens_doubles,Women's doubles,women,2,silver,team,Angelica Adelstein / Sari Kolozsvári,Romania
+1939,1939-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Marie Kettnerová / Samiha Naili,Czechoslovakia
+1939,1939-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Vlasta Depetrisová / Věra Votrubcová,Czechoslovakia
+1939,1939-12-31,womens_singles,Women's singles,women,1,gold,athlete,Vlasta Depetrisová,Czechoslovakia
+1939,1939-12-31,womens_singles,Women's singles,women,2,silver,athlete,Gertrude Pritzi,Nazi Germany
+1939,1939-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Marie Kettnerová,Czechoslovakia
+1939,1939-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Samiha Naili,Egypt
+1939,1939-12-31,womens_team,Women's team,women,1,gold,team,Nazi Germany,Nazi Germany
+1939,1939-12-31,womens_team,Women's team,women,2,silver,team,Czechoslovakia,Czechoslovakia
+1939,1939-12-31,womens_team,Women's team,women,3,bronze,team,Romania,Romania
+1947,1947-12-31,mens_doubles,Men's doubles,men,1,gold,team,Adolf Šlár / Bohumil Váňa,Czechoslovakia
+1947,1947-12-31,mens_doubles,Men's doubles,men,2,silver,team,Jack Carrington / Johnny Leach,England
+1947,1947-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Ladislav Štípek / Václav Tereba,Czechoslovakia
+1947,1947-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Viktor Barna / Adrian Haydon,England
+1947,1947-12-31,mens_singles,Men's singles,men,1,gold,athlete,Bohumil Váňa,Czechoslovakia
+1947,1947-12-31,mens_singles,Men's singles,men,2,silver,athlete,Ferenc Sidó,Hungary
+1947,1947-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Johnny Leach,England
+1947,1947-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Lou Pagliaro,United States
+1947,1947-12-31,mens_team,Men's team,men,1,gold,team,Czechoslovakia,Czechoslovakia
+1947,1947-12-31,mens_team,Men's team,men,2,silver,team,United States,United States
+1947,1947-12-31,mens_team,Men's team,men,3,bronze,team,Austria,Austria
+1947,1947-12-31,mens_team,Men's team,men,3,bronze,team,France,France
+1947,1947-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Ferenc Soos / Gizella Farkas,Hungary
+1947,1947-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Adolf Šlár / Vlasta Depetrisová,Czechoslovakia
+1947,1947-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Viktor Barna / Margaret Franks,England
+1947,1947-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,William Holzrichter / Davida Hawthorn,United States
+1947,1947-12-31,womens_doubles,Women's doubles,women,1,gold,team,Gizella Farkas / Gertrude Pritzi,Hungary
+1947,1947-12-31,womens_doubles,Women's doubles,women,2,silver,team,Mae Clouther / Reba Monness,United States
+1947,1947-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Davida Hawthorn / Leah Thall,United States
+1947,1947-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Mary Detournay / Josee Wouters,Belgium
+1947,1947-12-31,womens_singles,Women's singles,women,1,gold,athlete,Gizella Farkas,Hungary
+1947,1947-12-31,womens_singles,Women's singles,women,2,silver,athlete,Elizabeth Blackbourn,England
+1947,1947-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Gertrude Pritzi,Austria
+1947,1947-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Vera Dace,England
+1947,1947-12-31,womens_team,Women's team,women,1,gold,team,England,England
+1947,1947-12-31,womens_team,Women's team,women,2,silver,team,Hungary,Hungary
+1947,1947-12-31,womens_team,Women's team,women,3,bronze,team,Czechoslovakia,Czechoslovakia
+1947,1947-12-31,womens_team,Women's team,women,3,bronze,team,United States,United States
+1948,1948-12-31,mens_doubles,Men's doubles,men,1,gold,team,Ladislav Štípek / Bohumil Váňa,Czechoslovakia
+1948,1948-12-31,mens_doubles,Men's doubles,men,2,silver,team,Adrian Haydon / Ferenc Soos,England
+1948,1948-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Heinrich Bednar / Herbert Wunsch,Austria
+1948,1948-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Viktor Barna / Richard Bergmann,England
+1948,1948-12-31,mens_singles,Men's singles,men,1,gold,athlete,Richard Bergmann,England
+1948,1948-12-31,mens_singles,Men's singles,men,2,silver,athlete,Bohumil Váňa,Czechoslovakia
+1948,1948-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Guy Amouretti,France
+1948,1948-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Ivan Andreadis,Czechoslovakia
+1948,1948-12-31,mens_team,Men's team,men,1,gold,team,Czechoslovakia,Czechoslovakia
+1948,1948-12-31,mens_team,Men's team,men,2,silver,team,France,France
+1948,1948-12-31,mens_team,Men's team,men,3,bronze,team,Austria,Austria
+1948,1948-12-31,mens_team,Men's team,men,3,bronze,team,United States,United States
+1948,1948-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Dick Miles / Thelma Thall,United States
+1948,1948-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Bohumil Váňa / Vlasta Pokorna,Czechoslovakia
+1948,1948-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Ferenc Sidó / Angelica Rozeanu,Hungary
+1948,1948-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Richard Bergmann / Dora Beregi,England
+1948,1948-12-31,womens_doubles,Women's doubles,women,1,gold,team,Margaret Franks / Vera Thomas,England
+1948,1948-12-31,womens_doubles,Women's doubles,women,2,silver,team,Dora Beregi / Helen Elliot,England
+1948,1948-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Audrey Fowler / Irene Lentle,England
+1948,1948-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Leah Thall / Thelma Thall,United States
+1948,1948-12-31,womens_singles,Women's singles,women,1,gold,athlete,Gizella Farkas,Hungary
+1948,1948-12-31,womens_singles,Women's singles,women,2,silver,athlete,Vera Thomas,England
+1948,1948-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Angelica Rozeanu,Romania
+1948,1948-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Vlasta Depetrisová-Pokorna,Czechoslovakia
+1948,1948-12-31,womens_team,Women's team,women,1,gold,team,England,England
+1948,1948-12-31,womens_team,Women's team,women,2,silver,team,Hungary,Hungary
+1948,1948-12-31,womens_team,Women's team,women,3,bronze,team,Czechoslovakia,Czechoslovakia
+1948,1948-12-31,womens_team,Women's team,women,3,bronze,team,Romania,Romania
+1949,1949-12-31,mens_doubles,Men's doubles,men,1,gold,team,Ivan Andreadis / František Tokár,Czechoslovakia
+1949,1949-12-31,mens_doubles,Men's doubles,men,2,silver,team,Ladislav Štípek / Bohumil Váňa,Czechoslovakia
+1949,1949-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Douglas Cartland / Dick Miles,United States
+1949,1949-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Richard Bergmann / Tage Flisberg,England
+1949,1949-12-31,mens_singles,Men's singles,men,1,gold,athlete,Johnny Leach,England
+1949,1949-12-31,mens_singles,Men's singles,men,2,silver,athlete,Bohumil Váňa,Czechoslovakia
+1949,1949-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Ferenc Soos,Hungary
+1949,1949-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Marty Reisman,United States
+1949,1949-12-31,mens_team,Men's team,men,1,gold,team,Hungary,Hungary
+1949,1949-12-31,mens_team,Men's team,men,2,silver,team,Czechoslovakia,Czechoslovakia
+1949,1949-12-31,mens_team,Men's team,men,3,bronze,team,England,England
+1949,1949-12-31,mens_team,Men's team,men,3,bronze,team,United States,United States
+1949,1949-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Ferenc Sidó / Gizella Farkas,Hungary
+1949,1949-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Bohumil Váňa / Kveta Hrusakova,Czechoslovakia
+1949,1949-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Johnny Leach / Margaret Franks,England
+1949,1949-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Marty Reisman / Peggy McLean,United States
+1949,1949-12-31,womens_doubles,Women's doubles,women,1,gold,team,Helen Elliott / Gizella Farkas,Scotland
+1949,1949-12-31,womens_doubles,Women's doubles,women,2,silver,team,Pinkie Barnes / Joan Crosby,England
+1949,1949-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Eliška Fürstová / Ida Koťátková,Czechoslovakia
+1949,1949-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Rozsi Karpati / Erzsébet Mezei,Hungary
+1949,1949-12-31,womens_singles,Women's singles,women,1,gold,athlete,Gizella Farkas,Hungary
+1949,1949-12-31,womens_singles,Women's singles,women,2,silver,athlete,Kveta Hrusakova,Czechoslovakia
+1949,1949-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Gertrude Pritzi,Austria
+1949,1949-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Thelma Thall,United States
+1949,1949-12-31,womens_team,Women's team,women,1,gold,team,United States,United States
+1949,1949-12-31,womens_team,Women's team,women,2,silver,team,England,England
+1949,1949-12-31,womens_team,Women's team,women,3,bronze,team,France,France
+1949,1949-12-31,womens_team,Women's team,women,3,bronze,team,Hungary,Hungary
+1950,1950-12-31,mens_doubles,Men's doubles,men,1,gold,team,Ferenc Sidó / Ferenc Soos,Hungary
+1950,1950-12-31,mens_doubles,Men's doubles,men,2,silver,team,Ivan Andreadis / František Tokár,Czechoslovakia
+1950,1950-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Ladislav Štípek / Bohumil Váňa,Czechoslovakia
+1950,1950-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Václav Tereba / Josef Turnovský,Czechoslovakia
+1950,1950-12-31,mens_singles,Men's singles,men,1,gold,athlete,Richard Bergmann,England
+1950,1950-12-31,mens_singles,Men's singles,men,2,silver,athlete,Ferenc Soos,Hungary
+1950,1950-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Ferenc Sidó,Hungary
+1950,1950-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Ivan Andreadis,Czechoslovakia
+1950,1950-12-31,mens_team,Men's team,men,1,gold,team,Czechoslovakia,Czechoslovakia
+1950,1950-12-31,mens_team,Men's team,men,2,silver,team,Hungary,Hungary
+1950,1950-12-31,mens_team,Men's team,men,3,bronze,team,England,England
+1950,1950-12-31,mens_team,Men's team,men,3,bronze,team,France,France
+1950,1950-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Ferenc Sidó / Gizella Farkas,Hungary
+1950,1950-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Bohumil Váňa / Kveta Hrusakova,Czechoslovakia
+1950,1950-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Ivan Andreadis / Eliška Fürstová,Czechoslovakia
+1950,1950-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Ladislav Štípek / Angelica Rozeanu,Czechoslovakia
+1950,1950-12-31,womens_doubles,Women's doubles,women,1,gold,team,Dora Beregi / Helen Elliot,England
+1950,1950-12-31,womens_doubles,Women's doubles,women,2,silver,team,Gizella Farkas / Angelica Rozeanu,Hungary
+1950,1950-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Eliška Fürstová / Květa Hrušková,Czechoslovakia
+1950,1950-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Vera Dace / Margaret Franks,England
+1950,1950-12-31,womens_singles,Women's singles,women,1,gold,athlete,Angelica Rozeanu,Romania
+1950,1950-12-31,womens_singles,Women's singles,women,2,silver,athlete,Gizella Farkas,Hungary
+1950,1950-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Rozsi Karpati,Hungary
+1950,1950-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Sari Szasz,Romania
+1950,1950-12-31,womens_team,Women's team,women,1,gold,team,Romania,Romania
+1950,1950-12-31,womens_team,Women's team,women,2,silver,team,Hungary,Hungary
+1950,1950-12-31,womens_team,Women's team,women,3,bronze,team,Czechoslovakia,Czechoslovakia
+1950,1950-12-31,womens_team,Women's team,women,3,bronze,team,England,England
+1951,1951-12-31,mens_doubles,Men's doubles,men,1,gold,team,Ivan Andreadis / Bohumil Váňa,Czechoslovakia
+1951,1951-12-31,mens_doubles,Men's doubles,men,2,silver,team,József Kóczián / Ferenc Sidó,Hungary
+1951,1951-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Jack Carrington / Johnny Leach,England
+1951,1951-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Ladislav Štípek / František Tokár,Czechoslovakia
+1951,1951-12-31,mens_singles,Men's singles,men,1,gold,athlete,Johnny Leach,England
+1951,1951-12-31,mens_singles,Men's singles,men,2,silver,athlete,Ivan Andreadis,Czechoslovakia
+1951,1951-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Ferenc Sidó,Hungary
+1951,1951-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Václav Tereba,Czechoslovakia
+1951,1951-12-31,mens_team,Men's team,men,1,gold,team,Czechoslovakia,Czechoslovakia
+1951,1951-12-31,mens_team,Men's team,men,2,silver,team,Hungary,Hungary
+1951,1951-12-31,mens_team,Men's team,men,3,bronze,team,Socialist Federal Republic of Yugoslavia,Socialist Federal Republic of Yugoslavia
+1951,1951-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Bohumil Váňa / Angelica Rozeanu,Czechoslovakia
+1951,1951-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Vilim Harangozo / Ermelinde Wertl,Socialist Federal Republic of Yugoslavia
+1951,1951-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Johnny Leach / Diane Rowe,England
+1951,1951-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,József Kóczián / Rozsi Karpati,Hungary
+1951,1951-12-31,womens_doubles,Women's doubles,women,1,gold,team,Diane Rowe / Rosalind Rowe,England
+1951,1951-12-31,womens_doubles,Women's doubles,women,2,silver,team,Angelica Rozeanu / Sári Szász,Romania
+1951,1951-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Gizella Farkas / Rozsi Karpati,Hungary
+1951,1951-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Peggy Ichkoff / Leah Thall,United States
+1951,1951-12-31,womens_singles,Women's singles,women,1,gold,athlete,Angelica Rozeanu,Romania
+1951,1951-12-31,womens_singles,Women's singles,women,2,silver,athlete,Gizella Farkas,Hungary
+1951,1951-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Gertrude Pritzi,Austria
+1951,1951-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Leah Thall,United States
+1951,1951-12-31,womens_team,Women's team,women,1,gold,team,Romania,Romania
+1951,1951-12-31,womens_team,Women's team,women,2,silver,team,Austria,Austria
+1951,1951-12-31,womens_team,Women's team,women,3,bronze,team,England,England
+1951,1951-12-31,womens_team,Women's team,women,3,bronze,team,Wales,Wales
+1952,1952-12-31,mens_doubles,Men's doubles,men,1,gold,team,Norikazu Fujii / Tadaki Hayashi,Japan
+1952,1952-12-31,mens_doubles,Men's doubles,men,2,silver,team,Richard Bergmann / Johnny Leach,England
+1952,1952-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Douglas Cartland / Marty Reisman,United States
+1952,1952-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Viktor Barna / Adrian Haydon,England
+1952,1952-12-31,mens_singles,Men's singles,men,1,gold,athlete,Hiroji Satoh,Japan
+1952,1952-12-31,mens_singles,Men's singles,men,2,silver,athlete,József Kóczián,Hungary
+1952,1952-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Guy Amouretti,France
+1952,1952-12-31,mens_singles,Men's singles,men,3,bronze,athlete,René Roothooft,France
+1952,1952-12-31,mens_team,Men's team,men,1,gold,team,Hungary,Hungary
+1952,1952-12-31,mens_team,Men's team,men,2,silver,team,England,England
+1952,1952-12-31,mens_team,Men's team,men,3,bronze,team,Hong Kong,Hong Kong
+1952,1952-12-31,mens_team,Men's team,men,3,bronze,team,Japan,Japan
+1952,1952-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Ferenc Sidó / Angelica Rozeanu,Hungary
+1952,1952-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Johnny Leach / Diane Rowe,England
+1952,1952-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,József Kóczián / Gizella Farkas,Hungary
+1952,1952-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Viktor Barna / Rosalind Rowe,England
+1952,1952-12-31,womens_doubles,Women's doubles,women,1,gold,team,Shizuki Narahara / Tomie Nishimura,Japan
+1952,1952-12-31,womens_doubles,Women's doubles,women,2,silver,team,Diane Rowe / Rosalind Rowe,England
+1952,1952-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Gizella Farkas / Edit Sági,Hungary
+1952,1952-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Helen Elliott / Ermelinde Wertl,Scotland
+1952,1952-12-31,womens_singles,Women's singles,women,1,gold,athlete,Angelica Rozeanu,Romania
+1952,1952-12-31,womens_singles,Women's singles,women,2,silver,athlete,Gizella Farkas,Hungary
+1952,1952-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Ermelinde Wertl,Austria
+1952,1952-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Rosalind Rowe,England
+1952,1952-12-31,womens_team,Women's team,women,1,gold,team,Japan,Japan
+1952,1952-12-31,womens_team,Women's team,women,2,silver,team,Romania,Romania
+1952,1952-12-31,womens_team,Women's team,women,3,bronze,team,England,England
+1953,1953-12-31,mens_doubles,Men's doubles,men,1,gold,team,József Kóczián / Ferenc Sidó,Hungary
+1953,1953-12-31,mens_doubles,Men's doubles,men,2,silver,team,Richard Bergmann / Johnny Leach,England
+1953,1953-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Ivan Andreadis / Bohumil Váňa,Czechoslovakia
+1953,1953-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Viktor Barna / Adrian Haydon,England
+1953,1953-12-31,mens_singles,Men's singles,men,1,gold,athlete,Ferenc Sidó,Hungary
+1953,1953-12-31,mens_singles,Men's singles,men,2,silver,athlete,Ivan Andreadis,Czechoslovakia
+1953,1953-12-31,mens_singles,Men's singles,men,3,bronze,athlete,József Kóczián,Hungary
+1953,1953-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Ladislav Štípek,Czechoslovakia
+1953,1953-12-31,mens_team,Men's team,men,1,gold,team,England,England
+1953,1953-12-31,mens_team,Men's team,men,2,silver,team,Hungary,Hungary
+1953,1953-12-31,mens_team,Men's team,men,3,bronze,team,Czechoslovakia,Czechoslovakia
+1953,1953-12-31,mens_team,Men's team,men,3,bronze,team,France,France
+1953,1953-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Ferenc Sidó / Angelica Rozeanu,Hungary
+1953,1953-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Žarko Dolinar / Ermelinde Wertl,Socialist Federal Republic of Yugoslavia
+1953,1953-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,József Kóczián / Gizella Gervai,Hungary
+1953,1953-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,László Földy / Éva Kóczián,Hungary
+1953,1953-12-31,womens_doubles,Women's doubles,women,1,gold,team,Gizella Gervai / Angelica Rozeanu,Hungary
+1953,1953-12-31,womens_doubles,Women's doubles,women,2,silver,team,Diane Rowe / Rosalind Rowe,England
+1953,1953-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Kathleen Best / Ermelinde Wertl,England
+1953,1953-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Zsuzsa Fantusz / Edit Sági,Hungary
+1953,1953-12-31,womens_singles,Women's singles,women,1,gold,athlete,Angelica Rozeanu,Romania
+1953,1953-12-31,womens_singles,Women's singles,women,2,silver,athlete,Gizella Gervai,Hungary
+1953,1953-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Diane Rowe,England
+1953,1953-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Rosalind Rowe,England
+1953,1953-12-31,womens_team,Women's team,women,1,gold,team,Romania,Romania
+1953,1953-12-31,womens_team,Women's team,women,2,silver,team,England,England
+1953,1953-12-31,womens_team,Women's team,women,3,bronze,team,Austria,Austria
+1953,1953-12-31,womens_team,Women's team,women,3,bronze,team,Hungary,Hungary
+1954,1954-12-31,mens_doubles,Men's doubles,men,1,gold,team,Žarko Dolinar / Vilim Harangozo,Socialist Federal Republic of Yugoslavia
+1954,1954-12-31,mens_doubles,Men's doubles,men,2,silver,team,Viktor Barna / Michel Haguenauer,England
+1954,1954-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Adolf Šlár / Václav Tereba,Czechoslovakia
+1954,1954-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Ichiro Ogimura / Yoshio Tomita,Japan
+1954,1954-12-31,mens_singles,Men's singles,men,1,gold,athlete,Ichiro Ogimura,Japan
+1954,1954-12-31,mens_singles,Men's singles,men,2,silver,athlete,Tage Flisberg,Sweden
+1954,1954-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Ivan Andreadis,Czechoslovakia
+1954,1954-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Richard Bergmann,England
+1954,1954-12-31,mens_team,Men's team,men,1,gold,team,Japan,Japan
+1954,1954-12-31,mens_team,Men's team,men,2,silver,team,Czechoslovakia,Czechoslovakia
+1954,1954-12-31,mens_team,Men's team,men,3,bronze,team,England,England
+1954,1954-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Ivan Andreadis / Gizella Gervai,Czechoslovakia
+1954,1954-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Yoshio Tomita / Fujie Eguchi,Japan
+1954,1954-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Viktor Barna / Rosalind Rowe,England
+1954,1954-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Žarko Dolinar / Ermelinde Wertl,Socialist Federal Republic of Yugoslavia
+1954,1954-12-31,womens_doubles,Women's doubles,women,1,gold,team,Diane Rowe / Rosalind Rowe,England
+1954,1954-12-31,womens_doubles,Women's doubles,women,2,silver,team,Kathleen Best / Ann Haydon,England
+1954,1954-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Fujie Eguchi / Kiiko Watanabe,Japan
+1954,1954-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Gizella Gervai / Angelica Rozeanu,Hungary
+1954,1954-12-31,womens_singles,Women's singles,women,1,gold,athlete,Angelica Rozeanu,Romania
+1954,1954-12-31,womens_singles,Women's singles,women,2,silver,athlete,Yoshiko Tanaka,Japan
+1954,1954-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Fujie Eguchi,Japan
+1954,1954-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Éva Kóczián,Hungary
+1954,1954-12-31,womens_team,Women's team,women,1,gold,team,Japan,Japan
+1954,1954-12-31,womens_team,Women's team,women,2,silver,team,Hungary,Hungary
+1954,1954-12-31,womens_team,Women's team,women,3,bronze,team,England,England
+1955,1955-12-31,mens_doubles,Men's doubles,men,1,gold,team,Ivan Andreadis / Ladislav Štípek,Czechoslovakia
+1955,1955-12-31,mens_doubles,Men's doubles,men,2,silver,team,Žarko Dolinar / Vilim Harangozo,Socialist Federal Republic of Yugoslavia
+1955,1955-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Ichiro Ogimura / Yoshio Tomita,Japan
+1955,1955-12-31,mens_doubles,Men's doubles,men,3,bronze,team,József Kóczián / Ferenc Sidó,Hungary
+1955,1955-12-31,mens_singles,Men's singles,men,1,gold,athlete,Toshiaki Tanaka,Japan
+1955,1955-12-31,mens_singles,Men's singles,men,2,silver,athlete,Žarko Dolinar,Socialist Federal Republic of Yugoslavia
+1955,1955-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Ferenc Sidó,Hungary
+1955,1955-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Stephen Cafiero,France
+1955,1955-12-31,mens_team,Men's team,men,1,gold,team,Japan,Japan
+1955,1955-12-31,mens_team,Men's team,men,2,silver,team,Czechoslovakia,Czechoslovakia
+1955,1955-12-31,mens_team,Men's team,men,3,bronze,team,England,England
+1955,1955-12-31,mens_team,Men's team,men,3,bronze,team,Hungary,Hungary
+1955,1955-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Kálmán Szepesi / Éva Kóczián,Hungary
+1955,1955-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Aubrey Simons / Helen Elliot,England
+1955,1955-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Ladislav Štípek / Eliška Krejčová,Czechoslovakia
+1955,1955-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Toshiaki Tanaka / Shizuki Narahara,Japan
+1955,1955-12-31,womens_doubles,Women's doubles,women,1,gold,team,Angelica Rozeanu / Ella Zeller,Romania
+1955,1955-12-31,womens_doubles,Women's doubles,women,2,silver,team,Diane Rowe / Rosalind Rowe,England
+1955,1955-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Fujie Eguchi / Kiiko Watanabe,Japan
+1955,1955-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Shizuki Narahara / Yoshiko Tanaka,Japan
+1955,1955-12-31,womens_singles,Women's singles,women,1,gold,athlete,Angelica Rozeanu,Romania
+1955,1955-12-31,womens_singles,Women's singles,women,2,silver,athlete,Ermelinde Wertl,Austria
+1955,1955-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Kiiko Watanabe,Japan
+1955,1955-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Éva Kóczián,Hungary
+1955,1955-12-31,womens_team,Women's team,women,1,gold,team,Romania,Romania
+1955,1955-12-31,womens_team,Women's team,women,2,silver,team,Japan,Japan
+1955,1955-12-31,womens_team,Women's team,women,3,bronze,team,England,England
+1956,1956-12-31,mens_doubles,Men's doubles,men,1,gold,team,Ichiro Ogimura / Yoshio Tomita,Japan
+1956,1956-12-31,mens_doubles,Men's doubles,men,2,silver,team,Ivan Andreadis / Ladislav Štípek,Czechoslovakia
+1956,1956-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Toshiaki Tanaka / Keisuke Tsunoda,Japan
+1956,1956-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Václav Tereba / Ludvík Vyhnanovský,Czechoslovakia
+1956,1956-12-31,mens_singles,Men's singles,men,1,gold,athlete,Ichiro Ogimura,Japan
+1956,1956-12-31,mens_singles,Men's singles,men,2,silver,athlete,Toshiaki Tanaka,Japan
+1956,1956-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Akio Nohira,Japan
+1956,1956-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Yoshio Tomita,Japan
+1956,1956-12-31,mens_team,Men's team,men,1,gold,team,Japan,Japan
+1956,1956-12-31,mens_team,Men's team,men,2,silver,team,Czechoslovakia,Czechoslovakia
+1956,1956-12-31,mens_team,Men's team,men,3,bronze,team,China,China
+1956,1956-12-31,mens_team,Men's team,men,3,bronze,team,Romania,Romania
+1956,1956-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Erwin Klein / Leah Neuberger,United States
+1956,1956-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Ivan Andreadis / Ann Haydon,Czechoslovakia
+1956,1956-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Motoo Fujii / Yoshiko Tanaka,Japan
+1956,1956-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Toma Reiter / Ella Zeller,Romania
+1956,1956-12-31,womens_doubles,Women's doubles,women,1,gold,team,Angelica Rozeanu / Ella Zeller,Romania
+1956,1956-12-31,womens_doubles,Women's doubles,women,2,silver,team,Fujie Eguchi / Kiiko Watanabe,Japan
+1956,1956-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Ann Haydon / Diane Rowe,England
+1956,1956-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Tomie Okawa / Yoshiko Tanaka,Japan
+1956,1956-12-31,womens_singles,Women's singles,women,1,gold,athlete,Tomie Okawa,Japan
+1956,1956-12-31,womens_singles,Women's singles,women,2,silver,athlete,Kiiko Watanabe,Japan
+1956,1956-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Ella Zeller,Romania
+1956,1956-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Fujie Eguchi,Japan
+1956,1956-12-31,womens_team,Women's team,women,1,gold,team,Romania,Romania
+1956,1956-12-31,womens_team,Women's team,women,2,silver,team,England,England
+1956,1956-12-31,womens_team,Women's team,women,3,bronze,team,Japan,Japan
+1957,1957-12-31,mens_doubles,Men's doubles,men,1,gold,team,Ivan Andreadis / Ladislav Štípek,Czechoslovakia
+1957,1957-12-31,mens_doubles,Men's doubles,men,2,silver,team,Ichiro Ogimura / Toshiaki Tanaka,Japan
+1957,1957-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Elemér Gyetvai / Ferenc Sidó,Hungary
+1957,1957-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Toshihiko Miyata / Keisuke Tsunoda,Japan
+1957,1957-12-31,mens_singles,Men's singles,men,1,gold,athlete,Toshiaki Tanaka,Japan
+1957,1957-12-31,mens_singles,Men's singles,men,2,silver,athlete,Ichiro Ogimura,Japan
+1957,1957-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Heinz Schneider,East Germany
+1957,1957-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Ivan Andreadis,Czechoslovakia
+1957,1957-12-31,mens_team,Men's team,men,1,gold,team,Japan,Japan
+1957,1957-12-31,mens_team,Men's team,men,2,silver,team,Hungary,Hungary
+1957,1957-12-31,mens_team,Men's team,men,3,bronze,team,China,China
+1957,1957-12-31,mens_team,Men's team,men,3,bronze,team,Czechoslovakia,Czechoslovakia
+1957,1957-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Ichiro Ogimura / Fujie Eguchi,Japan
+1957,1957-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Ivan Andreadis / Ann Haydon,Czechoslovakia
+1957,1957-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Keisuke Tsunoda / Taeko Namba,Japan
+1957,1957-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Ludvík Vyhnanovský / Helen Elliot,Czechoslovakia
+1957,1957-12-31,womens_doubles,Women's doubles,women,1,gold,team,Lívia Mossóczy / Agnes Simon,Hungary
+1957,1957-12-31,womens_doubles,Women's doubles,women,2,silver,team,Ann Haydon / Diane Rowe,England
+1957,1957-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Angelica Rozeanu / Ella Zeller,Romania
+1957,1957-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Helen Elliot / Maria Golopenta,Scotland
+1957,1957-12-31,womens_singles,Women's singles,women,1,gold,athlete,Fujie Eguchi,Japan
+1957,1957-12-31,womens_singles,Women's singles,women,2,silver,athlete,Ann Haydon,England
+1957,1957-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Ella Zeller,Romania
+1957,1957-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Kiiko Watanabe,Japan
+1957,1957-12-31,womens_team,Women's team,women,1,gold,team,Japan,Japan
+1957,1957-12-31,womens_team,Women's team,women,2,silver,team,Romania,Romania
+1957,1957-12-31,womens_team,Women's team,women,3,bronze,team,China,China
+1959,1959-12-31,mens_doubles,Men's doubles,men,1,gold,team,Teruo Murakami / Ichiro Ogimura,Japan
+1959,1959-12-31,mens_doubles,Men's doubles,men,2,silver,team,Ladislav Štípek / Ludvík Vyhnanovský,Czechoslovakia
+1959,1959-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Hans Alsér / Åke Rakell,Sweden
+1959,1959-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Zoltán Berczik / László Földy,Hungary
+1959,1959-12-31,mens_singles,Men's singles,men,1,gold,athlete,Rong Guotuan,China
+1959,1959-12-31,mens_singles,Men's singles,men,2,silver,athlete,Ferenc Sidó,Hungary
+1959,1959-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Dick Miles,United States
+1959,1959-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Ichiro Ogimura,Japan
+1959,1959-12-31,mens_team,Men's team,men,1,gold,team,Japan,Japan
+1959,1959-12-31,mens_team,Men's team,men,2,silver,team,Hungary,Hungary
+1959,1959-12-31,mens_team,Men's team,men,3,bronze,team,China,China
+1959,1959-12-31,mens_team,Men's team,men,3,bronze,team,South Vietnam,South Vietnam
+1959,1959-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Ichiro Ogimura / Fujie Eguchi,Japan
+1959,1959-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Teruo Murakami / Kimiyo Matsuzaki,Japan
+1959,1959-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Wang Chuanyao / Sun Meiying,China
+1959,1959-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Zoltán Berczik / Gizella Lantos,Hungary
+1959,1959-12-31,womens_doubles,Women's doubles,women,1,gold,team,Taeko Namba / Kazuko Yamaizumi,Japan
+1959,1959-12-31,womens_doubles,Women's doubles,women,2,silver,team,Fujie Eguchi / Kimiyo Matsuzaki,Japan
+1959,1959-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Ann Haydon / Diane Rowe,England
+1959,1959-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Qiu Zhonghui / Sun Meiying,China
+1959,1959-12-31,womens_singles,Women's singles,women,1,gold,athlete,Kimiyo Matsuzaki,Japan
+1959,1959-12-31,womens_singles,Women's singles,women,2,silver,athlete,Fujie Eguchi,Japan
+1959,1959-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Qiu Zhonghui,China
+1959,1959-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Éva Kóczián,Hungary
+1959,1959-12-31,womens_team,Women's team,women,1,gold,team,Japan,Japan
+1959,1959-12-31,womens_team,Women's team,women,2,silver,team,South Korea,South Korea
+1959,1959-12-31,womens_team,Women's team,women,3,bronze,team,China,China
+1961,1961-12-31,mens_doubles,Men's doubles,men,1,gold,team,Nobuya Hoshino / Koji Kimura,Japan
+1961,1961-12-31,mens_doubles,Men's doubles,men,2,silver,team,Zoltán Berczik / Ferenc Sidó,Hungary
+1961,1961-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Li Furong / Zhuang Zedong,China
+1961,1961-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Wang Jiasheng / Zhou Lansun,China
+1961,1961-12-31,mens_singles,Men's singles,men,1,gold,athlete,Zhuang Zedong,China
+1961,1961-12-31,mens_singles,Men's singles,men,2,silver,athlete,Li Furong,China
+1961,1961-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Xu Yinsheng,China
+1961,1961-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Zhang Xielin,China
+1961,1961-12-31,mens_team,Men's team,men,1,gold,team,China,China
+1961,1961-12-31,mens_team,Men's team,men,2,silver,team,Japan,Japan
+1961,1961-12-31,mens_team,Men's team,men,3,bronze,team,Hungary,Hungary
+1961,1961-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Ichiro Ogimura / Kimiyo Matsuzaki,Japan
+1961,1961-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Li Furong / Han Yuzhen,China
+1961,1961-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Nobuya Hoshino / Masako Seki,Japan
+1961,1961-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Wang Chuanyao / Sun Meiying,China
+1961,1961-12-31,womens_doubles,Women's doubles,women,1,gold,team,Maria Alexandru / Georgeta Pitică,Romania
+1961,1961-12-31,womens_doubles,Women's doubles,women,2,silver,team,Qiu Zhonghui / Sun Meiying,China
+1961,1961-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Han Yuzhen / Liang Lizhen,China
+1961,1961-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Hu Keming / Wang Jian,China
+1961,1961-12-31,womens_singles,Women's singles,women,1,gold,athlete,Qiu Zhonghui,China
+1961,1961-12-31,womens_singles,Women's singles,women,2,silver,athlete,Éva Kóczián,Hungary
+1961,1961-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Kimiyo Matsuzaki,Japan
+1961,1961-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Wang Jian,China
+1961,1961-12-31,womens_team,Women's team,women,1,gold,team,Japan,Japan
+1961,1961-12-31,womens_team,Women's team,women,2,silver,team,China,China
+1961,1961-12-31,womens_team,Women's team,women,3,bronze,team,Romania,Romania
+1963,1963-12-31,mens_doubles,Men's doubles,men,1,gold,team,Wang Zhiliang / Zhang Xielin,China
+1963,1963-12-31,mens_doubles,Men's doubles,men,2,silver,team,Xu Yinsheng / Zhuang Zedong,China
+1963,1963-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Ken Konaka / Keiichi Miki,Japan
+1963,1963-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Li Furong / Wang Jiasheng,China
+1963,1963-12-31,mens_singles,Men's singles,men,1,gold,athlete,Zhuang Zedong,China
+1963,1963-12-31,mens_singles,Men's singles,men,2,silver,athlete,Li Furong,China
+1963,1963-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Wang Zhiliang,China
+1963,1963-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Zhang Xielin,China
+1963,1963-12-31,mens_team,Men's team,men,1,gold,team,China,China
+1963,1963-12-31,mens_team,Men's team,men,2,silver,team,Japan,Japan
+1963,1963-12-31,mens_team,Men's team,men,3,bronze,team,Sweden,Sweden
+1963,1963-12-31,mens_team,Men's team,men,3,bronze,team,West Germany,West Germany
+1963,1963-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Koji Kimura / Kazuko Ito-Yamaizumi,Japan
+1963,1963-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Keiichi Miki / Masako Seki,Japan
+1963,1963-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,János Faházi / Éva Kóczián-Földy,Hungary
+1963,1963-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Zhuang Zedong / Qiu Zhonghui,China
+1963,1963-12-31,womens_doubles,Women's doubles,women,1,gold,team,Kimiyo Matsuzaki / Masako Seki,Japan
+1963,1963-12-31,womens_doubles,Women's doubles,women,2,silver,team,Diane Rowe / Mary Shannon,England
+1963,1963-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Kazuko Ito-Yamaizumi / Noriko Yamanaka,Japan
+1963,1963-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Qiu Zhonghui / Wang Jian,China
+1963,1963-12-31,womens_singles,Women's singles,women,1,gold,athlete,Kimiyo Matsuzaki,Japan
+1963,1963-12-31,womens_singles,Women's singles,women,2,silver,athlete,Maria Alexandru,Romania
+1963,1963-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Ella Constantinescu,Romania
+1963,1963-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Sun Meiying,China
+1963,1963-12-31,womens_team,Women's team,women,1,gold,team,Japan,Japan
+1963,1963-12-31,womens_team,Women's team,women,2,silver,team,Romania,Romania
+1963,1963-12-31,womens_team,Women's team,women,3,bronze,team,China,China
+1963,1963-12-31,womens_team,Women's team,women,3,bronze,team,Hungary,Hungary
+1965,1965-12-31,mens_doubles,Men's doubles,men,1,gold,team,Xu Yinsheng / Zhuang Zedong,China
+1965,1965-12-31,mens_doubles,Men's doubles,men,2,silver,team,Wang Zhiliang / Zhang Xielin,China
+1965,1965-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Li Furong / Wang Jiasheng,China
+1965,1965-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Yu Changchun / Zhou Lansun,China
+1965,1965-12-31,mens_singles,Men's singles,men,1,gold,athlete,Zhuang Zedong,China
+1965,1965-12-31,mens_singles,Men's singles,men,2,silver,athlete,Li Furong,China
+1965,1965-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Eberhard Schöler,West Germany
+1965,1965-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Zhou Lansun,China
+1965,1965-12-31,mens_team,Men's team,men,1,gold,team,China,China
+1965,1965-12-31,mens_team,Men's team,men,2,silver,team,Japan,Japan
+1965,1965-12-31,mens_team,Men's team,men,3,bronze,team,North Korea,North Korea
+1965,1965-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Koji Kimura / Masako Seki,Japan
+1965,1965-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Zhang Xielin / Lin Huiqing,China
+1965,1965-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Ken Konaka / Naoko Fukatsu,Japan
+1965,1965-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Zhuang Zedong / Liang Lizhen,China
+1965,1965-12-31,womens_doubles,Women's doubles,women,1,gold,team,Lin Huiqing / Zheng Minzhi,China
+1965,1965-12-31,womens_doubles,Women's doubles,women,2,silver,team,Masako Seki / Noriko Yamanaka,Japan
+1965,1965-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Feng Mengya / Li Li,China
+1965,1965-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Li Henan / Liang Lizhen,China
+1965,1965-12-31,womens_singles,Women's singles,women,1,gold,athlete,Naoko Fukatsu,Japan
+1965,1965-12-31,womens_singles,Women's singles,women,2,silver,athlete,Lin Huiqing,China
+1965,1965-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Li Li,China
+1965,1965-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Noriko Yamanaka,Japan
+1965,1965-12-31,womens_team,Women's team,women,1,gold,team,China,China
+1965,1965-12-31,womens_team,Women's team,women,2,silver,team,Japan,Japan
+1965,1965-12-31,womens_team,Women's team,women,3,bronze,team,England,England
+1967,1967-12-31,mens_doubles,Men's doubles,men,1,gold,team,Hans Alsér / Kjell Johansson,Sweden
+1967,1967-12-31,mens_doubles,Men's doubles,men,2,silver,team,Anatoly Amelin / Stanislav Gomozkov,Soviet Union
+1967,1967-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Nobuhiko Hasegawa / Mitsuru Kono,Japan
+1967,1967-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Vladimír Miko / Jaroslav Staněk,Czechoslovakia
+1967,1967-12-31,mens_singles,Men's singles,men,1,gold,athlete,Nobuhiko Hasegawa,Japan
+1967,1967-12-31,mens_singles,Men's singles,men,2,silver,athlete,Mitsuru Kono,Japan
+1967,1967-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Eberhard Schöler,West Germany
+1967,1967-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Koji Kimura,Japan
+1967,1967-12-31,mens_team,Men's team,men,1,gold,team,Japan,Japan
+1967,1967-12-31,mens_team,Men's team,men,2,silver,team,North Korea,North Korea
+1967,1967-12-31,mens_team,Men's team,men,3,bronze,team,Sweden,Sweden
+1967,1967-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Nobuhiko Hasegawa / Noriko Yamanaka,Japan
+1967,1967-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Koji Kimura / Naoko Fukatsu,Japan
+1967,1967-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Anatoly Amelin / Zoja Rudnova,Soviet Union
+1967,1967-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Dorin Giurgiuca / Maria Alexandru,Romania
+1967,1967-12-31,womens_doubles,Women's doubles,women,1,gold,team,Saeko Hirota / Sachiko Morisawa,Japan
+1967,1967-12-31,womens_doubles,Women's doubles,women,2,silver,team,Naoko Fukatsu / Noriko Yamanaka,Japan
+1967,1967-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Erzsebet Jurik / Éva Kóczián,Hungary
+1967,1967-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Svetlana Grinberg / Zoja Rudnova,Soviet Union
+1967,1967-12-31,womens_singles,Women's singles,women,1,gold,athlete,Sachiko Morisawa,Japan
+1967,1967-12-31,womens_singles,Women's singles,women,2,silver,athlete,Naoko Fukatsu,Japan
+1967,1967-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Noriko Yamanaka,Japan
+1967,1967-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Zoja Rudnova,Soviet Union
+1967,1967-12-31,womens_team,Women's team,women,1,gold,team,Japan,Japan
+1967,1967-12-31,womens_team,Women's team,women,2,silver,team,Soviet Union,Soviet Union
+1967,1967-12-31,womens_team,Women's team,women,3,bronze,team,Hungary,Hungary
+1969,1969-12-31,mens_doubles,Men's doubles,men,1,gold,team,Hans Alsér / Kjell Johansson,Sweden
+1969,1969-12-31,mens_doubles,Men's doubles,men,2,silver,team,Nobuhiko Hasegawa / Tokio Tasaka,Japan
+1969,1969-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Anatoly Amelin / Stanislav Gomozkov,Soviet Union
+1969,1969-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Shigeo Itoh / Mitsuru Kono,Japan
+1969,1969-12-31,mens_singles,Men's singles,men,1,gold,athlete,Shigeo Itoh,Japan
+1969,1969-12-31,mens_singles,Men's singles,men,2,silver,athlete,Eberhard Schöler,West Germany
+1969,1969-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Kenji Kasai,Japan
+1969,1969-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Tokio Tasaka,Japan
+1969,1969-12-31,mens_team,Men's team,men,1,gold,team,Japan,Japan
+1969,1969-12-31,mens_team,Men's team,men,2,silver,team,West Germany,West Germany
+1969,1969-12-31,mens_team,Men's team,men,3,bronze,team,Socialist Federal Republic of Yugoslavia,Socialist Federal Republic of Yugoslavia
+1969,1969-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Nobuhiko Hasegawa / Yasuko Konno,Japan
+1969,1969-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Mitsuru Kono / Saeko Hirota,Japan
+1969,1969-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Denis Neale / Mary Wright,England
+1969,1969-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Shigeo Itoh / Toshiko Kowada,Japan
+1969,1969-12-31,womens_doubles,Women's doubles,women,1,gold,team,Svetlana Grinberg / Zoja Rudnova,Soviet Union
+1969,1969-12-31,womens_doubles,Women's doubles,women,2,silver,team,Maria Alexandru / Eleonora Mihalca,Romania
+1969,1969-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Choi Hwan-hwan / Choi Jung-sook,South Korea
+1969,1969-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Jitka Karlíková / Ilona Voštová,Czechoslovakia
+1969,1969-12-31,womens_singles,Women's singles,women,1,gold,athlete,Toshiko Kowada,Japan
+1969,1969-12-31,womens_singles,Women's singles,women,2,silver,athlete,Gabriele Geißler,East Germany
+1969,1969-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Maria Alexandru,Romania
+1969,1969-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Miho Hamada,Japan
+1969,1969-12-31,womens_team,Women's team,women,1,gold,team,Soviet Union,Soviet Union
+1969,1969-12-31,womens_team,Women's team,women,2,silver,team,Romania,Romania
+1969,1969-12-31,womens_team,Women's team,women,3,bronze,team,Japan,Japan
+1971,1971-12-31,mens_doubles,Men's doubles,men,1,gold,team,István Jónyer / Tibor Klampár,Hungary
+1971,1971-12-31,mens_doubles,Men's doubles,men,2,silver,team,Liang Geliang / Zhuang Zedong,China
+1971,1971-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Katsuyuki Abe / Yujiro Imano,Japan
+1971,1971-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Nobuhiko Hasegawa / Tokio Tasaka,Japan
+1971,1971-12-31,mens_singles,Men's singles,men,1,gold,athlete,Stellan Bengtsson,Sweden
+1971,1971-12-31,mens_singles,Men's singles,men,2,silver,athlete,Shigeo Itoh,Japan
+1971,1971-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Dragutin Šurbek,Socialist Federal Republic of Yugoslavia
+1971,1971-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Xi Enting,China
+1971,1971-12-31,mens_team,Men's team,men,1,gold,team,China,China
+1971,1971-12-31,mens_team,Men's team,men,2,silver,team,Japan,Japan
+1971,1971-12-31,mens_team,Men's team,men,3,bronze,team,Socialist Federal Republic of Yugoslavia,Socialist Federal Republic of Yugoslavia
+1971,1971-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Zhang Xielin / Lin Huiqing,China
+1971,1971-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Antun Stipančić / Maria Alexandru,Socialist Federal Republic of Yugoslavia
+1971,1971-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Eberhard Schöler / Diane Schöler,West Germany
+1971,1971-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Tokuyasu Nishii / Mieko Fukuno,Japan
+1971,1971-12-31,womens_doubles,Women's doubles,women,1,gold,team,Lin Huiqing / Zheng Minzhi,China
+1971,1971-12-31,womens_doubles,Women's doubles,women,2,silver,team,Mieko Hirano / Reiko Sakamoto,Japan
+1971,1971-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Miho Hamada / Yukie Ozeki,Japan
+1971,1971-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Yukiko Kawamorita / Setsuko Kobori,Japan
+1971,1971-12-31,womens_singles,Women's singles,women,1,gold,athlete,Lin Huiqing,China
+1971,1971-12-31,womens_singles,Women's singles,women,2,silver,athlete,Zheng Minzhi,China
+1971,1971-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Ilona Voštová,Czechoslovakia
+1971,1971-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Li Li,China
+1971,1971-12-31,womens_team,Women's team,women,1,gold,team,Japan,Japan
+1971,1971-12-31,womens_team,Women's team,women,2,silver,team,China,China
+1971,1971-12-31,womens_team,Women's team,women,3,bronze,team,South Korea,South Korea
+1973,1973-12-31,mens_doubles,Men's doubles,men,1,gold,team,Stellan Bengtsson / Kjell Johansson,Sweden
+1973,1973-12-31,mens_doubles,Men's doubles,men,2,silver,team,István Jónyer / Tibor Klampár,Hungary
+1973,1973-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Antun Stipančić / Dragutin Šurbek,Socialist Federal Republic of Yugoslavia
+1973,1973-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Jean-Denis Constant / Jacques Secrétin,France
+1973,1973-12-31,mens_singles,Men's singles,men,1,gold,athlete,Xi Enting,China
+1973,1973-12-31,mens_singles,Men's singles,men,2,silver,athlete,Kjell Johansson,Sweden
+1973,1973-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Antun Stipančić,Socialist Federal Republic of Yugoslavia
+1973,1973-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Dragutin Šurbek,Socialist Federal Republic of Yugoslavia
+1973,1973-12-31,mens_team,Men's team,men,1,gold,team,Sweden,Sweden
+1973,1973-12-31,mens_team,Men's team,men,2,silver,team,China,China
+1973,1973-12-31,mens_team,Men's team,men,3,bronze,team,Japan,Japan
+1973,1973-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Liang Geliang / Li Li,China
+1973,1973-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Anatoli Strokatov / Asta Gedraitite,Soviet Union
+1973,1973-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Josef Dvořáček / Alica Grofová,Czechoslovakia
+1973,1973-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Yu Changchun / Zheng Huaiying,China
+1973,1973-12-31,womens_doubles,Women's doubles,women,1,gold,team,Maria Alexandru / Miho Hamada,Romania
+1973,1973-12-31,womens_doubles,Women's doubles,women,2,silver,team,Lin Meiqun / Qiu Baoqin,China
+1973,1973-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Jill Hammersley / Beatrix Kisházi,England
+1973,1973-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Tazuko Abe / Tomie Edano,Japan
+1973,1973-12-31,womens_singles,Women's singles,women,1,gold,athlete,Hu Yulan,China
+1973,1973-12-31,womens_singles,Women's singles,women,2,silver,athlete,Alica Grofová,Czechoslovakia
+1973,1973-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Park Mi-ra,South Korea
+1973,1973-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Zhang Li,China
+1973,1973-12-31,womens_team,Women's team,women,1,gold,team,South Korea,South Korea
+1973,1973-12-31,womens_team,Women's team,women,2,silver,team,China,China
+1973,1973-12-31,womens_team,Women's team,women,3,bronze,team,Japan,Japan
+1975,1975-12-31,mens_doubles,Men's doubles,men,1,gold,team,Gábor Gergely / István Jónyer,Hungary
+1975,1975-12-31,mens_doubles,Men's doubles,men,2,silver,team,Antun Stipančić / Dragutin Šurbek,Socialist Federal Republic of Yugoslavia
+1975,1975-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Jean-Denis Constant / Jacques Secrétin,France
+1975,1975-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Katsuyuki Abe / Shigeo Itoh,Japan
+1975,1975-12-31,mens_singles,Men's singles,men,1,gold,athlete,István Jónyer,Hungary
+1975,1975-12-31,mens_singles,Men's singles,men,2,silver,athlete,Antun Stipančić,Socialist Federal Republic of Yugoslavia
+1975,1975-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Mitsuru Kono,Japan
+1975,1975-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Norio Takashima,Japan
+1975,1975-12-31,mens_team,Men's team,men,1,gold,team,China,China
+1975,1975-12-31,mens_team,Men's team,men,2,silver,team,Socialist Federal Republic of Yugoslavia,Socialist Federal Republic of Yugoslavia
+1975,1975-12-31,mens_team,Men's team,men,3,bronze,team,Sweden,Sweden
+1975,1975-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Stanislav Gomozkov / Tatiana Ferdman,Soviet Union
+1975,1975-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Sarkis Sarchayan / Elmira Antonyan,Soviet Union
+1975,1975-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Liang Geliang / Zhang Li,China
+1975,1975-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Shigeo Itoh / Yukie Ozeki,Japan
+1975,1975-12-31,womens_doubles,Women's doubles,women,1,gold,team,Maria Alexandru / Shoko Takahashi,Romania
+1975,1975-12-31,womens_doubles,Women's doubles,women,2,silver,team,Lin Meiqun / Zhu Xiangyun,China
+1975,1975-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Elmira Antonyan / Tatiana Ferdman,Soviet Union
+1975,1975-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Yukie Ozeki / Sachiko Yokota,Japan
+1975,1975-12-31,womens_singles,Women's singles,women,1,gold,athlete,Pak Yung-sun,North Korea
+1975,1975-12-31,womens_singles,Women's singles,women,2,silver,athlete,Zhang Li,China
+1975,1975-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Ge Xin'ai,China
+1975,1975-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Tatiana Ferdman,Soviet Union
+1975,1975-12-31,womens_team,Women's team,women,1,gold,team,China,China
+1975,1975-12-31,womens_team,Women's team,women,2,silver,team,South Korea,South Korea
+1975,1975-12-31,womens_team,Women's team,women,3,bronze,team,Japan,Japan
+1977,1977-12-31,mens_doubles,Men's doubles,men,1,gold,team,Li Zhenshi / Liang Geliang,China
+1977,1977-12-31,mens_doubles,Men's doubles,men,2,silver,team,Huang Liang / Lu Yuansheng,China
+1977,1977-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Antun Stipančić / Dragutin Šurbek,Socialist Federal Republic of Yugoslavia
+1977,1977-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Stellan Bengtsson / Kjell Johansson,Sweden
+1977,1977-12-31,mens_singles,Men's singles,men,1,gold,athlete,Mitsuru Kono,Japan
+1977,1977-12-31,mens_singles,Men's singles,men,2,silver,athlete,Guo Yuehua,China
+1977,1977-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Huang Liang,China
+1977,1977-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Liang Geliang,China
+1977,1977-12-31,mens_team,Men's team,men,1,gold,team,China,China
+1977,1977-12-31,mens_team,Men's team,men,2,silver,team,Japan,Japan
+1977,1977-12-31,mens_team,Men's team,men,3,bronze,team,Sweden,Sweden
+1977,1977-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Jacques Secrétin / Claude Bergeret,France
+1977,1977-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Tokio Tasaka / Sachiko Yokota,Japan
+1977,1977-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Lee Sang-kuk / Lee Ki-won,South Korea
+1977,1977-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Li Zhenshi / Yan Guili,China
+1977,1977-12-31,womens_doubles,Women's doubles,women,1,gold,team,Pak Yong-ok / Yang Ying (born 1953),North Korea
+1977,1977-12-31,womens_doubles,Women's doubles,women,2,silver,team,Wei Lijie / Zhu Xiangyun,China
+1977,1977-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Ge Xin'ai / Zhang Li,China
+1977,1977-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Kim Soon-ok / Lee Ki-won,South Korea
+1977,1977-12-31,womens_singles,Women's singles,women,1,gold,athlete,Pak Yung-sun,North Korea
+1977,1977-12-31,womens_singles,Women's singles,women,2,silver,athlete,Zhang Li,China
+1977,1977-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Ge Xin'ai,China
+1977,1977-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Zhang Deying,China
+1977,1977-12-31,womens_team,Women's team,women,1,gold,team,China,China
+1977,1977-12-31,womens_team,Women's team,women,2,silver,team,South Korea,South Korea
+1977,1977-12-31,womens_team,Women's team,women,3,bronze,team,North Korea,North Korea
+1979,1979-12-31,mens_doubles,Men's doubles,men,1,gold,team,Antun Stipančić / Dragutin Šurbek,Socialist Federal Republic of Yugoslavia
+1979,1979-12-31,mens_doubles,Men's doubles,men,2,silver,team,István Jónyer / Tibor Klampár,Hungary
+1979,1979-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Guo Yuehua / Liang Geliang,China
+1979,1979-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Li Zhenshi / Wang Huiyuan,China
+1979,1979-12-31,mens_singles,Men's singles,men,1,gold,athlete,Seiji Ono,Japan
+1979,1979-12-31,mens_singles,Men's singles,men,2,silver,athlete,Guo Yuehua,China
+1979,1979-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Li Zhenshi,China
+1979,1979-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Liang Geliang,China
+1979,1979-12-31,mens_team,Men's team,men,1,gold,team,Hungary,Hungary
+1979,1979-12-31,mens_team,Men's team,men,2,silver,team,China,China
+1979,1979-12-31,mens_team,Men's team,men,3,bronze,team,Japan,Japan
+1979,1979-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Liang Geliang / Ge Xin'ai,China
+1979,1979-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Li Zhenshi / Yan Guili,China
+1979,1979-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Jacques Secrétin / Claude Bergeret,France
+1979,1979-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Wang Huiyuan / Zhang Deying,China
+1979,1979-12-31,womens_doubles,Women's doubles,women,1,gold,team,Zhang Deying / Zhang Li,China
+1979,1979-12-31,womens_doubles,Women's doubles,women,2,silver,team,Ge Xin'ai / Yan Guili,China
+1979,1979-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Erzsebet Palatinus / Gordana Perkučin,Socialist Federal Republic of Yugoslavia
+1979,1979-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Li Song-suk / Ro Jong-suk,North Korea
+1979,1979-12-31,womens_singles,Women's singles,women,1,gold,athlete,Ge Xin'ai,China
+1979,1979-12-31,womens_singles,Women's singles,women,2,silver,athlete,Li Song-suk,North Korea
+1979,1979-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Tong Ling,China
+1979,1979-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Zhang Deying,China
+1979,1979-12-31,womens_team,Women's team,women,1,gold,team,China,China
+1979,1979-12-31,womens_team,Women's team,women,2,silver,team,North Korea,North Korea
+1979,1979-12-31,womens_team,Women's team,women,3,bronze,team,Japan,Japan
+1981,1981-12-31,mens_doubles,Men's doubles,men,1,gold,team,Cai Zhenhua / Li Zhenshi,China
+1981,1981-12-31,mens_doubles,Men's doubles,men,2,silver,team,Guo Yuehua / Xie Saike,China
+1981,1981-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Antun Stipančić / Dragutin Šurbek,Socialist Federal Republic of Yugoslavia
+1981,1981-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Patrick Birocheau / Jacques Secrétin,France
+1981,1981-12-31,mens_singles,Men's singles,men,1,gold,athlete,Guo Yuehua,China
+1981,1981-12-31,mens_singles,Men's singles,men,2,silver,athlete,Cai Zhenhua,China
+1981,1981-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Dragutin Šurbek,Socialist Federal Republic of Yugoslavia
+1981,1981-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Stellan Bengtsson,Sweden
+1981,1981-12-31,mens_team,Men's team,men,1,gold,team,China,China
+1981,1981-12-31,mens_team,Men's team,men,2,silver,team,Hungary,Hungary
+1981,1981-12-31,mens_team,Men's team,men,3,bronze,team,Japan,Japan
+1981,1981-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Xie Saike / Huang Junqun,China
+1981,1981-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Chen Xinhua / Tong Ling,China
+1981,1981-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Dragutin Šurbek / Branka Batinić,Socialist Federal Republic of Yugoslavia
+1981,1981-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Huang Liang / Pu Qijuan,China
+1981,1981-12-31,womens_doubles,Women's doubles,women,1,gold,team,Cao Yanhua / Zhang Deying,China
+1981,1981-12-31,womens_doubles,Women's doubles,women,2,silver,team,Pu Qijuan / Tong Ling,China
+1981,1981-12-31,womens_doubles,Women's doubles,women,3,bronze,team,An Hae-sook / Hwang Nam-sook,South Korea
+1981,1981-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Huang Junqun / Yan Guili,China
+1981,1981-12-31,womens_singles,Women's singles,women,1,gold,athlete,Tong Ling,China
+1981,1981-12-31,womens_singles,Women's singles,women,2,silver,athlete,Cao Yanhua,China
+1981,1981-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Lee Soo-ja,South Korea
+1981,1981-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Zhang Deying,China
+1981,1981-12-31,womens_team,Women's team,women,1,gold,team,China,China
+1981,1981-12-31,womens_team,Women's team,women,2,silver,team,South Korea,South Korea
+1981,1981-12-31,womens_team,Women's team,women,3,bronze,team,North Korea,North Korea
+1983,1983-12-31,mens_doubles,Men's doubles,men,1,gold,team,Zoran Kalinić / Dragutin Šurbek,Socialist Federal Republic of Yugoslavia
+1983,1983-12-31,mens_doubles,Men's doubles,men,2,silver,team,Jiang Jialiang / Xie Saike,China
+1983,1983-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Hiroyuki Abe / Seiji Ono,Japan
+1983,1983-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Wang Huiyuan / Yang Yuhua,China
+1983,1983-12-31,mens_singles,Men's singles,men,1,gold,athlete,Guo Yuehua,China
+1983,1983-12-31,mens_singles,Men's singles,men,2,silver,athlete,Cai Zhenhua,China
+1983,1983-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Jiang Jialiang,China
+1983,1983-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Wang Huiyuan,China
+1983,1983-12-31,mens_team,Men's team,men,1,gold,team,China,China
+1983,1983-12-31,mens_team,Men's team,men,2,silver,team,Sweden,Sweden
+1983,1983-12-31,mens_team,Men's team,men,3,bronze,team,Hungary,Hungary
+1983,1983-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Guo Yuehua / Ni Xialian,China
+1983,1983-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Chen Xinhua / Tong Ling,China
+1983,1983-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Cai Zhenhua / Cao Yanhua,China
+1983,1983-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Xie Saike / Huang Junqun,China
+1983,1983-12-31,womens_doubles,Women's doubles,women,1,gold,team,Dai Lili / Shen Jianping,China
+1983,1983-12-31,womens_doubles,Women's doubles,women,2,silver,team,Geng Lijuan / Huang Junqun,China
+1983,1983-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Cao Yanhua / Ni Xialian,China
+1983,1983-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Pu Qijuan / Tong Ling,China
+1983,1983-12-31,womens_singles,Women's singles,women,1,gold,athlete,Cao Yanhua,China
+1983,1983-12-31,womens_singles,Women's singles,women,2,silver,athlete,Yang Young-ja,South Korea
+1983,1983-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Huang Junqun,China
+1983,1983-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Qi Baoxiang,China
+1983,1983-12-31,womens_team,Women's team,women,1,gold,team,China,China
+1983,1983-12-31,womens_team,Women's team,women,2,silver,team,Japan,Japan
+1983,1983-12-31,womens_team,Women's team,women,3,bronze,team,North Korea,North Korea
+1985,1985-12-31,mens_doubles,Men's doubles,men,1,gold,team,Mikael Appelgren / Ulf Carlsson,Sweden
+1985,1985-12-31,mens_doubles,Men's doubles,men,2,silver,team,Milan Orlowski / Jindřich Panský,Czechoslovakia
+1985,1985-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Cai Zhenhua / Jiang Jialiang,China
+1985,1985-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Fan Changmao / He Zhiwen,China
+1985,1985-12-31,mens_singles,Men's singles,men,1,gold,athlete,Jiang Jialiang,China
+1985,1985-12-31,mens_singles,Men's singles,men,2,silver,athlete,Chen Longcan,China
+1985,1985-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Lo Chuen Tsung,Hong Kong
+1985,1985-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Teng Yi,China
+1985,1985-12-31,mens_team,Men's team,men,1,gold,team,China,China
+1985,1985-12-31,mens_team,Men's team,men,2,silver,team,Sweden,Sweden
+1985,1985-12-31,mens_team,Men's team,men,3,bronze,team,Poland,Poland
+1985,1985-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Cai Zhenhua / Cao Yanhua,China
+1985,1985-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Jindřich Panský / Marie Hrachová,Czechoslovakia
+1985,1985-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Chen Xinhua / Tong Ling,China
+1985,1985-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Fan Changmao / Jiao Zhimin,China
+1985,1985-12-31,womens_doubles,Women's doubles,women,1,gold,team,Dai Lili / Geng Lijuan,China
+1985,1985-12-31,womens_doubles,Women's doubles,women,2,silver,team,Cao Yanhua / Ni Xialian,China
+1985,1985-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Guan Jianhua / Tong Ling,China
+1985,1985-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Jiao Zhimin / Qi Baoxiang,China
+1985,1985-12-31,womens_singles,Women's singles,women,1,gold,athlete,Cao Yanhua,China
+1985,1985-12-31,womens_singles,Women's singles,women,2,silver,athlete,Geng Lijuan,China
+1985,1985-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Dai Lili,China
+1985,1985-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Qi Baoxiang,China
+1985,1985-12-31,womens_team,Women's team,women,1,gold,team,China,China
+1985,1985-12-31,womens_team,Women's team,women,2,silver,team,North Korea,North Korea
+1985,1985-12-31,womens_team,Women's team,women,3,bronze,team,South Korea,South Korea
+1987,1987-12-31,mens_doubles,Men's doubles,men,1,gold,team,Chen Longcan / Wei Qingguang,China
+1987,1987-12-31,mens_doubles,Men's doubles,men,2,silver,team,Ilija Lupulesku / Zoran Primorac,Socialist Federal Republic of Yugoslavia
+1987,1987-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Ahn Jae-hyung / Yoo Nam-kyu,South Korea
+1987,1987-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Andrzej Grubba / Leszek Kucharski,Poland
+1987,1987-12-31,mens_singles,Men's singles,men,1,gold,athlete,Jiang Jialiang,China
+1987,1987-12-31,mens_singles,Men's singles,men,2,silver,athlete,Jan-Ove Waldner,Sweden
+1987,1987-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Chen Xinhua,China
+1987,1987-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Teng Yi,China
+1987,1987-12-31,mens_team,Men's team,men,1,gold,team,China,China
+1987,1987-12-31,mens_team,Men's team,men,2,silver,team,Sweden,Sweden
+1987,1987-12-31,mens_team,Men's team,men,3,bronze,team,North Korea,North Korea
+1987,1987-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Hui Jun / Geng Lijuan,China
+1987,1987-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Jiang Jialiang / Jiao Zhimin,China
+1987,1987-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Ahn Jae-hyung / Yang Young-ja,South Korea
+1987,1987-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Wang Hao / Guan Jianhua,China
+1987,1987-12-31,womens_doubles,Women's doubles,women,1,gold,team,Hyun Jung-hwa / Yang Young-ja,South Korea
+1987,1987-12-31,womens_doubles,Women's doubles,women,2,silver,team,Dai Lili / Li Huifen,China
+1987,1987-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Cho Jong-hui / Li Bun-hui,North Korea
+1987,1987-12-31,womens_doubles,Women's doubles,women,3,bronze,team,He Zhili / Jiao Zhimin,China
+1987,1987-12-31,womens_singles,Women's singles,women,1,gold,athlete,He Zhili,China
+1987,1987-12-31,womens_singles,Women's singles,women,2,silver,athlete,Yang Young-ja,South Korea
+1987,1987-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Dai Lili,China
+1987,1987-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Guan Jianhua,China
+1987,1987-12-31,womens_team,Women's team,women,1,gold,team,China,China
+1987,1987-12-31,womens_team,Women's team,women,2,silver,team,South Korea,South Korea
+1987,1987-12-31,womens_team,Women's team,women,3,bronze,team,Hungary,Hungary
+1989,1989-12-31,mens_doubles,Men's doubles,men,1,gold,team,Steffen Fetzner / Jörg Roßkopf,West Germany
+1989,1989-12-31,mens_doubles,Men's doubles,men,2,silver,team,Zoran Kalinić / Leszek Kucharski,Socialist Federal Republic of Yugoslavia
+1989,1989-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Chen Longcan / Wei Qingguang,China
+1989,1989-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Hui Jun / Teng Yi,China
+1989,1989-12-31,mens_singles,Men's singles,men,1,gold,athlete,Jan-Ove Waldner,Sweden
+1989,1989-12-31,mens_singles,Men's singles,men,2,silver,athlete,Jörgen Persson,Sweden
+1989,1989-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Andrzej Grubba,Poland
+1989,1989-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Yu Shentong,China
+1989,1989-12-31,mens_team,Men's team,men,1,gold,team,Sweden,Sweden
+1989,1989-12-31,mens_team,Men's team,men,2,silver,team,China,China
+1989,1989-12-31,mens_team,Men's team,men,3,bronze,team,North Korea,North Korea
+1989,1989-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Yoo Nam-kyu / Hyun Jung-hwa,South Korea
+1989,1989-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Zoran Kalinić / Gordana Perkučin,Socialist Federal Republic of Yugoslavia
+1989,1989-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Chen Longcan / Chen Jing,China
+1989,1989-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Chen Zhibin / Gao Jun,China
+1989,1989-12-31,womens_doubles,Women's doubles,women,1,gold,team,Deng Yaping / Qiao Hong,China
+1989,1989-12-31,womens_doubles,Women's doubles,women,2,silver,team,Chen Jing / Hu Xiaoxin,China
+1989,1989-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Ding Yaping / Li Jun,China
+1989,1989-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Gao Jun / Liu Wei,China
+1989,1989-12-31,womens_singles,Women's singles,women,1,gold,athlete,Qiao Hong,China
+1989,1989-12-31,womens_singles,Women's singles,women,2,silver,athlete,Li Bun-hui,North Korea
+1989,1989-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Chen Jing,China
+1989,1989-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Hyun Jung-hwa,South Korea
+1989,1989-12-31,womens_team,Women's team,women,1,gold,team,China,China
+1989,1989-12-31,womens_team,Women's team,women,2,silver,team,South Korea,South Korea
+1989,1989-12-31,womens_team,Women's team,women,3,bronze,team,Hong Kong,Hong Kong
+1991,1991-12-31,mens_doubles,Men's doubles,men,1,gold,team,Peter Karlsson / Thomas von Scheele,Sweden
+1991,1991-12-31,mens_doubles,Men's doubles,men,2,silver,team,Lü Lin / Wang Tao,China
+1991,1991-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Andrei Mazunov / Dmitry Mazunov,Soviet Union
+1991,1991-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Erik Lindh / Jörgen Persson,Sweden
+1991,1991-12-31,mens_singles,Men's singles,men,1,gold,athlete,Jörgen Persson,Sweden
+1991,1991-12-31,mens_singles,Men's singles,men,2,silver,athlete,Jan-Ove Waldner,Sweden
+1991,1991-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Kim Taek-soo,Korea
+1991,1991-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Ma Wenge,China
+1991,1991-12-31,mens_team,Men's team,men,1,gold,team,Sweden,Sweden
+1991,1991-12-31,mens_team,Men's team,men,2,silver,team,Socialist Federal Republic of Yugoslavia,Socialist Federal Republic of Yugoslavia
+1991,1991-12-31,mens_team,Men's team,men,3,bronze,team,Czechoslovakia,Czechoslovakia
+1991,1991-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Wang Tao / Liu Wei,China
+1991,1991-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Xie Chaojie / Chen Zihe,China
+1991,1991-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Kalinikos Kreanga / Otilia Badescu,Greece
+1991,1991-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Kim Song-hui / Li Bun-hui,Korea
+1991,1991-12-31,womens_doubles,Women's doubles,women,1,gold,team,Chen Zihe / Gao Jun,China
+1991,1991-12-31,womens_doubles,Women's doubles,women,2,silver,team,Deng Yaping / Qiao Hong,China
+1991,1991-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Ding Yaping / Li Jun,China
+1991,1991-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Hu Xiaoxin / Liu Wei,China
+1991,1991-12-31,womens_singles,Women's singles,women,1,gold,athlete,Deng Yaping,China
+1991,1991-12-31,womens_singles,Women's singles,women,2,silver,athlete,Li Bun-hui,Korea
+1991,1991-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Chan Tan Lui,Hong Kong
+1991,1991-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Qiao Hong,China
+1991,1991-12-31,womens_team,Women's team,women,1,gold,team,Korea,Korea
+1991,1991-12-31,womens_team,Women's team,women,2,silver,team,China,China
+1991,1991-12-31,womens_team,Women's team,women,3,bronze,team,France,France
+1993,1993-12-31,mens_doubles,Men's doubles,men,1,gold,team,Lü Lin / Wang Tao,China
+1993,1993-12-31,mens_doubles,Men's doubles,men,2,silver,team,Ma Wenge / Zhang Lei,China
+1993,1993-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Kim Taek-soo / Yoo Nam-kyu,South Korea
+1993,1993-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Lin Zhigang / Liu Guoliang,China
+1993,1993-12-31,mens_singles,Men's singles,men,1,gold,athlete,Jean-Philippe Gatien,France
+1993,1993-12-31,mens_singles,Men's singles,men,2,silver,athlete,Jean-Michel Saive,Belgium
+1993,1993-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Jan-Ove Waldner,Sweden
+1993,1993-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Zoran Primorac,Croatia
+1993,1993-12-31,mens_team,Men's team,men,1,gold,team,Sweden,Sweden
+1993,1993-12-31,mens_team,Men's team,men,2,silver,team,China,China
+1993,1993-12-31,mens_team,Men's team,men,3,bronze,team,Germany,Germany
+1993,1993-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Wang Tao / Liu Wei,China
+1993,1993-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Yoo Nam-kyu / Hyun Jung-hwa,South Korea
+1993,1993-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Li Sung-il / Yu Sun-bok,North Korea
+1993,1993-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Ma Wenge / Qiao Yunping,China
+1993,1993-12-31,womens_doubles,Women's doubles,women,1,gold,team,Liu Wei / Qiao Yunping,China
+1993,1993-12-31,womens_doubles,Women's doubles,women,2,silver,team,Deng Yaping / Qiao Hong,China
+1993,1993-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Chai Po Wa / Chan Tan Lui,Hong Kong
+1993,1993-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Chen Zihe / Gao Jun,China
+1993,1993-12-31,womens_singles,Women's singles,women,1,gold,athlete,Hyun Jung-hwa,South Korea
+1993,1993-12-31,womens_singles,Women's singles,women,2,silver,athlete,Chen Jing,Chinese Taipei
+1993,1993-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Gao Jun,China
+1993,1993-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Otilia Badescu,Romania
+1993,1993-12-31,womens_team,Women's team,women,1,gold,team,China,China
+1993,1993-12-31,womens_team,Women's team,women,2,silver,team,North Korea,North Korea
+1993,1993-12-31,womens_team,Women's team,women,3,bronze,team,South Korea,South Korea
+1995,1995-12-31,mens_doubles,Men's doubles,men,1,gold,team,Lü Lin / Wang Tao,China
+1995,1995-12-31,mens_doubles,Men's doubles,men,2,silver,team,Zoran Primorac / Vladimir Samsonov,Croatia
+1995,1995-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Damien Eloi / Jean-Philippe Gatien,France
+1995,1995-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Lin Zhigang / Liu Guoliang,China
+1995,1995-12-31,mens_singles,Men's singles,men,1,gold,athlete,Kong Linghui,China
+1995,1995-12-31,mens_singles,Men's singles,men,2,silver,athlete,Liu Guoliang,China
+1995,1995-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Ding Song,China
+1995,1995-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Wang Tao,China
+1995,1995-12-31,mens_team,Men's team,men,1,gold,team,China,China
+1995,1995-12-31,mens_team,Men's team,men,2,silver,team,Sweden,Sweden
+1995,1995-12-31,mens_team,Men's team,men,3,bronze,team,South Korea,South Korea
+1995,1995-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Wang Tao / Liu Wei,China
+1995,1995-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Kong Linghui / Deng Yaping,China
+1995,1995-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Erik Lindh / Marie Svensson,Sweden
+1995,1995-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Lee Chul-seung / Ryu Ji-hye,South Korea
+1995,1995-12-31,womens_doubles,Women's doubles,women,1,gold,team,Deng Yaping / Qiao Hong,China
+1995,1995-12-31,womens_doubles,Women's doubles,women,2,silver,team,Liu Wei / Qiao Yunping,China
+1995,1995-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Csilla Bátorfi / Krisztina Tóth,Hungary
+1995,1995-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Wang Chen / Wu Na,China
+1995,1995-12-31,womens_singles,Women's singles,women,1,gold,athlete,Deng Yaping,China
+1995,1995-12-31,womens_singles,Women's singles,women,2,silver,athlete,Qiao Hong,China
+1995,1995-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Liu Wei,China
+1995,1995-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Qiao Yunping,China
+1995,1995-12-31,womens_team,Women's team,women,1,gold,team,China,China
+1995,1995-12-31,womens_team,Women's team,women,2,silver,team,South Korea,South Korea
+1995,1995-12-31,womens_team,Women's team,women,3,bronze,team,Hong Kong,Hong Kong
+1997,1997-12-31,mens_doubles,Men's doubles,men,1,gold,team,Kong Linghui / Liu Guoliang,China
+1997,1997-12-31,mens_doubles,Men's doubles,men,2,silver,team,Jörgen Persson / Jan-Ove Waldner,Sweden
+1997,1997-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Damien Eloi / Jean-Philippe Gatien,France
+1997,1997-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Kōji Matsushita / Hiroshi Shibutani,Japan
+1997,1997-12-31,mens_singles,Men's singles,men,1,gold,athlete,Jan-Ove Waldner,Sweden
+1997,1997-12-31,mens_singles,Men's singles,men,2,silver,athlete,Vladimir Samsonov,Belarus
+1997,1997-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Kong Linghui,China
+1997,1997-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Yan Sen,China
+1997,1997-12-31,mens_team,Men's team,men,1,gold,team,China,China
+1997,1997-12-31,mens_team,Men's team,men,2,silver,team,France,France
+1997,1997-12-31,mens_team,Men's team,men,3,bronze,team,South Korea,South Korea
+1997,1997-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Liu Guoliang / Wu Na,China
+1997,1997-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Kong Linghui / Deng Yaping,China
+1997,1997-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Chiang Peng-lung / Chen Jing,Chinese Taipei
+1997,1997-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Wang Liqin / Wang Nan,China
+1997,1997-12-31,womens_doubles,Women's doubles,women,1,gold,team,Deng Yaping / Yang Ying (born 1977),China
+1997,1997-12-31,womens_doubles,Women's doubles,women,2,silver,team,Li Ju / Wang Nan,China
+1997,1997-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Chai Po Wa / Qiao Yunping,Hong Kong
+1997,1997-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Cheng Hongxia / Wang Hui,China
+1997,1997-12-31,womens_singles,Women's singles,women,1,gold,athlete,Deng Yaping,China
+1997,1997-12-31,womens_singles,Women's singles,women,2,silver,athlete,Wang Nan,China
+1997,1997-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Li Ju,China
+1997,1997-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Wu Na,China
+1997,1997-12-31,womens_team,Women's team,women,1,gold,team,China,China
+1997,1997-12-31,womens_team,Women's team,women,2,silver,team,North Korea,North Korea
+1997,1997-12-31,womens_team,Women's team,women,3,bronze,team,Germany,Germany
+1999,1999-12-31,mens_doubles,Men's doubles,men,1,gold,team,Kong Linghui / Liu Guoliang,China
+1999,1999-12-31,mens_doubles,Men's doubles,men,2,silver,team,Wang Liqin / Yan Sen,China
+1999,1999-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Kim Taek-soo / Park Sang-joon,South Korea
+1999,1999-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Zoran Primorac / Vladimir Samsonov,Croatia
+1999,1999-12-31,mens_singles,Men's singles,men,1,gold,athlete,Liu Guoliang,China
+1999,1999-12-31,mens_singles,Men's singles,men,2,silver,athlete,Ma Lin,China
+1999,1999-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Jan-Ove Waldner,Sweden
+1999,1999-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Werner Schlager,Austria
+1999,1999-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Ma Lin / Zhang Yingying,China
+1999,1999-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Feng Zhe / Sun Jin,China
+1999,1999-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Qin Zhijian / Yang Ying,China
+1999,1999-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Wang Liqin / Wang Nan,China
+1999,1999-12-31,womens_doubles,Women's doubles,women,1,gold,team,Li Ju / Wang Nan,China
+1999,1999-12-31,womens_doubles,Women's doubles,women,2,silver,team,Sun Jin / Yang Ying (born 1977),China
+1999,1999-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Kim Moo-kyo / Park Hae-jung,South Korea
+1999,1999-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Zhang Yingying / Zhang Yining,China
+1999,1999-12-31,womens_singles,Women's singles,women,1,gold,athlete,Wang Nan,China
+1999,1999-12-31,womens_singles,Women's singles,women,2,silver,athlete,Zhang Yining,China
+1999,1999-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Li Nan,China
+1999,1999-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Ryu Ji-hye,South Korea
+2000,2000-12-31,mens_team,Men's team,men,1,gold,team,Sweden,Sweden
+2000,2000-12-31,mens_team,Men's team,men,2,silver,team,China,China
+2000,2000-12-31,mens_team,Men's team,men,3,bronze,team,Italy,Italy
+2000,2000-12-31,mens_team,Men's team,men,3,bronze,team,Japan,Japan
+2000,2000-12-31,womens_team,Women's team,women,1,gold,team,China,China
+2000,2000-12-31,womens_team,Women's team,women,2,silver,team,Chinese Taipei,Chinese Taipei
+2000,2000-12-31,womens_team,Women's team,women,3,bronze,team,Romania,Romania
+2000,2000-12-31,womens_team,Women's team,women,3,bronze,team,South Korea,South Korea
+2001,2001-12-31,mens_doubles,Men's doubles,men,1,gold,team,Wang Liqin / Yan Sen,China
+2001,2001-12-31,mens_doubles,Men's doubles,men,2,silver,team,Kong Linghui / Liu Guoliang,China
+2001,2001-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Chang Yen-shu / Chiang Peng-lung,Chinese Taipei
+2001,2001-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Kim Taek-soo / Oh Sang-eun,South Korea
+2001,2001-12-31,mens_singles,Men's singles,men,1,gold,athlete,Wang Liqin,China
+2001,2001-12-31,mens_singles,Men's singles,men,2,silver,athlete,Kong Linghui,China
+2001,2001-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Chiang Peng-lung,Chinese Taipei
+2001,2001-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Ma Lin,China
+2001,2001-12-31,mens_team,Men's team,men,1,gold,team,China,China
+2001,2001-12-31,mens_team,Men's team,men,2,silver,team,Belgium,Belgium
+2001,2001-12-31,mens_team,Men's team,men,3,bronze,team,South Korea,South Korea
+2001,2001-12-31,mens_team,Men's team,men,3,bronze,team,Sweden,Sweden
+2001,2001-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Qin Zhijian / Yang Ying,China
+2001,2001-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Oh Sang-eun / Kim Moo-kyo,South Korea
+2001,2001-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Liu Guoliang / Sun Jin,China
+2001,2001-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Zhan Jian / Bai Yang,China
+2001,2001-12-31,womens_doubles,Women's doubles,women,1,gold,team,Li Ju / Wang Nan,China
+2001,2001-12-31,womens_doubles,Women's doubles,women,2,silver,team,Sun Jin / Yang Ying (born 1977),China
+2001,2001-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Mayu Kishi-Kawagoe / Akiko Takeda,Japan
+2001,2001-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Zhang Yingying / Zhang Yining,China
+2001,2001-12-31,womens_singles,Women's singles,women,1,gold,athlete,Wang Nan,China
+2001,2001-12-31,womens_singles,Women's singles,women,2,silver,athlete,Lin Ling,China
+2001,2001-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Kim Yun-mi,North Korea
+2001,2001-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Zhang Yining,China
+2001,2001-12-31,womens_team,Women's team,women,1,gold,team,China,China
+2001,2001-12-31,womens_team,Women's team,women,2,silver,team,North Korea,North Korea
+2001,2001-12-31,womens_team,Women's team,women,3,bronze,team,Japan,Japan
+2001,2001-12-31,womens_team,Women's team,women,3,bronze,team,South Korea,South Korea
+2003,2003-12-31,mens_doubles,Men's doubles,men,1,gold,team,Wang Liqin / Yan Sen,China
+2003,2003-12-31,mens_doubles,Men's doubles,men,2,silver,team,Kong Linghui / Wang Hao,China
+2003,2003-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Kim Taek-soo / Oh Sang-eun,South Korea
+2003,2003-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Ma Lin / Qin Zhijian,China
+2003,2003-12-31,mens_singles,Men's singles,men,1,gold,athlete,Werner Schlager,Austria
+2003,2003-12-31,mens_singles,Men's singles,men,2,silver,athlete,Joo Se-hyuk,South Korea
+2003,2003-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Kalinikos Kreanga,Greece
+2003,2003-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Kong Linghui,China
+2003,2003-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Ma Lin / Wang Nan,China
+2003,2003-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Liu Guozheng / Bai Yang,China
+2003,2003-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Qin Zhijian / Niu Jianfeng,China
+2003,2003-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Wang Hao / Li Nan,China
+2003,2003-12-31,womens_doubles,Women's doubles,women,1,gold,team,Wang Nan / Zhang Yining,China
+2003,2003-12-31,womens_doubles,Women's doubles,women,2,silver,team,Guo Yue / Niu Jianfeng,China
+2003,2003-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Lee Eun-sil / Seok Eun-mi,South Korea
+2003,2003-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Li Jia / Li Ju,China
+2003,2003-12-31,womens_singles,Women's singles,women,1,gold,athlete,Wang Nan,China
+2003,2003-12-31,womens_singles,Women's singles,women,2,silver,athlete,Zhang Yining,China
+2003,2003-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Li Ju,China
+2003,2003-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Tamara Boroš,Croatia
+2004,2004-12-31,mens_team,Men's team,men,1,gold,team,China,China
+2004,2004-12-31,mens_team,Men's team,men,2,silver,team,Germany,Germany
+2004,2004-12-31,mens_team,Men's team,men,3,bronze,team,South Korea,South Korea
+2004,2004-12-31,womens_team,Women's team,women,1,gold,team,China,China
+2004,2004-12-31,womens_team,Women's team,women,2,silver,team,Hong Kong,Hong Kong
+2004,2004-12-31,womens_team,Women's team,women,3,bronze,team,Japan,Japan
+2005,2005-12-31,mens_doubles,Men's doubles,men,1,gold,team,Kong Linghui / Wang Hao,China
+2005,2005-12-31,mens_doubles,Men's doubles,men,2,silver,team,Timo Boll / Christian Süß,Germany
+2005,2005-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Chen Qi / Ma Lin,China
+2005,2005-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Wang Liqin / Yan Sen,China
+2005,2005-12-31,mens_singles,Men's singles,men,1,gold,athlete,Wang Liqin,China
+2005,2005-12-31,mens_singles,Men's singles,men,2,silver,athlete,Ma Lin,China
+2005,2005-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Michael Maze,Denmark
+2005,2005-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Oh Sang-eun,South Korea
+2005,2005-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Wang Liqin / Guo Yue,China
+2005,2005-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Liu Guozheng / Bai Yang,China
+2005,2005-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Qiu Yike / Cao Zhen,China
+2005,2005-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Yan Sen / Guo Yan,China
+2005,2005-12-31,womens_doubles,Women's doubles,women,1,gold,team,Wang Nan / Zhang Yining,China
+2005,2005-12-31,womens_doubles,Women's doubles,women,2,silver,team,Guo Yue / Niu Jianfeng,China
+2005,2005-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Bai Yang / Guo Yan,China
+2005,2005-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Tie Ya Na / Zhang Rui,Hong Kong
+2005,2005-12-31,womens_singles,Women's singles,women,1,gold,athlete,Zhang Yining,China
+2005,2005-12-31,womens_singles,Women's singles,women,2,silver,athlete,Guo Yan,China
+2005,2005-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Guo Yue,China
+2005,2005-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Lin Ling,Hong Kong
+2006,2006-12-31,mens_team,Men's team,men,1,gold,team,China,China
+2006,2006-12-31,mens_team,Men's team,men,2,silver,team,South Korea,South Korea
+2006,2006-12-31,mens_team,Men's team,men,3,bronze,team,Germany,Germany
+2006,2006-12-31,mens_team,Men's team,men,3,bronze,team,Hong Kong,Hong Kong
+2006,2006-12-31,womens_team,Women's team,women,1,gold,team,China,China
+2006,2006-12-31,womens_team,Women's team,women,2,silver,team,Hong Kong,Hong Kong
+2006,2006-12-31,womens_team,Women's team,women,3,bronze,team,Belarus,Belarus
+2006,2006-12-31,womens_team,Women's team,women,3,bronze,team,Japan,Japan
+2007,2007-12-31,mens_doubles,Men's doubles,men,1,gold,team,Chen Qi / Ma Lin,China
+2007,2007-12-31,mens_doubles,Men's doubles,men,2,silver,team,Wang Hao / Wang Liqin,China
+2007,2007-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Chang Yen-shu / Chiang Peng-lung,Chinese Taipei
+2007,2007-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Ko Lai Chak / Li Ching,Hong Kong
+2007,2007-12-31,mens_singles,Men's singles,men,1,gold,athlete,Wang Liqin,China
+2007,2007-12-31,mens_singles,Men's singles,men,2,silver,athlete,Ma Lin,China
+2007,2007-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Ryu Seung-min,South Korea
+2007,2007-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Wang Hao,China
+2007,2007-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Wang Liqin / Guo Yue,China
+2007,2007-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Ma Lin / Wang Nan,China
+2007,2007-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Ko Lai Chak / Tie Ya Na,Hong Kong
+2007,2007-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Qiu Yike / Cao Zhen,China
+2007,2007-12-31,womens_doubles,Women's doubles,women,1,gold,team,Wang Nan / Zhang Yining,China
+2007,2007-12-31,womens_doubles,Women's doubles,women,2,silver,team,Guo Yue / Li Xiaoxia,China
+2007,2007-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Kim Kyung-ah / Park Mi-young,South Korea
+2007,2007-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Li Jiawei / Wang Yuegu,Singapore
+2007,2007-12-31,womens_singles,Women's singles,women,1,gold,athlete,Guo Yue,China
+2007,2007-12-31,womens_singles,Women's singles,women,2,silver,athlete,Li Xiaoxia,China
+2007,2007-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Guo Yan,China
+2007,2007-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Zhang Yining,China
+2008,2008-12-31,mens_team,Men's team,men,1,gold,team,China,China
+2008,2008-12-31,mens_team,Men's team,men,2,silver,team,South Korea,South Korea
+2008,2008-12-31,mens_team,Men's team,men,3,bronze,team,Hong Kong,Hong Kong
+2008,2008-12-31,mens_team,Men's team,men,3,bronze,team,Japan,Japan
+2008,2008-12-31,womens_team,Women's team,women,1,gold,team,China,China
+2008,2008-12-31,womens_team,Women's team,women,2,silver,team,Singapore,Singapore
+2008,2008-12-31,womens_team,Women's team,women,3,bronze,team,Hong Kong,Hong Kong
+2008,2008-12-31,womens_team,Women's team,women,3,bronze,team,Japan,Japan
+2009,2009-12-31,mens_doubles,Men's doubles,men,1,gold,team,Chen Qi / Wang Hao,China
+2009,2009-12-31,mens_doubles,Men's doubles,men,2,silver,team,Ma Long / Xu Xin,China
+2009,2009-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Hao Shuai / Zhang Jike,China
+2009,2009-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Seiya Kishikawa / Jun Mizutani,Japan
+2009,2009-12-31,mens_singles,Men's singles,men,1,gold,athlete,Wang Hao,China
+2009,2009-12-31,mens_singles,Men's singles,men,2,silver,athlete,Wang Liqin,China
+2009,2009-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Ma Lin,China
+2009,2009-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Ma Long,China
+2009,2009-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Li Ping / Cao Zhen,China
+2009,2009-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Zhang Jike / Mu Zi,China
+2009,2009-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Hao Shuai / Chang Chenchen,China
+2009,2009-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Zhang Chao / Yao Yan,China
+2009,2009-12-31,womens_doubles,Women's doubles,women,1,gold,team,Guo Yue / Li Xiaoxia,China
+2009,2009-12-31,womens_doubles,Women's doubles,women,2,silver,team,Ding Ning / Guo Yan,China
+2009,2009-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Jiang Huajun / Tie Ya Na,Hong Kong
+2009,2009-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Kim Kyung-ah / Park Mi-young,South Korea
+2009,2009-12-31,womens_singles,Women's singles,women,1,gold,athlete,Zhang Yining,China
+2009,2009-12-31,womens_singles,Women's singles,women,2,silver,athlete,Guo Yue,China
+2009,2009-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Li Xiaoxia,China
+2009,2009-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Liu Shiwen,China
+2010,2010-12-31,mens_team,Men's team,men,1,gold,team,China,China
+2010,2010-12-31,mens_team,Men's team,men,2,silver,team,Germany,Germany
+2010,2010-12-31,mens_team,Men's team,men,3,bronze,team,Japan,Japan
+2010,2010-12-31,mens_team,Men's team,men,3,bronze,team,South Korea,South Korea
+2010,2010-12-31,womens_team,Women's team,women,1,gold,team,Singapore,Singapore
+2010,2010-12-31,womens_team,Women's team,women,2,silver,team,China,China
+2010,2010-12-31,womens_team,Women's team,women,3,bronze,team,Germany,Germany
+2010,2010-12-31,womens_team,Women's team,women,3,bronze,team,Japan,Japan
+2011,2011-12-31,mens_doubles,Men's doubles,men,1,gold,team,Ma Long / Xu Xin,China
+2011,2011-12-31,mens_doubles,Men's doubles,men,2,silver,team,Chen Qi / Ma Lin,China
+2011,2011-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Jung Young-sik / Kim Min-seok,South Korea
+2011,2011-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Wang Hao / Zhang Jike,China
+2011,2011-12-31,mens_singles,Men's singles,men,1,gold,athlete,Zhang Jike,China
+2011,2011-12-31,mens_singles,Men's singles,men,2,silver,athlete,Wang Hao,China
+2011,2011-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Ma Long,China
+2011,2011-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Timo Boll,Germany
+2011,2011-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Zhang Chao / Cao Zhen,China
+2011,2011-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Hao Shuai / Mu Zi,China
+2011,2011-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Cheung Yuk / Jiang Huajun,Hong Kong
+2011,2011-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Seiya Kishikawa / Ai Fukuhara,Japan
+2011,2011-12-31,womens_doubles,Women's doubles,women,1,gold,team,Guo Yue / Li Xiaoxia,China
+2011,2011-12-31,womens_doubles,Women's doubles,women,2,silver,team,Ding Ning / Guo Yan,China
+2011,2011-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Jiang Huajun / Tie Ya Na,Hong Kong
+2011,2011-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Kim Kyung-ah / Park Mi-young,South Korea
+2011,2011-12-31,womens_singles,Women's singles,women,1,gold,athlete,Ding Ning,China
+2011,2011-12-31,womens_singles,Women's singles,women,2,silver,athlete,Li Xiaoxia,China
+2011,2011-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Guo Yue,China
+2011,2011-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Liu Shiwen,China
+2012,2012-12-31,mens_team,Men's team,men,1,gold,team,China,China
+2012,2012-12-31,mens_team,Men's team,men,2,silver,team,Germany,Germany
+2012,2012-12-31,mens_team,Men's team,men,3,bronze,team,Japan,Japan
+2012,2012-12-31,mens_team,Men's team,men,3,bronze,team,South Korea,South Korea
+2012,2012-12-31,womens_team,Women's team,women,1,gold,team,China,China
+2012,2012-12-31,womens_team,Women's team,women,2,silver,team,Singapore,Singapore
+2012,2012-12-31,womens_team,Women's team,women,3,bronze,team,Hong Kong,Hong Kong
+2012,2012-12-31,womens_team,Women's team,women,3,bronze,team,South Korea,South Korea
+2013,2013-12-31,mens_doubles,Men's doubles,men,1,gold,team,Chen Chien-an / Chuang Chih-yuan,Chinese Taipei
+2013,2013-12-31,mens_doubles,Men's doubles,men,2,silver,team,Hao Shuai / Ma Lin,China
+2013,2013-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Seiya Kishikawa / Jun Mizutani,Japan
+2013,2013-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Wang Liqin / Zhou Yu,China
+2013,2013-12-31,mens_singles,Men's singles,men,1,gold,athlete,Zhang Jike,China
+2013,2013-12-31,mens_singles,Men's singles,men,2,silver,athlete,Wang Hao,China
+2013,2013-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Ma Long,China
+2013,2013-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Xu Xin,China
+2013,2013-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Kim Hyok-bong / Kim Jong,North Korea
+2013,2013-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Lee Sang-su / Park Young-sook,South Korea
+2013,2013-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Cheung Yuk / Jiang Huajun,Hong Kong
+2013,2013-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Wang Liqin / Rao Jingwen,China
+2013,2013-12-31,womens_doubles,Women's doubles,women,1,gold,team,Guo Yue / Li Xiaoxia,China
+2013,2013-12-31,womens_doubles,Women's doubles,women,2,silver,team,Ding Ning / Liu Shiwen,China
+2013,2013-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Chen Meng / Zhu Yuling,China
+2013,2013-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Feng Tianwei / Yu Mengyu,Singapore
+2013,2013-12-31,womens_singles,Women's singles,women,1,gold,athlete,Li Xiaoxia,China
+2013,2013-12-31,womens_singles,Women's singles,women,2,silver,athlete,Liu Shiwen,China
+2013,2013-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Ding Ning,China
+2013,2013-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Zhu Yuling,China
+2014,2014-12-31,mens_team,Men's team,men,1,gold,team,China,China
+2014,2014-12-31,mens_team,Men's team,men,2,silver,team,Germany,Germany
+2014,2014-12-31,mens_team,Men's team,men,3,bronze,team,Chinese Taipei,Chinese Taipei
+2014,2014-12-31,mens_team,Men's team,men,3,bronze,team,Japan,Japan
+2014,2014-12-31,womens_team,Women's team,women,1,gold,team,China,China
+2014,2014-12-31,womens_team,Women's team,women,2,silver,team,Japan,Japan
+2014,2014-12-31,womens_team,Women's team,women,3,bronze,team,Hong Kong,Hong Kong
+2014,2014-12-31,womens_team,Women's team,women,3,bronze,team,Singapore,Singapore
+2015,2015-12-31,mens_doubles,Men's doubles,men,1,gold,team,Xu Xin / Zhang Jike,China
+2015,2015-12-31,mens_doubles,Men's doubles,men,2,silver,team,Fan Zhendong / Zhou Yu,China
+2015,2015-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Kenta Matsudaira / Koki Niwa,Japan
+2015,2015-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Lee Sang-su / Seo Hyun-deok,South Korea
+2015,2015-12-31,mens_singles,Men's singles,men,1,gold,athlete,Ma Long,China
+2015,2015-12-31,mens_singles,Men's singles,men,2,silver,athlete,Fang Bo,China
+2015,2015-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Fan Zhendong,China
+2015,2015-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Zhang Jike,China
+2015,2015-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Xu Xin / Yang Ha-eun,China
+2015,2015-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Maharu Yoshimura / Kasumi Ishikawa,Japan
+2015,2015-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Kim Hyok-bong / Kim Jong,North Korea
+2015,2015-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Wong Chun-ting / Doo Hoi Kem,Hong Kong
+2015,2015-12-31,womens_doubles,Women's doubles,women,1,gold,team,Liu Shiwen / Zhu Yuling,China
+2015,2015-12-31,womens_doubles,Women's doubles,women,2,silver,team,Ding Ning / Li Xiaoxia,China
+2015,2015-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Feng Tianwei / Yu Mengyu,Singapore
+2015,2015-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Li Jie / Li Qian,Netherlands
+2015,2015-12-31,womens_singles,Women's singles,women,1,gold,athlete,Ding Ning,China
+2015,2015-12-31,womens_singles,Women's singles,women,2,silver,athlete,Liu Shiwen,China
+2015,2015-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Li Xiaoxia,China
+2015,2015-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Mu Zi,China
+2016,2016-12-31,mens_team,Men's team,men,1,gold,team,China,China
+2016,2016-12-31,mens_team,Men's team,men,2,silver,team,Japan,Japan
+2016,2016-12-31,mens_team,Men's team,men,3,bronze,team,England,England
+2016,2016-12-31,mens_team,Men's team,men,3,bronze,team,South Korea,South Korea
+2016,2016-12-31,womens_team,Women's team,women,1,gold,team,China,China
+2016,2016-12-31,womens_team,Women's team,women,2,silver,team,Japan,Japan
+2016,2016-12-31,womens_team,Women's team,women,3,bronze,team,Chinese Taipei,Chinese Taipei
+2016,2016-12-31,womens_team,Women's team,women,3,bronze,team,North Korea,North Korea
+2017,2017-12-31,mens_doubles,Men's doubles,men,1,gold,team,Fan Zhendong / Xu Xin,China
+2017,2017-12-31,mens_doubles,Men's doubles,men,2,silver,team,Masataka Morizono / Yuya Oshima,Japan
+2017,2017-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Jung Young-sik / Lee Sang-su,South Korea
+2017,2017-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Koki Niwa / Maharu Yoshimura,Japan
+2017,2017-12-31,mens_singles,Men's singles,men,1,gold,athlete,Ma Long,China
+2017,2017-12-31,mens_singles,Men's singles,men,2,silver,athlete,Fan Zhendong,China
+2017,2017-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Lee Sang-su,South Korea
+2017,2017-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Xu Xin,China
+2017,2017-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Maharu Yoshimura / Kasumi Ishikawa,Japan
+2017,2017-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Chen Chien-an / Cheng I-ching,Chinese Taipei
+2017,2017-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Fang Bo / Petrissa Solja,China
+2017,2017-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Wong Chun-ting / Doo Hoi Kem,Hong Kong
+2017,2017-12-31,womens_doubles,Women's doubles,women,1,gold,team,Ding Ning / Liu Shiwen,China
+2017,2017-12-31,womens_doubles,Women's doubles,women,2,silver,team,Chen Meng / Zhu Yuling,China
+2017,2017-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Feng Tianwei / Yu Mengyu,Singapore
+2017,2017-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Hina Hayata / Mima Ito,Japan
+2017,2017-12-31,womens_singles,Women's singles,women,1,gold,athlete,Ding Ning,China
+2017,2017-12-31,womens_singles,Women's singles,women,2,silver,athlete,Zhu Yuling,China
+2017,2017-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Liu Shiwen,China
+2017,2017-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Miu Hirano,Japan
+2018,2018-12-31,mens_team,Men's team,men,1,gold,team,China,China
+2018,2018-12-31,mens_team,Men's team,men,2,silver,team,Germany,Germany
+2018,2018-12-31,mens_team,Men's team,men,3,bronze,team,South Korea,South Korea
+2018,2018-12-31,mens_team,Men's team,men,3,bronze,team,Sweden,Sweden
+2018,2018-12-31,womens_team,Women's team,women,1,gold,team,China,China
+2018,2018-12-31,womens_team,Women's team,women,2,silver,team,Japan,Japan
+2018,2018-12-31,womens_team,Women's team,women,3,bronze,team,Hong Kong,Hong Kong
+2019,2019-12-31,mens_doubles,Men's doubles,men,1,gold,team,Ma Long / Wang Chuqin,China
+2019,2019-12-31,mens_doubles,Men's doubles,men,2,silver,team,Ovidiu Ionescu / Álvaro Robles,Romania
+2019,2019-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Liang Jingkun / Lin Gaoyuan,China
+2019,2019-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Tiago Apolónia / João Monteiro,Portugal
+2019,2019-12-31,mens_singles,Men's singles,men,1,gold,athlete,Ma Long,China
+2019,2019-12-31,mens_singles,Men's singles,men,2,silver,athlete,Mattias Falck,Sweden
+2019,2019-12-31,mens_singles,Men's singles,men,3,bronze,athlete,An Jae-hyun,South Korea
+2019,2019-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Liang Jingkun,China
+2019,2019-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Xu Xin / Liu Shiwen,China
+2019,2019-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Maharu Yoshimura / Kasumi Ishikawa,Japan
+2019,2019-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Fan Zhendong / Ding Ning,China
+2019,2019-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Patrick Franziska / Petrissa Solja,Germany
+2019,2019-12-31,womens_doubles,Women's doubles,women,1,gold,team,Sun Yingsha / Wang Manyu,China
+2019,2019-12-31,womens_doubles,Women's doubles,women,2,silver,team,Hina Hayata / Mima Ito,Japan
+2019,2019-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Chen Meng / Zhu Yuling,China
+2019,2019-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Honoka Hashimoto / Hitomi Sato,Japan
+2019,2019-12-31,womens_singles,Women's singles,women,1,gold,athlete,Liu Shiwen,China
+2019,2019-12-31,womens_singles,Women's singles,women,2,silver,athlete,Chen Meng,China
+2019,2019-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Ding Ning,China
+2019,2019-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Wang Manyu,China
+2021,2021-12-31,mens_doubles,Men's doubles,men,1,gold,team,Mattias Falck / Kristian Karlsson,Sweden
+2021,2021-12-31,mens_doubles,Men's doubles,men,2,silver,team,Jang Woo-jin / Lim Jong-hoon,South Korea
+2021,2021-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Liang Jingkun / Lin Gaoyuan,China
+2021,2021-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Shunsuke Togami / Yukiya Uda,Japan
+2021,2021-12-31,mens_singles,Men's singles,men,1,gold,athlete,Fan Zhendong,China
+2021,2021-12-31,mens_singles,Men's singles,men,2,silver,athlete,Truls Möregårdh,Sweden
+2021,2021-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Liang Jingkun,China
+2021,2021-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Timo Boll,Germany
+2021,2021-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Wang Chuqin / Sun Yingsha,China
+2021,2021-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Tomokazu Harimoto / Hina Hayata,Japan
+2021,2021-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Lin Gaoyuan / Lily Zhang,China
+2021,2021-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Lin Yun-ju / Cheng I-ching,Chinese Taipei
+2021,2021-12-31,womens_doubles,Women's doubles,women,1,gold,team,Sun Yingsha / Wang Manyu,China
+2021,2021-12-31,womens_doubles,Women's doubles,women,2,silver,team,Hina Hayata / Mima Ito,Japan
+2021,2021-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Chen Meng / Qian Tianyi,China
+2021,2021-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Sarah de Nutte / Ni Xialian,Luxembourg
+2021,2021-12-31,womens_singles,Women's singles,women,1,gold,athlete,Wang Manyu,China
+2021,2021-12-31,womens_singles,Women's singles,women,2,silver,athlete,Sun Yingsha,China
+2021,2021-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Chen Meng,China
+2021,2021-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Wang Yidi,China
+2022,2022-12-31,mens_team,Men's team,men,1,gold,team,China,China
+2022,2022-12-31,mens_team,Men's team,men,2,silver,team,Germany,Germany
+2022,2022-12-31,mens_team,Men's team,men,3,bronze,team,Japan,Japan
+2022,2022-12-31,mens_team,Men's team,men,3,bronze,team,South Korea,South Korea
+2022,2022-12-31,womens_team,Women's team,women,1,gold,team,China,China
+2022,2022-12-31,womens_team,Women's team,women,2,silver,team,Japan,Japan
+2022,2022-12-31,womens_team,Women's team,women,3,bronze,team,Chinese Taipei,Chinese Taipei
+2022,2022-12-31,womens_team,Women's team,women,3,bronze,team,Germany,Germany
+2023,2023-12-31,mens_doubles,Men's doubles,men,1,gold,team,Fan Zhendong / Wang Chuqin,China
+2023,2023-12-31,mens_doubles,Men's doubles,men,2,silver,team,Jang Woo-jin / Lim Jong-hoon,South Korea
+2023,2023-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Cho Dae-seong / Lee Sang-su,South Korea
+2023,2023-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Patrick Franziska / Dimitrij Ovtcharov,Germany
+2023,2023-12-31,mens_singles,Men's singles,men,1,gold,athlete,Fan Zhendong,China
+2023,2023-12-31,mens_singles,Men's singles,men,2,silver,athlete,Wang Chuqin,China
+2023,2023-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Liang Jingkun,China
+2023,2023-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Ma Long,China
+2023,2023-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Wang Chuqin / Sun Yingsha,China
+2023,2023-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Tomokazu Harimoto / Hina Hayata,Japan
+2023,2023-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Lin Shidong / Kuai Man,China
+2023,2023-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Wong Chun-ting / Doo Hoi Kem,Hong Kong
+2023,2023-12-31,womens_doubles,Women's doubles,women,1,gold,team,Chen Meng / Wang Yidi,China
+2023,2023-12-31,womens_doubles,Women's doubles,women,2,silver,team,Jeon Ji-hee / Shin Yu-bin,South Korea
+2023,2023-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Miyuu Kihara / Miyu Nagasaki,Japan
+2023,2023-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Sun Yingsha / Wang Manyu,China
+2023,2023-12-31,womens_singles,Women's singles,women,1,gold,athlete,Sun Yingsha,China
+2023,2023-12-31,womens_singles,Women's singles,women,2,silver,athlete,Chen Meng,China
+2023,2023-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Chen Xingtong,China
+2023,2023-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Hina Hayata,Japan
+2024,2024-12-31,mens_team,Men's team,men,1,gold,team,China,China
+2024,2024-12-31,mens_team,Men's team,men,2,silver,team,France,France
+2024,2024-12-31,mens_team,Men's team,men,3,bronze,team,Chinese Taipei,Chinese Taipei
+2024,2024-12-31,mens_team,Men's team,men,3,bronze,team,South Korea,South Korea
+2024,2024-12-31,womens_team,Women's team,women,1,gold,team,China,China
+2024,2024-12-31,womens_team,Women's team,women,2,silver,team,Japan,Japan
+2024,2024-12-31,womens_team,Women's team,women,3,bronze,team,France,France
+2024,2024-12-31,womens_team,Women's team,women,3,bronze,team,Hong Kong,Hong Kong
+2025,2025-12-31,mens_doubles,Men's doubles,men,1,gold,team,Hiroto Shinozuka / Shunsuke Togami,Japan
+2025,2025-12-31,mens_doubles,Men's doubles,men,2,silver,team,Kao Cheng-jui / Lin Yun-ju,Chinese Taipei
+2025,2025-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Alexis Lebrun / Félix Lebrun,France
+2025,2025-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Florian Bourrassaud / Esteban Dorr,France
+2025,2025-12-31,mens_singles,Men's singles,men,1,gold,athlete,Wang Chuqin,China
+2025,2025-12-31,mens_singles,Men's singles,men,2,silver,athlete,Hugo Calderano,Brazil
+2025,2025-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Liang Jingkun,China
+2025,2025-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Truls Möregårdh,Sweden
+2025,2025-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Wang Chuqin / Sun Yingsha,China
+2025,2025-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Maharu Yoshimura / Satsuki Odo,Japan
+2025,2025-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Lim Jong-hoon / Shin Yu-bin,South Korea
+2025,2025-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Wong Chun-ting / Doo Hoi Kem,Hong Kong
+2025,2025-12-31,womens_doubles,Women's doubles,women,1,gold,team,Kuai Man / Wang Manyu,China
+2025,2025-12-31,womens_doubles,Women's doubles,women,2,silver,team,Sofia Polcanova / Bernadette Szőcs,Austria
+2025,2025-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Miwa Harimoto / Miyuu Kihara,Japan
+2025,2025-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Ryu Han-na / Shin Yu-bin,South Korea
+2025,2025-12-31,womens_singles,Women's singles,women,1,gold,athlete,Sun Yingsha,China
+2025,2025-12-31,womens_singles,Women's singles,women,2,silver,athlete,Wang Manyu,China
+2025,2025-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Chen Xingtong,China
+2025,2025-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Mima Ito,Japan

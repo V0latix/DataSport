@@ -10,6 +10,7 @@ from .fifa_women_ranking_history_connector import FifaWomenRankingHistoryConnect
 from .fifa_women_world_cup_history_connector import FifaWomenWorldCupHistoryConnector
 from .football_data_connector import FootballDataConnector
 from .ihf_handball_world_championship_history_connector import IhfHandballWorldChampionshipHistoryConnector
+from .ittf_world_table_tennis_championships_history_connector import IttfWorldTableTennisChampionshipsHistoryConnector
 from .icc_team_ranking_history_connector import IccTeamRankingHistoryConnector
 from .icc_cricket_world_cup_history_connector import IccCricketWorldCupHistoryConnector
 from .olympics_keith_history_connector import OlympicsKeithHistoryConnector
@@ -32,6 +33,7 @@ CONNECTOR_REGISTRY = {
     "football_data": FootballDataConnector,
     "balldontlie_nba": BallDontLieNBAConnector,
     "bwf_world_championships_history": BwfWorldChampionshipsHistoryConnector,
+    "ittf_world_table_tennis_championships_history": IttfWorldTableTennisChampionshipsHistoryConnector,
     "fiba_ranking_history": FibaRankingHistoryConnector,
     "fiba_basketball_world_cup_history": FibaBasketballWorldCupHistoryConnector,
     "fivb_volleyball_world_championship_history": FivbVolleyballWorldChampionshipHistoryConnector,

@@ -211,3 +211,10 @@ badminton_womens-singles,Women's singles,women-s-singles,badminton,1.0,connector
 badminton_mens-doubles,Men's doubles,men-s-doubles,badminton,1.0,connector_bwf_world_championships_history,2026-03-19T18:09:29+00:00
 badminton_womens-doubles,Women's doubles,women-s-doubles,badminton,1.0,connector_bwf_world_championships_history,2026-03-19T18:09:29+00:00
 badminton_mixed-doubles,Mixed doubles,mixed-doubles,badminton,1.0,connector_bwf_world_championships_history,2026-03-19T18:09:29+00:00
+table-tennis_mens-team,Men's team,men-s-team,table-tennis,1.0,connector_ittf_world_table_tennis_championships_history,2026-03-19T19:18:06+00:00
+table-tennis_womens-team,Women's team,women-s-team,table-tennis,1.0,connector_ittf_world_table_tennis_championships_history,2026-03-19T19:18:06+00:00
+table-tennis_mens-singles,Men's singles,men-s-singles,table-tennis,1.0,connector_ittf_world_table_tennis_championships_history,2026-03-19T19:18:06+00:00
+table-tennis_womens-singles,Women's singles,women-s-singles,table-tennis,1.0,connector_ittf_world_table_tennis_championships_history,2026-03-19T19:18:06+00:00
+table-tennis_mens-doubles,Men's doubles,men-s-doubles,table-tennis,1.0,connector_ittf_world_table_tennis_championships_history,2026-03-19T19:18:06+00:00
+table-tennis_womens-doubles,Women's doubles,women-s-doubles,table-tennis,1.0,connector_ittf_world_table_tennis_championships_history,2026-03-19T19:18:06+00:00
+table-tennis_mixed-doubles,Mixed doubles,mixed-doubles,table-tennis,1.0,connector_ittf_world_table_tennis_championships_history,2026-03-19T19:18:06+00:00

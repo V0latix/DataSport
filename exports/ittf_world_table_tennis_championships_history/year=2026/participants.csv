@@ -1,0 +1,778 @@
+participant_id,type,display_name,country_id
+pair_Roland_Jacobi__Daniel_Pecsi_HUN,team,Roland Jacobi / Daniel Pecsi,HUN
+pair_Béla_von_Kehrling__Zoltán_Mechlovits_HUN,team,Béla von Kehrling / Zoltán Mechlovits,HUN
+pair_Cyril_Mossford__Hedley_Penny_WAL,team,Cyril Mossford / Hedley Penny,WAL
+pair_Paul_Flussmann__Munio_Pillinger_AUT,team,Paul Flussmann / Munio Pillinger,AUT
+athlete_Roland_Jacobi_HUN,athlete,Roland Jacobi,HUN
+athlete_Zoltán_Mechlovits_HUN,athlete,Zoltán Mechlovits,HUN
+athlete_Munio_Pillinger_AUT,athlete,Munio Pillinger,AUT
+athlete_SRG_Suppiah_IND,athlete,S.R.G. Suppiah,IND
+HUN,team,Hungary,HUN
+AUT,team,Austria,AUT
+ENG,team,England,ENG
+IND,team,India,IND
+pair_Zoltán_Mechlovits__Mária_Mednyánszky_HUN,team,Zoltán Mechlovits / Mária Mednyánszky,HUN
+pair_Roland_Jacobi__Linda_Gleeson_HUN,team,Roland Jacobi / Linda Gleeson,HUN
+pair_Eduard_Freudenheim__Gertrude_Wildam_AUT,team,Eduard Freudenheim / Gertrude Wildam,AUT
+pair_HA_Bennett__Winifred_Land_ENG,team,H.A. Bennett / Winifred Land,ENG
+athlete_Mária_Mednyánszky_HUN,athlete,Mária Mednyánszky,HUN
+athlete_Doris_Gubbins_WAL,athlete,Doris Gubbins,WAL
+athlete_Anastasia_Flussmann_AUT,athlete,Anastasia Flussmann,AUT
+athlete_Winifred_Land_ENG,athlete,Winifred Land,ENG
+pair_Alfred_Liebster__Robert_Thum_AUT,team,Alfred Liebster / Robert Thum,AUT
+pair_Charlie_Bull__Fred_Perry_ENG,team,Charlie Bull / Fred Perry,ENG
+pair_Laszlo_Bellak__Sándor_Glancz_HUN,team,Laszlo Bellak / Sándor Glancz,HUN
+pair_Roland_Jacobi__Zoltán_Mechlovits_HUN,team,Roland Jacobi / Zoltán Mechlovits,HUN
+athlete_Laszlo_Bellak_HUN,athlete,Laszlo Bellak,HUN
+athlete_Alfred_Liebster_AUT,athlete,Alfred Liebster,AUT
+athlete_Paul_Flussmann_AUT,athlete,Paul Flussmann,AUT
+pair_Daniel_Pecsi__Erika_Metzger_HUN,team,Daniel Pecsi / Erika Metzger,HUN
+pair_Charles_Bull__Joan_Ingram_ENG,team,Charles Bull / Joan Ingram,ENG
+pair_Fred_Perry__Winifred_Land_ENG,team,Fred Perry / Winifred Land,ENG
+pair_Fanchette_Flamm__Mária_Mednyánszky_AUT,team,Fanchette Flamm / Mária Mednyánszky,AUT
+pair_Doris_Gubbins__Brenda_Sommerville_WAL,team,Doris Gubbins / Brenda Sommerville,WAL
+pair_Joan_Ingram__Winifred_Land_ENG,team,Joan Ingram / Winifred Land,ENG
+athlete_Erika_Metzger_GER,athlete,Erika Metzger,GER
+athlete_Joan_Ingram_ENG,athlete,Joan Ingram,ENG
+pair_Viktor_Barna__Miklós_Szabados_HUN,team,Viktor Barna / Miklós Szabados,HUN
+pair_István_Reti__György_Szegedi_HUN,team,István Reti / György Szegedi,HUN
+athlete_Fred_Perry_ENG,athlete,Fred Perry,ENG
+athlete_Miklós_Szabados_HUN,athlete,Miklós Szabados,HUN
+athlete_Adrian_Haydon_ENG,athlete,Adrian Haydon,ENG
+pair_Stephen_Kelen__Anna_Sipos_HUN,team,Stephen Kelen / Anna Sipos,HUN
+pair_Laszlo_Bellak__Magda_Gál_HUN,team,Laszlo Bellak / Magda Gál,HUN
+pair_Alfred_Liebster__Gertrude_Wildam_AUT,team,Alfred Liebster / Gertrude Wildam,AUT
+pair_Erika_Metzger__Mona_Rüster_GER,team,Erika Metzger / Mona Rüster,GER
+pair_Fanchette_Flamm__Gertrude_Wildam_AUT,team,Fanchette Flamm / Gertrude Wildam,AUT
+pair_Magda_Gál__IIona_Zádor_HUN,team,Magda Gál / IIona Zádor,HUN
+pair_Mária_Mednyánszky__Anna_Sipos_HUN,team,Mária Mednyánszky / Anna Sipos,HUN
+athlete_Gertrude_Wildam_AUT,athlete,Gertrude Wildam,AUT
+athlete_Anna_Sipos_HUN,athlete,Anna Sipos,HUN
+athlete_Magda_Gál_HUN,athlete,Magda Gál,HUN
+pair_Valter_Kolmodin__Hille_Nilsson_SWE,team,Valter Kolmodin / Hille Nilsson,SWE
+athlete_Viktor_Barna_HUN,athlete,Viktor Barna,HUN
+athlete_Lajos_Dávid_HUN,athlete,Lajos Dávid,HUN
+athlete_Stephen_Kelen_HUN,athlete,Stephen Kelen,HUN
+SWE,team,Sweden,SWE
+TCH,team,Czechoslovakia,TCH
+pair_Miklós_Szabados__Mária_Mednyánszky_HUN,team,Miklós Szabados / Mária Mednyánszky,HUN
+pair_Sándor_Glancz__Ingeborg_Carnatz_HUN,team,Sándor Glancz / Ingeborg Carnatz,HUN
+pair_Viktor_Barna__Magda_Gál_HUN,team,Viktor Barna / Magda Gál,HUN
+pair_Magda_Gál__Márta_Komáromi_HUN,team,Magda Gál / Márta Komáromi,HUN
+pair_Helly_Reitzer__Gertrude_Wildam_AUT,team,Helly Reitzer / Gertrude Wildam,AUT
+pair_Josefine_Kolbe__Etta_Neumann_AUT,team,Josefine Kolbe / Etta Neumann,AUT
+athlete_Josefine_Kolbe_AUT,athlete,Josefine Kolbe,AUT
+pair_Lajos_Dávid__Stephen_Kelen_HUN,team,Lajos Dávid / Stephen Kelen,HUN
+pair_Jindich_Lauterbach__Karel_Svoboda_TCH,team,Jindřich Lauterbach / Karel Svoboda,TCH
+pair_Manfred_Feher__Alfred_Liebster_AUT,team,Manfred Feher / Alfred Liebster,AUT
+athlete_Ferenc_Kovács_HUN,athlete,Ferenc Kovács,HUN
+athlete_Nikita_Madjaroglou_GER,athlete,Nikita Madjaroglou,GER
+pair_Viktor_Barna__Anna_Sipos_HUN,team,Viktor Barna / Anna Sipos,HUN
+pair_Laszlo_Bellak__Márta_Komáromi_HUN,team,Laszlo Bellak / Márta Komáromi,HUN
+pair_Sándor_Glancz__Magda_Gál_HUN,team,Sándor Glancz / Magda Gál,HUN
+pair_Magda_Gál__Lili_Tiszai_HUN,team,Magda Gál / Lili Tiszai,HUN
+pair_Lili_Forbath__Helly_Reitzer_AUT,team,Lili Forbath / Helly Reitzer,AUT
+pair_Mona_Muller-Rüster__Marie_mídová_GER,team,Mona Muller-Rüster / Marie Šmídová,GER
+athlete_Mona_Muller-Rüster_GER,athlete,Mona Muller-Rüster,GER
+pair_Charlie_Bull__David_Jones_ENG,team,Charlie Bull / David Jones,ENG
+pair_István_Boros__Tibor_Házi_HUN,team,István Boros / Tibor Házi,HUN
+athlete_Erwin_Kohn_AUT,athlete,Erwin Kohn,AUT
+athlete_István_Boros_HUN,athlete,István Boros,HUN
+pair_Jaroslav_Jílek__Marie_mídová_TCH,team,Jaroslav Jílek / Marie Šmídová,TCH
+pair_Anna_Braunová__Marie_mídová_TCH,team,Anna Braunová / Marie Šmídová,TCH
+pair_Anita_Felguth__Magda_Gál_GER,team,Anita Felguth / Magda Gál,GER
+pair_Vra_Pavlásková__Berta_Zdobnická_TCH,team,Věra Pavlásková / Berta Zdobnická,TCH
+athlete_Marie_mídová_TCH,athlete,Marie Šmídová,TCH
+pair_Viktor_Barna__Sándor_Glancz_HUN,team,Viktor Barna / Sándor Glancz,HUN
+pair_Paul_Flussmann__Erwin_Kohn_AUT,team,Paul Flussmann / Erwin Kohn,AUT
+athlete_Stanislav_Kolá_TCH,athlete,Stanislav Kolář,TCH
+athlete_Sándor_Glancz_HUN,athlete,Sándor Glancz,HUN
+pair_Stephen_Kelen__Mária_Mednyánszky_HUN,team,Stephen Kelen / Mária Mednyánszky,HUN
+pair_Nikita_Madjaroglou__Annemarie_Schulz_GER,team,Nikita Madjaroglou / Annemarie Schulz,GER
+pair_Magda_Gál__Emilné_Rácz_HUN,team,Magda Gál / Emilné Rácz,HUN
+pair_Anita_Felguth__Annemarie_Schulz_GER,team,Anita Felguth / Annemarie Schulz,GER
+pair_Jozka_Veselska__Marie_Walterová_TCH,team,Jozka Veselska / Marie Walterová,TCH
+athlete_Astrid_Krebsbach_GER,athlete,Astrid Krebsbach,GER
+pair_Sándor_Glancz__Tibor_Házi_HUN,team,Sándor Glancz / Tibor Házi,HUN
+pair_István_Boros__Béla_Nyitrai_HUN,team,István Boros / Béla Nyitrai,HUN
+pair_Miloslav_Hamr__Erwin_Koln-Korda_TCH,team,Miloslav Hamr / Erwin Koln-Korda,TCH
+athlete_Tibor_Házi_HUN,athlete,Tibor Házi,HUN
+pair_Laszlo_Bellak__Kathleen_Berry_HUN,team,Laszlo Bellak / Kathleen Berry,HUN
+pair_Stanislav_Kolá__Marie_mídová_TCH,team,Stanislav Kolář / Marie Šmídová,TCH
+pair_Anita_Felguth__Astrid_Krebsbach_GER,team,Anita Felguth / Astrid Krebsbach,GER
+pair_Hilde_Bussmann__Magda_Gál_GER,team,Hilde Bussmann / Magda Gál,GER
+pair_Marie_Kettnerová__Marie_mídová_TCH,team,Marie Kettnerová / Marie Šmídová,TCH
+athlete_Marie_Kettnerová_TCH,athlete,Marie Kettnerová,TCH
+athlete_Dora_Emdin_ENG,athlete,Dora Emdin,ENG
+GER,team,Nazi Germany,GER
+pair_Adrian_Haydon__Alfred_Liebster_ENG,team,Adrian Haydon / Alfred Liebster,ENG
+pair_Laszlo_Bellak__Stephen_Kelen_HUN,team,Laszlo Bellak / Stephen Kelen,HUN
+pair_Raoul_Bedoc__Daniel_Guérin_FRA,team,Raoul Bedoc / Daniel Guérin,FRA
+athlete_Alojzy_Ehrlich_POL,athlete,Alojzy Ehrlich,POL
+POL,team,Poland,POL
+pair_Stanislav_Kolá__Marie_Kettnerová_TCH,team,Stanislav Kolář / Marie Kettnerová,TCH
+pair_Adrian_Haydon__Margaret_Osborne_ENG,team,Adrian Haydon / Margaret Osborne,ENG
+pair_L_Booker__Hilde_Bussmann_ENG,team,L. Booker / Hilde Bussmann,ENG
+athlete_Marcelle_Delacour_FRA,athlete,Marcelle Delacour,FRA
+pair_Robert_Blattner__James_McClure_USA,team,Robert Blattner / James McClure,USA
+pair_Stanislav_Kolá__Okter_Petrisek_TCH,team,Stanislav Kolář / Okter Petrisek,TCH
+pair_Karel_Fleischner__Adolf_lár_TCH,team,Karel Fleischner / Adolf Šlár,TCH
+pair_Tibor_Házi__Ferenc_Soos_HUN,team,Tibor Házi / Ferenc Soos,HUN
+athlete_Ferenc_Soos_HUN,athlete,Ferenc Soos,HUN
+athlete_Richard_Bergmann_AUT,athlete,Richard Bergmann,AUT
+ROU,team,Romania,ROU
+FRA,team,France,FRA
+pair_Miloslav_Hamr__Gertrude_Kleinová_TCH,team,Miloslav Hamr / Gertrude Kleinová,TCH
+pair_Helmut_Ullrich__Annemarie_Schulz_GER,team,Helmut Ullrich / Annemarie Schulz,GER
+pair_Vlasta_Depetrisová__Vra_Votrubcová_TCH,team,Vlasta Depetrisová / Věra Votrubcová,TCH
+pair_Magda_Gál__Mária_Mednyánszky_HUN,team,Magda Gál / Mária Mednyánszky,HUN
+pair_Ruth_Aarons__Jessie_Purves_USA,team,Ruth Aarons / Jessie Purves,USA
+athlete_Ruth_Aarons_USA,athlete,Ruth Aarons,USA
+USA,team,United States,USA
+pair_Richard_Bergmann__Helmut_Goebel_AUT,team,Richard Bergmann / Helmut Goebel,AUT
+pair_Adolf_lár__Václav_Tereba_TCH,team,Adolf Šlár / Václav Tereba,TCH
+pair_Miloslav_Hamr__Frantiek_Hanec_Pivec_TCH,team,Miloslav Hamr / František Hanec Pivec,TCH
+athlete_Hans_Hartinger_AUT,athlete,Hans Hartinger,AUT
+pair_Bohumil_Váa__Vra_Votrubcová_TCH,team,Bohumil Váňa / Věra Votrubcová,TCH
+pair_Abe_Berenbaum__Emily_Fuller_USA,team,Abe Berenbaum / Emily Fuller,USA
+pair_Geza_Eros__Angelica_Adelstein_ROU,team,Geza Eros / Angelica Adelstein,ROU
+pair_Margaret_Osborne__Wendy_Woodhead_ENG,team,Margaret Osborne / Wendy Woodhead,ENG
+pair_Lillian_Hutchings__Stefanie_Werle_ENG,team,Lillian Hutchings / Stefanie Werle,ENG
+pair_Marie_Kettnerová__Annemarie_Schulz_TCH,team,Marie Kettnerová / Annemarie Schulz,TCH
+athlete_Gertrude_Pritzi_USA,athlete,Gertrude Pritzi,USA
+athlete_Hilde_Bussmann_GER,athlete,Hilde Bussmann,GER
+pair_James_McClure__Sol_Schiff_USA,team,James McClure / Sol Schiff,USA
+pair_Viktor_Barna__Laszlo_Bellak_HUN,team,Viktor Barna / Laszlo Bellak,HUN
+pair_Eric_Filby__Hyman_Lurie_ENG,team,Eric Filby / Hyman Lurie,ENG
+pair_Stanislav_Kolá__Václav_Tereba_TCH,team,Stanislav Kolář / Václav Tereba,TCH
+athlete_Bohumil_Váa_TCH,athlete,Bohumil Váňa,TCH
+pair_Laszlo_Bellak__Wendy_Woodhead_HUN,team,Laszlo Bellak / Wendy Woodhead,HUN
+pair_Alfred_Liebster__Gertrude_Pritzi_AUT,team,Alfred Liebster / Gertrude Pritzi,AUT
+pair_Václav_Tereba__Marie_Kettnerová_TCH,team,Václav Tereba / Marie Kettnerová,TCH
+pair_Dora_Beregi__Ida_Ferenczy_HUN,team,Dora Beregi / Ida Ferenczy,HUN
+pair_Dora_Emdin__Margaret_Osborne_ENG,team,Dora Emdin / Margaret Osborne,ENG
+pair_Phyllis_Hodgkinson__Doris_Jordan_ENG,team,Phyllis Hodgkinson / Doris Jordan,ENG
+athlete_Gertrude_Pritzi_AUT,athlete,Gertrude Pritzi,AUT
+athlete_Vlasta_Depetrisová_TCH,athlete,Vlasta Depetrisová,TCH
+athlete_Betty_Henry_USA,athlete,Betty Henry,USA
+athlete_Vra_Votrubcová_TCH,athlete,Věra Votrubcová,TCH
+pair_Viktor_Barna__Richard_Bergmann_ENG,team,Viktor Barna / Richard Bergmann,ENG
+pair_Miloslav_Hamr__Josef_Tartakower_TCH,team,Miloslav Hamr / Josef Tartakower,TCH
+pair_Ken_Hyde__Hyman_Lurie_ENG,team,Ken Hyde / Hyman Lurie,ENG
+pair_Raoul_Bedoc__Michel_Haguenauer_FRA,team,Raoul Bedoc / Michel Haguenauer,FRA
+athlete_Richard_Bergmann_ENG,athlete,Richard Bergmann,ENG
+athlete_arko_Dolinar_YUG,athlete,Žarko Dolinar,YUG
+YUG,team,Socialist Federal Republic of Yugoslavia,YUG
+pair_Mansour_Helmy__Gertrude_Pritzi_EGY,team,Mansour Helmy / Gertrude Pritzi,EGY
+pair_Marcel_Geargoura__Hilde_Bussmann_EGY,team,Marcel Geargoura / Hilde Bussmann,EGY
+pair_Hilde_Bussmann__Gertrude_Pritzi_GER,team,Hilde Bussmann / Gertrude Pritzi,GER
+pair_Angelica_Adelstein__Sari_Kolozsvári_ROU,team,Angelica Adelstein / Sari Kolozsvári,ROU
+pair_Marie_Kettnerová__Samiha_Naili_TCH,team,Marie Kettnerová / Samiha Naili,TCH
+athlete_Gertrude_Pritzi_GER,athlete,Gertrude Pritzi,GER
+athlete_Samiha_Naili_EGY,athlete,Samiha Naili,EGY
+pair_Adolf_lár__Bohumil_Váa_TCH,team,Adolf Šlár / Bohumil Váňa,TCH
+pair_Jack_Carrington__Johnny_Leach_ENG,team,Jack Carrington / Johnny Leach,ENG
+pair_Ladislav_típek__Václav_Tereba_TCH,team,Ladislav Štípek / Václav Tereba,TCH
+pair_Viktor_Barna__Adrian_Haydon_ENG,team,Viktor Barna / Adrian Haydon,ENG
+athlete_Ferenc_Sidó_HUN,athlete,Ferenc Sidó,HUN
+athlete_Johnny_Leach_ENG,athlete,Johnny Leach,ENG
+athlete_Lou_Pagliaro_USA,athlete,Lou Pagliaro,USA
+pair_Ferenc_Soos__Gizella_Farkas_HUN,team,Ferenc Soos / Gizella Farkas,HUN
+pair_Adolf_lár__Vlasta_Depetrisová_TCH,team,Adolf Šlár / Vlasta Depetrisová,TCH
+pair_Viktor_Barna__Margaret_Franks_ENG,team,Viktor Barna / Margaret Franks,ENG
+pair_William_Holzrichter__Davida_Hawthorn_USA,team,William Holzrichter / Davida Hawthorn,USA
+pair_Gizella_Farkas__Gertrude_Pritzi_HUN,team,Gizella Farkas / Gertrude Pritzi,HUN
+pair_Mae_Clouther__Reba_Monness_USA,team,Mae Clouther / Reba Monness,USA
+pair_Davida_Hawthorn__Leah_Thall_USA,team,Davida Hawthorn / Leah Thall,USA
+pair_Mary_Detournay__Josee_Wouters_BEL,team,Mary Detournay / Josee Wouters,BEL
+athlete_Gizella_Farkas_HUN,athlete,Gizella Farkas,HUN
+athlete_Elizabeth_Blackbourn_ENG,athlete,Elizabeth Blackbourn,ENG
+athlete_Vera_Dace_ENG,athlete,Vera Dace,ENG
+pair_Ladislav_típek__Bohumil_Váa_TCH,team,Ladislav Štípek / Bohumil Váňa,TCH
+pair_Adrian_Haydon__Ferenc_Soos_ENG,team,Adrian Haydon / Ferenc Soos,ENG
+pair_Heinrich_Bednar__Herbert_Wunsch_AUT,team,Heinrich Bednar / Herbert Wunsch,AUT
+athlete_Guy_Amouretti_FRA,athlete,Guy Amouretti,FRA
+athlete_Ivan_Andreadis_TCH,athlete,Ivan Andreadis,TCH
+pair_Dick_Miles__Thelma_Thall_USA,team,Dick Miles / Thelma Thall,USA
+pair_Bohumil_Váa__Vlasta_Pokorna_TCH,team,Bohumil Váňa / Vlasta Pokorna,TCH
+pair_Ferenc_Sidó__Angelica_Rozeanu_HUN,team,Ferenc Sidó / Angelica Rozeanu,HUN
+pair_Richard_Bergmann__Dora_Beregi_ENG,team,Richard Bergmann / Dora Beregi,ENG
+pair_Margaret_Franks__Vera_Thomas_ENG,team,Margaret Franks / Vera Thomas,ENG
+pair_Dora_Beregi__Helen_Elliot_ENG,team,Dora Beregi / Helen Elliot,ENG
+pair_Audrey_Fowler__Irene_Lentle_ENG,team,Audrey Fowler / Irene Lentle,ENG
+pair_Leah_Thall__Thelma_Thall_USA,team,Leah Thall / Thelma Thall,USA
+athlete_Vera_Thomas_ENG,athlete,Vera Thomas,ENG
+athlete_Angelica_Rozeanu_ROU,athlete,Angelica Rozeanu,ROU
+athlete_Vlasta_Depetrisová-Pokorna_TCH,athlete,Vlasta Depetrisová-Pokorna,TCH
+pair_Ivan_Andreadis__Frantiek_Tokár_TCH,team,Ivan Andreadis / František Tokár,TCH
+pair_Douglas_Cartland__Dick_Miles_USA,team,Douglas Cartland / Dick Miles,USA
+pair_Richard_Bergmann__Tage_Flisberg_ENG,team,Richard Bergmann / Tage Flisberg,ENG
+athlete_Marty_Reisman_USA,athlete,Marty Reisman,USA
+pair_Ferenc_Sidó__Gizella_Farkas_HUN,team,Ferenc Sidó / Gizella Farkas,HUN
+pair_Bohumil_Váa__Kveta_Hrusakova_TCH,team,Bohumil Váňa / Kveta Hrusakova,TCH
+pair_Johnny_Leach__Margaret_Franks_ENG,team,Johnny Leach / Margaret Franks,ENG
+pair_Marty_Reisman__Peggy_McLean_USA,team,Marty Reisman / Peggy McLean,USA
+pair_Helen_Elliott__Gizella_Farkas_SCO,team,Helen Elliott / Gizella Farkas,SCO
+pair_Pinkie_Barnes__Joan_Crosby_ENG,team,Pinkie Barnes / Joan Crosby,ENG
+pair_Elika_Fürstová__Ida_Koátková_TCH,team,Eliška Fürstová / Ida Koťátková,TCH
+pair_Rozsi_Karpati__Erzsébet_Mezei_HUN,team,Rozsi Karpati / Erzsébet Mezei,HUN
+athlete_Kveta_Hrusakova_TCH,athlete,Kveta Hrusakova,TCH
+athlete_Thelma_Thall_USA,athlete,Thelma Thall,USA
+pair_Ferenc_Sidó__Ferenc_Soos_HUN,team,Ferenc Sidó / Ferenc Soos,HUN
+pair_Václav_Tereba__Josef_Turnovský_TCH,team,Václav Tereba / Josef Turnovský,TCH
+pair_Ivan_Andreadis__Elika_Fürstová_TCH,team,Ivan Andreadis / Eliška Fürstová,TCH
+pair_Ladislav_típek__Angelica_Rozeanu_TCH,team,Ladislav Štípek / Angelica Rozeanu,TCH
+pair_Gizella_Farkas__Angelica_Rozeanu_HUN,team,Gizella Farkas / Angelica Rozeanu,HUN
+pair_Elika_Fürstová__Kvta_Hruková_TCH,team,Eliška Fürstová / Květa Hrušková,TCH
+pair_Vera_Dace__Margaret_Franks_ENG,team,Vera Dace / Margaret Franks,ENG
+athlete_Rozsi_Karpati_HUN,athlete,Rozsi Karpati,HUN
+athlete_Sari_Szasz_ROU,athlete,Sari Szasz,ROU
+pair_Ivan_Andreadis__Bohumil_Váa_TCH,team,Ivan Andreadis / Bohumil Váňa,TCH
+pair_József_Kóczián__Ferenc_Sidó_HUN,team,József Kóczián / Ferenc Sidó,HUN
+pair_Ladislav_típek__Frantiek_Tokár_TCH,team,Ladislav Štípek / František Tokár,TCH
+athlete_Václav_Tereba_TCH,athlete,Václav Tereba,TCH
+pair_Bohumil_Váa__Angelica_Rozeanu_TCH,team,Bohumil Váňa / Angelica Rozeanu,TCH
+pair_Vilim_Harangozo__Ermelinde_Wertl_YUG,team,Vilim Harangozo / Ermelinde Wertl,YUG
+pair_Johnny_Leach__Diane_Rowe_ENG,team,Johnny Leach / Diane Rowe,ENG
+pair_József_Kóczián__Rozsi_Karpati_HUN,team,József Kóczián / Rozsi Karpati,HUN
+pair_Diane_Rowe__Rosalind_Rowe_ENG,team,Diane Rowe / Rosalind Rowe,ENG
+pair_Angelica_Rozeanu__Sári_Szász_ROU,team,Angelica Rozeanu / Sári Szász,ROU
+pair_Gizella_Farkas__Rozsi_Karpati_HUN,team,Gizella Farkas / Rozsi Karpati,HUN
+pair_Peggy_Ichkoff__Leah_Thall_USA,team,Peggy Ichkoff / Leah Thall,USA
+athlete_Leah_Thall_USA,athlete,Leah Thall,USA
+WAL,team,Wales,WAL
+pair_Norikazu_Fujii__Tadaki_Hayashi_JPN,team,Norikazu Fujii / Tadaki Hayashi,JPN
+pair_Richard_Bergmann__Johnny_Leach_ENG,team,Richard Bergmann / Johnny Leach,ENG
+pair_Douglas_Cartland__Marty_Reisman_USA,team,Douglas Cartland / Marty Reisman,USA
+athlete_Hiroji_Satoh_JPN,athlete,Hiroji Satoh,JPN
+athlete_József_Kóczián_HUN,athlete,József Kóczián,HUN
+athlete_René_Roothooft_FRA,athlete,René Roothooft,FRA
+HKG,team,Hong Kong,HKG
+JPN,team,Japan,JPN
+pair_József_Kóczián__Gizella_Farkas_HUN,team,József Kóczián / Gizella Farkas,HUN
+pair_Viktor_Barna__Rosalind_Rowe_ENG,team,Viktor Barna / Rosalind Rowe,ENG
+pair_Shizuki_Narahara__Tomie_Nishimura_JPN,team,Shizuki Narahara / Tomie Nishimura,JPN
+pair_Gizella_Farkas__Edit_Sági_HUN,team,Gizella Farkas / Edit Sági,HUN
+pair_Helen_Elliott__Ermelinde_Wertl_SCO,team,Helen Elliott / Ermelinde Wertl,SCO
+athlete_Ermelinde_Wertl_AUT,athlete,Ermelinde Wertl,AUT
+athlete_Rosalind_Rowe_ENG,athlete,Rosalind Rowe,ENG
+athlete_Ladislav_típek_TCH,athlete,Ladislav Štípek,TCH
+pair_arko_Dolinar__Ermelinde_Wertl_YUG,team,Žarko Dolinar / Ermelinde Wertl,YUG
+pair_József_Kóczián__Gizella_Gervai_HUN,team,József Kóczián / Gizella Gervai,HUN
+pair_László_Földy__Éva_Kóczián_HUN,team,László Földy / Éva Kóczián,HUN
+pair_Gizella_Gervai__Angelica_Rozeanu_HUN,team,Gizella Gervai / Angelica Rozeanu,HUN
+pair_Kathleen_Best__Ermelinde_Wertl_ENG,team,Kathleen Best / Ermelinde Wertl,ENG
+pair_Zsuzsa_Fantusz__Edit_Sági_HUN,team,Zsuzsa Fantusz / Edit Sági,HUN
+athlete_Gizella_Gervai_HUN,athlete,Gizella Gervai,HUN
+athlete_Diane_Rowe_ENG,athlete,Diane Rowe,ENG
+pair_arko_Dolinar__Vilim_Harangozo_YUG,team,Žarko Dolinar / Vilim Harangozo,YUG
+pair_Viktor_Barna__Michel_Haguenauer_ENG,team,Viktor Barna / Michel Haguenauer,ENG
+pair_Ichiro_Ogimura__Yoshio_Tomita_JPN,team,Ichiro Ogimura / Yoshio Tomita,JPN
+athlete_Ichiro_Ogimura_JPN,athlete,Ichiro Ogimura,JPN
+athlete_Tage_Flisberg_SWE,athlete,Tage Flisberg,SWE
+pair_Ivan_Andreadis__Gizella_Gervai_TCH,team,Ivan Andreadis / Gizella Gervai,TCH
+pair_Yoshio_Tomita__Fujie_Eguchi_JPN,team,Yoshio Tomita / Fujie Eguchi,JPN
+pair_Kathleen_Best__Ann_Haydon_ENG,team,Kathleen Best / Ann Haydon,ENG
+pair_Fujie_Eguchi__Kiiko_Watanabe_JPN,team,Fujie Eguchi / Kiiko Watanabe,JPN
+athlete_Yoshiko_Tanaka_JPN,athlete,Yoshiko Tanaka,JPN
+athlete_Fujie_Eguchi_JPN,athlete,Fujie Eguchi,JPN
+athlete_Éva_Kóczián_HUN,athlete,Éva Kóczián,HUN
+pair_Ivan_Andreadis__Ladislav_típek_TCH,team,Ivan Andreadis / Ladislav Štípek,TCH
+athlete_Toshiaki_Tanaka_JPN,athlete,Toshiaki Tanaka,JPN
+athlete_Stephen_Cafiero_FRA,athlete,Stephen Cafiero,FRA
+pair_Kálmán_Szepesi__Éva_Kóczián_HUN,team,Kálmán Szepesi / Éva Kóczián,HUN
+pair_Aubrey_Simons__Helen_Elliot_ENG,team,Aubrey Simons / Helen Elliot,ENG
+pair_Ladislav_típek__Elika_Krejová_TCH,team,Ladislav Štípek / Eliška Krejčová,TCH
+pair_Toshiaki_Tanaka__Shizuki_Narahara_JPN,team,Toshiaki Tanaka / Shizuki Narahara,JPN
+pair_Angelica_Rozeanu__Ella_Zeller_ROU,team,Angelica Rozeanu / Ella Zeller,ROU
+pair_Shizuki_Narahara__Yoshiko_Tanaka_JPN,team,Shizuki Narahara / Yoshiko Tanaka,JPN
+athlete_Kiiko_Watanabe_JPN,athlete,Kiiko Watanabe,JPN
+pair_Toshiaki_Tanaka__Keisuke_Tsunoda_JPN,team,Toshiaki Tanaka / Keisuke Tsunoda,JPN
+pair_Václav_Tereba__Ludvík_Vyhnanovský_TCH,team,Václav Tereba / Ludvík Vyhnanovský,TCH
+athlete_Akio_Nohira_JPN,athlete,Akio Nohira,JPN
+athlete_Yoshio_Tomita_JPN,athlete,Yoshio Tomita,JPN
+CHN,team,China,CHN
+pair_Erwin_Klein__Leah_Neuberger_USA,team,Erwin Klein / Leah Neuberger,USA
+pair_Ivan_Andreadis__Ann_Haydon_TCH,team,Ivan Andreadis / Ann Haydon,TCH
+pair_Motoo_Fujii__Yoshiko_Tanaka_JPN,team,Motoo Fujii / Yoshiko Tanaka,JPN
+pair_Toma_Reiter__Ella_Zeller_ROU,team,Toma Reiter / Ella Zeller,ROU
+pair_Ann_Haydon__Diane_Rowe_ENG,team,Ann Haydon / Diane Rowe,ENG
+pair_Tomie_Okawa__Yoshiko_Tanaka_JPN,team,Tomie Okawa / Yoshiko Tanaka,JPN
+athlete_Tomie_Okawa_JPN,athlete,Tomie Okawa,JPN
+athlete_Ella_Zeller_ROU,athlete,Ella Zeller,ROU
+pair_Ichiro_Ogimura__Toshiaki_Tanaka_JPN,team,Ichiro Ogimura / Toshiaki Tanaka,JPN
+pair_Elemér_Gyetvai__Ferenc_Sidó_HUN,team,Elemér Gyetvai / Ferenc Sidó,HUN
+pair_Toshihiko_Miyata__Keisuke_Tsunoda_JPN,team,Toshihiko Miyata / Keisuke Tsunoda,JPN
+athlete_Heinz_Schneider_GDR,athlete,Heinz Schneider,GDR
+pair_Ichiro_Ogimura__Fujie_Eguchi_JPN,team,Ichiro Ogimura / Fujie Eguchi,JPN
+pair_Keisuke_Tsunoda__Taeko_Namba_JPN,team,Keisuke Tsunoda / Taeko Namba,JPN
+pair_Ludvík_Vyhnanovský__Helen_Elliot_TCH,team,Ludvík Vyhnanovský / Helen Elliot,TCH
+pair_Lívia_Mossóczy__Agnes_Simon_HUN,team,Lívia Mossóczy / Agnes Simon,HUN
+pair_Helen_Elliot__Maria_Golopenta_SCO,team,Helen Elliot / Maria Golopenta,SCO
+athlete_Ann_Haydon_ENG,athlete,Ann Haydon,ENG
+pair_Teruo_Murakami__Ichiro_Ogimura_JPN,team,Teruo Murakami / Ichiro Ogimura,JPN
+pair_Ladislav_típek__Ludvík_Vyhnanovský_TCH,team,Ladislav Štípek / Ludvík Vyhnanovský,TCH
+pair_Hans_Alsér__Åke_Rakell_SWE,team,Hans Alsér / Åke Rakell,SWE
+pair_Zoltán_Berczik__László_Földy_HUN,team,Zoltán Berczik / László Földy,HUN
+athlete_Rong_Guotuan_CHN,athlete,Rong Guotuan,CHN
+athlete_Dick_Miles_USA,athlete,Dick Miles,USA
+VNM,team,South Vietnam,VNM
+pair_Teruo_Murakami__Kimiyo_Matsuzaki_JPN,team,Teruo Murakami / Kimiyo Matsuzaki,JPN
+pair_Wang_Chuanyao__Sun_Meiying_CHN,team,Wang Chuanyao / Sun Meiying,CHN
+pair_Zoltán_Berczik__Gizella_Lantos_HUN,team,Zoltán Berczik / Gizella Lantos,HUN
+pair_Taeko_Namba__Kazuko_Yamaizumi_JPN,team,Taeko Namba / Kazuko Yamaizumi,JPN
+pair_Fujie_Eguchi__Kimiyo_Matsuzaki_JPN,team,Fujie Eguchi / Kimiyo Matsuzaki,JPN
+pair_Qiu_Zhonghui__Sun_Meiying_CHN,team,Qiu Zhonghui / Sun Meiying,CHN
+athlete_Kimiyo_Matsuzaki_JPN,athlete,Kimiyo Matsuzaki,JPN
+athlete_Qiu_Zhonghui_CHN,athlete,Qiu Zhonghui,CHN
+KOR,team,South Korea,KOR
+pair_Nobuya_Hoshino__Koji_Kimura_JPN,team,Nobuya Hoshino / Koji Kimura,JPN
+pair_Zoltán_Berczik__Ferenc_Sidó_HUN,team,Zoltán Berczik / Ferenc Sidó,HUN
+pair_Li_Furong__Zhuang_Zedong_CHN,team,Li Furong / Zhuang Zedong,CHN
+pair_Wang_Jiasheng__Zhou_Lansun_CHN,team,Wang Jiasheng / Zhou Lansun,CHN
+athlete_Zhuang_Zedong_CHN,athlete,Zhuang Zedong,CHN
+athlete_Li_Furong_CHN,athlete,Li Furong,CHN
+athlete_Xu_Yinsheng_CHN,athlete,Xu Yinsheng,CHN
+athlete_Zhang_Xielin_CHN,athlete,Zhang Xielin,CHN
+pair_Ichiro_Ogimura__Kimiyo_Matsuzaki_JPN,team,Ichiro Ogimura / Kimiyo Matsuzaki,JPN
+pair_Li_Furong__Han_Yuzhen_CHN,team,Li Furong / Han Yuzhen,CHN
+pair_Nobuya_Hoshino__Masako_Seki_JPN,team,Nobuya Hoshino / Masako Seki,JPN
+pair_Maria_Alexandru__Georgeta_Pitic_ROU,team,Maria Alexandru / Georgeta Pitică,ROU
+pair_Han_Yuzhen__Liang_Lizhen_CHN,team,Han Yuzhen / Liang Lizhen,CHN
+pair_Hu_Keming__Wang_Jian_CHN,team,Hu Keming / Wang Jian,CHN
+athlete_Wang_Jian_CHN,athlete,Wang Jian,CHN
+pair_Wang_Zhiliang__Zhang_Xielin_CHN,team,Wang Zhiliang / Zhang Xielin,CHN
+pair_Xu_Yinsheng__Zhuang_Zedong_CHN,team,Xu Yinsheng / Zhuang Zedong,CHN
+pair_Ken_Konaka__Keiichi_Miki_JPN,team,Ken Konaka / Keiichi Miki,JPN
+pair_Li_Furong__Wang_Jiasheng_CHN,team,Li Furong / Wang Jiasheng,CHN
+athlete_Wang_Zhiliang_CHN,athlete,Wang Zhiliang,CHN
+FRG,team,West Germany,FRG
+pair_Koji_Kimura__Kazuko_Ito-Yamaizumi_JPN,team,Koji Kimura / Kazuko Ito-Yamaizumi,JPN
+pair_Keiichi_Miki__Masako_Seki_JPN,team,Keiichi Miki / Masako Seki,JPN
+pair_János_Faházi__Éva_Kóczián-Földy_HUN,team,János Faházi / Éva Kóczián-Földy,HUN
+pair_Zhuang_Zedong__Qiu_Zhonghui_CHN,team,Zhuang Zedong / Qiu Zhonghui,CHN
+pair_Kimiyo_Matsuzaki__Masako_Seki_JPN,team,Kimiyo Matsuzaki / Masako Seki,JPN
+pair_Diane_Rowe__Mary_Shannon_ENG,team,Diane Rowe / Mary Shannon,ENG
+pair_Kazuko_Ito-Yamaizumi__Noriko_Yamanaka_JPN,team,Kazuko Ito-Yamaizumi / Noriko Yamanaka,JPN
+pair_Qiu_Zhonghui__Wang_Jian_CHN,team,Qiu Zhonghui / Wang Jian,CHN
+athlete_Maria_Alexandru_ROU,athlete,Maria Alexandru,ROU
+athlete_Ella_Constantinescu_ROU,athlete,Ella Constantinescu,ROU
+athlete_Sun_Meiying_CHN,athlete,Sun Meiying,CHN
+pair_Yu_Changchun__Zhou_Lansun_CHN,team,Yu Changchun / Zhou Lansun,CHN
+athlete_Eberhard_Schöler_FRG,athlete,Eberhard Schöler,FRG
+athlete_Zhou_Lansun_CHN,athlete,Zhou Lansun,CHN
+PRK,team,North Korea,PRK
+pair_Koji_Kimura__Masako_Seki_JPN,team,Koji Kimura / Masako Seki,JPN
+pair_Zhang_Xielin__Lin_Huiqing_CHN,team,Zhang Xielin / Lin Huiqing,CHN
+pair_Ken_Konaka__Naoko_Fukatsu_JPN,team,Ken Konaka / Naoko Fukatsu,JPN
+pair_Zhuang_Zedong__Liang_Lizhen_CHN,team,Zhuang Zedong / Liang Lizhen,CHN
+pair_Lin_Huiqing__Zheng_Minzhi_CHN,team,Lin Huiqing / Zheng Minzhi,CHN
+pair_Masako_Seki__Noriko_Yamanaka_JPN,team,Masako Seki / Noriko Yamanaka,JPN
+pair_Feng_Mengya__Li_Li_CHN,team,Feng Mengya / Li Li,CHN
+pair_Li_Henan__Liang_Lizhen_CHN,team,Li Henan / Liang Lizhen,CHN
+athlete_Naoko_Fukatsu_JPN,athlete,Naoko Fukatsu,JPN
+athlete_Lin_Huiqing_CHN,athlete,Lin Huiqing,CHN
+athlete_Li_Li_CHN,athlete,Li Li,CHN
+athlete_Noriko_Yamanaka_JPN,athlete,Noriko Yamanaka,JPN
+pair_Hans_Alsér__Kjell_Johansson_SWE,team,Hans Alsér / Kjell Johansson,SWE
+pair_Anatoly_Amelin__Stanislav_Gomozkov_URS,team,Anatoly Amelin / Stanislav Gomozkov,URS
+pair_Nobuhiko_Hasegawa__Mitsuru_Kono_JPN,team,Nobuhiko Hasegawa / Mitsuru Kono,JPN
+pair_Vladimír_Miko__Jaroslav_Stank_TCH,team,Vladimír Miko / Jaroslav Staněk,TCH
+athlete_Nobuhiko_Hasegawa_JPN,athlete,Nobuhiko Hasegawa,JPN
+athlete_Mitsuru_Kono_JPN,athlete,Mitsuru Kono,JPN
+athlete_Koji_Kimura_JPN,athlete,Koji Kimura,JPN
+pair_Nobuhiko_Hasegawa__Noriko_Yamanaka_JPN,team,Nobuhiko Hasegawa / Noriko Yamanaka,JPN
+pair_Koji_Kimura__Naoko_Fukatsu_JPN,team,Koji Kimura / Naoko Fukatsu,JPN
+pair_Anatoly_Amelin__Zoja_Rudnova_URS,team,Anatoly Amelin / Zoja Rudnova,URS
+pair_Dorin_Giurgiuca__Maria_Alexandru_ROU,team,Dorin Giurgiuca / Maria Alexandru,ROU
+pair_Saeko_Hirota__Sachiko_Morisawa_JPN,team,Saeko Hirota / Sachiko Morisawa,JPN
+pair_Naoko_Fukatsu__Noriko_Yamanaka_JPN,team,Naoko Fukatsu / Noriko Yamanaka,JPN
+pair_Erzsebet_Jurik__Éva_Kóczián_HUN,team,Erzsebet Jurik / Éva Kóczián,HUN
+pair_Svetlana_Grinberg__Zoja_Rudnova_URS,team,Svetlana Grinberg / Zoja Rudnova,URS
+athlete_Sachiko_Morisawa_JPN,athlete,Sachiko Morisawa,JPN
+athlete_Zoja_Rudnova_URS,athlete,Zoja Rudnova,URS
+URS,team,Soviet Union,URS
+pair_Nobuhiko_Hasegawa__Tokio_Tasaka_JPN,team,Nobuhiko Hasegawa / Tokio Tasaka,JPN
+pair_Shigeo_Itoh__Mitsuru_Kono_JPN,team,Shigeo Itoh / Mitsuru Kono,JPN
+athlete_Shigeo_Itoh_JPN,athlete,Shigeo Itoh,JPN
+athlete_Kenji_Kasai_JPN,athlete,Kenji Kasai,JPN
+athlete_Tokio_Tasaka_JPN,athlete,Tokio Tasaka,JPN
+pair_Nobuhiko_Hasegawa__Yasuko_Konno_JPN,team,Nobuhiko Hasegawa / Yasuko Konno,JPN
+pair_Mitsuru_Kono__Saeko_Hirota_JPN,team,Mitsuru Kono / Saeko Hirota,JPN
+pair_Denis_Neale__Mary_Wright_ENG,team,Denis Neale / Mary Wright,ENG
+pair_Shigeo_Itoh__Toshiko_Kowada_JPN,team,Shigeo Itoh / Toshiko Kowada,JPN
+pair_Maria_Alexandru__Eleonora_Mihalca_ROU,team,Maria Alexandru / Eleonora Mihalca,ROU
+pair_Choi_Hwan-hwan__Choi_Jung-sook_KOR,team,Choi Hwan-hwan / Choi Jung-sook,KOR
+pair_Jitka_Karlíková__Ilona_Votová_TCH,team,Jitka Karlíková / Ilona Voštová,TCH
+athlete_Toshiko_Kowada_JPN,athlete,Toshiko Kowada,JPN
+athlete_Gabriele_Geißler_GDR,athlete,Gabriele Geißler,GDR
+athlete_Miho_Hamada_JPN,athlete,Miho Hamada,JPN
+pair_István_Jónyer__Tibor_Klampár_HUN,team,István Jónyer / Tibor Klampár,HUN
+pair_Liang_Geliang__Zhuang_Zedong_CHN,team,Liang Geliang / Zhuang Zedong,CHN
+pair_Katsuyuki_Abe__Yujiro_Imano_JPN,team,Katsuyuki Abe / Yujiro Imano,JPN
+athlete_Stellan_Bengtsson_SWE,athlete,Stellan Bengtsson,SWE
+athlete_Dragutin_urbek_YUG,athlete,Dragutin Šurbek,YUG
+athlete_Xi_Enting_CHN,athlete,Xi Enting,CHN
+pair_Antun_Stipani__Maria_Alexandru_YUG,team,Antun Stipančić / Maria Alexandru,YUG
+pair_Eberhard_Schöler__Diane_Schöler_FRG,team,Eberhard Schöler / Diane Schöler,FRG
+pair_Tokuyasu_Nishii__Mieko_Fukuno_JPN,team,Tokuyasu Nishii / Mieko Fukuno,JPN
+pair_Mieko_Hirano__Reiko_Sakamoto_JPN,team,Mieko Hirano / Reiko Sakamoto,JPN
+pair_Miho_Hamada__Yukie_Ozeki_JPN,team,Miho Hamada / Yukie Ozeki,JPN
+pair_Yukiko_Kawamorita__Setsuko_Kobori_JPN,team,Yukiko Kawamorita / Setsuko Kobori,JPN
+athlete_Zheng_Minzhi_CHN,athlete,Zheng Minzhi,CHN
+athlete_Ilona_Votová_TCH,athlete,Ilona Voštová,TCH
+pair_Stellan_Bengtsson__Kjell_Johansson_SWE,team,Stellan Bengtsson / Kjell Johansson,SWE
+pair_Antun_Stipani__Dragutin_urbek_YUG,team,Antun Stipančić / Dragutin Šurbek,YUG
+pair_Jean-Denis_Constant__Jacques_Secrétin_FRA,team,Jean-Denis Constant / Jacques Secrétin,FRA
+athlete_Kjell_Johansson_SWE,athlete,Kjell Johansson,SWE
+athlete_Antun_Stipani_YUG,athlete,Antun Stipančić,YUG
+pair_Liang_Geliang__Li_Li_CHN,team,Liang Geliang / Li Li,CHN
+pair_Anatoli_Strokatov__Asta_Gedraitite_URS,team,Anatoli Strokatov / Asta Gedraitite,URS
+pair_Josef_Dvoáek__Alica_Grofová_TCH,team,Josef Dvořáček / Alica Grofová,TCH
+pair_Yu_Changchun__Zheng_Huaiying_CHN,team,Yu Changchun / Zheng Huaiying,CHN
+pair_Maria_Alexandru__Miho_Hamada_ROU,team,Maria Alexandru / Miho Hamada,ROU
+pair_Lin_Meiqun__Qiu_Baoqin_CHN,team,Lin Meiqun / Qiu Baoqin,CHN
+pair_Jill_Hammersley__Beatrix_Kisházi_ENG,team,Jill Hammersley / Beatrix Kisházi,ENG
+pair_Tazuko_Abe__Tomie_Edano_JPN,team,Tazuko Abe / Tomie Edano,JPN
+athlete_Hu_Yulan_CHN,athlete,Hu Yulan,CHN
+athlete_Alica_Grofová_TCH,athlete,Alica Grofová,TCH
+athlete_Park_Mi-ra_KOR,athlete,Park Mi-ra,KOR
+athlete_Zhang_Li_CHN,athlete,Zhang Li,CHN
+pair_Gábor_Gergely__István_Jónyer_HUN,team,Gábor Gergely / István Jónyer,HUN
+pair_Katsuyuki_Abe__Shigeo_Itoh_JPN,team,Katsuyuki Abe / Shigeo Itoh,JPN
+athlete_István_Jónyer_HUN,athlete,István Jónyer,HUN
+athlete_Norio_Takashima_JPN,athlete,Norio Takashima,JPN
+pair_Stanislav_Gomozkov__Tatiana_Ferdman_URS,team,Stanislav Gomozkov / Tatiana Ferdman,URS
+pair_Sarkis_Sarchayan__Elmira_Antonyan_URS,team,Sarkis Sarchayan / Elmira Antonyan,URS
+pair_Liang_Geliang__Zhang_Li_CHN,team,Liang Geliang / Zhang Li,CHN
+pair_Shigeo_Itoh__Yukie_Ozeki_JPN,team,Shigeo Itoh / Yukie Ozeki,JPN
+pair_Maria_Alexandru__Shoko_Takahashi_ROU,team,Maria Alexandru / Shoko Takahashi,ROU
+pair_Lin_Meiqun__Zhu_Xiangyun_CHN,team,Lin Meiqun / Zhu Xiangyun,CHN
+pair_Elmira_Antonyan__Tatiana_Ferdman_URS,team,Elmira Antonyan / Tatiana Ferdman,URS
+pair_Yukie_Ozeki__Sachiko_Yokota_JPN,team,Yukie Ozeki / Sachiko Yokota,JPN
+athlete_Pak_Yung-sun_PRK,athlete,Pak Yung-sun,PRK
+athlete_Ge_Xinai_CHN,athlete,Ge Xin'ai,CHN
+athlete_Tatiana_Ferdman_URS,athlete,Tatiana Ferdman,URS
+pair_Li_Zhenshi__Liang_Geliang_CHN,team,Li Zhenshi / Liang Geliang,CHN
+pair_Huang_Liang__Lu_Yuansheng_CHN,team,Huang Liang / Lu Yuansheng,CHN
+athlete_Guo_Yuehua_CHN,athlete,Guo Yuehua,CHN
+athlete_Huang_Liang_CHN,athlete,Huang Liang,CHN
+athlete_Liang_Geliang_CHN,athlete,Liang Geliang,CHN
+pair_Jacques_Secrétin__Claude_Bergeret_FRA,team,Jacques Secrétin / Claude Bergeret,FRA
+pair_Tokio_Tasaka__Sachiko_Yokota_JPN,team,Tokio Tasaka / Sachiko Yokota,JPN
+pair_Lee_Sang-kuk__Lee_Ki-won_KOR,team,Lee Sang-kuk / Lee Ki-won,KOR
+pair_Li_Zhenshi__Yan_Guili_CHN,team,Li Zhenshi / Yan Guili,CHN
+pair_Pak_Yong-ok__Yang_Ying_born_1953_PRK,team,Pak Yong-ok / Yang Ying (born 1953),PRK
+pair_Wei_Lijie__Zhu_Xiangyun_CHN,team,Wei Lijie / Zhu Xiangyun,CHN
+pair_Ge_Xinai__Zhang_Li_CHN,team,Ge Xin'ai / Zhang Li,CHN
+pair_Kim_Soon-ok__Lee_Ki-won_KOR,team,Kim Soon-ok / Lee Ki-won,KOR
+athlete_Zhang_Deying_CHN,athlete,Zhang Deying,CHN
+pair_Guo_Yuehua__Liang_Geliang_CHN,team,Guo Yuehua / Liang Geliang,CHN
+pair_Li_Zhenshi__Wang_Huiyuan_CHN,team,Li Zhenshi / Wang Huiyuan,CHN
+athlete_Seiji_Ono_JPN,athlete,Seiji Ono,JPN
+athlete_Li_Zhenshi_CHN,athlete,Li Zhenshi,CHN
+pair_Liang_Geliang__Ge_Xinai_CHN,team,Liang Geliang / Ge Xin'ai,CHN
+pair_Wang_Huiyuan__Zhang_Deying_CHN,team,Wang Huiyuan / Zhang Deying,CHN
+pair_Zhang_Deying__Zhang_Li_CHN,team,Zhang Deying / Zhang Li,CHN
+pair_Ge_Xinai__Yan_Guili_CHN,team,Ge Xin'ai / Yan Guili,CHN
+pair_Erzsebet_Palatinus__Gordana_Perkuin_YUG,team,Erzsebet Palatinus / Gordana Perkučin,YUG
+pair_Li_Song-suk__Ro_Jong-suk_PRK,team,Li Song-suk / Ro Jong-suk,PRK
+athlete_Li_Song-suk_PRK,athlete,Li Song-suk,PRK
+athlete_Tong_Ling_CHN,athlete,Tong Ling,CHN
+pair_Cai_Zhenhua__Li_Zhenshi_CHN,team,Cai Zhenhua / Li Zhenshi,CHN
+pair_Guo_Yuehua__Xie_Saike_CHN,team,Guo Yuehua / Xie Saike,CHN
+pair_Patrick_Birocheau__Jacques_Secrétin_FRA,team,Patrick Birocheau / Jacques Secrétin,FRA
+athlete_Cai_Zhenhua_CHN,athlete,Cai Zhenhua,CHN
+pair_Xie_Saike__Huang_Junqun_CHN,team,Xie Saike / Huang Junqun,CHN
+pair_Chen_Xinhua__Tong_Ling_CHN,team,Chen Xinhua / Tong Ling,CHN
+pair_Dragutin_urbek__Branka_Batini_YUG,team,Dragutin Šurbek / Branka Batinić,YUG
+pair_Huang_Liang__Pu_Qijuan_CHN,team,Huang Liang / Pu Qijuan,CHN
+pair_Cao_Yanhua__Zhang_Deying_CHN,team,Cao Yanhua / Zhang Deying,CHN
+pair_Pu_Qijuan__Tong_Ling_CHN,team,Pu Qijuan / Tong Ling,CHN
+pair_An_Hae-sook__Hwang_Nam-sook_KOR,team,An Hae-sook / Hwang Nam-sook,KOR
+pair_Huang_Junqun__Yan_Guili_CHN,team,Huang Junqun / Yan Guili,CHN
+athlete_Cao_Yanhua_CHN,athlete,Cao Yanhua,CHN
+athlete_Lee_Soo-ja_KOR,athlete,Lee Soo-ja,KOR
+pair_Zoran_Kalini__Dragutin_urbek_YUG,team,Zoran Kalinić / Dragutin Šurbek,YUG
+pair_Jiang_Jialiang__Xie_Saike_CHN,team,Jiang Jialiang / Xie Saike,CHN
+pair_Hiroyuki_Abe__Seiji_Ono_JPN,team,Hiroyuki Abe / Seiji Ono,JPN
+pair_Wang_Huiyuan__Yang_Yuhua_CHN,team,Wang Huiyuan / Yang Yuhua,CHN
+athlete_Jiang_Jialiang_CHN,athlete,Jiang Jialiang,CHN
+athlete_Wang_Huiyuan_CHN,athlete,Wang Huiyuan,CHN
+pair_Guo_Yuehua__Ni_Xialian_CHN,team,Guo Yuehua / Ni Xialian,CHN
+pair_Cai_Zhenhua__Cao_Yanhua_CHN,team,Cai Zhenhua / Cao Yanhua,CHN
+pair_Dai_Lili__Shen_Jianping_CHN,team,Dai Lili / Shen Jianping,CHN
+pair_Geng_Lijuan__Huang_Junqun_CHN,team,Geng Lijuan / Huang Junqun,CHN
+pair_Cao_Yanhua__Ni_Xialian_CHN,team,Cao Yanhua / Ni Xialian,CHN
+athlete_Yang_Young-ja_KOR,athlete,Yang Young-ja,KOR
+athlete_Huang_Junqun_CHN,athlete,Huang Junqun,CHN
+athlete_Qi_Baoxiang_CHN,athlete,Qi Baoxiang,CHN
+pair_Mikael_Appelgren__Ulf_Carlsson_SWE,team,Mikael Appelgren / Ulf Carlsson,SWE
+pair_Milan_Orlowski__Jindich_Panský_TCH,team,Milan Orlowski / Jindřich Panský,TCH
+pair_Cai_Zhenhua__Jiang_Jialiang_CHN,team,Cai Zhenhua / Jiang Jialiang,CHN
+pair_Fan_Changmao__He_Zhiwen_CHN,team,Fan Changmao / He Zhiwen,CHN
+athlete_Chen_Longcan_CHN,athlete,Chen Longcan,CHN
+athlete_Lo_Chuen_Tsung_HKG,athlete,Lo Chuen Tsung,HKG
+athlete_Teng_Yi_CHN,athlete,Teng Yi,CHN
+pair_Jindich_Panský__Marie_Hrachová_TCH,team,Jindřich Panský / Marie Hrachová,TCH
+pair_Fan_Changmao__Jiao_Zhimin_CHN,team,Fan Changmao / Jiao Zhimin,CHN
+pair_Dai_Lili__Geng_Lijuan_CHN,team,Dai Lili / Geng Lijuan,CHN
+pair_Guan_Jianhua__Tong_Ling_CHN,team,Guan Jianhua / Tong Ling,CHN
+pair_Jiao_Zhimin__Qi_Baoxiang_CHN,team,Jiao Zhimin / Qi Baoxiang,CHN
+athlete_Geng_Lijuan_CHN,athlete,Geng Lijuan,CHN
+athlete_Dai_Lili_CHN,athlete,Dai Lili,CHN
+pair_Chen_Longcan__Wei_Qingguang_CHN,team,Chen Longcan / Wei Qingguang,CHN
+pair_Ilija_Lupulesku__Zoran_Primorac_YUG,team,Ilija Lupulesku / Zoran Primorac,YUG
+pair_Ahn_Jae-hyung__Yoo_Nam-kyu_KOR,team,Ahn Jae-hyung / Yoo Nam-kyu,KOR
+pair_Andrzej_Grubba__Leszek_Kucharski_POL,team,Andrzej Grubba / Leszek Kucharski,POL
+athlete_Jan-Ove_Waldner_SWE,athlete,Jan-Ove Waldner,SWE
+athlete_Chen_Xinhua_CHN,athlete,Chen Xinhua,CHN
+pair_Hui_Jun__Geng_Lijuan_CHN,team,Hui Jun / Geng Lijuan,CHN
+pair_Jiang_Jialiang__Jiao_Zhimin_CHN,team,Jiang Jialiang / Jiao Zhimin,CHN
+pair_Ahn_Jae-hyung__Yang_Young-ja_KOR,team,Ahn Jae-hyung / Yang Young-ja,KOR
+pair_Wang_Hao__Guan_Jianhua_CHN,team,Wang Hao / Guan Jianhua,CHN
+pair_Hyun_Jung-hwa__Yang_Young-ja_KOR,team,Hyun Jung-hwa / Yang Young-ja,KOR
+pair_Dai_Lili__Li_Huifen_CHN,team,Dai Lili / Li Huifen,CHN
+pair_Cho_Jong-hui__Li_Bun-hui_PRK,team,Cho Jong-hui / Li Bun-hui,PRK
+pair_He_Zhili__Jiao_Zhimin_CHN,team,He Zhili / Jiao Zhimin,CHN
+athlete_He_Zhili_CHN,athlete,He Zhili,CHN
+athlete_Guan_Jianhua_CHN,athlete,Guan Jianhua,CHN
+pair_Steffen_Fetzner__Jörg_Roßkopf_FRG,team,Steffen Fetzner / Jörg Roßkopf,FRG
+pair_Zoran_Kalini__Leszek_Kucharski_YUG,team,Zoran Kalinić / Leszek Kucharski,YUG
+pair_Hui_Jun__Teng_Yi_CHN,team,Hui Jun / Teng Yi,CHN
+athlete_Jörgen_Persson_SWE,athlete,Jörgen Persson,SWE
+athlete_Andrzej_Grubba_POL,athlete,Andrzej Grubba,POL
+athlete_Yu_Shentong_CHN,athlete,Yu Shentong,CHN
+pair_Yoo_Nam-kyu__Hyun_Jung-hwa_KOR,team,Yoo Nam-kyu / Hyun Jung-hwa,KOR
+pair_Zoran_Kalini__Gordana_Perkuin_YUG,team,Zoran Kalinić / Gordana Perkučin,YUG
+pair_Chen_Longcan__Chen_Jing_CHN,team,Chen Longcan / Chen Jing,CHN
+pair_Chen_Zhibin__Gao_Jun_CHN,team,Chen Zhibin / Gao Jun,CHN
+pair_Deng_Yaping__Qiao_Hong_CHN,team,Deng Yaping / Qiao Hong,CHN
+pair_Chen_Jing__Hu_Xiaoxin_CHN,team,Chen Jing / Hu Xiaoxin,CHN
+pair_Ding_Yaping__Li_Jun_CHN,team,Ding Yaping / Li Jun,CHN
+pair_Gao_Jun__Liu_Wei_CHN,team,Gao Jun / Liu Wei,CHN
+athlete_Qiao_Hong_CHN,athlete,Qiao Hong,CHN
+athlete_Li_Bun-hui_PRK,athlete,Li Bun-hui,PRK
+athlete_Chen_Jing_CHN,athlete,Chen Jing,CHN
+athlete_Hyun_Jung-hwa_KOR,athlete,Hyun Jung-hwa,KOR
+pair_Peter_Karlsson__Thomas_von_Scheele_SWE,team,Peter Karlsson / Thomas von Scheele,SWE
+pair_Lü_Lin__Wang_Tao_CHN,team,Lü Lin / Wang Tao,CHN
+pair_Andrei_Mazunov__Dmitry_Mazunov_URS,team,Andrei Mazunov / Dmitry Mazunov,URS
+pair_Erik_Lindh__Jörgen_Persson_SWE,team,Erik Lindh / Jörgen Persson,SWE
+athlete_Kim_Taek-soo_KOR,athlete,Kim Taek-soo,KOR
+athlete_Ma_Wenge_CHN,athlete,Ma Wenge,CHN
+pair_Wang_Tao__Liu_Wei_CHN,team,Wang Tao / Liu Wei,CHN
+pair_Xie_Chaojie__Chen_Zihe_CHN,team,Xie Chaojie / Chen Zihe,CHN
+pair_Kalinikos_Kreanga__Otilia_Badescu_GRC,team,Kalinikos Kreanga / Otilia Badescu,GRC
+pair_Kim_Song-hui__Li_Bun-hui_KOR,team,Kim Song-hui / Li Bun-hui,KOR
+pair_Chen_Zihe__Gao_Jun_CHN,team,Chen Zihe / Gao Jun,CHN
+pair_Hu_Xiaoxin__Liu_Wei_CHN,team,Hu Xiaoxin / Liu Wei,CHN
+athlete_Deng_Yaping_CHN,athlete,Deng Yaping,CHN
+athlete_Li_Bun-hui_KOR,athlete,Li Bun-hui,KOR
+athlete_Chan_Tan_Lui_HKG,athlete,Chan Tan Lui,HKG
+pair_Ma_Wenge__Zhang_Lei_CHN,team,Ma Wenge / Zhang Lei,CHN
+pair_Kim_Taek-soo__Yoo_Nam-kyu_KOR,team,Kim Taek-soo / Yoo Nam-kyu,KOR
+pair_Lin_Zhigang__Liu_Guoliang_CHN,team,Lin Zhigang / Liu Guoliang,CHN
+athlete_Jean-Philippe_Gatien_FRA,athlete,Jean-Philippe Gatien,FRA
+athlete_Jean-Michel_Saive_BEL,athlete,Jean-Michel Saive,BEL
+athlete_Zoran_Primorac_HRV,athlete,Zoran Primorac,HRV
+DEU,team,Germany,DEU
+pair_Li_Sung-il__Yu_Sun-bok_PRK,team,Li Sung-il / Yu Sun-bok,PRK
+pair_Ma_Wenge__Qiao_Yunping_CHN,team,Ma Wenge / Qiao Yunping,CHN
+pair_Liu_Wei__Qiao_Yunping_CHN,team,Liu Wei / Qiao Yunping,CHN
+pair_Chai_Po_Wa__Chan_Tan_Lui_HKG,team,Chai Po Wa / Chan Tan Lui,HKG
+athlete_Chen_Jing_TPE,athlete,Chen Jing,TPE
+athlete_Gao_Jun_CHN,athlete,Gao Jun,CHN
+athlete_Otilia_Badescu_ROU,athlete,Otilia Badescu,ROU
+pair_Zoran_Primorac__Vladimir_Samsonov_HRV,team,Zoran Primorac / Vladimir Samsonov,HRV
+pair_Damien_Eloi__Jean-Philippe_Gatien_FRA,team,Damien Eloi / Jean-Philippe Gatien,FRA
+athlete_Kong_Linghui_CHN,athlete,Kong Linghui,CHN
+athlete_Liu_Guoliang_CHN,athlete,Liu Guoliang,CHN
+athlete_Ding_Song_CHN,athlete,Ding Song,CHN
+athlete_Wang_Tao_CHN,athlete,Wang Tao,CHN
+pair_Kong_Linghui__Deng_Yaping_CHN,team,Kong Linghui / Deng Yaping,CHN
+pair_Erik_Lindh__Marie_Svensson_SWE,team,Erik Lindh / Marie Svensson,SWE
+pair_Lee_Chul-seung__Ryu_Ji-hye_KOR,team,Lee Chul-seung / Ryu Ji-hye,KOR
+pair_Csilla_Bátorfi__Krisztina_Tóth_HUN,team,Csilla Bátorfi / Krisztina Tóth,HUN
+pair_Wang_Chen__Wu_Na_CHN,team,Wang Chen / Wu Na,CHN
+athlete_Liu_Wei_CHN,athlete,Liu Wei,CHN
+athlete_Qiao_Yunping_CHN,athlete,Qiao Yunping,CHN
+pair_Kong_Linghui__Liu_Guoliang_CHN,team,Kong Linghui / Liu Guoliang,CHN
+pair_Jörgen_Persson__Jan-Ove_Waldner_SWE,team,Jörgen Persson / Jan-Ove Waldner,SWE
+pair_Kji_Matsushita__Hiroshi_Shibutani_JPN,team,Kōji Matsushita / Hiroshi Shibutani,JPN
+athlete_Vladimir_Samsonov_BLR,athlete,Vladimir Samsonov,BLR
+athlete_Yan_Sen_CHN,athlete,Yan Sen,CHN
+pair_Liu_Guoliang__Wu_Na_CHN,team,Liu Guoliang / Wu Na,CHN
+pair_Chiang_Peng-lung__Chen_Jing_TPE,team,Chiang Peng-lung / Chen Jing,TPE
+pair_Wang_Liqin__Wang_Nan_CHN,team,Wang Liqin / Wang Nan,CHN
+pair_Deng_Yaping__Yang_Ying_born_1977_CHN,team,Deng Yaping / Yang Ying (born 1977),CHN
+pair_Li_Ju__Wang_Nan_CHN,team,Li Ju / Wang Nan,CHN
+pair_Chai_Po_Wa__Qiao_Yunping_HKG,team,Chai Po Wa / Qiao Yunping,HKG
+pair_Cheng_Hongxia__Wang_Hui_CHN,team,Cheng Hongxia / Wang Hui,CHN
+athlete_Wang_Nan_CHN,athlete,Wang Nan,CHN
+athlete_Li_Ju_CHN,athlete,Li Ju,CHN
+athlete_Wu_Na_CHN,athlete,Wu Na,CHN
+pair_Wang_Liqin__Yan_Sen_CHN,team,Wang Liqin / Yan Sen,CHN
+pair_Kim_Taek-soo__Park_Sang-joon_KOR,team,Kim Taek-soo / Park Sang-joon,KOR
+athlete_Ma_Lin_CHN,athlete,Ma Lin,CHN
+athlete_Werner_Schlager_AUT,athlete,Werner Schlager,AUT
+pair_Ma_Lin__Zhang_Yingying_CHN,team,Ma Lin / Zhang Yingying,CHN
+pair_Feng_Zhe__Sun_Jin_CHN,team,Feng Zhe / Sun Jin,CHN
+pair_Qin_Zhijian__Yang_Ying_CHN,team,Qin Zhijian / Yang Ying,CHN
+pair_Sun_Jin__Yang_Ying_born_1977_CHN,team,Sun Jin / Yang Ying (born 1977),CHN
+pair_Kim_Moo-kyo__Park_Hae-jung_KOR,team,Kim Moo-kyo / Park Hae-jung,KOR
+pair_Zhang_Yingying__Zhang_Yining_CHN,team,Zhang Yingying / Zhang Yining,CHN
+athlete_Zhang_Yining_CHN,athlete,Zhang Yining,CHN
+athlete_Li_Nan_CHN,athlete,Li Nan,CHN
+athlete_Ryu_Ji-hye_KOR,athlete,Ryu Ji-hye,KOR
+ITA,team,Italy,ITA
+TPE,team,Chinese Taipei,TPE
+pair_Chang_Yen-shu__Chiang_Peng-lung_TPE,team,Chang Yen-shu / Chiang Peng-lung,TPE
+pair_Kim_Taek-soo__Oh_Sang-eun_KOR,team,Kim Taek-soo / Oh Sang-eun,KOR
+athlete_Wang_Liqin_CHN,athlete,Wang Liqin,CHN
+athlete_Chiang_Peng-lung_TPE,athlete,Chiang Peng-lung,TPE
+BEL,team,Belgium,BEL
+pair_Oh_Sang-eun__Kim_Moo-kyo_KOR,team,Oh Sang-eun / Kim Moo-kyo,KOR
+pair_Liu_Guoliang__Sun_Jin_CHN,team,Liu Guoliang / Sun Jin,CHN
+pair_Zhan_Jian__Bai_Yang_CHN,team,Zhan Jian / Bai Yang,CHN
+pair_Mayu_Kishi-Kawagoe__Akiko_Takeda_JPN,team,Mayu Kishi-Kawagoe / Akiko Takeda,JPN
+athlete_Lin_Ling_CHN,athlete,Lin Ling,CHN
+athlete_Kim_Yun-mi_PRK,athlete,Kim Yun-mi,PRK
+pair_Kong_Linghui__Wang_Hao_CHN,team,Kong Linghui / Wang Hao,CHN
+pair_Ma_Lin__Qin_Zhijian_CHN,team,Ma Lin / Qin Zhijian,CHN
+athlete_Joo_Se-hyuk_KOR,athlete,Joo Se-hyuk,KOR
+athlete_Kalinikos_Kreanga_GRC,athlete,Kalinikos Kreanga,GRC
+pair_Ma_Lin__Wang_Nan_CHN,team,Ma Lin / Wang Nan,CHN
+pair_Liu_Guozheng__Bai_Yang_CHN,team,Liu Guozheng / Bai Yang,CHN
+pair_Qin_Zhijian__Niu_Jianfeng_CHN,team,Qin Zhijian / Niu Jianfeng,CHN
+pair_Wang_Hao__Li_Nan_CHN,team,Wang Hao / Li Nan,CHN
+pair_Wang_Nan__Zhang_Yining_CHN,team,Wang Nan / Zhang Yining,CHN
+pair_Guo_Yue__Niu_Jianfeng_CHN,team,Guo Yue / Niu Jianfeng,CHN
+pair_Lee_Eun-sil__Seok_Eun-mi_KOR,team,Lee Eun-sil / Seok Eun-mi,KOR
+pair_Li_Jia__Li_Ju_CHN,team,Li Jia / Li Ju,CHN
+athlete_Tamara_Boro_HRV,athlete,Tamara Boroš,HRV
+pair_Timo_Boll__Christian_Süß_DEU,team,Timo Boll / Christian Süß,DEU
+pair_Chen_Qi__Ma_Lin_CHN,team,Chen Qi / Ma Lin,CHN
+athlete_Michael_Maze_DNK,athlete,Michael Maze,DNK
+athlete_Oh_Sang-eun_KOR,athlete,Oh Sang-eun,KOR
+pair_Wang_Liqin__Guo_Yue_CHN,team,Wang Liqin / Guo Yue,CHN
+pair_Qiu_Yike__Cao_Zhen_CHN,team,Qiu Yike / Cao Zhen,CHN
+pair_Yan_Sen__Guo_Yan_CHN,team,Yan Sen / Guo Yan,CHN
+pair_Bai_Yang__Guo_Yan_CHN,team,Bai Yang / Guo Yan,CHN
+pair_Tie_Ya_Na__Zhang_Rui_HKG,team,Tie Ya Na / Zhang Rui,HKG
+athlete_Guo_Yan_CHN,athlete,Guo Yan,CHN
+athlete_Guo_Yue_CHN,athlete,Guo Yue,CHN
+athlete_Lin_Ling_HKG,athlete,Lin Ling,HKG
+BLR,team,Belarus,BLR
+pair_Wang_Hao__Wang_Liqin_CHN,team,Wang Hao / Wang Liqin,CHN
+pair_Ko_Lai_Chak__Li_Ching_HKG,team,Ko Lai Chak / Li Ching,HKG
+athlete_Ryu_Seung-min_KOR,athlete,Ryu Seung-min,KOR
+athlete_Wang_Hao_CHN,athlete,Wang Hao,CHN
+pair_Ko_Lai_Chak__Tie_Ya_Na_HKG,team,Ko Lai Chak / Tie Ya Na,HKG
+pair_Guo_Yue__Li_Xiaoxia_CHN,team,Guo Yue / Li Xiaoxia,CHN
+pair_Kim_Kyung-ah__Park_Mi-young_KOR,team,Kim Kyung-ah / Park Mi-young,KOR
+pair_Li_Jiawei__Wang_Yuegu_SGP,team,Li Jiawei / Wang Yuegu,SGP
+athlete_Li_Xiaoxia_CHN,athlete,Li Xiaoxia,CHN
+SGP,team,Singapore,SGP
+pair_Chen_Qi__Wang_Hao_CHN,team,Chen Qi / Wang Hao,CHN
+pair_Ma_Long__Xu_Xin_CHN,team,Ma Long / Xu Xin,CHN
+pair_Hao_Shuai__Zhang_Jike_CHN,team,Hao Shuai / Zhang Jike,CHN
+pair_Seiya_Kishikawa__Jun_Mizutani_JPN,team,Seiya Kishikawa / Jun Mizutani,JPN
+athlete_Ma_Long_CHN,athlete,Ma Long,CHN
+pair_Li_Ping__Cao_Zhen_CHN,team,Li Ping / Cao Zhen,CHN
+pair_Zhang_Jike__Mu_Zi_CHN,team,Zhang Jike / Mu Zi,CHN
+pair_Hao_Shuai__Chang_Chenchen_CHN,team,Hao Shuai / Chang Chenchen,CHN
+pair_Zhang_Chao__Yao_Yan_CHN,team,Zhang Chao / Yao Yan,CHN
+pair_Ding_Ning__Guo_Yan_CHN,team,Ding Ning / Guo Yan,CHN
+pair_Jiang_Huajun__Tie_Ya_Na_HKG,team,Jiang Huajun / Tie Ya Na,HKG
+athlete_Liu_Shiwen_CHN,athlete,Liu Shiwen,CHN
+pair_Jung_Young-sik__Kim_Min-seok_KOR,team,Jung Young-sik / Kim Min-seok,KOR
+pair_Wang_Hao__Zhang_Jike_CHN,team,Wang Hao / Zhang Jike,CHN
+athlete_Zhang_Jike_CHN,athlete,Zhang Jike,CHN
+athlete_Timo_Boll_DEU,athlete,Timo Boll,DEU
+pair_Zhang_Chao__Cao_Zhen_CHN,team,Zhang Chao / Cao Zhen,CHN
+pair_Hao_Shuai__Mu_Zi_CHN,team,Hao Shuai / Mu Zi,CHN
+pair_Cheung_Yuk__Jiang_Huajun_HKG,team,Cheung Yuk / Jiang Huajun,HKG
+pair_Seiya_Kishikawa__Ai_Fukuhara_JPN,team,Seiya Kishikawa / Ai Fukuhara,JPN
+athlete_Ding_Ning_CHN,athlete,Ding Ning,CHN
+pair_Chen_Chien-an__Chuang_Chih-yuan_TPE,team,Chen Chien-an / Chuang Chih-yuan,TPE
+pair_Hao_Shuai__Ma_Lin_CHN,team,Hao Shuai / Ma Lin,CHN
+pair_Wang_Liqin__Zhou_Yu_CHN,team,Wang Liqin / Zhou Yu,CHN
+athlete_Xu_Xin_CHN,athlete,Xu Xin,CHN
+pair_Kim_Hyok-bong__Kim_Jong_PRK,team,Kim Hyok-bong / Kim Jong,PRK
+pair_Lee_Sang-su__Park_Young-sook_KOR,team,Lee Sang-su / Park Young-sook,KOR
+pair_Wang_Liqin__Rao_Jingwen_CHN,team,Wang Liqin / Rao Jingwen,CHN
+pair_Ding_Ning__Liu_Shiwen_CHN,team,Ding Ning / Liu Shiwen,CHN
+pair_Chen_Meng__Zhu_Yuling_CHN,team,Chen Meng / Zhu Yuling,CHN
+pair_Feng_Tianwei__Yu_Mengyu_SGP,team,Feng Tianwei / Yu Mengyu,SGP
+athlete_Zhu_Yuling_CHN,athlete,Zhu Yuling,CHN
+pair_Xu_Xin__Zhang_Jike_CHN,team,Xu Xin / Zhang Jike,CHN
+pair_Fan_Zhendong__Zhou_Yu_CHN,team,Fan Zhendong / Zhou Yu,CHN
+pair_Kenta_Matsudaira__Koki_Niwa_JPN,team,Kenta Matsudaira / Koki Niwa,JPN
+pair_Lee_Sang-su__Seo_Hyun-deok_KOR,team,Lee Sang-su / Seo Hyun-deok,KOR
+athlete_Fang_Bo_CHN,athlete,Fang Bo,CHN
+athlete_Fan_Zhendong_CHN,athlete,Fan Zhendong,CHN
+pair_Xu_Xin__Yang_Ha-eun_CHN,team,Xu Xin / Yang Ha-eun,CHN
+pair_Maharu_Yoshimura__Kasumi_Ishikawa_JPN,team,Maharu Yoshimura / Kasumi Ishikawa,JPN
+pair_Wong_Chun-ting__Doo_Hoi_Kem_HKG,team,Wong Chun-ting / Doo Hoi Kem,HKG
+pair_Liu_Shiwen__Zhu_Yuling_CHN,team,Liu Shiwen / Zhu Yuling,CHN
+pair_Ding_Ning__Li_Xiaoxia_CHN,team,Ding Ning / Li Xiaoxia,CHN
+pair_Li_Jie__Li_Qian_NLD,team,Li Jie / Li Qian,NLD
+athlete_Mu_Zi_CHN,athlete,Mu Zi,CHN
+pair_Fan_Zhendong__Xu_Xin_CHN,team,Fan Zhendong / Xu Xin,CHN
+pair_Masataka_Morizono__Yuya_Oshima_JPN,team,Masataka Morizono / Yuya Oshima,JPN
+pair_Jung_Young-sik__Lee_Sang-su_KOR,team,Jung Young-sik / Lee Sang-su,KOR
+pair_Koki_Niwa__Maharu_Yoshimura_JPN,team,Koki Niwa / Maharu Yoshimura,JPN
+athlete_Lee_Sang-su_KOR,athlete,Lee Sang-su,KOR
+pair_Chen_Chien-an__Cheng_I-ching_TPE,team,Chen Chien-an / Cheng I-ching,TPE
+pair_Fang_Bo__Petrissa_Solja_CHN,team,Fang Bo / Petrissa Solja,CHN
+pair_Hina_Hayata__Mima_Ito_JPN,team,Hina Hayata / Mima Ito,JPN
+athlete_Miu_Hirano_JPN,athlete,Miu Hirano,JPN
+pair_Ma_Long__Wang_Chuqin_CHN,team,Ma Long / Wang Chuqin,CHN
+pair_Ovidiu_Ionescu__Álvaro_Robles_ROU,team,Ovidiu Ionescu / Álvaro Robles,ROU
+pair_Liang_Jingkun__Lin_Gaoyuan_CHN,team,Liang Jingkun / Lin Gaoyuan,CHN
+pair_Tiago_Apolónia__João_Monteiro_PRT,team,Tiago Apolónia / João Monteiro,PRT
+athlete_Mattias_Falck_SWE,athlete,Mattias Falck,SWE
+athlete_An_Jae-hyun_KOR,athlete,An Jae-hyun,KOR
+athlete_Liang_Jingkun_CHN,athlete,Liang Jingkun,CHN
+pair_Xu_Xin__Liu_Shiwen_CHN,team,Xu Xin / Liu Shiwen,CHN
+pair_Fan_Zhendong__Ding_Ning_CHN,team,Fan Zhendong / Ding Ning,CHN
+pair_Patrick_Franziska__Petrissa_Solja_DEU,team,Patrick Franziska / Petrissa Solja,DEU
+pair_Sun_Yingsha__Wang_Manyu_CHN,team,Sun Yingsha / Wang Manyu,CHN
+pair_Honoka_Hashimoto__Hitomi_Sato_JPN,team,Honoka Hashimoto / Hitomi Sato,JPN
+athlete_Chen_Meng_CHN,athlete,Chen Meng,CHN
+athlete_Wang_Manyu_CHN,athlete,Wang Manyu,CHN
+pair_Mattias_Falck__Kristian_Karlsson_SWE,team,Mattias Falck / Kristian Karlsson,SWE
+pair_Jang_Woo-jin__Lim_Jong-hoon_KOR,team,Jang Woo-jin / Lim Jong-hoon,KOR
+pair_Shunsuke_Togami__Yukiya_Uda_JPN,team,Shunsuke Togami / Yukiya Uda,JPN
+athlete_Truls_Möregårdh_SWE,athlete,Truls Möregårdh,SWE
+pair_Wang_Chuqin__Sun_Yingsha_CHN,team,Wang Chuqin / Sun Yingsha,CHN
+pair_Tomokazu_Harimoto__Hina_Hayata_JPN,team,Tomokazu Harimoto / Hina Hayata,JPN
+pair_Lin_Gaoyuan__Lily_Zhang_CHN,team,Lin Gaoyuan / Lily Zhang,CHN
+pair_Lin_Yun-ju__Cheng_I-ching_TPE,team,Lin Yun-ju / Cheng I-ching,TPE
+pair_Chen_Meng__Qian_Tianyi_CHN,team,Chen Meng / Qian Tianyi,CHN
+pair_Sarah_de_Nutte__Ni_Xialian_LUX,team,Sarah de Nutte / Ni Xialian,LUX
+athlete_Sun_Yingsha_CHN,athlete,Sun Yingsha,CHN
+athlete_Wang_Yidi_CHN,athlete,Wang Yidi,CHN
+pair_Fan_Zhendong__Wang_Chuqin_CHN,team,Fan Zhendong / Wang Chuqin,CHN
+pair_Cho_Dae-seong__Lee_Sang-su_KOR,team,Cho Dae-seong / Lee Sang-su,KOR
+pair_Patrick_Franziska__Dimitrij_Ovtcharov_DEU,team,Patrick Franziska / Dimitrij Ovtcharov,DEU
+athlete_Wang_Chuqin_CHN,athlete,Wang Chuqin,CHN
+pair_Lin_Shidong__Kuai_Man_CHN,team,Lin Shidong / Kuai Man,CHN
+pair_Chen_Meng__Wang_Yidi_CHN,team,Chen Meng / Wang Yidi,CHN
+pair_Jeon_Ji-hee__Shin_Yu-bin_KOR,team,Jeon Ji-hee / Shin Yu-bin,KOR
+pair_Miyuu_Kihara__Miyu_Nagasaki_JPN,team,Miyuu Kihara / Miyu Nagasaki,JPN
+athlete_Chen_Xingtong_CHN,athlete,Chen Xingtong,CHN
+athlete_Hina_Hayata_JPN,athlete,Hina Hayata,JPN
+pair_Hiroto_Shinozuka__Shunsuke_Togami_JPN,team,Hiroto Shinozuka / Shunsuke Togami,JPN
+pair_Kao_Cheng-jui__Lin_Yun-ju_TPE,team,Kao Cheng-jui / Lin Yun-ju,TPE
+pair_Alexis_Lebrun__Félix_Lebrun_FRA,team,Alexis Lebrun / Félix Lebrun,FRA
+pair_Florian_Bourrassaud__Esteban_Dorr_FRA,team,Florian Bourrassaud / Esteban Dorr,FRA
+athlete_Hugo_Calderano_BRA,athlete,Hugo Calderano,BRA
+pair_Maharu_Yoshimura__Satsuki_Odo_JPN,team,Maharu Yoshimura / Satsuki Odo,JPN
+pair_Lim_Jong-hoon__Shin_Yu-bin_KOR,team,Lim Jong-hoon / Shin Yu-bin,KOR
+pair_Kuai_Man__Wang_Manyu_CHN,team,Kuai Man / Wang Manyu,CHN
+pair_Sofia_Polcanova__Bernadette_Szcs_AUT,team,Sofia Polcanova / Bernadette Szőcs,AUT
+pair_Miwa_Harimoto__Miyuu_Kihara_JPN,team,Miwa Harimoto / Miyuu Kihara,JPN
+pair_Ryu_Han-na__Shin_Yu-bin_KOR,team,Ryu Han-na / Shin Yu-bin,KOR
+athlete_Mima_Ito_JPN,athlete,Mima Ito,JPN

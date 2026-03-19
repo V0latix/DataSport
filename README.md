@@ -510,6 +510,35 @@ Comportement:
   - singles: `athlete_<nom>_<country_code>`
   - doubles: `pair_<nom1_nom2>_<country_code>`
 
+### 8l) Ingest ITTF World Table Tennis Championships (historique, 7 disciplines, top 4/podium)
+
+```bash
+python -m pipelines.ingest --connector ittf_world_table_tennis_championships_history --year 2026
+```
+
+Comportement:
+- ingere le seed local:
+  - `data/raw/table_tennis/ittf_world_table_tennis_championships_podium_seed.csv`
+- cree la competition:
+  - `ittf_world_table_tennis_championships`
+- cree 7 disciplines:
+  - `table-tennis_mens-team`
+  - `table-tennis_womens-team`
+  - `table-tennis_mens-singles`
+  - `table-tennis_womens-singles`
+  - `table-tennis_mens-doubles`
+  - `table-tennis_womens-doubles`
+  - `table-tennis_mixed-doubles`
+- cree un event par edition et discipline (`ittf_world_table_tennis_championships_<YYYY>_<discipline_key>`)
+- preserve les profils historiques du podium (ex: top 3 simple, doubles medailles partagees, egalites argent/bronze selon editions)
+- sport/discipline:
+  - sport `table-tennis`
+  - disciplines par format (`team/singles/doubles/mixed`)
+- `participant_id`:
+  - team (par equipes nationales): code pays
+  - singles: `athlete_<nom>_<country_code>`
+  - doubles/mixte: `pair_<nom1_nom2>_<country_code>`
+
 ### 9) Ingest JO d'été Paris 2024 (connecteur dédié, optionnel)
 
 ```bash
