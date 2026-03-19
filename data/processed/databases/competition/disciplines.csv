@@ -31,7 +31,7 @@ archery,Archery,archery,archery,0.95,connector_olympics_keith_history,2026-02-25
 artistic-gymnastics-gymnastics,Artistic Gymnastics (Gymnastics),artistic-gymnastics-gymnastics,artistic-gymnastics-gymnastics,0.95,connector_olympics_keith_history,2026-02-25T00:05:53+00:00
 artistic-swimming-aquatics,Artistic Swimming (Aquatics),artistic-swimming-aquatics,artistic-swimming-aquatics,0.95,connector_olympics_keith_history,2026-02-25T00:05:53+00:00
 athletics,Athletics,athletics,athletics,0.95,connector_olympics_keith_history,2026-02-25T00:05:53+00:00
-badminton,Badminton,badminton,badminton,0.95,connector_olympics_keith_history,2026-02-25T00:05:53+00:00
+badminton,Badminton,badminton,badminton,1.0,connector_bwf_world_championships_history,2026-03-19T17:44:14+00:00
 baseball-baseball-softball,Baseball (Baseball/Softball),baseball-baseball-softball,baseball-baseball-softball,0.95,connector_olympics_keith_history,2026-02-25T00:05:53+00:00
 3x3-basketball,3x3 Basketball,3x3-basketball,basketball,0.95,connector_olympics_keith_history,2026-02-25T00:05:53+00:00
 basketball-basketball,Basketball (Basketball),basketball-basketball,basketball-basketball,0.95,connector_olympics_keith_history,2026-02-25T00:05:53+00:00
@@ -206,3 +206,8 @@ rugby-union,Rugby Union,rugby-union,rugby,1.0,connector_world_rugby_ranking_hist
 rugby-league,Rugby League,rugby-league,rugby,1.0,connector_rugby_league_world_cup_history,2026-03-18T20:49:38+00:00
 baseball,Baseball,baseball,baseball,1.0,connector_wbsc_baseball_softball_world_championship_history,2026-03-18T22:57:20+00:00
 softball,Softball,softball,baseball,1.0,connector_wbsc_baseball_softball_world_championship_history,2026-03-18T22:57:20+00:00
+badminton_mens-singles,Men's singles,men-s-singles,badminton,1.0,connector_bwf_world_championships_history,2026-03-19T18:09:29+00:00
+badminton_womens-singles,Women's singles,women-s-singles,badminton,1.0,connector_bwf_world_championships_history,2026-03-19T18:09:29+00:00
+badminton_mens-doubles,Men's doubles,men-s-doubles,badminton,1.0,connector_bwf_world_championships_history,2026-03-19T18:09:29+00:00
+badminton_womens-doubles,Women's doubles,women-s-doubles,badminton,1.0,connector_bwf_world_championships_history,2026-03-19T18:09:29+00:00
+badminton_mixed-doubles,Mixed doubles,mixed-doubles,badminton,1.0,connector_bwf_world_championships_history,2026-03-19T18:09:29+00:00

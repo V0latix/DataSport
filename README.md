@@ -484,6 +484,32 @@ Comportement:
   - `softball` (discipline du sport `baseball`)
 - `participant_id` est le code pays (avec mapping pour codes non-ISO usuels, ex: `Chinese Taipei -> TPE`)
 
+### 8k) Ingest BWF World Championships (historique, 5 disciplines, top 4)
+
+```bash
+python -m pipelines.ingest --connector bwf_world_championships_history --year 2026
+```
+
+Comportement:
+- ingere le seed local:
+  - `data/raw/badminton/bwf_world_championships_top4_by_discipline_seed.csv`
+- cree la competition:
+  - `bwf_world_championships`
+- cree 5 disciplines badminton:
+  - `badminton_mens-singles`
+  - `badminton_womens-singles`
+  - `badminton_mens-doubles`
+  - `badminton_womens-doubles`
+  - `badminton_mixed-doubles`
+- cree un event par edition et discipline (`bwf_world_championships_<YYYY>_<discipline_key>`)
+- stocke le top 4 par event (rangs `1, 2, 3, 3`; deux bronzes)
+- sport/discipline:
+  - sport `badminton`
+  - disciplines par epreuve (`singles/doubles/mixed`)
+- `participant_id`:
+  - singles: `athlete_<nom>_<country_code>`
+  - doubles: `pair_<nom1_nom2>_<country_code>`
+
 ### 9) Ingest JO d'été Paris 2024 (connecteur dédié, optionnel)
 
 ```bash

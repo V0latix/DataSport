@@ -1,0 +1,581 @@
+year,event_date,discipline_key,discipline_name,gender,rank,medal,participant_type,participant_name,country_name
+1977,1977-12-31,mens_doubles,Men's doubles,men,1,gold,team,Tjun Tjun / Johan Wahjudi,Indonesia
+1977,1977-12-31,mens_doubles,Men's doubles,men,2,silver,team,Ade Chandra / Christian Hadinata,Indonesia
+1977,1977-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Bengt Fröman / Thomas Kihlström,Sweden
+1977,1977-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Ray Stevens / Mike Tredgett,England
+1977,1977-12-31,mens_singles,Men's singles,men,1,gold,athlete,Flemming Delfs,Denmark
+1977,1977-12-31,mens_singles,Men's singles,men,2,silver,athlete,Svend Pri,Denmark
+1977,1977-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Iie Sumirat,Indonesia
+1977,1977-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Thomas Kihlström,Sweden
+1977,1977-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Steen Skovgaard / Lene Køppen,Denmark
+1977,1977-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Derek Talbot / Gillian Gilks,England
+1977,1977-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Billy Gilliland / Joanne Flockhart,Scotland
+1977,1977-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Mike Tredgett / Nora Perry,England
+1977,1977-12-31,womens_doubles,Women's doubles,women,1,gold,team,Etsuko Toganoo / Emiko Ueno,Japan
+1977,1977-12-31,womens_doubles,Women's doubles,women,2,silver,team,Marjan Ridder / Joke van Beusekom,Netherlands
+1977,1977-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Inge Borgstrøm / Pia Nielsen,Denmark
+1977,1977-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Margaret Beck / Nora Perry,England
+1977,1977-12-31,womens_singles,Women's singles,women,1,gold,athlete,Lene Køppen,Denmark
+1977,1977-12-31,womens_singles,Women's singles,women,2,silver,athlete,Gillian Gilks,England
+1977,1977-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Hiroe Yuki,Japan
+1977,1977-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Margaret Lockwood,England
+1980,1980-12-31,mens_doubles,Men's doubles,men,1,gold,team,Ade Chandra / Christian Hadinata,Indonesia
+1980,1980-12-31,mens_doubles,Men's doubles,men,2,silver,team,Rudy Heryanto / Hariamanto Kartono,Indonesia
+1980,1980-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Flemming Delfs / Steen Skovgaard,Denmark
+1980,1980-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Jalani Sidek / Misbun Sidek,Malaysia
+1980,1980-12-31,mens_singles,Men's singles,men,1,gold,athlete,Rudy Hartono,Indonesia
+1980,1980-12-31,mens_singles,Men's singles,men,2,silver,athlete,Liem Swie King,Indonesia
+1980,1980-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Hadiyanto,Indonesia
+1980,1980-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Lius Pongoh,Indonesia
+1980,1980-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Christian Hadinata / Imelda Wiguna,Indonesia
+1980,1980-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Mike Tredgett / Nora Perry,England
+1980,1980-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Steen Fladberg / Pia Nielsen,Denmark
+1980,1980-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Steen Skovgaard / Lene Køppen,Denmark
+1980,1980-12-31,womens_doubles,Women's doubles,women,1,gold,team,Nora Perry / Jane Webster,England
+1980,1980-12-31,womens_doubles,Women's doubles,women,2,silver,team,Verawaty Fadjrin / Imelda Wiguna,Indonesia
+1980,1980-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Atsuko Tokuda / Yoshiko Yonekura,Japan
+1980,1980-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Karen Bridge / Barbara Sutton,England
+1980,1980-12-31,womens_singles,Women's singles,women,1,gold,athlete,Verawaty Fadjrin,Indonesia
+1980,1980-12-31,womens_singles,Women's singles,women,2,silver,athlete,Ivana Lie,Indonesia
+1980,1980-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Lene Køppen,Denmark
+1980,1980-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Taty Sumirah,Indonesia
+1983,1983-12-31,mens_doubles,Men's doubles,men,1,gold,team,Steen Fladberg / Jesper Helledie,Denmark
+1983,1983-12-31,mens_doubles,Men's doubles,men,2,silver,team,Martin Dew / Mike Tredgett,England
+1983,1983-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Bobby Ertanto / Christian Hadinata,Indonesia
+1983,1983-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Lee Eun-ku / Park Joo-bong,South Korea
+1983,1983-12-31,mens_singles,Men's singles,men,1,gold,athlete,Icuk Sugiarto,Indonesia
+1983,1983-12-31,mens_singles,Men's singles,men,2,silver,athlete,Liem Swie King,Indonesia
+1983,1983-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Han Jian,China
+1983,1983-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Prakash Padukone,India
+1983,1983-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Thomas Kihlström / Nora Perry,Sweden
+1983,1983-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Steen Fladberg / Pia Nielsen,Denmark
+1983,1983-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Jiang Guoliang / Lin Ying,China
+1983,1983-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Mike Tredgett / Karen Chapman,England
+1983,1983-12-31,womens_doubles,Women's doubles,women,1,gold,team,Lin Ying / Wu Dixi,China
+1983,1983-12-31,womens_doubles,Women's doubles,women,2,silver,team,Nora Perry / Jane Webster,England
+1983,1983-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Gillian Clark / Gillian Gilks,England
+1983,1983-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Wu Jianqiu / Xu Rong,China
+1983,1983-12-31,womens_singles,Women's singles,women,1,gold,athlete,Li Lingwei,China
+1983,1983-12-31,womens_singles,Women's singles,women,2,silver,athlete,Han Aiping,China
+1983,1983-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Helen Troke,England
+1983,1983-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Zhang Ailing,China
+1985,1985-12-31,mens_doubles,Men's doubles,men,1,gold,team,Kim Moon-soo / Park Joo-bong,South Korea
+1985,1985-12-31,mens_doubles,Men's doubles,men,2,silver,team,Li Yongbo / Tian Bingyi,China
+1985,1985-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Hariamanto Kartono / Liem Swie King,Indonesia
+1985,1985-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Mark Christiansen / Michael Kjeldsen,Denmark
+1985,1985-12-31,mens_singles,Men's singles,men,1,gold,athlete,Han Jian,China
+1985,1985-12-31,mens_singles,Men's singles,men,2,silver,athlete,Morten Frost,Denmark
+1985,1985-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Jens Peter Nierhoff,Denmark
+1985,1985-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Yang Yang,China
+1985,1985-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Park Joo-bong / Yoo Sang-hee,South Korea
+1985,1985-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Stefan Karlsson / Maria Bengtsson,Sweden
+1985,1985-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Nigel Tier / Gillian Gowers,England
+1985,1985-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Zhang Xinguang / Lao Yujing,China
+1985,1985-12-31,womens_doubles,Women's doubles,women,1,gold,team,Han Aiping / Li Lingwei,China
+1985,1985-12-31,womens_doubles,Women's doubles,women,2,silver,team,Lin Ying / Wu Dixi,China
+1985,1985-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Hwang Sun-ae / Kang Haeng-suk,South Korea
+1985,1985-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Kim Yun-ja / Yoo Sang-hee,South Korea
+1985,1985-12-31,womens_singles,Women's singles,women,1,gold,athlete,Han Aiping,China
+1985,1985-12-31,womens_singles,Women's singles,women,2,silver,athlete,Wu Jianqui,China
+1985,1985-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Li Lingwei,China
+1985,1985-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Zheng Yuli,China
+1987,1987-12-31,mens_doubles,Men's doubles,men,1,gold,team,Li Yongbo / Tian Bingyi,China
+1987,1987-12-31,mens_doubles,Men's doubles,men,2,silver,team,Jalani Sidek / Razif Sidek,Malaysia
+1987,1987-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Kim Moon-soo / Park Joo-bong,South Korea
+1987,1987-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Michael Kjeldsen / Jens Peter Nierhoff,Denmark
+1987,1987-12-31,mens_singles,Men's singles,men,1,gold,athlete,Yang Yang,China
+1987,1987-12-31,mens_singles,Men's singles,men,2,silver,athlete,Morten Frost,Denmark
+1987,1987-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Icuk Sugiarto,Indonesia
+1987,1987-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Zhao Jianhua,China
+1987,1987-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Wang Pengren / Shi Fangjing,China
+1987,1987-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Lee Deuk-choon / Chung Myung-hee,South Korea
+1987,1987-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,He Yiming / Yang Xinfang,China
+1987,1987-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Martin Dew / Gillian Gilks,England
+1987,1987-12-31,womens_doubles,Women's doubles,women,1,gold,team,Guan Weizhen / Lin Ying,China
+1987,1987-12-31,womens_doubles,Women's doubles,women,2,silver,team,Han Aiping / Li Lingwei,China
+1987,1987-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Chung Myung-hee / Hwang Hye-young,South Korea
+1987,1987-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Chung So-young / Kim Yun-ja,South Korea
+1987,1987-12-31,womens_singles,Women's singles,women,1,gold,athlete,Han Aiping,China
+1987,1987-12-31,womens_singles,Women's singles,women,2,silver,athlete,Li Lingwei,China
+1987,1987-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Gu Jiaming,China
+1987,1987-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Zheng Yuli,China
+1989,1989-12-31,mens_doubles,Men's doubles,men,1,gold,team,Li Yongbo / Tian Bingyi,China
+1989,1989-12-31,mens_doubles,Men's doubles,men,2,silver,team,Chen Hongyong / Chen Kang,China
+1989,1989-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Jalani Sidek / Razif Sidek,Malaysia
+1989,1989-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Rudy Gunawan / Eddy Hartono,Indonesia
+1989,1989-12-31,mens_singles,Men's singles,men,1,gold,athlete,Yang Yang,China
+1989,1989-12-31,mens_singles,Men's singles,men,2,silver,athlete,Ardy Wiranata,Indonesia
+1989,1989-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Eddy Kurniawan,Indonesia
+1989,1989-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Icuk Sugiarto,Indonesia
+1989,1989-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Park Joo-bong / Chung Myung-hee,South Korea
+1989,1989-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Eddy Hartono / Verawaty Fadjrin,Indonesia
+1989,1989-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Wang Pengren / Shi Fangjing,China
+1989,1989-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Wu Chibing / Yang Xinfang,China
+1989,1989-12-31,womens_doubles,Women's doubles,women,1,gold,team,Guan Weizhen / Lin Ying,China
+1989,1989-12-31,womens_doubles,Women's doubles,women,2,silver,team,Chung Myung-hee / Hwang Hye-young,South Korea
+1989,1989-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Maria Bengtsson / Christine Magnusson,Sweden
+1989,1989-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Sun Xiaoqing / Zhou Lei,China
+1989,1989-12-31,womens_singles,Women's singles,women,1,gold,athlete,Li Lingwei,China
+1989,1989-12-31,womens_singles,Women's singles,women,2,silver,athlete,Huang Hua,China
+1989,1989-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Sarwendah Kusumawardhani,Indonesia
+1989,1989-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Tang Jiuhong,China
+1991,1991-12-31,mens_doubles,Men's doubles,men,1,gold,team,Kim Moon-soo / Park Joo-bong,South Korea
+1991,1991-12-31,mens_doubles,Men's doubles,men,2,silver,team,Jon Holst-Christensen / Thomas Lund,Denmark
+1991,1991-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Imay Hendra / Bagus Setiadi,Indonesia
+1991,1991-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Li Yongbo / Tian Bingyi,China
+1991,1991-12-31,mens_singles,Men's singles,men,1,gold,athlete,Zhao Jianhua,China
+1991,1991-12-31,mens_singles,Men's singles,men,2,silver,athlete,Alan Budikusuma,Indonesia
+1991,1991-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Ardy Wiranata,Indonesia
+1991,1991-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Liu Jun,China
+1991,1991-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Park Joo-bong / Chung Myung-hee,South Korea
+1991,1991-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Thomas Lund / Pernille Dupont,Denmark
+1991,1991-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Jon Holst-Christensen / Grete Mogensen,Denmark
+1991,1991-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Kang Kyung-jin / Shim Eun-jung,South Korea
+1991,1991-12-31,womens_doubles,Women's doubles,women,1,gold,team,Guan Weizhen / Nong Qunhua,China
+1991,1991-12-31,womens_doubles,Women's doubles,women,2,silver,team,Maria Bengtsson / Christine Magnusson,Sweden
+1991,1991-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Chung So-young / Hwang Hye-young,South Korea
+1991,1991-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Gil Young-ah / Shim Eun-jung,South Korea
+1991,1991-12-31,womens_singles,Women's singles,women,1,gold,athlete,Tang Jiuhong,China
+1991,1991-12-31,womens_singles,Women's singles,women,2,silver,athlete,Sarwendah Kusumawardhani,Indonesia
+1991,1991-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Lee Heung-soon,South Korea
+1991,1991-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Susi Susanti,Indonesia
+1993,1993-12-31,mens_doubles,Men's doubles,men,1,gold,team,Rudy Gunawan / Ricky Subagja,Indonesia
+1993,1993-12-31,mens_doubles,Men's doubles,men,2,silver,team,Cheah Soon Kit / Soo Beng Kiang,Malaysia
+1993,1993-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Chen Hongyong / Chen Kang,China
+1993,1993-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Peter Axelsson / Pär-Gunnar Jönsson,Sweden
+1993,1993-12-31,mens_singles,Men's singles,men,1,gold,athlete,Joko Suprianto,Indonesia
+1993,1993-12-31,mens_singles,Men's singles,men,2,silver,athlete,Hermawan Susanto,Indonesia
+1993,1993-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Ardy Wiranata,Indonesia
+1993,1993-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Thomas Stuer-Lauridsen,Denmark
+1993,1993-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Thomas Lund / Catrine Bengtsson,Denmark
+1993,1993-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Jon Holst-Christensen / Grete Mogensen,Denmark
+1993,1993-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Aryono Miranat / Eliza Nathanael,Indonesia
+1993,1993-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Nick Ponting / Gillian Clark,England
+1993,1993-12-31,womens_doubles,Women's doubles,women,1,gold,team,Nong Qunhua / Zhou Lei,China
+1993,1993-12-31,womens_doubles,Women's doubles,women,2,silver,team,Chen Ying / Wu Yuhong,China
+1993,1993-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Chung So-young / Gil Young-ah,South Korea
+1993,1993-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Lotte Olsen / Lisbeth Stuer-Lauridsen,Denmark
+1993,1993-12-31,womens_singles,Women's singles,women,1,gold,athlete,Susi Susanti,Indonesia
+1993,1993-12-31,womens_singles,Women's singles,women,2,silver,athlete,Bang Soo-hyun,South Korea
+1993,1993-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Tang Jiuhong,China
+1993,1993-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Ye Zhaoying,China
+1995,1995-12-31,mens_doubles,Men's doubles,men,1,gold,team,Rexy Mainaky / Ricky Subagja,Indonesia
+1995,1995-12-31,mens_doubles,Men's doubles,men,2,silver,team,Jon Holst-Christensen / Thomas Lund,Denmark
+1995,1995-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Cheah Soon Kit / Yap Kim Hock,Malaysia
+1995,1995-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Kim Dong-moon / Yoo Yong-sung,South Korea
+1995,1995-12-31,mens_singles,Men's singles,men,1,gold,athlete,Hariyanto Arbi,Indonesia
+1995,1995-12-31,mens_singles,Men's singles,men,2,silver,athlete,Park Sung-woo,South Korea
+1995,1995-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Poul-Erik Høyer Larsen,Denmark
+1995,1995-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Thomas Stuer-Lauridsen,Denmark
+1995,1995-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Thomas Lund / Marlene Thomsen,Denmark
+1995,1995-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Jens Eriksen / Helene Kirkegaard,Denmark
+1995,1995-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Jan-Eric Antonsson / Astrid Crabo,Sweden
+1995,1995-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Liu Jianjun / Ge Fei,China
+1995,1995-12-31,womens_doubles,Women's doubles,women,1,gold,team,Gil Young-ah / Jang Hye-ock,South Korea
+1995,1995-12-31,womens_doubles,Women's doubles,women,2,silver,team,Finarsih / Lili Tampi,Indonesia
+1995,1995-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Helene Kirkegaard / Rikke Olsen,Denmark
+1995,1995-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Qin Yiyuan / Tang Yongshu,China
+1995,1995-12-31,womens_singles,Women's singles,women,1,gold,athlete,Ye Zhaoying,China
+1995,1995-12-31,womens_singles,Women's singles,women,2,silver,athlete,Han Jingna,China
+1995,1995-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Bang Soo-hyun,South Korea
+1995,1995-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Susi Susanti,Indonesia
+1997,1997-12-31,mens_doubles,Men's doubles,men,1,gold,team,Sigit Budiarto / Candra Wijaya,Indonesia
+1997,1997-12-31,mens_doubles,Men's doubles,men,2,silver,team,Cheah Soon Kit / Yap Kim Hock,Malaysia
+1997,1997-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Lee Dong-soo / Yoo Yong-sung,South Korea
+1997,1997-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Rexy Mainaky / Ricky Subagja,Indonesia
+1997,1997-12-31,mens_singles,Men's singles,men,1,gold,athlete,Peter Rasmussen,Denmark
+1997,1997-12-31,mens_singles,Men's singles,men,2,silver,athlete,Sun Jun,China
+1997,1997-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Hariyanto Arbi,Indonesia
+1997,1997-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Poul-Erik Høyer Larsen,Denmark
+1997,1997-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Liu Yong / Ge Fei,China
+1997,1997-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Jens Eriksen / Marlene Thomsen,Denmark
+1997,1997-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Michael Søgaard / Rikke Olsen,Denmark
+1997,1997-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Tri Kusharjanto / Minarti Timur,Indonesia
+1997,1997-12-31,womens_doubles,Women's doubles,women,1,gold,team,Ge Fei / Gu Jun,China
+1997,1997-12-31,womens_doubles,Women's doubles,women,2,silver,team,Qin Yiyuan / Tang Yongshu,China
+1997,1997-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Eliza Nathanael / Zelin Resiana,Indonesia
+1997,1997-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Liu Lu / Qiang Hong,China
+1997,1997-12-31,womens_singles,Women's singles,women,1,gold,athlete,Ye Zhaoying,China
+1997,1997-12-31,womens_singles,Women's singles,women,2,silver,athlete,Gong Zhichao,China
+1997,1997-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Han Jingna,China
+1997,1997-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Wang Chen,China
+1999,1999-12-31,mens_doubles,Men's doubles,men,1,gold,team,Ha Tae-kwon / Kim Dong-moon,South Korea
+1999,1999-12-31,mens_doubles,Men's doubles,men,2,silver,team,Lee Dong-soo / Yoo Yong-sung,South Korea
+1999,1999-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Simon Archer / Nathan Robertson,England
+1999,1999-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Zhang Jun / Zhang Wei,China
+1999,1999-12-31,mens_singles,Men's singles,men,1,gold,athlete,Sun Jun,China
+1999,1999-12-31,mens_singles,Men's singles,men,2,silver,athlete,Fung Permadi,Chinese Taipei
+1999,1999-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Peter Gade,Denmark
+1999,1999-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Poul-Erik Høyer Larsen,Denmark
+1999,1999-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Kim Dong-moon / Ra Kyung-min,South Korea
+1999,1999-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Simon Archer / Joanne Goode,England
+1999,1999-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Liu Yong / Ge Fei,China
+1999,1999-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Michael Søgaard / Rikke Olsen,Denmark
+1999,1999-12-31,womens_doubles,Women's doubles,women,1,gold,team,Ge Fei / Gu Jun,China
+1999,1999-12-31,womens_doubles,Women's doubles,women,2,silver,team,Chung Jae-hee / Ra Kyung-min,South Korea
+1999,1999-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Ann Jørgensen / Majken Vange,Denmark
+1999,1999-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Gao Ling / Qin Yiyuan,China
+1999,1999-12-31,womens_singles,Women's singles,women,1,gold,athlete,Camilla Martin,Denmark
+1999,1999-12-31,womens_singles,Women's singles,women,2,silver,athlete,Dai Yun,China
+1999,1999-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Gong Ruina,China
+1999,1999-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Mette Sørensen,Denmark
+2001,2001-12-31,mens_doubles,Men's doubles,men,1,gold,team,Tony Gunawan / Halim Haryanto,Indonesia
+2001,2001-12-31,mens_doubles,Men's doubles,men,2,silver,team,Ha Tae-kwon / Kim Dong-moon,South Korea
+2001,2001-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Chan Chong Ming / Chew Choon Eng,Malaysia
+2001,2001-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Choong Tan Fook / Lee Wan Wah,Malaysia
+2001,2001-12-31,mens_singles,Men's singles,men,1,gold,athlete,Hendrawan,Indonesia
+2001,2001-12-31,mens_singles,Men's singles,men,2,silver,athlete,Peter Gade,Denmark
+2001,2001-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Chen Hong,China
+2001,2001-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Taufik Hidayat,Indonesia
+2001,2001-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Zhang Jun / Gao Ling,China
+2001,2001-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Kim Dong-moon / Ra Kyung-min,South Korea
+2001,2001-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Jens Eriksen / Mette Schjoldager,Denmark
+2001,2001-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Michael Søgaard / Rikke Olsen,Denmark
+2001,2001-12-31,womens_doubles,Women's doubles,women,1,gold,team,Gao Ling / Huang Sui,China
+2001,2001-12-31,womens_doubles,Women's doubles,women,2,silver,team,Wei Yili / Zhang Jiewen,China
+2001,2001-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Chen Lin / Jiang Xuelian,China
+2001,2001-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Lee Kyung-won / Ra Kyung-min,South Korea
+2001,2001-12-31,womens_singles,Women's singles,women,1,gold,athlete,Gong Ruina,China
+2001,2001-12-31,womens_singles,Women's singles,women,2,silver,athlete,Zhou Mi,China
+2001,2001-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Gong Zhichao,China
+2001,2001-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Zhang Ning,China
+2003,2003-12-31,mens_doubles,Men's doubles,men,1,gold,team,Lars Paaske / Jonas Rasmussen,Denmark
+2003,2003-12-31,mens_doubles,Men's doubles,men,2,silver,team,Sigit Budiarto / Candra Wijaya,Indonesia
+2003,2003-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Cai Yun / Fu Haifeng,China
+2003,2003-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Sang Yang / Zheng Bo,China
+2003,2003-12-31,mens_singles,Men's singles,men,1,gold,athlete,Xia Xuanze,China
+2003,2003-12-31,mens_singles,Men's singles,men,2,silver,athlete,Wong Choong Hann,Malaysia
+2003,2003-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Bao Chunlai,China
+2003,2003-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Shon Seung-mo,South Korea
+2003,2003-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Kim Dong-moon / Ra Kyung-min,South Korea
+2003,2003-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Zhang Jun / Gao Ling,China
+2003,2003-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Chen Qiqiu / Zhao Tingting,China
+2003,2003-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Jonas Rasmussen / Rikke Olsen,Denmark
+2003,2003-12-31,womens_doubles,Women's doubles,women,1,gold,team,Gao Ling / Huang Sui,China
+2003,2003-12-31,womens_doubles,Women's doubles,women,2,silver,team,Wei Yili / Zhao Tingting,China
+2003,2003-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Ann-Lou Jørgensen / Rikke Olsen,Denmark
+2003,2003-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Seiko Yamada / Shizuka Yamamoto,Japan
+2003,2003-12-31,womens_singles,Women's singles,women,1,gold,athlete,Zhang Ning,China
+2003,2003-12-31,womens_singles,Women's singles,women,2,silver,athlete,Gong Ruina,China
+2003,2003-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Mia Audina,Netherlands
+2003,2003-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Zhou Mi,China
+2005,2005-12-31,mens_doubles,Men's doubles,men,1,gold,team,Howard Bach / Tony Gunawan,United States
+2005,2005-12-31,mens_doubles,Men's doubles,men,2,silver,team,Sigit Budiarto / Candra Wijaya,Indonesia
+2005,2005-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Chan Chong Ming / Koo Kien Keat,Malaysia
+2005,2005-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Luluk Hadiyanto / Alvent Yulianto,Indonesia
+2005,2005-12-31,mens_singles,Men's singles,men,1,gold,athlete,Taufik Hidayat,Indonesia
+2005,2005-12-31,mens_singles,Men's singles,men,2,silver,athlete,Lin Dan,China
+2005,2005-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Lee Chong Wei,Malaysia
+2005,2005-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Peter Gade,Denmark
+2005,2005-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Nova Widianto / Liliyana Natsir,Indonesia
+2005,2005-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Xie Zhongbo / Zhang Yawen,China
+2005,2005-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Daniel Shirley / Sara Petersen,New Zealand
+2005,2005-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Sudket Prapakamol / Saralee Thungthongkam,Thailand
+2005,2005-12-31,womens_doubles,Women's doubles,women,1,gold,team,Yang Wei / Zhang Jiewen,China
+2005,2005-12-31,womens_doubles,Women's doubles,women,2,silver,team,Gao Ling / Huang Sui,China
+2005,2005-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Lee Hyo-jung / Lee Kyung-won,South Korea
+2005,2005-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Zhang Dan / Zhang Yawen,China
+2005,2005-12-31,womens_singles,Women's singles,women,1,gold,athlete,Xie Xingfang,China
+2005,2005-12-31,womens_singles,Women's singles,women,2,silver,athlete,Zhang Ning,China
+2005,2005-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Cheng Shao-chieh,Chinese Taipei
+2005,2005-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Xu Huaiwen,Germany
+2006,2006-12-31,mens_doubles,Men's doubles,men,1,gold,team,Cai Yun / Fu Haifeng,China
+2006,2006-12-31,mens_doubles,Men's doubles,men,2,silver,team,Robert Blair / Anthony Clark,England
+2006,2006-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Jens Eriksen / Martin Lundgaard Hansen,Denmark
+2006,2006-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Lars Paaske / Jonas Rasmussen,Denmark
+2006,2006-12-31,mens_singles,Men's singles,men,1,gold,athlete,Lin Dan,China
+2006,2006-12-31,mens_singles,Men's singles,men,2,silver,athlete,Bao Chunlai,China
+2006,2006-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Chen Hong,China
+2006,2006-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Lee Hyun-il,South Korea
+2006,2006-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Nathan Robertson / Gail Emms,England
+2006,2006-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Anthony Clark / Donna Kellogg,England
+2006,2006-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Koo Kien Keat / Wong Pei Tty,Malaysia
+2006,2006-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Sudket Prapakamol / Saralee Thungthongkam,Thailand
+2006,2006-12-31,womens_doubles,Women's doubles,women,1,gold,team,Gao Ling / Huang Sui,China
+2006,2006-12-31,womens_doubles,Women's doubles,women,2,silver,team,Wei Yili / Zhang Yawen,China
+2006,2006-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Du Jing / Yu Yang,China
+2006,2006-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Yang Wei / Zhang Jiewen,China
+2006,2006-12-31,womens_singles,Women's singles,women,1,gold,athlete,Xie Xingfang,China
+2006,2006-12-31,womens_singles,Women's singles,women,2,silver,athlete,Zhang Ning,China
+2006,2006-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Petra Overzier,Germany
+2006,2006-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Xu Huaiwen,Germany
+2007,2007-12-31,mens_doubles,Men's doubles,men,1,gold,team,Markis Kido / Hendra Setiawan,Indonesia
+2007,2007-12-31,mens_doubles,Men's doubles,men,2,silver,team,Jung Jae-sung / Lee Yong-dae,South Korea
+2007,2007-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Choong Tan Fook / Lee Wan Wah,Malaysia
+2007,2007-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Shintaro Ikeda / Shuichi Sakamoto,Japan
+2007,2007-12-31,mens_singles,Men's singles,men,1,gold,athlete,Lin Dan,China
+2007,2007-12-31,mens_singles,Men's singles,men,2,silver,athlete,Sony Dwi Kuncoro,Indonesia
+2007,2007-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Bao Chunlai,China
+2007,2007-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Chen Yu,China
+2007,2007-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Nova Widianto / Liliyana Natsir,Indonesia
+2007,2007-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Zheng Bo / Gao Ling,China
+2007,2007-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Flandy Limpele / Vita Marissa,Indonesia
+2007,2007-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Xie Zhongbo / Zhang Yawen,China
+2007,2007-12-31,womens_doubles,Women's doubles,women,1,gold,team,Yang Wei / Zhang Jiewen,China
+2007,2007-12-31,womens_doubles,Women's doubles,women,2,silver,team,Gao Ling / Huang Sui,China
+2007,2007-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Kumiko Ogura / Reiko Shiota,Japan
+2007,2007-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Wei Yili / Zhang Yawen,China
+2007,2007-12-31,womens_singles,Women's singles,women,1,gold,athlete,Zhu Lin,China
+2007,2007-12-31,womens_singles,Women's singles,women,2,silver,athlete,Wang Chen,Hong Kong
+2007,2007-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Lu Lan,China
+2007,2007-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Zhang Ning,China
+2009,2009-12-31,mens_doubles,Men's doubles,men,1,gold,team,Cai Yun / Fu Haifeng,China
+2009,2009-12-31,mens_doubles,Men's doubles,men,2,silver,team,Jung Jae-sung / Lee Yong-dae,South Korea
+2009,2009-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Koo Kien Keat / Tan Boon Heong,Malaysia
+2009,2009-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Mohd Zakry Abdul Latif / Mohd Fairuzizuan Mohd Tazari,Malaysia
+2009,2009-12-31,mens_singles,Men's singles,men,1,gold,athlete,Lin Dan,China
+2009,2009-12-31,mens_singles,Men's singles,men,2,silver,athlete,Chen Jin,China
+2009,2009-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Sony Dwi Kuncoro,Indonesia
+2009,2009-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Taufik Hidayat,Indonesia
+2009,2009-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Thomas Laybourn / Kamilla Rytter Juhl,Denmark
+2009,2009-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Nova Widianto / Liliyana Natsir,Indonesia
+2009,2009-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Joachim Fischer Nielsen / Christinna Pedersen,Denmark
+2009,2009-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Lee Yong-dae / Lee Hyo-jung,South Korea
+2009,2009-12-31,womens_doubles,Women's doubles,women,1,gold,team,Zhang Yawen / Zhao Tingting,China
+2009,2009-12-31,womens_doubles,Women's doubles,women,2,silver,team,Cheng Shu / Zhao Yunlei,China
+2009,2009-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Du Jing / Yu Yang,China
+2009,2009-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Ma Jin / Wang Xiaoli,China
+2009,2009-12-31,womens_singles,Women's singles,women,1,gold,athlete,Lu Lan,China
+2009,2009-12-31,womens_singles,Women's singles,women,2,silver,athlete,Xie Xingfang,China
+2009,2009-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Pi Hongyan,France
+2009,2009-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Wang Lin,China
+2010,2010-12-31,mens_doubles,Men's doubles,men,1,gold,team,Cai Yun / Fu Haifeng,China
+2010,2010-12-31,mens_doubles,Men's doubles,men,2,silver,team,Koo Kien Keat / Tan Boon Heong,Malaysia
+2010,2010-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Guo Zhendong / Xu Chen,China
+2010,2010-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Markis Kido / Hendra Setiawan,Indonesia
+2010,2010-12-31,mens_singles,Men's singles,men,1,gold,athlete,Chen Jin,China
+2010,2010-12-31,mens_singles,Men's singles,men,2,silver,athlete,Taufik Hidayat,Indonesia
+2010,2010-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Park Sung-hwan,South Korea
+2010,2010-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Peter Gade,Denmark
+2010,2010-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Zheng Bo / Ma Jin,China
+2010,2010-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,He Hanbin / Yu Yang,China
+2010,2010-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Ko Sung-hyun / Ha Jung-eun,South Korea
+2010,2010-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Lee Sheng-mu / Chien Yu-chin,Chinese Taipei
+2010,2010-12-31,womens_doubles,Women's doubles,women,1,gold,team,Du Jing / Yu Yang,China
+2010,2010-12-31,womens_doubles,Women's doubles,women,2,silver,team,Ma Jin / Wang Xiaoli,China
+2010,2010-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Cheng Shu / Zhao Yunlei,China
+2010,2010-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Cheng Wen-hsing / Chien Yu-chin,Chinese Taipei
+2010,2010-12-31,womens_singles,Women's singles,women,1,gold,athlete,Wang Lin,China
+2010,2010-12-31,womens_singles,Women's singles,women,2,silver,athlete,Wang Xin,China
+2010,2010-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Tine Baun,Denmark
+2010,2010-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Wang Shixian,China
+2011,2011-12-31,mens_doubles,Men's doubles,men,1,gold,team,Cai Yun / Fu Haifeng,China
+2011,2011-12-31,mens_doubles,Men's doubles,men,2,silver,team,Ko Sung-hyun / Yoo Yeon-seong,South Korea
+2011,2011-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Jung Jae-sung / Lee Yong-dae,South Korea
+2011,2011-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Mohammad Ahsan / Bona Septano,Indonesia
+2011,2011-12-31,mens_singles,Men's singles,men,1,gold,athlete,Lin Dan,China
+2011,2011-12-31,mens_singles,Men's singles,men,2,silver,athlete,Lee Chong Wei,Malaysia
+2011,2011-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Chen Jin,China
+2011,2011-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Peter Gade,Denmark
+2011,2011-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Zhang Nan / Zhao Yunlei,China
+2011,2011-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Chris Adcock / Imogen Bankier,England
+2011,2011-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Tontowi Ahmad / Liliyana Natsir,Indonesia
+2011,2011-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Xu Chen / Ma Jin,China
+2011,2011-12-31,womens_doubles,Women's doubles,women,1,gold,team,Wang Xiaoli / Yu Yang,China
+2011,2011-12-31,womens_doubles,Women's doubles,women,2,silver,team,Tian Qing / Zhao Yunlei,China
+2011,2011-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Jwala Gutta / Ashwini Ponnappa,India
+2011,2011-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Miyuki Maeda / Satoko Suetsuna,Japan
+2011,2011-12-31,womens_singles,Women's singles,women,1,gold,athlete,Wang Yihan,China
+2011,2011-12-31,womens_singles,Women's singles,women,2,silver,athlete,Cheng Shao-chieh,Chinese Taipei
+2011,2011-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Juliane Schenk,Germany
+2011,2011-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Wang Xin,China
+2013,2013-12-31,mens_doubles,Men's doubles,men,1,gold,team,Mohammad Ahsan / Hendra Setiawan,Indonesia
+2013,2013-12-31,mens_doubles,Men's doubles,men,2,silver,team,Mathias Boe / Carsten Mogensen,Denmark
+2013,2013-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Cai Yun / Fu Haifeng,China
+2013,2013-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Kim Ki-jung / Kim Sa-rang,South Korea
+2013,2013-12-31,mens_singles,Men's singles,men,1,gold,athlete,Lin Dan,China
+2013,2013-12-31,mens_singles,Men's singles,men,2,silver,athlete,Lee Chong Wei,Malaysia
+2013,2013-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Du Pengyu,China
+2013,2013-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Nguyễn Tiến Minh,Vietnam
+2013,2013-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Tontowi Ahmad / Liliyana Natsir,Indonesia
+2013,2013-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Xu Chen / Ma Jin,China
+2013,2013-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Shin Baek-cheol / Eom Hye-won,South Korea
+2013,2013-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Zhang Nan / Zhao Yunlei,China
+2013,2013-12-31,womens_doubles,Women's doubles,women,1,gold,team,Wang Xiaoli / Yu Yang,China
+2013,2013-12-31,womens_doubles,Women's doubles,women,2,silver,team,Eom Hye-won / Chang Ye-na,South Korea
+2013,2013-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Kamilla Rytter Juhl / Christinna Pedersen,Denmark
+2013,2013-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Tian Qing / Zhao Yunlei,China
+2013,2013-12-31,womens_singles,Women's singles,women,1,gold,athlete,Ratchanok Intanon,Thailand
+2013,2013-12-31,womens_singles,Women's singles,women,2,silver,athlete,Li Xuerui,China
+2013,2013-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Bae Yeon-ju,South Korea
+2013,2013-12-31,womens_singles,Women's singles,women,3,bronze,athlete,P. V. Sindhu,India
+2014,2014-12-31,mens_doubles,Men's doubles,men,1,gold,team,Ko Sung-hyun / Shin Baek-cheol,South Korea
+2014,2014-12-31,mens_doubles,Men's doubles,men,2,silver,team,Lee Yong-dae / Yoo Yeon-seong,South Korea
+2014,2014-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Kim Ki-jung / Kim Sa-rang,South Korea
+2014,2014-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Mathias Boe / Carsten Mogensen,Denmark
+2014,2014-12-31,mens_singles,Men's singles,men,1,gold,athlete,Chen Long,China
+2014,2014-12-31,mens_singles,Men's singles,men,2,silver,athlete,Lee Chong Wei,Malaysia
+2014,2014-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Tommy Sugiarto,Indonesia
+2014,2014-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Viktor Axelsen,Denmark
+2014,2014-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Zhang Nan / Zhao Yunlei,China
+2014,2014-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Xu Chen / Ma Jin,China
+2014,2014-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Joachim Fischer Nielsen / Christinna Pedersen,Denmark
+2014,2014-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Liu Cheng / Bao Yixin,China
+2014,2014-12-31,womens_doubles,Women's doubles,women,1,gold,team,Tian Qing / Zhao Yunlei,China
+2014,2014-12-31,womens_doubles,Women's doubles,women,2,silver,team,Wang Xiaoli / Yu Yang,China
+2014,2014-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Lee So-hee / Shin Seung-chan,South Korea
+2014,2014-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Reika Kakiiwa / Miyuki Maeda,Japan
+2014,2014-12-31,womens_singles,Women's singles,women,1,gold,athlete,Carolina Marín,Spain
+2014,2014-12-31,womens_singles,Women's singles,women,2,silver,athlete,Li Xuerui,China
+2014,2014-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Minatsu Mitani,Japan
+2014,2014-12-31,womens_singles,Women's singles,women,3,bronze,athlete,P. V. Sindhu,India
+2015,2015-12-31,mens_doubles,Men's doubles,men,1,gold,team,Mohammad Ahsan / Hendra Setiawan,Indonesia
+2015,2015-12-31,mens_doubles,Men's doubles,men,2,silver,team,Liu Xiaolong / Qiu Zihan,China
+2015,2015-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Hiroyuki Endo / Kenichi Hayakawa,Japan
+2015,2015-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Lee Yong-dae / Yoo Yeon-seong,South Korea
+2015,2015-12-31,mens_singles,Men's singles,men,1,gold,athlete,Chen Long,China
+2015,2015-12-31,mens_singles,Men's singles,men,2,silver,athlete,Lee Chong Wei,Malaysia
+2015,2015-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Jan Ø. Jørgensen,Denmark
+2015,2015-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Kento Momota,Japan
+2015,2015-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Zhang Nan / Zhao Yunlei,China
+2015,2015-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Liu Cheng / Bao Yixin,China
+2015,2015-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Tontowi Ahmad / Liliyana Natsir,Indonesia
+2015,2015-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Xu Chen / Ma Jin,China
+2015,2015-12-31,womens_doubles,Women's doubles,women,1,gold,team,Tian Qing / Zhao Yunlei,China
+2015,2015-12-31,womens_doubles,Women's doubles,women,2,silver,team,Kamilla Rytter Juhl / Christinna Pedersen,Denmark
+2015,2015-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Naoko Fukuman / Kurumi Yonao,Japan
+2015,2015-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Nitya Krishinda Maheswari / Greysia Polii,Indonesia
+2015,2015-12-31,womens_singles,Women's singles,women,1,gold,athlete,Carolina Marín,Spain
+2015,2015-12-31,womens_singles,Women's singles,women,2,silver,athlete,Saina Nehwal,India
+2015,2015-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Lindaweni Fanetri,Indonesia
+2015,2015-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Sung Ji-hyun,South Korea
+2017,2017-12-31,mens_doubles,Men's doubles,men,1,gold,team,Liu Cheng / Zhang Nan,China
+2017,2017-12-31,mens_doubles,Men's doubles,men,2,silver,team,Mohammad Ahsan / Rian Agung Saputro,Indonesia
+2017,2017-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Chai Biao / Hong Wei,China
+2017,2017-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Takeshi Kamura / Keigo Sonoda,Japan
+2017,2017-12-31,mens_singles,Men's singles,men,1,gold,athlete,Viktor Axelsen,Denmark
+2017,2017-12-31,mens_singles,Men's singles,men,2,silver,athlete,Lin Dan,China
+2017,2017-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Chen Long,China
+2017,2017-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Son Wan-ho,South Korea
+2017,2017-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Tontowi Ahmad / Liliyana Natsir,Indonesia
+2017,2017-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Zheng Siwei / Chen Qingchen,China
+2017,2017-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Chris Adcock / Gabby Adcock,England
+2017,2017-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Lee Chun Hei / Chau Hoi Wah,Hong Kong
+2017,2017-12-31,womens_doubles,Women's doubles,women,1,gold,team,Chen Qingchen / Jia Yifan,China
+2017,2017-12-31,womens_doubles,Women's doubles,women,2,silver,team,Yuki Fukushima / Sayaka Hirota,Japan
+2017,2017-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Kamilla Rytter Juhl / Christinna Pedersen,Denmark
+2017,2017-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Misaki Matsutomo / Ayaka Takahashi,Japan
+2017,2017-12-31,womens_singles,Women's singles,women,1,gold,athlete,Nozomi Okuhara,Japan
+2017,2017-12-31,womens_singles,Women's singles,women,2,silver,athlete,P. V. Sindhu,India
+2017,2017-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Chen Yufei,China
+2017,2017-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Saina Nehwal,India
+2018,2018-12-31,mens_doubles,Men's doubles,men,1,gold,team,Li Junhui / Liu Yuchen,China
+2018,2018-12-31,mens_doubles,Men's doubles,men,2,silver,team,Takeshi Kamura / Keigo Sonoda,Japan
+2018,2018-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Chen Hung-ling / Wang Chi-lin,Chinese Taipei
+2018,2018-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Liu Cheng / Zhang Nan,China
+2018,2018-12-31,mens_singles,Men's singles,men,1,gold,athlete,Kento Momota,Japan
+2018,2018-12-31,mens_singles,Men's singles,men,2,silver,athlete,Shi Yuqi,China
+2018,2018-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Chen Long,China
+2018,2018-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Liew Daren,Malaysia
+2018,2018-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Zheng Siwei / Huang Yaqiong,China
+2018,2018-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Wang Yilyu / Huang Dongping,China
+2018,2018-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Tang Chun Man / Tse Ying Suet,Hong Kong
+2018,2018-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Zhang Nan / Li Yinhui,China
+2018,2018-12-31,womens_doubles,Women's doubles,women,1,gold,team,Mayu Matsumoto / Wakana Nagahara,Japan
+2018,2018-12-31,womens_doubles,Women's doubles,women,2,silver,team,Yuki Fukushima / Sayaka Hirota,Japan
+2018,2018-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Greysia Polii / Apriyani Rahayu,Indonesia
+2018,2018-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Shiho Tanaka / Koharu Yonemoto,Japan
+2018,2018-12-31,womens_singles,Women's singles,women,1,gold,athlete,Carolina Marín,Spain
+2018,2018-12-31,womens_singles,Women's singles,women,2,silver,athlete,P. V. Sindhu,India
+2018,2018-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Akane Yamaguchi,Japan
+2018,2018-12-31,womens_singles,Women's singles,women,3,bronze,athlete,He Bingjiao,China
+2019,2019-12-31,mens_doubles,Men's doubles,men,1,gold,team,Mohammad Ahsan / Hendra Setiawan,Indonesia
+2019,2019-12-31,mens_doubles,Men's doubles,men,2,silver,team,Takuro Hoki / Yugo Kobayashi,Japan
+2019,2019-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Fajar Alfian / Muhammad Rian Ardianto,Indonesia
+2019,2019-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Li Junhui / Liu Yuchen,China
+2019,2019-12-31,mens_singles,Men's singles,men,1,gold,athlete,Kento Momota,Japan
+2019,2019-12-31,mens_singles,Men's singles,men,2,silver,athlete,Anders Antonsen,Denmark
+2019,2019-12-31,mens_singles,Men's singles,men,3,bronze,athlete,B. Sai Praneeth,India
+2019,2019-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Kantaphon Wangcharoen,Thailand
+2019,2019-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Zheng Siwei / Huang Yaqiong,China
+2019,2019-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Dechapol Puavaranukroh / Sapsiree Taerattanachai,Thailand
+2019,2019-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Wang Yilyu / Huang Dongping,China
+2019,2019-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Yuta Watanabe / Arisa Higashino,Japan
+2019,2019-12-31,womens_doubles,Women's doubles,women,1,gold,team,Mayu Matsumoto / Wakana Nagahara,Japan
+2019,2019-12-31,womens_doubles,Women's doubles,women,2,silver,team,Yuki Fukushima / Sayaka Hirota,Japan
+2019,2019-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Du Yue / Li Yinhui,China
+2019,2019-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Greysia Polii / Apriyani Rahayu,Indonesia
+2019,2019-12-31,womens_singles,Women's singles,women,1,gold,athlete,P. V. Sindhu,India
+2019,2019-12-31,womens_singles,Women's singles,women,2,silver,athlete,Nozomi Okuhara,Japan
+2019,2019-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Chen Yufei,China
+2019,2019-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Ratchanok Intanon,Thailand
+2021,2021-12-31,mens_doubles,Men's doubles,men,1,gold,team,Takuro Hoki / Yugo Kobayashi,Japan
+2021,2021-12-31,mens_doubles,Men's doubles,men,2,silver,team,He Jiting / Tan Qiang,China
+2021,2021-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Kim Astrup / Anders Skaarup Rasmussen,Denmark
+2021,2021-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Ong Yew Sin / Teo Ee Yi,Malaysia
+2021,2021-12-31,mens_singles,Men's singles,men,1,gold,athlete,Loh Kean Yew,Singapore
+2021,2021-12-31,mens_singles,Men's singles,men,2,silver,athlete,Srikanth Kidambi,India
+2021,2021-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Anders Antonsen,Denmark
+2021,2021-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Lakshya Sen,India
+2021,2021-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Dechapol Puavaranukroh / Sapsiree Taerattanachai,Thailand
+2021,2021-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Yuta Watanabe / Arisa Higashino,Japan
+2021,2021-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Kyohei Yamashita / Naru Shinoya,Japan
+2021,2021-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Tang Chun Man / Tse Ying Suet,Hong Kong
+2021,2021-12-31,womens_doubles,Women's doubles,women,1,gold,team,Chen Qingchen / Jia Yifan,China
+2021,2021-12-31,womens_doubles,Women's doubles,women,2,silver,team,Lee So-hee / Shin Seung-chan,South Korea
+2021,2021-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Kim So-yeong / Kong Hee-yong,South Korea
+2021,2021-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Mayu Matsumoto / Wakana Nagahara,Japan
+2021,2021-12-31,womens_singles,Women's singles,women,1,gold,athlete,Akane Yamaguchi,Japan
+2021,2021-12-31,womens_singles,Women's singles,women,2,silver,athlete,Tai Tzu-ying,Chinese Taipei
+2021,2021-12-31,womens_singles,Women's singles,women,3,bronze,athlete,He Bingjiao,China
+2021,2021-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Zhang Yiman,China
+2022,2022-12-31,mens_doubles,Men's doubles,men,1,gold,team,Aaron Chia / Soh Wooi Yik,Malaysia
+2022,2022-12-31,mens_doubles,Men's doubles,men,2,silver,team,Mohammad Ahsan / Hendra Setiawan,Indonesia
+2022,2022-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Fajar Alfian / Muhammad Rian Ardianto,Indonesia
+2022,2022-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Satwiksairaj Rankireddy / Chirag Shetty,India
+2022,2022-12-31,mens_singles,Men's singles,men,1,gold,athlete,Viktor Axelsen,Denmark
+2022,2022-12-31,mens_singles,Men's singles,men,2,silver,athlete,Kunlavut Vitidsarn,Thailand
+2022,2022-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Chou Tien-chen,Chinese Taipei
+2022,2022-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Zhao Junpeng,China
+2022,2022-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Zheng Siwei / Huang Yaqiong,China
+2022,2022-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Yuta Watanabe / Arisa Higashino,Japan
+2022,2022-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Mark Lamsfuß / Isabel Lohau,Germany
+2022,2022-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Wang Yilyu / Huang Dongping,China
+2022,2022-12-31,womens_doubles,Women's doubles,women,1,gold,team,Chen Qingchen / Jia Yifan,China
+2022,2022-12-31,womens_doubles,Women's doubles,women,2,silver,team,Kim So-yeong / Kong Hee-yong,South Korea
+2022,2022-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Mayu Matsumoto / Wakana Nagahara,Japan
+2022,2022-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Puttita Supajirakul / Sapsiree Taerattanachai,Thailand
+2022,2022-12-31,womens_singles,Women's singles,women,1,gold,athlete,Akane Yamaguchi,Japan
+2022,2022-12-31,womens_singles,Women's singles,women,2,silver,athlete,Chen Yufei,China
+2022,2022-12-31,womens_singles,Women's singles,women,3,bronze,athlete,An Se-young,South Korea
+2022,2022-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Tai Tzu-ying,Chinese Taipei
+2023,2023-12-31,mens_doubles,Men's doubles,men,1,gold,team,Kang Min-hyuk / Seo Seung-jae,South Korea
+2023,2023-12-31,mens_doubles,Men's doubles,men,2,silver,team,Kim Astrup / Anders Skaarup Rasmussen,Denmark
+2023,2023-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Aaron Chia / Soh Wooi Yik,Malaysia
+2023,2023-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Liang Weikeng / Wang Chang,China
+2023,2023-12-31,mens_singles,Men's singles,men,1,gold,athlete,Kunlavut Vitidsarn,Thailand
+2023,2023-12-31,mens_singles,Men's singles,men,2,silver,athlete,Kodai Naraoka,Japan
+2023,2023-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Anders Antonsen,Denmark
+2023,2023-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Prannoy H.S.,India
+2023,2023-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Seo Seung-jae / Chae Yu-jung,South Korea
+2023,2023-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Zheng Siwei / Huang Yaqiong,China
+2023,2023-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Jiang Zhenbang / Wei Yaxin,China
+2023,2023-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Yuta Watanabe / Arisa Higashino,Japan
+2023,2023-12-31,womens_doubles,Women's doubles,women,1,gold,team,Chen Qingchen / Jia Yifan,China
+2023,2023-12-31,womens_doubles,Women's doubles,women,2,silver,team,Apriyani Rahayu / Siti Fadia Silva Ramadhanti,Indonesia
+2023,2023-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Kim So-yeong / Kong Hee-yong,South Korea
+2023,2023-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Zhang Shuxian / Zheng Yu,China
+2023,2023-12-31,womens_singles,Women's singles,women,1,gold,athlete,An Se-young,South Korea
+2023,2023-12-31,womens_singles,Women's singles,women,2,silver,athlete,Carolina Marín,Spain
+2023,2023-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Akane Yamaguchi,Japan
+2023,2023-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Chen Yufei,China
+2025,2025-12-31,mens_doubles,Men's doubles,men,1,gold,team,Kim Won-ho / Seo Seung-jae,South Korea
+2025,2025-12-31,mens_doubles,Men's doubles,men,2,silver,team,Chen Boyang / Liu Yi,China
+2025,2025-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Kim Astrup / Anders Skaarup Rasmussen,Denmark
+2025,2025-12-31,mens_doubles,Men's doubles,men,3,bronze,team,Satwiksairaj Rankireddy / Chirag Shetty,India
+2025,2025-12-31,mens_singles,Men's singles,men,1,gold,athlete,Shi Yuqi,China
+2025,2025-12-31,mens_singles,Men's singles,men,2,silver,athlete,Kunlavut Vitidsarn,Thailand
+2025,2025-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Anders Antonsen,Denmark
+2025,2025-12-31,mens_singles,Men's singles,men,3,bronze,athlete,Victor Lai,Canada
+2025,2025-12-31,mixed_doubles,Mixed doubles,mixed,1,gold,team,Chen Tang Jie / Toh Ee Wei,Malaysia
+2025,2025-12-31,mixed_doubles,Mixed doubles,mixed,2,silver,team,Jiang Zhenbang / Wei Yaxin,China
+2025,2025-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Guo Xinwa / Chen Fanghui,China
+2025,2025-12-31,mixed_doubles,Mixed doubles,mixed,3,bronze,team,Thom Gicquel / Delphine Delrue,France
+2025,2025-12-31,womens_doubles,Women's doubles,women,1,gold,team,Liu Shengshu / Tan Ning,China
+2025,2025-12-31,womens_doubles,Women's doubles,women,2,silver,team,Pearly Tan / Thinaah Muralitharan,Malaysia
+2025,2025-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Nami Matsuyama / Chiharu Shida,Japan
+2025,2025-12-31,womens_doubles,Women's doubles,women,3,bronze,team,Rin Iwanaga / Kie Nakanishi,Japan
+2025,2025-12-31,womens_singles,Women's singles,women,1,gold,athlete,Akane Yamaguchi,Japan
+2025,2025-12-31,womens_singles,Women's singles,women,2,silver,athlete,Chen Yufei,China
+2025,2025-12-31,womens_singles,Women's singles,women,3,bronze,athlete,An Se-young,South Korea
+2025,2025-12-31,womens_singles,Women's singles,women,3,bronze,athlete,Putri Kusuma Wardani,Indonesia

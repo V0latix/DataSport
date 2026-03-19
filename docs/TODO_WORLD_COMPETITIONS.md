@@ -22,6 +22,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] Rugby World Cup Sevens (men/women, top 4 avec egalites de 3e conservees) ajoute via `rugby_world_cup_sevens_history` (2026-03-18)
 - [x] Rugby League World Cup (men/women, top 4 avec egalites de 3e conservees) ajoute via `rugby_league_world_cup_history` (2026-03-18)
 - [x] WBSC Baseball World Cup + Women's Baseball World Cup + Men's Softball World Cup + Women's Softball World Cup (top 4, hommes/femmes) ajoutes via `wbsc_baseball_softball_world_championship_history` (2026-03-18)
+- [x] BWF World Championships (badminton, 5 disciplines: SH/SF/DH/DF/DM, top 4 par event) ajoute via `bwf_world_championships_history` (2026-03-19)
 
 ### Competitions mondiales
 
@@ -52,7 +53,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] WBSC Men's Softball World Cup (`wbsc_baseball_softball_world_championship_history`)
 - [x] WBSC Women's Softball World Cup (`wbsc_baseball_softball_world_championship_history`)
 - [ ] World Baseball Classic
-- [ ] BWF World Championships (badminton)
+- [x] BWF World Championships (badminton, 5 disciplines) (`bwf_world_championships_history`)
 - [ ] ITTF World Team Championships (table tennis)
 - [ ] UCI Road World Championships (cyclisme)
 - [ ] World Judo Championships
