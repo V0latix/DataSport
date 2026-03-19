@@ -1,0 +1,17 @@
+competition_id,sport_id,name,season_year,level,start_date,end_date,source_id
+giro_d_italia,cycling,Giro d'Italia,,professional_stage_race,1909-12-31,2025-12-31,uci_road_cycling_major_competitions_history
+giro_d_italia_women,cycling,Giro d'Italia Women,,professional_stage_race,1988-12-31,2025-12-31,uci_road_cycling_major_competitions_history
+il_lombardia,cycling,Il Lombardia,,professional_classic,1905-12-31,2025-12-31,uci_road_cycling_major_competitions_history
+liege_bastogne_liege,cycling,Liege-Bastogne-Liege,,professional_classic,1892-12-31,2025-12-31,uci_road_cycling_major_competitions_history
+liege_bastogne_liege_women,cycling,Liege-Bastogne-Liege Women,,professional_classic,2017-12-31,2025-12-31,uci_road_cycling_major_competitions_history
+milan_san_remo,cycling,Milan-San Remo,,professional_classic,1907-12-31,2025-12-31,uci_road_cycling_major_competitions_history
+milan_san_remo_women,cycling,Milan-San Remo Women,,professional_classic,2025-12-31,2025-12-31,uci_road_cycling_major_competitions_history
+paris_roubaix,cycling,Paris-Roubaix,,professional_classic,1896-12-31,2025-12-31,uci_road_cycling_major_competitions_history
+paris_roubaix_femmes,cycling,Paris-Roubaix Femmes,,professional_classic,2021-12-31,2025-12-31,uci_road_cycling_major_competitions_history
+tour_de_france,cycling,Tour de France,,professional_stage_race,1903-12-31,2025-12-31,uci_road_cycling_major_competitions_history
+tour_de_france_femmes,cycling,Tour de France Femmes,,professional_stage_race,2022-12-31,2025-12-31,uci_road_cycling_major_competitions_history
+tour_of_flanders,cycling,Tour of Flanders,,professional_classic,1913-12-31,2025-12-31,uci_road_cycling_major_competitions_history
+tour_of_flanders_women,cycling,Tour of Flanders Women,,professional_classic,2004-12-31,2025-12-31,uci_road_cycling_major_competitions_history
+uci_road_world_championships,cycling,UCI Road World Championships,,international_championship,1927-12-31,2025-12-31,uci_road_cycling_major_competitions_history
+vuelta_a_espana,cycling,Vuelta a Espana,,professional_stage_race,1935-12-31,2025-12-31,uci_road_cycling_major_competitions_history
+vuelta_a_espana_femenina,cycling,Vuelta a Espana Femenina,,professional_stage_race,2015-12-31,2025-12-31,uci_road_cycling_major_competitions_history

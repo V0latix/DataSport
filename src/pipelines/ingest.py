@@ -29,7 +29,8 @@ def main() -> None:
             "icc_team_ranking_history | "
             "icc_cricket_world_cup_history | world_cup_history | "
             "world_athletics_championships_history | world_aquatics_championships_history | "
-            "paris_2024_summer_olympics | olympics_keith_history"
+            "paris_2024_summer_olympics | olympics_keith_history | "
+            "uci_road_cycling_major_competitions_history"
         ),
     )
     parser.add_argument("--year", required=True, type=int)

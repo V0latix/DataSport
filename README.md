@@ -539,6 +539,32 @@ Comportement:
   - singles: `athlete_<nom>_<country_code>`
   - doubles/mixte: `pair_<nom1_nom2>_<country_code>`
 
+### 8m) Ingest Cyclisme route majeur (historique, top 3, hommes + competitions femmes existantes)
+
+```bash
+python -m pipelines.ingest --connector uci_road_cycling_major_competitions_history --year 2026
+```
+
+Comportement:
+- ingere le seed local:
+  - `data/raw/cycling/uci_road_cycling_major_competitions_top3_seed.csv`
+  - seed reproductible via: `data/raw/cycling/build_uci_road_cycling_major_competitions_seed.py`
+- couvre les 9 competitions de reference demandees:
+  - `uci_road_world_championships` (2 disciplines: `road-race`, `time-trial`)
+  - `tour_de_france`, `giro_d_italia`, `vuelta_a_espana`
+  - `milan_san_remo`, `tour_of_flanders`, `paris_roubaix`, `liege_bastogne_liege`, `il_lombardia`
+- ajoute les competitions femmes disponibles dans les memes families:
+  - `tour_de_france_femmes`, `giro_d_italia_women`, `vuelta_a_espana_femenina`
+  - `milan_san_remo_women`, `tour_of_flanders_women`, `paris_roubaix_femmes`, `liege_bastogne_liege_women`
+- cree un event par competition/annee/discipline/genre:
+  - `<competition_id>_<YYYY>_<discipline_key>_<gender>`
+- stocke un top 3 strict par event (`rank` = `1,2,3`)
+- sport/discipline:
+  - sport `cycling`
+  - disciplines `road-race` et `time-trial`
+- note integrite seed:
+  - editions avec podium incomplet (disqualifications/annulations historiques) exclues du seed pour conserver le profil strict top 3
+
 ### 9) Ingest JO d'été Paris 2024 (connecteur dédié, optionnel)
 
 ```bash
