@@ -565,6 +565,32 @@ Comportement:
 - note integrite seed:
   - editions avec podium incomplet (disqualifications/annulations historiques) exclues du seed pour conserver le profil strict top 3
 
+### 8n) Ingest UCI Track Cycling World Championships (historique, top 3, hommes + femmes depuis 2000)
+
+```bash
+python -m pipelines.ingest --connector uci_track_cycling_world_championships_history --year 2026
+```
+
+Comportement:
+- ingere le seed local:
+  - `data/raw/cycling/uci_track_world_championships_top3_seed.csv`
+  - seed reproductible via: `data/raw/cycling/build_uci_track_world_championships_seed.py`
+- cree la competition:
+  - `uci_track_world_championships`
+- couvre les disciplines piste historiques (apparitions/disparitions conservees par annee):
+  - `track-sprint`, `track-team-sprint`, `track-keirin`
+  - `track-individual-pursuit`, `track-team-pursuit`
+  - `track-points-race`, `track-scratch`, `track-madison`, `track-omnium`, `track-elimination-race`
+  - `track-time-trial-1km`, `track-time-trial-500m`
+- cree un event par annee/discipline/genre:
+  - `uci_track_world_championships_<YYYY>_<discipline_key>_<gender>`
+- stocke un podium top 3 par event avec profils historiques autorises:
+  - standard: `1,2,3`
+  - exceptions source: `1,2` ou `1,3`
+- sport/discipline:
+  - sport `cycling`
+  - disciplines piste specialisees (pas de nouveau sport cree)
+
 ### 9) Ingest JO d'été Paris 2024 (connecteur dédié, optionnel)
 
 ```bash

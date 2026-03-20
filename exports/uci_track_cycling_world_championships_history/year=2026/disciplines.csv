@@ -1,0 +1,13 @@
+discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
+track-elimination-race,Track Elimination Race,track-elimination-race,cycling,1.0,connector_uci_track_cycling_world_championships_history,2026-03-19T23:55:09+00:00
+track-individual-pursuit,Track Individual Pursuit,track-individual-pursuit,cycling,1.0,connector_uci_track_cycling_world_championships_history,2026-03-19T23:55:09+00:00
+track-keirin,Track Keirin,track-keirin,cycling,1.0,connector_uci_track_cycling_world_championships_history,2026-03-19T23:55:09+00:00
+track-madison,Track Madison,track-madison,cycling,1.0,connector_uci_track_cycling_world_championships_history,2026-03-19T23:55:09+00:00
+track-omnium,Track Omnium,track-omnium,cycling,1.0,connector_uci_track_cycling_world_championships_history,2026-03-19T23:55:09+00:00
+track-points-race,Track Points Race,track-points-race,cycling,1.0,connector_uci_track_cycling_world_championships_history,2026-03-19T23:55:09+00:00
+track-scratch,Track Scratch,track-scratch,cycling,1.0,connector_uci_track_cycling_world_championships_history,2026-03-19T23:55:09+00:00
+track-sprint,Track Sprint,track-sprint,cycling,1.0,connector_uci_track_cycling_world_championships_history,2026-03-19T23:55:09+00:00
+track-team-pursuit,Track Team Pursuit,track-team-pursuit,cycling,1.0,connector_uci_track_cycling_world_championships_history,2026-03-19T23:55:09+00:00
+track-team-sprint,Track Team Sprint,track-team-sprint,cycling,1.0,connector_uci_track_cycling_world_championships_history,2026-03-19T23:55:09+00:00
+track-time-trial-1km,Track 1 km Time Trial,track-1-km-time-trial,cycling,1.0,connector_uci_track_cycling_world_championships_history,2026-03-19T23:55:09+00:00
+track-time-trial-500m,Track 500 m Time Trial,track-500-m-time-trial,cycling,1.0,connector_uci_track_cycling_world_championships_history,2026-03-19T23:55:09+00:00

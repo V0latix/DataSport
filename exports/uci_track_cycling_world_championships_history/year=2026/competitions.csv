@@ -1,0 +1,2 @@
+competition_id,sport_id,name,season_year,level,start_date,end_date,source_id
+uci_track_world_championships,cycling,UCI Track Cycling World Championships,,international_championship,2000-12-31,2025-12-31,uci_track_cycling_world_championships_history

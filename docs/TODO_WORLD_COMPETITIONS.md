@@ -25,6 +25,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] BWF World Championships (badminton, 5 disciplines: SH/SF/DH/DF/DM, top 4 par event) ajoute via `bwf_world_championships_history` (2026-03-19)
 - [x] ITTF World Table Tennis Championships (7 disciplines: equipe H/F, simple H/F, double H/F, double mixte; podium historique) ajoute via `ittf_world_table_tennis_championships_history` (2026-03-19)
 - [x] Cyclisme route majeur (UCI Road Worlds route/contre-la-montre, 3 Grands Tours, 5 Monuments; top 3 strict; hommes + competitions femmes existantes) ajoute via `uci_road_cycling_major_competitions_history` (2026-03-19)
+- [x] UCI Track Cycling World Championships (cyclisme sur piste, top 3 H/F depuis 2000, 12 disciplines avec apparition/disparition historique conservee) ajoute via `uci_track_cycling_world_championships_history` (2026-03-20)
 
 ### Competitions mondiales
 
@@ -57,6 +58,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] BWF World Championships (badminton, 5 disciplines) (`bwf_world_championships_history`)
 - [x] ITTF World Table Tennis Championships (7 disciplines) (`ittf_world_table_tennis_championships_history`)
 - [x] UCI Road World Championships (cyclisme, route + contre-la-montre, H/F) (`uci_road_cycling_major_competitions_history`)
+- [x] UCI Track Cycling World Championships (cyclisme sur piste, H/F) (`uci_track_cycling_world_championships_history`)
 - [ ] World Judo Championships
 - [ ] World Wrestling Championships
 - [ ] Formula 1 World Championship (pilotes + constructeurs)
