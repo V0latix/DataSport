@@ -1,0 +1,2 @@
+competition_id,sport_id,name,season_year,level,start_date,end_date,source_id
+uci_road_world_nation_ranking,cycling,UCI Road World Nation Ranking,,national_team_ranking,2015-12-30,2026-03-16,uci_road_nation_ranking_history

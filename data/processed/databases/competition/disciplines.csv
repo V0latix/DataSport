@@ -3,7 +3,7 @@ discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source
 110m-hurdles,110m hurdles,110m-hurdles,athletics,0.99,yaml_override,2026-02-20T17:42:57+00:00
 200m,200m,200m,athletics,0.99,yaml_override,2026-02-20T17:42:57+00:00
 4x100m-relay,4x100m Relay,4x100m-relay,athletics,0.99,yaml_override,2026-02-20T17:42:57+00:00
-road-race,Road Race,road-race,cycling,0.99,yaml_override,2026-02-20T17:42:57+00:00
+road-race,Road Race,road-race,cycling,1.0,connector_uci_road_nation_ranking_history,2026-03-20T16:27:19+00:00
 time-trial,Time Trial,time-trial,cycling,0.99,yaml_override,2026-02-20T17:42:57+00:00
 epee,Epee,epee,fencing,0.99,yaml_override,2026-02-20T17:42:57+00:00
 foil,Foil,foil,fencing,0.99,yaml_override,2026-02-20T17:42:57+00:00
@@ -206,18 +206,18 @@ rugby-union,Rugby Union,rugby-union,rugby,1.0,connector_world_rugby_ranking_hist
 rugby-league,Rugby League,rugby-league,rugby,1.0,connector_rugby_league_world_cup_history,2026-03-18T20:49:38+00:00
 baseball,Baseball,baseball,baseball,1.0,connector_wbsc_baseball_softball_world_championship_history,2026-03-18T22:57:20+00:00
 softball,Softball,softball,baseball,1.0,connector_wbsc_baseball_softball_world_championship_history,2026-03-18T22:57:20+00:00
-badminton_mens-singles,Men's singles,men-s-singles,badminton,1.0,connector_bwf_world_championships_history,2026-03-19T18:09:29+00:00
-badminton_womens-singles,Women's singles,women-s-singles,badminton,1.0,connector_bwf_world_championships_history,2026-03-19T18:09:29+00:00
-badminton_mens-doubles,Men's doubles,men-s-doubles,badminton,1.0,connector_bwf_world_championships_history,2026-03-19T18:09:29+00:00
-badminton_womens-doubles,Women's doubles,women-s-doubles,badminton,1.0,connector_bwf_world_championships_history,2026-03-19T18:09:29+00:00
-badminton_mixed-doubles,Mixed doubles,mixed-doubles,badminton,1.0,connector_bwf_world_championships_history,2026-03-19T18:09:29+00:00
-table-tennis_mens-team,Men's team,men-s-team,table-tennis,1.0,connector_ittf_world_table_tennis_championships_history,2026-03-19T19:18:06+00:00
-table-tennis_womens-team,Women's team,women-s-team,table-tennis,1.0,connector_ittf_world_table_tennis_championships_history,2026-03-19T19:18:06+00:00
-table-tennis_mens-singles,Men's singles,men-s-singles,table-tennis,1.0,connector_ittf_world_table_tennis_championships_history,2026-03-19T19:18:06+00:00
-table-tennis_womens-singles,Women's singles,women-s-singles,table-tennis,1.0,connector_ittf_world_table_tennis_championships_history,2026-03-19T19:18:06+00:00
-table-tennis_mens-doubles,Men's doubles,men-s-doubles,table-tennis,1.0,connector_ittf_world_table_tennis_championships_history,2026-03-19T19:18:06+00:00
-table-tennis_womens-doubles,Women's doubles,women-s-doubles,table-tennis,1.0,connector_ittf_world_table_tennis_championships_history,2026-03-19T19:18:06+00:00
-table-tennis_mixed-doubles,Mixed doubles,mixed-doubles,table-tennis,1.0,connector_ittf_world_table_tennis_championships_history,2026-03-19T19:18:06+00:00
+badminton_mens-singles,Men's singles,men-s-singles,badminton,1.0,connector_bwf_world_championships_history,2026-03-20T00:51:22+00:00
+badminton_womens-singles,Women's singles,women-s-singles,badminton,1.0,connector_bwf_world_championships_history,2026-03-20T00:51:22+00:00
+badminton_mens-doubles,Men's doubles,men-s-doubles,badminton,1.0,connector_bwf_world_championships_history,2026-03-20T00:51:22+00:00
+badminton_womens-doubles,Women's doubles,women-s-doubles,badminton,1.0,connector_bwf_world_championships_history,2026-03-20T00:51:22+00:00
+badminton_mixed-doubles,Mixed doubles,mixed-doubles,badminton,1.0,connector_bwf_world_championships_history,2026-03-20T00:51:22+00:00
+table-tennis_mens-team,Men's team,men-s-team,table-tennis,1.0,connector_ittf_world_table_tennis_championships_history,2026-03-20T00:51:22+00:00
+table-tennis_womens-team,Women's team,women-s-team,table-tennis,1.0,connector_ittf_world_table_tennis_championships_history,2026-03-20T00:51:22+00:00
+table-tennis_mens-singles,Men's singles,men-s-singles,table-tennis,1.0,connector_ittf_world_table_tennis_championships_history,2026-03-20T00:51:22+00:00
+table-tennis_womens-singles,Women's singles,women-s-singles,table-tennis,1.0,connector_ittf_world_table_tennis_championships_history,2026-03-20T00:51:22+00:00
+table-tennis_mens-doubles,Men's doubles,men-s-doubles,table-tennis,1.0,connector_ittf_world_table_tennis_championships_history,2026-03-20T00:51:22+00:00
+table-tennis_womens-doubles,Women's doubles,women-s-doubles,table-tennis,1.0,connector_ittf_world_table_tennis_championships_history,2026-03-20T00:51:22+00:00
+table-tennis_mixed-doubles,Mixed doubles,mixed-doubles,table-tennis,1.0,connector_ittf_world_table_tennis_championships_history,2026-03-20T00:51:22+00:00
 track-elimination-race,Track Elimination Race,track-elimination-race,cycling,1.0,connector_uci_track_cycling_world_championships_history,2026-03-19T23:55:09+00:00
 track-individual-pursuit,Track Individual Pursuit,track-individual-pursuit,cycling,1.0,connector_uci_track_cycling_world_championships_history,2026-03-19T23:55:09+00:00
 track-keirin,Track Keirin,track-keirin,cycling,1.0,connector_uci_track_cycling_world_championships_history,2026-03-19T23:55:09+00:00

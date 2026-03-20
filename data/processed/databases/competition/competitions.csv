@@ -38,6 +38,7 @@ wbsc_baseball_world_cup_men,baseball,WBSC Baseball World Cup (Men),,national_tea
 wbsc_womens_baseball_world_cup,baseball,WBSC Women's Baseball World Cup,,national_team_tournament,2004-12-31,2024-12-31,wbsc_baseball_softball_world_championship_history
 wbsc_mens_softball_world_cup,baseball,WBSC Men's Softball World Cup,,national_team_tournament,1966-12-31,2025-12-31,wbsc_baseball_softball_world_championship_history
 wbsc_womens_softball_world_cup,baseball,WBSC Women's Softball World Cup,,national_team_tournament,1965-12-31,2024-12-31,wbsc_baseball_softball_world_championship_history
+uci_track_world_championships,cycling,UCI Track Cycling World Championships,,international_championship,2000-12-31,2025-12-31,uci_track_cycling_world_championships_history
 bwf_world_championships,badminton,BWF World Championships,,international_championship,1977-12-31,2025-12-31,bwf_world_championships_history
 ittf_world_table_tennis_championships,table-tennis,ITTF World Table Tennis Championships,,international_championship,1926-12-31,2025-12-31,ittf_world_table_tennis_championships_history
 giro_d_italia,cycling,Giro d'Italia,,professional_stage_race,1909-12-31,2025-12-31,uci_road_cycling_major_competitions_history
@@ -56,4 +57,4 @@ tour_of_flanders_women,cycling,Tour of Flanders Women,,professional_classic,2004
 uci_road_world_championships,cycling,UCI Road World Championships,,international_championship,1927-12-31,2025-12-31,uci_road_cycling_major_competitions_history
 vuelta_a_espana,cycling,Vuelta a Espana,,professional_stage_race,1935-12-31,2025-12-31,uci_road_cycling_major_competitions_history
 vuelta_a_espana_femenina,cycling,Vuelta a Espana Femenina,,professional_stage_race,2015-12-31,2025-12-31,uci_road_cycling_major_competitions_history
-uci_track_world_championships,cycling,UCI Track Cycling World Championships,,international_championship,2000-12-31,2025-12-31,uci_track_cycling_world_championships_history
+uci_road_world_nation_ranking,cycling,UCI Road World Nation Ranking,,national_team_ranking,2015-12-30,2026-03-16,uci_road_nation_ranking_history

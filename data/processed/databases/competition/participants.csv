@@ -1,19 +1,19 @@
 participant_id,type,display_name,country_id
-DEU,team,Germany,DEU
-ITA,team,Italy,ITA
+DEU,team,GERMANY,DEU
+ITA,team,ITALY,ITA
 BRA,team,Brazil,BRA
 SWE,team,Sweden,SWE
 ENG,team,England,ENG
-NLD,team,Netherlands,NLD
+NLD,team,NETHERLANDS,NLD
 IRL,team,Ireland,IRL
-DNK,team,Denmark,DNK
+DNK,team,DENMARK,DNK
 RUS,team,Russia,RUS
 ARG,team,Argentina,ARG
-NOR,team,Norway,NOR
-ESP,team,Spain,ESP
+NOR,team,NORWAY,NOR
+ESP,team,SPAIN,ESP
 CHE,team,Switzerland,CHE
-FRA,team,France,FRA
-COL,team,Colombia,COL
+FRA,team,FRANCE,FRA
+COL,team,COLOMBIA,COL
 CZE,team,Czech Republic,CZE
 MEX,team,Mexico,MEX
 ROU,team,Romania,ROU
@@ -22,11 +22,11 @@ YUG,team,Yugoslavia,YUG
 PRT,team,Portugal,PRT
 PRY,team,Paraguay,PRY
 TUR,team,Turkey,TUR
-USA,team,United States,USA
+USA,team,UNITED STATES,USA
 NGA,team,Nigeria,NGA
 URY,team,Uruguay,URY
 EGY,team,Egypt,EGY
-BEL,team,Belgium,BEL
+BEL,team,BELGIUM,BEL
 CHL,team,Chile,CHL
 AUT,team,Austria,AUT
 POL,team,Poland,POL
@@ -38,14 +38,14 @@ URS,team,Soviet Union,URS
 BGR,team,Bulgaria,BGR
 CHN,team,China,CHN
 JPN,team,Japan,JPN
-AUS,team,Australia,AUS
+AUS,team,AUSTRALIA,AUS
 NZL,team,New Zealand,NZL
 CAN,team,Canada,CAN
 KEN,team,Kenya,KEN
 UKR,team,Ukraine,UKR
 SRB,team,Serbia,SRB
 CUB,team,Cuba,CUB
-SVN,team,Slovenia,SVN
+SVN,team,SLOVENIA,SVN
 PHL,team,Philippines,PHL
 ZAF,team,South Africa,ZAF
 GRC,team,Greece,GRC
@@ -361,7 +361,7 @@ LKA,team,Sri Lanka,LKA
 BGD,team,Bangladesh,BGD
 AFG,team,Afghanistan,AFG
 INT,team,International XI,INT
-GBR,team,Great Britain,GBR
+GBR,team,GREAT BRITAIN,GBR
 athlete_Patrick_Chila_FRA_7,athlete,Patrick Chila,FRA
 athlete_Jean-Philippe_Gatien_FRA_18,athlete,Jean-Philippe Gatien,FRA
 athlete_Joanne_Goode_GBR_73,athlete,Joanne Goode,GBR
@@ -16870,3 +16870,8 @@ athlete_Yareli_Acevedo_MEX,athlete,Yareli Acevedo,MEX
 athlete_Moritz_Augenstein_DEU,athlete,Moritz Augenstein,DEU
 athlete_Prudence_Fowler_NZL,athlete,Prudence Fowler,NZL
 athlete_Matthew_Richardson_GBR,athlete,Matthew Richardson,GBR
+LUX,team,Luxembourg,LUX
+SVK,team,SLOVAKIA,SVK
+MDA,team,Moldavie,MDA
+LVA,team,LAT,LVA
+ECU,team,Équateur,ECU

@@ -1,0 +1,2 @@
+discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
+road-race,Road Race,road-race,cycling,1.0,connector_uci_road_nation_ranking_history,2026-03-20T16:30:34+00:00

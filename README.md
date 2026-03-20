@@ -591,6 +591,32 @@ Comportement:
   - sport `cycling`
   - disciplines piste specialisees (pas de nouveau sport cree)
 
+### 8o) Ingest UCI Road World Nation Ranking (historique, top 10 nations)
+
+```bash
+python -m pipelines.ingest --connector uci_road_nation_ranking_history --year 2026
+```
+
+Comportement:
+- recupere les snapshots UCI DataRide route via:
+  - `GetDisciplineSeasons` (`disciplineId=10`)
+  - `RankingsDiscipline` (selection `World Ranking` + `Nation ranking`)
+  - `ObjectRankings` (table classements)
+- met a jour le seed local:
+  - `data/raw/cycling/uci_road_nation_rankings_history_seed.csv`
+  - seed reproductible via: `data/raw/cycling/build_uci_road_nation_rankings_seed.py`
+- cree la competition:
+  - `uci_road_world_nation_ranking`
+- cree un event annuel:
+  - `uci_road_world_nation_ranking_<YYYY>`
+- stocke un top 10 strict par event (`rank` = `1..10`)
+- sport/discipline:
+  - sport `cycling`
+  - discipline `road-race`
+- couverture observee avec la source UCI actuelle:
+  - `2015` -> `2026`
+  - annees manquantes detectees par le connecteur: `2009-2014` (pas de ranking mondial nations route publie sur ces saisons dans DataRide)
+
 ### 9) Ingest JO d'été Paris 2024 (connecteur dédié, optionnel)
 
 ```bash

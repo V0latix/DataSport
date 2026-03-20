@@ -26,6 +26,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] ITTF World Table Tennis Championships (7 disciplines: equipe H/F, simple H/F, double H/F, double mixte; podium historique) ajoute via `ittf_world_table_tennis_championships_history` (2026-03-19)
 - [x] Cyclisme route majeur (UCI Road Worlds route/contre-la-montre, 3 Grands Tours, 5 Monuments; top 3 strict; hommes + competitions femmes existantes) ajoute via `uci_road_cycling_major_competitions_history` (2026-03-19)
 - [x] UCI Track Cycling World Championships (cyclisme sur piste, top 3 H/F depuis 2000, 12 disciplines avec apparition/disparition historique conservee) ajoute via `uci_track_cycling_world_championships_history` (2026-03-20)
+- [x] UCI Road World Nation Ranking (cyclisme sur route, top 10 nations hommes; couverture 2015-2026 selon disponibilite UCI DataRide) ajoute via `uci_road_nation_ranking_history` (2026-03-20)
 
 ### Competitions mondiales
 
@@ -79,7 +80,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [ ] Top 10 World Baseball Softball Confederation rankings
 - [ ] Top 10 BWF World Ranking (joueurs/paires -> agreger par nation)
 - [ ] Top 10 ITTF World Ranking (joueurs -> agreger par nation)
-- [ ] Top 10 UCI Nation Ranking (route)
+- [x] Top 10 UCI Nation Ranking (route, hommes, couverture actuelle 2015-2026; pas de ranking mondial nations route expose avant 2015 dans UCI DataRide)
 - [ ] Top 10 ATP ranking / WTA ranking (joueurs -> agreger par nation)
 - [ ] Top 10 World Sailing rankings (selon classes)
 

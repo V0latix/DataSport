@@ -1,11 +1,11 @@
 database,base_path,table_name,rows_synced
-competition,/Users/romain/dev/DataSport/data/processed/databases/competition,competitions,58
+competition,/Users/romain/dev/DataSport/data/processed/databases/competition,competitions,59
 competition,/Users/romain/dev/DataSport/data/processed/databases/competition,countries,315
 competition,/Users/romain/dev/DataSport/data/processed/databases/competition,disciplines,231
-competition,/Users/romain/dev/DataSport/data/processed/databases/competition,events,7565
-competition,/Users/romain/dev/DataSport/data/processed/databases/competition,participants,16871
-competition,/Users/romain/dev/DataSport/data/processed/databases/competition,results,32970
-competition,/Users/romain/dev/DataSport/data/processed/databases/competition,sources,27
+competition,/Users/romain/dev/DataSport/data/processed/databases/competition,events,7577
+competition,/Users/romain/dev/DataSport/data/processed/databases/competition,participants,16876
+competition,/Users/romain/dev/DataSport/data/processed/databases/competition,results,33090
+competition,/Users/romain/dev/DataSport/data/processed/databases/competition,sources,28
 competition,/Users/romain/dev/DataSport/data/processed/databases/competition,sport_federations,3
 competition,/Users/romain/dev/DataSport/data/processed/databases/competition,sports,89
-lineage,/Users/romain/dev/DataSport/data/processed/databases/lineage,raw_imports,122
+lineage,/Users/romain/dev/DataSport/data/processed/databases/lineage,raw_imports,131

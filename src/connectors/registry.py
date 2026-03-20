@@ -21,6 +21,7 @@ from .rugby_world_cup_sevens_history_connector import RugbyWorldCupSevensHistory
 from .uci_road_cycling_major_competitions_history_connector import (
     UciRoadCyclingMajorCompetitionsHistoryConnector,
 )
+from .uci_road_nation_ranking_history_connector import UciRoadNationRankingHistoryConnector
 from .uci_track_cycling_world_championships_history_connector import (
     UciTrackCyclingWorldChampionshipsHistoryConnector,
 )
@@ -51,6 +52,7 @@ CONNECTOR_REGISTRY = {
     "rugby_world_cup_history": RugbyWorldCupHistoryConnector,
     "rugby_world_cup_sevens_history": RugbyWorldCupSevensHistoryConnector,
     "uci_road_cycling_major_competitions_history": UciRoadCyclingMajorCompetitionsHistoryConnector,
+    "uci_road_nation_ranking_history": UciRoadNationRankingHistoryConnector,
     "uci_track_cycling_world_championships_history": UciTrackCyclingWorldChampionshipsHistoryConnector,
     "wbsc_baseball_softball_world_championship_history": WbscBaseballSoftballWorldChampionshipHistoryConnector,
     "ihf_handball_world_championship_history": IhfHandballWorldChampionshipHistoryConnector,
