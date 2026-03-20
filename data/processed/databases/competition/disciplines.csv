@@ -13,8 +13,8 @@ single-sculls,Single Sculls,single-sculls,rowing,0.99,yaml_override,2026-02-20T1
 100m-butterfly,100m Butterfly,100m-butterfly,swimming,0.99,yaml_override,2026-02-20T17:42:57+00:00
 200m-breaststroke,200m Breaststroke,200m-breaststroke,swimming,0.99,yaml_override,2026-02-20T17:42:57+00:00
 50m-freestyle,50m Freestyle,50m-freestyle,swimming,0.99,yaml_override,2026-02-20T17:42:57+00:00
-wrestling-freestyle,Wrestling Freestyle,wrestling-freestyle,wrestling,0.99,yaml_override,2026-02-20T17:42:57+00:00
-wrestling-greco-roman,Wrestling Greco-Roman,wrestling-greco-roman,wrestling,0.99,yaml_override,2026-02-20T17:42:57+00:00
+wrestling-freestyle,Wrestling Freestyle,wrestling-freestyle,wrestling,1.0,connector_world_wrestling_championships_history,2026-03-20T22:43:14+00:00
+wrestling-greco-roman,Wrestling Greco-Roman,wrestling-greco-roman,wrestling,1.0,connector_world_wrestling_championships_history,2026-03-20T22:43:14+00:00
 fifa-men-ranking,FIFA Men Ranking,fifa-men-ranking,football,1.0,connector_fifa_ranking_history,2026-02-20T17:54:56+00:00
 fifa-world-cup-final-ranking,FIFA World Cup Final Ranking,fifa-world-cup-final-ranking,football,1.0,connector_world_cup_history,2026-02-20T19:02:00+00:00
 basketball,Basketball,basketball,basketball,0.95,connector_olympics_keith_history,2026-02-25T00:05:53+00:00

@@ -1,0 +1,3 @@
+discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
+wrestling-freestyle,Wrestling Freestyle,wrestling-freestyle,wrestling,1.0,connector_world_wrestling_championships_history,2026-03-20T22:43:14+00:00
+wrestling-greco-roman,Wrestling Greco-Roman,wrestling-greco-roman,wrestling,1.0,connector_world_wrestling_championships_history,2026-03-20T22:43:14+00:00

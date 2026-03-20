@@ -1,0 +1,3 @@
+competition_id,sport_id,name,season_year,level,start_date,end_date,source_id
+world_wrestling_championships_freestyle,wrestling,World Wrestling Championships (Freestyle),,international_championship,2001-12-31,2025-12-31,world_wrestling_championships_history
+world_wrestling_championships_greco_roman,wrestling,World Wrestling Championships (Greco-Roman),,international_championship,2001-12-31,2025-12-31,world_wrestling_championships_history

@@ -59,3 +59,5 @@ vuelta_a_espana,cycling,Vuelta a Espana,,professional_stage_race,1935-12-31,2025
 vuelta_a_espana_femenina,cycling,Vuelta a Espana Femenina,,professional_stage_race,2015-12-31,2025-12-31,uci_road_cycling_major_competitions_history
 uci_road_world_nation_ranking,cycling,UCI Road World Nation Ranking,,national_team_ranking,2015-12-30,2026-03-16,uci_road_nation_ranking_history
 world_judo_championships,judo,World Judo Championships,,international_championship,2001-12-31,2025-12-31,world_judo_championships_history
+world_wrestling_championships_freestyle,wrestling,World Wrestling Championships (Freestyle),,international_championship,2001-12-31,2025-12-31,world_wrestling_championships_history
+world_wrestling_championships_greco_roman,wrestling,World Wrestling Championships (Greco-Roman),,international_championship,2001-12-31,2025-12-31,world_wrestling_championships_history

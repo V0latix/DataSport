@@ -639,6 +639,29 @@ Comportement:
 - couverture observee avec la source actuelle:
   - `2001` -> `2025` (scope strict `year > 2000`)
 
+### 8q) Ingest World Wrestling Championships (historique, freestyle + greco-romaine, podium par categorie de poids, post-2000)
+
+```bash
+python -m pipelines.ingest --connector world_wrestling_championships_history --year 2026
+```
+
+Comportement:
+- ingere le seed local:
+  - `data/raw/wrestling/world_wrestling_championships_top3_seed.csv`
+  - seed reproductible via: `data/raw/wrestling/build_world_wrestling_championships_seed.py`
+- cree 2 competitions:
+  - `world_wrestling_championships_freestyle` (hommes + femmes)
+  - `world_wrestling_championships_greco_roman` (hommes)
+- cree un event par edition + genre + categorie de poids:
+  - `<competition_id>_<YYYY>_<gender>_<weight_class>`
+- stocke le podium par categorie de poids:
+  - profils attendus: `1,2,3`, `1,2,3,3` (double bronze) et cas rare `1,1,3,3` (double or)
+- sport/discipline:
+  - sport `wrestling`
+  - disciplines `wrestling-freestyle` et `wrestling-greco-roman`
+- couverture observee avec la source actuelle:
+  - `2001` -> `2025` (scope strict `year > 2000`)
+
 ### 9) Ingest JO d'été Paris 2024 (connecteur dédié, optionnel)
 
 ```bash
