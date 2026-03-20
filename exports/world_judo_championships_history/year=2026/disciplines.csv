@@ -1,0 +1,15 @@
+discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
+judo-men-minus-100-kg,Judo Men -100 kg,judo-men-100-kg,judo,1.0,connector_world_judo_championships_history,2026-03-20T17:24:46+00:00
+judo-men-minus-60-kg,Judo Men -60 kg,judo-men-60-kg,judo,1.0,connector_world_judo_championships_history,2026-03-20T17:24:46+00:00
+judo-men-minus-66-kg,Judo Men -66 kg,judo-men-66-kg,judo,1.0,connector_world_judo_championships_history,2026-03-20T17:24:46+00:00
+judo-men-minus-73-kg,Judo Men -73 kg,judo-men-73-kg,judo,1.0,connector_world_judo_championships_history,2026-03-20T17:24:46+00:00
+judo-men-minus-81-kg,Judo Men -81 kg,judo-men-81-kg,judo,1.0,connector_world_judo_championships_history,2026-03-20T17:24:46+00:00
+judo-men-minus-90-kg,Judo Men -90 kg,judo-men-90-kg,judo,1.0,connector_world_judo_championships_history,2026-03-20T17:24:46+00:00
+judo-men-plus-100-kg,Judo Men +100 kg,judo-men-100-kg,judo,1.0,connector_world_judo_championships_history,2026-03-20T17:24:46+00:00
+judo-women-minus-48-kg,Judo Women -48 kg,judo-women-48-kg,judo,1.0,connector_world_judo_championships_history,2026-03-20T17:24:46+00:00
+judo-women-minus-52-kg,Judo Women -52 kg,judo-women-52-kg,judo,1.0,connector_world_judo_championships_history,2026-03-20T17:24:46+00:00
+judo-women-minus-57-kg,Judo Women -57 kg,judo-women-57-kg,judo,1.0,connector_world_judo_championships_history,2026-03-20T17:24:46+00:00
+judo-women-minus-63-kg,Judo Women -63 kg,judo-women-63-kg,judo,1.0,connector_world_judo_championships_history,2026-03-20T17:24:46+00:00
+judo-women-minus-70-kg,Judo Women -70 kg,judo-women-70-kg,judo,1.0,connector_world_judo_championships_history,2026-03-20T17:24:46+00:00
+judo-women-minus-78-kg,Judo Women -78 kg,judo-women-78-kg,judo,1.0,connector_world_judo_championships_history,2026-03-20T17:24:46+00:00
+judo-women-plus-78-kg,Judo Women +78 kg,judo-women-78-kg,judo,1.0,connector_world_judo_championships_history,2026-03-20T17:24:46+00:00

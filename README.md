@@ -617,6 +617,28 @@ Comportement:
   - `2015` -> `2026`
   - annees manquantes detectees par le connecteur: `2009-2014` (pas de ranking mondial nations route publie sur ces saisons dans DataRide)
 
+### 8p) Ingest World Judo Championships (historique, podium par categorie de poids, post-2000)
+
+```bash
+python -m pipelines.ingest --connector world_judo_championships_history --year 2026
+```
+
+Comportement:
+- ingere le seed local:
+  - `data/raw/judo/world_judo_championships_top3_seed.csv`
+  - seed reproductible via: `data/raw/judo/build_world_judo_championships_seed.py`
+- cree la competition:
+  - `world_judo_championships`
+- cree un event par edition + genre + categorie de poids:
+  - `world_judo_championships_<YYYY>_<gender>_<discipline_key>`
+- stocke le podium par categorie de poids:
+  - profils attendus: `1,2,3,3` (double bronze) et cas rare `1,1,3,3` (double or sans argent)
+- sport/discipline:
+  - sport `judo`
+  - une discipline par categorie de poids (hommes/femmes)
+- couverture observee avec la source actuelle:
+  - `2001` -> `2025` (scope strict `year > 2000`)
+
 ### 9) Ingest JO d'été Paris 2024 (connecteur dédié, optionnel)
 
 ```bash
