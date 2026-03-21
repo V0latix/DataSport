@@ -18182,3 +18182,81 @@ athlete_Milad_Alirzaev_UWW,athlete,Milad Alirzaev,UWW
 athlete_Dárius_Vitek_HUN,athlete,Dárius Vitek,HUN
 athlete_Elias_Kuosmanen_FIN,athlete,Elias Kuosmanen,FIN
 athlete_Pavel_Hlinchuk_UWW,athlete,Pavel Hlinchuk,UWW
+constructor_ferrari,team,Ferrari,ITA
+constructor_mclaren,team,McLaren,GBR
+constructor_williams,team,Williams,GBR
+constructor_sauber,team,Sauber,CHE
+constructor_jordan,team,Jordan,IRL
+constructor_bar,team,BAR,GBR
+constructor_benetton,team,Benetton,ITA
+constructor_jaguar,team,Jaguar,GBR
+constructor_prost,team,Prost,FRA
+constructor_arrows,team,Arrows,GBR
+constructor_renault,team,Renault,FRA
+constructor_minardi,team,Minardi,ITA
+constructor_toyota,team,Toyota,JPN
+constructor_red-bull,team,Red Bull,AUT
+constructor_honda,team,Honda,JPN
+constructor_bmw-sauber,team,BMW Sauber,DEU
+constructor_toro-rosso,team,Toro Rosso,ITA
+constructor_mf1,team,MF1,RUS
+constructor_super-aguri,team,Super Aguri,JPN
+constructor_spyker,team,Spyker,NLD
+constructor_force-india,team,Force India,IND
+constructor_brawn,team,Brawn,GBR
+constructor_mercedes,team,Mercedes,DEU
+constructor_lotus-racing,team,Lotus,MYS
+constructor_lotus-f1,team,Lotus F1,GBR
+constructor_caterham,team,Caterham,MYS
+constructor_marussia,team,Marussia,RUS
+constructor_manor,team,Manor Marussia,GBR
+constructor_haas,team,Haas F1 Team,USA
+constructor_racing-point,team,Racing Point,GBR
+constructor_alfa,team,Alfa Romeo,CHE
+constructor_alphatauri,team,AlphaTauri,ITA
+constructor_alpine,team,Alpine F1 Team,FRA
+constructor_aston-martin,team,Aston Martin,GBR
+constructor_rb,team,RB F1 Team,ITA
+driver_michael-schumacher,athlete,Michael Schumacher,DEU
+driver_coulthard,athlete,David Coulthard,GBR
+driver_barrichello,athlete,Rubens Barrichello,BRA
+driver_ralf-schumacher,athlete,Ralf Schumacher,DEU
+driver_hakkinen,athlete,Mika Häkkinen,FIN
+driver_montoya,athlete,Juan Pablo Montoya,COL
+driver_villeneuve,athlete,Jacques Villeneuve,CAN
+driver_heidfeld,athlete,Nick Heidfeld,DEU
+driver_trulli,athlete,Jarno Trulli,ITA
+driver_raikkonen,athlete,Kimi Räikkönen,FIN
+driver_button,athlete,Jenson Button,GBR
+driver_irvine,athlete,Eddie Irvine,GBR
+driver_alonso,athlete,Fernando Alonso,ESP
+driver_webber,athlete,Mark Webber,AUS
+driver_sato,athlete,Takuma Sato,JPN
+driver_fisichella,athlete,Giancarlo Fisichella,ITA
+driver_massa,athlete,Felipe Massa,BRA
+driver_hamilton,athlete,Lewis Hamilton,GBR
+driver_kubica,athlete,Robert Kubica,POL
+driver_kovalainen,athlete,Heikki Kovalainen,FIN
+driver_rosberg,athlete,Nico Rosberg,DEU
+driver_vettel,athlete,Sebastian Vettel,DEU
+driver_glock,athlete,Timo Glock,DEU
+driver_sutil,athlete,Adrian Sutil,DEU
+driver_petrov,athlete,Vitaly Petrov,RUS
+driver_grosjean,athlete,Romain Grosjean,FRA
+driver_perez,athlete,Sergio Pérez,MEX
+driver_hulkenberg,athlete,Nico Hülkenberg,DEU
+driver_ricciardo,athlete,Daniel Ricciardo,AUS
+driver_bottas,athlete,Valtteri Bottas,FIN
+driver_kvyat,athlete,Daniil Kvyat,RUS
+driver_max-verstappen,athlete,Max Verstappen,NLD
+driver_ocon,athlete,Esteban Ocon,FRA
+driver_sainz,athlete,Carlos Sainz,ESP
+driver_kevin-magnussen,athlete,Kevin Magnussen,DNK
+driver_leclerc,athlete,Charles Leclerc,MCO
+driver_gasly,athlete,Pierre Gasly,FRA
+driver_albon,athlete,Alexander Albon,THA
+driver_norris,athlete,Lando Norris,GBR
+driver_russell,athlete,George Russell,GBR
+driver_piastri,athlete,Oscar Piastri,AUS
+driver_stroll,athlete,Lance Stroll,CAN
+driver_antonelli,athlete,Andrea Kimi Antonelli,ITA

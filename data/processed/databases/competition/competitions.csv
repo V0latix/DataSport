@@ -61,3 +61,5 @@ uci_road_world_nation_ranking,cycling,UCI Road World Nation Ranking,,national_te
 world_judo_championships,judo,World Judo Championships,,international_championship,2001-12-31,2025-12-31,world_judo_championships_history
 world_wrestling_championships_freestyle,wrestling,World Wrestling Championships (Freestyle),,international_championship,2001-12-31,2025-12-31,world_wrestling_championships_history
 world_wrestling_championships_greco_roman,wrestling,World Wrestling Championships (Greco-Roman),,international_championship,2001-12-31,2025-12-31,world_wrestling_championships_history
+formula1_constructors_world_championship,motorsport,Formula 1 World Constructors' Championship,,professional_championship,2001-12-31,2025-12-31,formula1_world_championship_history
+formula1_drivers_world_championship,motorsport,Formula 1 World Drivers' Championship,,professional_championship,2001-12-31,2025-12-31,formula1_world_championship_history

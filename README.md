@@ -662,6 +662,31 @@ Comportement:
 - couverture observee avec la source actuelle:
   - `2001` -> `2025` (scope strict `year > 2000`)
 
+### 8r) Ingest Formula 1 World Championship (classement final top 10 pilotes + constructeurs, post-2000)
+
+```bash
+python -m pipelines.ingest --connector formula1_world_championship_history --year 2026
+```
+
+Comportement:
+- ingere le seed local:
+  - `data/raw/formula1/formula1_world_standings_top10_seed.csv`
+  - seed reproductible via: `data/raw/formula1/build_formula1_world_standings_seed.py`
+- cree 2 competitions:
+  - `formula1_drivers_world_championship`
+  - `formula1_constructors_world_championship`
+- cree un event annuel par competition:
+  - `formula1_drivers_world_championship_<YYYY>`
+  - `formula1_constructors_world_championship_<YYYY>`
+- stocke un top 10 strict par event:
+  - profil attendu `1,2,3,4,5,6,7,8,9,10`
+- sport/discipline:
+  - sport `motorsport`
+  - discipline `formula-one`
+- couverture observee avec la source actuelle:
+  - `2001` -> `2025`
+  - annee courante exclue tant que la saison n'est pas complete (ex: `2026`)
+
 ### 9) Ingest JO d'été Paris 2024 (connecteur dédié, optionnel)
 
 ```bash

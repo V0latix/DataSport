@@ -1,0 +1,2 @@
+discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
+formula-one,Formula One,formula-one,motorsport,1.0,connector_formula1_world_championship_history,2026-03-21T18:40:15+00:00

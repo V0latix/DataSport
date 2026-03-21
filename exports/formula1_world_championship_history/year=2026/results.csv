@@ -1,0 +1,501 @@
+event_id,participant_id,rank,medal,score_raw,points_awarded
+formula1_constructors_world_championship_2001,constructor_ferrari,1,gold,points=179.0;wins=9;team=Ferrari;nationality=Italian;round=17;source_url=https://en.wikipedia.org/wiki/Scuderia_Ferrari,179.0
+formula1_constructors_world_championship_2001,constructor_mclaren,2,silver,points=102.0;wins=4;team=McLaren;nationality=British;round=17;source_url=https://en.wikipedia.org/wiki/McLaren,102.0
+formula1_constructors_world_championship_2001,constructor_williams,3,bronze,points=80.0;wins=4;team=Williams;nationality=British;round=17;source_url=https://en.wikipedia.org/wiki/Williams_Racing,80.0
+formula1_constructors_world_championship_2001,constructor_sauber,4,,points=21.0;wins=0;team=Sauber;nationality=Swiss;round=17;source_url=https://en.wikipedia.org/wiki/Sauber_Motorsport,21.0
+formula1_constructors_world_championship_2001,constructor_jordan,5,,points=19.0;wins=0;team=Jordan;nationality=Irish;round=17;source_url=https://en.wikipedia.org/wiki/Jordan_Grand_Prix,19.0
+formula1_constructors_world_championship_2001,constructor_bar,6,,points=17.0;wins=0;team=BAR;nationality=British;round=17;source_url=https://en.wikipedia.org/wiki/British_American_Racing,17.0
+formula1_constructors_world_championship_2001,constructor_benetton,7,,points=10.0;wins=0;team=Benetton;nationality=Italian;round=17;source_url=https://en.wikipedia.org/wiki/Benetton_Formula,10.0
+formula1_constructors_world_championship_2001,constructor_jaguar,8,,points=9.0;wins=0;team=Jaguar;nationality=British;round=17;source_url=https://en.wikipedia.org/wiki/Jaguar_Racing,9.0
+formula1_constructors_world_championship_2001,constructor_prost,9,,points=4.0;wins=0;team=Prost;nationality=French;round=17;source_url=https://en.wikipedia.org/wiki/Prost_Grand_Prix,4.0
+formula1_constructors_world_championship_2001,constructor_arrows,10,,points=1.0;wins=0;team=Arrows;nationality=British;round=17;source_url=https://en.wikipedia.org/wiki/Arrows_Grand_Prix_International,1.0
+formula1_constructors_world_championship_2002,constructor_ferrari,1,gold,points=221.0;wins=15;team=Ferrari;nationality=Italian;round=17;source_url=https://en.wikipedia.org/wiki/Scuderia_Ferrari,221.0
+formula1_constructors_world_championship_2002,constructor_williams,2,silver,points=92.0;wins=1;team=Williams;nationality=British;round=17;source_url=https://en.wikipedia.org/wiki/Williams_Racing,92.0
+formula1_constructors_world_championship_2002,constructor_mclaren,3,bronze,points=65.0;wins=1;team=McLaren;nationality=British;round=17;source_url=https://en.wikipedia.org/wiki/McLaren,65.0
+formula1_constructors_world_championship_2002,constructor_renault,4,,points=23.0;wins=0;team=Renault;nationality=French;round=17;source_url=https://en.wikipedia.org/wiki/Renault_in_Formula_One,23.0
+formula1_constructors_world_championship_2002,constructor_sauber,5,,points=11.0;wins=0;team=Sauber;nationality=Swiss;round=17;source_url=https://en.wikipedia.org/wiki/Sauber_Motorsport,11.0
+formula1_constructors_world_championship_2002,constructor_jordan,6,,points=9.0;wins=0;team=Jordan;nationality=Irish;round=17;source_url=https://en.wikipedia.org/wiki/Jordan_Grand_Prix,9.0
+formula1_constructors_world_championship_2002,constructor_jaguar,7,,points=8.0;wins=0;team=Jaguar;nationality=British;round=17;source_url=https://en.wikipedia.org/wiki/Jaguar_Racing,8.0
+formula1_constructors_world_championship_2002,constructor_bar,8,,points=7.0;wins=0;team=BAR;nationality=British;round=17;source_url=https://en.wikipedia.org/wiki/British_American_Racing,7.0
+formula1_constructors_world_championship_2002,constructor_minardi,9,,points=2.0;wins=0;team=Minardi;nationality=Italian;round=17;source_url=https://en.wikipedia.org/wiki/Minardi,2.0
+formula1_constructors_world_championship_2002,constructor_toyota,10,,points=2.0;wins=0;team=Toyota;nationality=Japanese;round=17;source_url=https://en.wikipedia.org/wiki/Toyota_Racing,2.0
+formula1_constructors_world_championship_2003,constructor_ferrari,1,gold,points=158.0;wins=8;team=Ferrari;nationality=Italian;round=16;source_url=https://en.wikipedia.org/wiki/Scuderia_Ferrari,158.0
+formula1_constructors_world_championship_2003,constructor_williams,2,silver,points=144.0;wins=4;team=Williams;nationality=British;round=16;source_url=https://en.wikipedia.org/wiki/Williams_Racing,144.0
+formula1_constructors_world_championship_2003,constructor_mclaren,3,bronze,points=142.0;wins=2;team=McLaren;nationality=British;round=16;source_url=https://en.wikipedia.org/wiki/McLaren,142.0
+formula1_constructors_world_championship_2003,constructor_renault,4,,points=88.0;wins=1;team=Renault;nationality=French;round=16;source_url=https://en.wikipedia.org/wiki/Renault_in_Formula_One,88.0
+formula1_constructors_world_championship_2003,constructor_bar,5,,points=26.0;wins=0;team=BAR;nationality=British;round=16;source_url=https://en.wikipedia.org/wiki/British_American_Racing,26.0
+formula1_constructors_world_championship_2003,constructor_sauber,6,,points=19.0;wins=0;team=Sauber;nationality=Swiss;round=16;source_url=https://en.wikipedia.org/wiki/Sauber_Motorsport,19.0
+formula1_constructors_world_championship_2003,constructor_jaguar,7,,points=18.0;wins=0;team=Jaguar;nationality=British;round=16;source_url=https://en.wikipedia.org/wiki/Jaguar_Racing,18.0
+formula1_constructors_world_championship_2003,constructor_toyota,8,,points=16.0;wins=0;team=Toyota;nationality=Japanese;round=16;source_url=https://en.wikipedia.org/wiki/Toyota_Racing,16.0
+formula1_constructors_world_championship_2003,constructor_jordan,9,,points=13.0;wins=1;team=Jordan;nationality=Irish;round=16;source_url=https://en.wikipedia.org/wiki/Jordan_Grand_Prix,13.0
+formula1_constructors_world_championship_2003,constructor_minardi,10,,points=0.0;wins=0;team=Minardi;nationality=Italian;round=16;source_url=https://en.wikipedia.org/wiki/Minardi,0.0
+formula1_constructors_world_championship_2004,constructor_ferrari,1,gold,points=262.0;wins=15;team=Ferrari;nationality=Italian;round=18;source_url=https://en.wikipedia.org/wiki/Scuderia_Ferrari,262.0
+formula1_constructors_world_championship_2004,constructor_bar,2,silver,points=119.0;wins=0;team=BAR;nationality=British;round=18;source_url=https://en.wikipedia.org/wiki/British_American_Racing,119.0
+formula1_constructors_world_championship_2004,constructor_renault,3,bronze,points=105.0;wins=1;team=Renault;nationality=French;round=18;source_url=https://en.wikipedia.org/wiki/Renault_in_Formula_One,105.0
+formula1_constructors_world_championship_2004,constructor_williams,4,,points=88.0;wins=1;team=Williams;nationality=British;round=18;source_url=https://en.wikipedia.org/wiki/Williams_Racing,88.0
+formula1_constructors_world_championship_2004,constructor_mclaren,5,,points=69.0;wins=1;team=McLaren;nationality=British;round=18;source_url=https://en.wikipedia.org/wiki/McLaren,69.0
+formula1_constructors_world_championship_2004,constructor_sauber,6,,points=34.0;wins=0;team=Sauber;nationality=Swiss;round=18;source_url=https://en.wikipedia.org/wiki/Sauber_Motorsport,34.0
+formula1_constructors_world_championship_2004,constructor_jaguar,7,,points=10.0;wins=0;team=Jaguar;nationality=British;round=18;source_url=https://en.wikipedia.org/wiki/Jaguar_Racing,10.0
+formula1_constructors_world_championship_2004,constructor_toyota,8,,points=9.0;wins=0;team=Toyota;nationality=Japanese;round=18;source_url=https://en.wikipedia.org/wiki/Toyota_Racing,9.0
+formula1_constructors_world_championship_2004,constructor_jordan,9,,points=5.0;wins=0;team=Jordan;nationality=Irish;round=18;source_url=https://en.wikipedia.org/wiki/Jordan_Grand_Prix,5.0
+formula1_constructors_world_championship_2004,constructor_minardi,10,,points=1.0;wins=0;team=Minardi;nationality=Italian;round=18;source_url=https://en.wikipedia.org/wiki/Minardi,1.0
+formula1_constructors_world_championship_2005,constructor_renault,1,gold,points=191.0;wins=8;team=Renault;nationality=French;round=19;source_url=https://en.wikipedia.org/wiki/Renault_in_Formula_One,191.0
+formula1_constructors_world_championship_2005,constructor_mclaren,2,silver,points=182.0;wins=10;team=McLaren;nationality=British;round=19;source_url=https://en.wikipedia.org/wiki/McLaren,182.0
+formula1_constructors_world_championship_2005,constructor_ferrari,3,bronze,points=100.0;wins=1;team=Ferrari;nationality=Italian;round=19;source_url=https://en.wikipedia.org/wiki/Scuderia_Ferrari,100.0
+formula1_constructors_world_championship_2005,constructor_toyota,4,,points=88.0;wins=0;team=Toyota;nationality=Japanese;round=19;source_url=https://en.wikipedia.org/wiki/Toyota_Racing,88.0
+formula1_constructors_world_championship_2005,constructor_williams,5,,points=66.0;wins=0;team=Williams;nationality=British;round=19;source_url=https://en.wikipedia.org/wiki/Williams_Racing,66.0
+formula1_constructors_world_championship_2005,constructor_bar,6,,points=38.0;wins=0;team=BAR;nationality=British;round=19;source_url=https://en.wikipedia.org/wiki/British_American_Racing,38.0
+formula1_constructors_world_championship_2005,constructor_red-bull,7,,points=34.0;wins=0;team=Red Bull;nationality=Austrian;round=19;source_url=https://en.wikipedia.org/wiki/Red_Bull_Racing,34.0
+formula1_constructors_world_championship_2005,constructor_sauber,8,,points=20.0;wins=0;team=Sauber;nationality=Swiss;round=19;source_url=https://en.wikipedia.org/wiki/Sauber_Motorsport,20.0
+formula1_constructors_world_championship_2005,constructor_jordan,9,,points=12.0;wins=0;team=Jordan;nationality=Irish;round=19;source_url=https://en.wikipedia.org/wiki/Jordan_Grand_Prix,12.0
+formula1_constructors_world_championship_2005,constructor_minardi,10,,points=7.0;wins=0;team=Minardi;nationality=Italian;round=19;source_url=https://en.wikipedia.org/wiki/Minardi,7.0
+formula1_constructors_world_championship_2006,constructor_renault,1,gold,points=206.0;wins=8;team=Renault;nationality=French;round=18;source_url=https://en.wikipedia.org/wiki/Renault_in_Formula_One,206.0
+formula1_constructors_world_championship_2006,constructor_ferrari,2,silver,points=201.0;wins=9;team=Ferrari;nationality=Italian;round=18;source_url=https://en.wikipedia.org/wiki/Scuderia_Ferrari,201.0
+formula1_constructors_world_championship_2006,constructor_mclaren,3,bronze,points=110.0;wins=0;team=McLaren;nationality=British;round=18;source_url=https://en.wikipedia.org/wiki/McLaren,110.0
+formula1_constructors_world_championship_2006,constructor_honda,4,,points=86.0;wins=1;team=Honda;nationality=Japanese;round=18;source_url=https://en.wikipedia.org/wiki/Honda_in_Formula_One,86.0
+formula1_constructors_world_championship_2006,constructor_bmw-sauber,5,,points=36.0;wins=0;team=BMW Sauber;nationality=German;round=18;source_url=https://en.wikipedia.org/wiki/BMW_in_Formula_One,36.0
+formula1_constructors_world_championship_2006,constructor_toyota,6,,points=35.0;wins=0;team=Toyota;nationality=Japanese;round=18;source_url=https://en.wikipedia.org/wiki/Toyota_Racing,35.0
+formula1_constructors_world_championship_2006,constructor_red-bull,7,,points=16.0;wins=0;team=Red Bull;nationality=Austrian;round=18;source_url=https://en.wikipedia.org/wiki/Red_Bull_Racing,16.0
+formula1_constructors_world_championship_2006,constructor_williams,8,,points=11.0;wins=0;team=Williams;nationality=British;round=18;source_url=https://en.wikipedia.org/wiki/Williams_Racing,11.0
+formula1_constructors_world_championship_2006,constructor_toro-rosso,9,,points=1.0;wins=0;team=Toro Rosso;nationality=Italian;round=18;source_url=https://en.wikipedia.org/wiki/Scuderia_Toro_Rosso,1.0
+formula1_constructors_world_championship_2006,constructor_mf1,10,,points=0.0;wins=0;team=MF1;nationality=Russian;round=18;source_url=https://en.wikipedia.org/wiki/Midland_F1_Racing,0.0
+formula1_constructors_world_championship_2007,constructor_ferrari,1,gold,points=204.0;wins=9;team=Ferrari;nationality=Italian;round=17;source_url=https://en.wikipedia.org/wiki/Scuderia_Ferrari,204.0
+formula1_constructors_world_championship_2007,constructor_bmw-sauber,2,silver,points=101.0;wins=0;team=BMW Sauber;nationality=German;round=17;source_url=https://en.wikipedia.org/wiki/BMW_in_Formula_One,101.0
+formula1_constructors_world_championship_2007,constructor_renault,3,bronze,points=51.0;wins=0;team=Renault;nationality=French;round=17;source_url=https://en.wikipedia.org/wiki/Renault_in_Formula_One,51.0
+formula1_constructors_world_championship_2007,constructor_williams,4,,points=33.0;wins=0;team=Williams;nationality=British;round=17;source_url=https://en.wikipedia.org/wiki/Williams_Racing,33.0
+formula1_constructors_world_championship_2007,constructor_red-bull,5,,points=24.0;wins=0;team=Red Bull;nationality=Austrian;round=17;source_url=https://en.wikipedia.org/wiki/Red_Bull_Racing,24.0
+formula1_constructors_world_championship_2007,constructor_toyota,6,,points=13.0;wins=0;team=Toyota;nationality=Japanese;round=17;source_url=https://en.wikipedia.org/wiki/Toyota_Racing,13.0
+formula1_constructors_world_championship_2007,constructor_toro-rosso,7,,points=8.0;wins=0;team=Toro Rosso;nationality=Italian;round=17;source_url=https://en.wikipedia.org/wiki/Scuderia_Toro_Rosso,8.0
+formula1_constructors_world_championship_2007,constructor_honda,8,,points=6.0;wins=0;team=Honda;nationality=Japanese;round=17;source_url=https://en.wikipedia.org/wiki/Honda_in_Formula_One,6.0
+formula1_constructors_world_championship_2007,constructor_super-aguri,9,,points=4.0;wins=0;team=Super Aguri;nationality=Japanese;round=17;source_url=https://en.wikipedia.org/wiki/Super_Aguri_F1,4.0
+formula1_constructors_world_championship_2007,constructor_spyker,10,,points=1.0;wins=0;team=Spyker;nationality=Dutch;round=17;source_url=https://en.wikipedia.org/wiki/Spyker_F1,1.0
+formula1_constructors_world_championship_2008,constructor_ferrari,1,gold,points=172.0;wins=8;team=Ferrari;nationality=Italian;round=18;source_url=https://en.wikipedia.org/wiki/Scuderia_Ferrari,172.0
+formula1_constructors_world_championship_2008,constructor_mclaren,2,silver,points=151.0;wins=6;team=McLaren;nationality=British;round=18;source_url=https://en.wikipedia.org/wiki/McLaren,151.0
+formula1_constructors_world_championship_2008,constructor_bmw-sauber,3,bronze,points=135.0;wins=1;team=BMW Sauber;nationality=German;round=18;source_url=https://en.wikipedia.org/wiki/BMW_in_Formula_One,135.0
+formula1_constructors_world_championship_2008,constructor_renault,4,,points=80.0;wins=2;team=Renault;nationality=French;round=18;source_url=https://en.wikipedia.org/wiki/Renault_in_Formula_One,80.0
+formula1_constructors_world_championship_2008,constructor_toyota,5,,points=56.0;wins=0;team=Toyota;nationality=Japanese;round=18;source_url=https://en.wikipedia.org/wiki/Toyota_Racing,56.0
+formula1_constructors_world_championship_2008,constructor_toro-rosso,6,,points=39.0;wins=1;team=Toro Rosso;nationality=Italian;round=18;source_url=https://en.wikipedia.org/wiki/Scuderia_Toro_Rosso,39.0
+formula1_constructors_world_championship_2008,constructor_red-bull,7,,points=29.0;wins=0;team=Red Bull;nationality=Austrian;round=18;source_url=https://en.wikipedia.org/wiki/Red_Bull_Racing,29.0
+formula1_constructors_world_championship_2008,constructor_williams,8,,points=26.0;wins=0;team=Williams;nationality=British;round=18;source_url=https://en.wikipedia.org/wiki/Williams_Racing,26.0
+formula1_constructors_world_championship_2008,constructor_honda,9,,points=14.0;wins=0;team=Honda;nationality=Japanese;round=18;source_url=https://en.wikipedia.org/wiki/Honda_in_Formula_One,14.0
+formula1_constructors_world_championship_2008,constructor_force-india,10,,points=0.0;wins=0;team=Force India;nationality=Indian;round=18;source_url=https://en.wikipedia.org/wiki/Racing_Point_Force_India,0.0
+formula1_constructors_world_championship_2009,constructor_brawn,1,gold,points=172.0;wins=8;team=Brawn;nationality=British;round=17;source_url=https://en.wikipedia.org/wiki/Brawn_GP,172.0
+formula1_constructors_world_championship_2009,constructor_red-bull,2,silver,points=153.5;wins=6;team=Red Bull;nationality=Austrian;round=17;source_url=https://en.wikipedia.org/wiki/Red_Bull_Racing,153.5
+formula1_constructors_world_championship_2009,constructor_mclaren,3,bronze,points=71.0;wins=2;team=McLaren;nationality=British;round=17;source_url=https://en.wikipedia.org/wiki/McLaren,71.0
+formula1_constructors_world_championship_2009,constructor_ferrari,4,,points=70.0;wins=1;team=Ferrari;nationality=Italian;round=17;source_url=https://en.wikipedia.org/wiki/Scuderia_Ferrari,70.0
+formula1_constructors_world_championship_2009,constructor_toyota,5,,points=59.5;wins=0;team=Toyota;nationality=Japanese;round=17;source_url=https://en.wikipedia.org/wiki/Toyota_Racing,59.5
+formula1_constructors_world_championship_2009,constructor_bmw-sauber,6,,points=36.0;wins=0;team=BMW Sauber;nationality=German;round=17;source_url=https://en.wikipedia.org/wiki/BMW_in_Formula_One,36.0
+formula1_constructors_world_championship_2009,constructor_williams,7,,points=34.5;wins=0;team=Williams;nationality=British;round=17;source_url=https://en.wikipedia.org/wiki/Williams_Racing,34.5
+formula1_constructors_world_championship_2009,constructor_renault,8,,points=26.0;wins=0;team=Renault;nationality=French;round=17;source_url=https://en.wikipedia.org/wiki/Renault_in_Formula_One,26.0
+formula1_constructors_world_championship_2009,constructor_force-india,9,,points=13.0;wins=0;team=Force India;nationality=Indian;round=17;source_url=https://en.wikipedia.org/wiki/Racing_Point_Force_India,13.0
+formula1_constructors_world_championship_2009,constructor_toro-rosso,10,,points=8.0;wins=0;team=Toro Rosso;nationality=Italian;round=17;source_url=https://en.wikipedia.org/wiki/Scuderia_Toro_Rosso,8.0
+formula1_constructors_world_championship_2010,constructor_red-bull,1,gold,points=498.0;wins=9;team=Red Bull;nationality=Austrian;round=19;source_url=https://en.wikipedia.org/wiki/Red_Bull_Racing,498.0
+formula1_constructors_world_championship_2010,constructor_mclaren,2,silver,points=454.0;wins=5;team=McLaren;nationality=British;round=19;source_url=https://en.wikipedia.org/wiki/McLaren,454.0
+formula1_constructors_world_championship_2010,constructor_ferrari,3,bronze,points=396.0;wins=5;team=Ferrari;nationality=Italian;round=19;source_url=https://en.wikipedia.org/wiki/Scuderia_Ferrari,396.0
+formula1_constructors_world_championship_2010,constructor_mercedes,4,,points=214.0;wins=0;team=Mercedes;nationality=German;round=19;source_url=https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One,214.0
+formula1_constructors_world_championship_2010,constructor_renault,5,,points=163.0;wins=0;team=Renault;nationality=French;round=19;source_url=https://en.wikipedia.org/wiki/Renault_in_Formula_One,163.0
+formula1_constructors_world_championship_2010,constructor_williams,6,,points=69.0;wins=0;team=Williams;nationality=British;round=19;source_url=https://en.wikipedia.org/wiki/Williams_Racing,69.0
+formula1_constructors_world_championship_2010,constructor_force-india,7,,points=68.0;wins=0;team=Force India;nationality=Indian;round=19;source_url=https://en.wikipedia.org/wiki/Racing_Point_Force_India,68.0
+formula1_constructors_world_championship_2010,constructor_sauber,8,,points=44.0;wins=0;team=Sauber;nationality=Swiss;round=19;source_url=https://en.wikipedia.org/wiki/Sauber_Motorsport,44.0
+formula1_constructors_world_championship_2010,constructor_toro-rosso,9,,points=13.0;wins=0;team=Toro Rosso;nationality=Italian;round=19;source_url=https://en.wikipedia.org/wiki/Scuderia_Toro_Rosso,13.0
+formula1_constructors_world_championship_2010,constructor_lotus-racing,10,,points=0.0;wins=0;team=Lotus;nationality=Malaysian;round=19;source_url=https://en.wikipedia.org/wiki/Lotus_Racing,0.0
+formula1_constructors_world_championship_2011,constructor_red-bull,1,gold,points=650.0;wins=12;team=Red Bull;nationality=Austrian;round=19;source_url=https://en.wikipedia.org/wiki/Red_Bull_Racing,650.0
+formula1_constructors_world_championship_2011,constructor_mclaren,2,silver,points=497.0;wins=6;team=McLaren;nationality=British;round=19;source_url=https://en.wikipedia.org/wiki/McLaren,497.0
+formula1_constructors_world_championship_2011,constructor_ferrari,3,bronze,points=375.0;wins=1;team=Ferrari;nationality=Italian;round=19;source_url=https://en.wikipedia.org/wiki/Scuderia_Ferrari,375.0
+formula1_constructors_world_championship_2011,constructor_mercedes,4,,points=165.0;wins=0;team=Mercedes;nationality=German;round=19;source_url=https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One,165.0
+formula1_constructors_world_championship_2011,constructor_renault,5,,points=73.0;wins=0;team=Renault;nationality=French;round=19;source_url=https://en.wikipedia.org/wiki/Renault_in_Formula_One,73.0
+formula1_constructors_world_championship_2011,constructor_force-india,6,,points=69.0;wins=0;team=Force India;nationality=Indian;round=19;source_url=https://en.wikipedia.org/wiki/Racing_Point_Force_India,69.0
+formula1_constructors_world_championship_2011,constructor_sauber,7,,points=44.0;wins=0;team=Sauber;nationality=Swiss;round=19;source_url=https://en.wikipedia.org/wiki/Sauber_Motorsport,44.0
+formula1_constructors_world_championship_2011,constructor_toro-rosso,8,,points=41.0;wins=0;team=Toro Rosso;nationality=Italian;round=19;source_url=https://en.wikipedia.org/wiki/Scuderia_Toro_Rosso,41.0
+formula1_constructors_world_championship_2011,constructor_williams,9,,points=5.0;wins=0;team=Williams;nationality=British;round=19;source_url=https://en.wikipedia.org/wiki/Williams_Racing,5.0
+formula1_constructors_world_championship_2011,constructor_lotus-racing,10,,points=0.0;wins=0;team=Lotus;nationality=Malaysian;round=19;source_url=https://en.wikipedia.org/wiki/Lotus_Racing,0.0
+formula1_constructors_world_championship_2012,constructor_red-bull,1,gold,points=460.0;wins=7;team=Red Bull;nationality=Austrian;round=20;source_url=https://en.wikipedia.org/wiki/Red_Bull_Racing,460.0
+formula1_constructors_world_championship_2012,constructor_ferrari,2,silver,points=400.0;wins=3;team=Ferrari;nationality=Italian;round=20;source_url=https://en.wikipedia.org/wiki/Scuderia_Ferrari,400.0
+formula1_constructors_world_championship_2012,constructor_mclaren,3,bronze,points=378.0;wins=7;team=McLaren;nationality=British;round=20;source_url=https://en.wikipedia.org/wiki/McLaren,378.0
+formula1_constructors_world_championship_2012,constructor_lotus-f1,4,,points=303.0;wins=1;team=Lotus F1;nationality=British;round=20;source_url=https://en.wikipedia.org/wiki/Lotus_F1,303.0
+formula1_constructors_world_championship_2012,constructor_mercedes,5,,points=142.0;wins=1;team=Mercedes;nationality=German;round=20;source_url=https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One,142.0
+formula1_constructors_world_championship_2012,constructor_sauber,6,,points=126.0;wins=0;team=Sauber;nationality=Swiss;round=20;source_url=https://en.wikipedia.org/wiki/Sauber_Motorsport,126.0
+formula1_constructors_world_championship_2012,constructor_force-india,7,,points=109.0;wins=0;team=Force India;nationality=Indian;round=20;source_url=https://en.wikipedia.org/wiki/Racing_Point_Force_India,109.0
+formula1_constructors_world_championship_2012,constructor_williams,8,,points=76.0;wins=1;team=Williams;nationality=British;round=20;source_url=https://en.wikipedia.org/wiki/Williams_Racing,76.0
+formula1_constructors_world_championship_2012,constructor_toro-rosso,9,,points=26.0;wins=0;team=Toro Rosso;nationality=Italian;round=20;source_url=https://en.wikipedia.org/wiki/Scuderia_Toro_Rosso,26.0
+formula1_constructors_world_championship_2012,constructor_caterham,10,,points=0.0;wins=0;team=Caterham;nationality=Malaysian;round=20;source_url=https://en.wikipedia.org/wiki/Caterham_F1,0.0
+formula1_constructors_world_championship_2013,constructor_red-bull,1,gold,points=596.0;wins=13;team=Red Bull;nationality=Austrian;round=19;source_url=https://en.wikipedia.org/wiki/Red_Bull_Racing,596.0
+formula1_constructors_world_championship_2013,constructor_mercedes,2,silver,points=360.0;wins=3;team=Mercedes;nationality=German;round=19;source_url=https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One,360.0
+formula1_constructors_world_championship_2013,constructor_ferrari,3,bronze,points=354.0;wins=2;team=Ferrari;nationality=Italian;round=19;source_url=https://en.wikipedia.org/wiki/Scuderia_Ferrari,354.0
+formula1_constructors_world_championship_2013,constructor_lotus-f1,4,,points=315.0;wins=1;team=Lotus F1;nationality=British;round=19;source_url=https://en.wikipedia.org/wiki/Lotus_F1,315.0
+formula1_constructors_world_championship_2013,constructor_mclaren,5,,points=122.0;wins=0;team=McLaren;nationality=British;round=19;source_url=https://en.wikipedia.org/wiki/McLaren,122.0
+formula1_constructors_world_championship_2013,constructor_force-india,6,,points=77.0;wins=0;team=Force India;nationality=Indian;round=19;source_url=https://en.wikipedia.org/wiki/Racing_Point_Force_India,77.0
+formula1_constructors_world_championship_2013,constructor_sauber,7,,points=57.0;wins=0;team=Sauber;nationality=Swiss;round=19;source_url=https://en.wikipedia.org/wiki/Sauber_Motorsport,57.0
+formula1_constructors_world_championship_2013,constructor_toro-rosso,8,,points=33.0;wins=0;team=Toro Rosso;nationality=Italian;round=19;source_url=https://en.wikipedia.org/wiki/Scuderia_Toro_Rosso,33.0
+formula1_constructors_world_championship_2013,constructor_williams,9,,points=5.0;wins=0;team=Williams;nationality=British;round=19;source_url=https://en.wikipedia.org/wiki/Williams_Racing,5.0
+formula1_constructors_world_championship_2013,constructor_marussia,10,,points=0.0;wins=0;team=Marussia;nationality=Russian;round=19;source_url=https://en.wikipedia.org/wiki/Marussia_F1,0.0
+formula1_constructors_world_championship_2014,constructor_mercedes,1,gold,points=701.0;wins=16;team=Mercedes;nationality=German;round=19;source_url=https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One,701.0
+formula1_constructors_world_championship_2014,constructor_red-bull,2,silver,points=405.0;wins=3;team=Red Bull;nationality=Austrian;round=19;source_url=https://en.wikipedia.org/wiki/Red_Bull_Racing,405.0
+formula1_constructors_world_championship_2014,constructor_williams,3,bronze,points=320.0;wins=0;team=Williams;nationality=British;round=19;source_url=https://en.wikipedia.org/wiki/Williams_Racing,320.0
+formula1_constructors_world_championship_2014,constructor_ferrari,4,,points=216.0;wins=0;team=Ferrari;nationality=Italian;round=19;source_url=https://en.wikipedia.org/wiki/Scuderia_Ferrari,216.0
+formula1_constructors_world_championship_2014,constructor_mclaren,5,,points=181.0;wins=0;team=McLaren;nationality=British;round=19;source_url=https://en.wikipedia.org/wiki/McLaren,181.0
+formula1_constructors_world_championship_2014,constructor_force-india,6,,points=155.0;wins=0;team=Force India;nationality=Indian;round=19;source_url=https://en.wikipedia.org/wiki/Racing_Point_Force_India,155.0
+formula1_constructors_world_championship_2014,constructor_toro-rosso,7,,points=30.0;wins=0;team=Toro Rosso;nationality=Italian;round=19;source_url=https://en.wikipedia.org/wiki/Scuderia_Toro_Rosso,30.0
+formula1_constructors_world_championship_2014,constructor_lotus-f1,8,,points=10.0;wins=0;team=Lotus F1;nationality=British;round=19;source_url=https://en.wikipedia.org/wiki/Lotus_F1,10.0
+formula1_constructors_world_championship_2014,constructor_marussia,9,,points=2.0;wins=0;team=Marussia;nationality=Russian;round=19;source_url=https://en.wikipedia.org/wiki/Marussia_F1,2.0
+formula1_constructors_world_championship_2014,constructor_sauber,10,,points=0.0;wins=0;team=Sauber;nationality=Swiss;round=19;source_url=https://en.wikipedia.org/wiki/Sauber_Motorsport,0.0
+formula1_constructors_world_championship_2015,constructor_mercedes,1,gold,points=703.0;wins=16;team=Mercedes;nationality=German;round=19;source_url=https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One,703.0
+formula1_constructors_world_championship_2015,constructor_ferrari,2,silver,points=428.0;wins=3;team=Ferrari;nationality=Italian;round=19;source_url=https://en.wikipedia.org/wiki/Scuderia_Ferrari,428.0
+formula1_constructors_world_championship_2015,constructor_williams,3,bronze,points=257.0;wins=0;team=Williams;nationality=British;round=19;source_url=https://en.wikipedia.org/wiki/Williams_Racing,257.0
+formula1_constructors_world_championship_2015,constructor_red-bull,4,,points=187.0;wins=0;team=Red Bull;nationality=Austrian;round=19;source_url=https://en.wikipedia.org/wiki/Red_Bull_Racing,187.0
+formula1_constructors_world_championship_2015,constructor_force-india,5,,points=136.0;wins=0;team=Force India;nationality=Indian;round=19;source_url=https://en.wikipedia.org/wiki/Racing_Point_Force_India,136.0
+formula1_constructors_world_championship_2015,constructor_lotus-f1,6,,points=78.0;wins=0;team=Lotus F1;nationality=British;round=19;source_url=https://en.wikipedia.org/wiki/Lotus_F1,78.0
+formula1_constructors_world_championship_2015,constructor_toro-rosso,7,,points=67.0;wins=0;team=Toro Rosso;nationality=Italian;round=19;source_url=https://en.wikipedia.org/wiki/Scuderia_Toro_Rosso,67.0
+formula1_constructors_world_championship_2015,constructor_sauber,8,,points=36.0;wins=0;team=Sauber;nationality=Swiss;round=19;source_url=https://en.wikipedia.org/wiki/Sauber_Motorsport,36.0
+formula1_constructors_world_championship_2015,constructor_mclaren,9,,points=27.0;wins=0;team=McLaren;nationality=British;round=19;source_url=https://en.wikipedia.org/wiki/McLaren,27.0
+formula1_constructors_world_championship_2015,constructor_manor,10,,points=0.0;wins=0;team=Manor Marussia;nationality=British;round=19;source_url=https://en.wikipedia.org/wiki/Manor_Motorsport,0.0
+formula1_constructors_world_championship_2016,constructor_mercedes,1,gold,points=765.0;wins=19;team=Mercedes;nationality=German;round=21;source_url=https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One,765.0
+formula1_constructors_world_championship_2016,constructor_red-bull,2,silver,points=468.0;wins=2;team=Red Bull;nationality=Austrian;round=21;source_url=https://en.wikipedia.org/wiki/Red_Bull_Racing,468.0
+formula1_constructors_world_championship_2016,constructor_ferrari,3,bronze,points=398.0;wins=0;team=Ferrari;nationality=Italian;round=21;source_url=https://en.wikipedia.org/wiki/Scuderia_Ferrari,398.0
+formula1_constructors_world_championship_2016,constructor_force-india,4,,points=173.0;wins=0;team=Force India;nationality=Indian;round=21;source_url=https://en.wikipedia.org/wiki/Racing_Point_Force_India,173.0
+formula1_constructors_world_championship_2016,constructor_williams,5,,points=138.0;wins=0;team=Williams;nationality=British;round=21;source_url=https://en.wikipedia.org/wiki/Williams_Racing,138.0
+formula1_constructors_world_championship_2016,constructor_mclaren,6,,points=76.0;wins=0;team=McLaren;nationality=British;round=21;source_url=https://en.wikipedia.org/wiki/McLaren,76.0
+formula1_constructors_world_championship_2016,constructor_toro-rosso,7,,points=63.0;wins=0;team=Toro Rosso;nationality=Italian;round=21;source_url=https://en.wikipedia.org/wiki/Scuderia_Toro_Rosso,63.0
+formula1_constructors_world_championship_2016,constructor_haas,8,,points=29.0;wins=0;team=Haas F1 Team;nationality=American;round=21;source_url=https://en.wikipedia.org/wiki/Haas_F1_Team,29.0
+formula1_constructors_world_championship_2016,constructor_renault,9,,points=8.0;wins=0;team=Renault;nationality=French;round=21;source_url=https://en.wikipedia.org/wiki/Renault_in_Formula_One,8.0
+formula1_constructors_world_championship_2016,constructor_sauber,10,,points=2.0;wins=0;team=Sauber;nationality=Swiss;round=21;source_url=https://en.wikipedia.org/wiki/Sauber_Motorsport,2.0
+formula1_constructors_world_championship_2017,constructor_mercedes,1,gold,points=668.0;wins=12;team=Mercedes;nationality=German;round=20;source_url=https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One,668.0
+formula1_constructors_world_championship_2017,constructor_ferrari,2,silver,points=522.0;wins=5;team=Ferrari;nationality=Italian;round=20;source_url=https://en.wikipedia.org/wiki/Scuderia_Ferrari,522.0
+formula1_constructors_world_championship_2017,constructor_red-bull,3,bronze,points=368.0;wins=3;team=Red Bull;nationality=Austrian;round=20;source_url=https://en.wikipedia.org/wiki/Red_Bull_Racing,368.0
+formula1_constructors_world_championship_2017,constructor_force-india,4,,points=187.0;wins=0;team=Force India;nationality=Indian;round=20;source_url=https://en.wikipedia.org/wiki/Racing_Point_Force_India,187.0
+formula1_constructors_world_championship_2017,constructor_williams,5,,points=83.0;wins=0;team=Williams;nationality=British;round=20;source_url=https://en.wikipedia.org/wiki/Williams_Racing,83.0
+formula1_constructors_world_championship_2017,constructor_renault,6,,points=57.0;wins=0;team=Renault;nationality=French;round=20;source_url=https://en.wikipedia.org/wiki/Renault_in_Formula_One,57.0
+formula1_constructors_world_championship_2017,constructor_toro-rosso,7,,points=53.0;wins=0;team=Toro Rosso;nationality=Italian;round=20;source_url=https://en.wikipedia.org/wiki/Scuderia_Toro_Rosso,53.0
+formula1_constructors_world_championship_2017,constructor_haas,8,,points=47.0;wins=0;team=Haas F1 Team;nationality=American;round=20;source_url=https://en.wikipedia.org/wiki/Haas_F1_Team,47.0
+formula1_constructors_world_championship_2017,constructor_mclaren,9,,points=30.0;wins=0;team=McLaren;nationality=British;round=20;source_url=https://en.wikipedia.org/wiki/McLaren,30.0
+formula1_constructors_world_championship_2017,constructor_sauber,10,,points=5.0;wins=0;team=Sauber;nationality=Swiss;round=20;source_url=https://en.wikipedia.org/wiki/Sauber_Motorsport,5.0
+formula1_constructors_world_championship_2018,constructor_mercedes,1,gold,points=655.0;wins=11;team=Mercedes;nationality=German;round=21;source_url=https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One,655.0
+formula1_constructors_world_championship_2018,constructor_ferrari,2,silver,points=571.0;wins=6;team=Ferrari;nationality=Italian;round=21;source_url=https://en.wikipedia.org/wiki/Scuderia_Ferrari,571.0
+formula1_constructors_world_championship_2018,constructor_red-bull,3,bronze,points=419.0;wins=4;team=Red Bull;nationality=Austrian;round=21;source_url=https://en.wikipedia.org/wiki/Red_Bull_Racing,419.0
+formula1_constructors_world_championship_2018,constructor_renault,4,,points=122.0;wins=0;team=Renault;nationality=French;round=21;source_url=https://en.wikipedia.org/wiki/Renault_in_Formula_One,122.0
+formula1_constructors_world_championship_2018,constructor_force-india,5,,points=111.0;wins=0;team=Force India;nationality=Indian;round=21;source_url=https://en.wikipedia.org/wiki/Racing_Point_Force_India,111.0
+formula1_constructors_world_championship_2018,constructor_haas,6,,points=93.0;wins=0;team=Haas F1 Team;nationality=American;round=21;source_url=https://en.wikipedia.org/wiki/Haas_F1_Team,93.0
+formula1_constructors_world_championship_2018,constructor_mclaren,7,,points=62.0;wins=0;team=McLaren;nationality=British;round=21;source_url=https://en.wikipedia.org/wiki/McLaren,62.0
+formula1_constructors_world_championship_2018,constructor_sauber,8,,points=48.0;wins=0;team=Sauber;nationality=Swiss;round=21;source_url=https://en.wikipedia.org/wiki/Sauber_Motorsport,48.0
+formula1_constructors_world_championship_2018,constructor_toro-rosso,9,,points=33.0;wins=0;team=Toro Rosso;nationality=Italian;round=21;source_url=https://en.wikipedia.org/wiki/Scuderia_Toro_Rosso,33.0
+formula1_constructors_world_championship_2018,constructor_williams,10,,points=7.0;wins=0;team=Williams;nationality=British;round=21;source_url=https://en.wikipedia.org/wiki/Williams_Racing,7.0
+formula1_constructors_world_championship_2019,constructor_mercedes,1,gold,points=739.0;wins=15;team=Mercedes;nationality=German;round=21;source_url=https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One,739.0
+formula1_constructors_world_championship_2019,constructor_ferrari,2,silver,points=504.0;wins=3;team=Ferrari;nationality=Italian;round=21;source_url=https://en.wikipedia.org/wiki/Scuderia_Ferrari,504.0
+formula1_constructors_world_championship_2019,constructor_red-bull,3,bronze,points=417.0;wins=3;team=Red Bull;nationality=Austrian;round=21;source_url=https://en.wikipedia.org/wiki/Red_Bull_Racing,417.0
+formula1_constructors_world_championship_2019,constructor_mclaren,4,,points=145.0;wins=0;team=McLaren;nationality=British;round=21;source_url=https://en.wikipedia.org/wiki/McLaren,145.0
+formula1_constructors_world_championship_2019,constructor_renault,5,,points=91.0;wins=0;team=Renault;nationality=French;round=21;source_url=https://en.wikipedia.org/wiki/Renault_in_Formula_One,91.0
+formula1_constructors_world_championship_2019,constructor_toro-rosso,6,,points=85.0;wins=0;team=Toro Rosso;nationality=Italian;round=21;source_url=https://en.wikipedia.org/wiki/Scuderia_Toro_Rosso,85.0
+formula1_constructors_world_championship_2019,constructor_racing-point,7,,points=73.0;wins=0;team=Racing Point;nationality=British;round=21;source_url=https://en.wikipedia.org/wiki/Racing_Point_F1_Team,73.0
+formula1_constructors_world_championship_2019,constructor_alfa,8,,points=57.0;wins=0;team=Alfa Romeo;nationality=Swiss;round=21;source_url=https://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One,57.0
+formula1_constructors_world_championship_2019,constructor_haas,9,,points=28.0;wins=0;team=Haas F1 Team;nationality=American;round=21;source_url=https://en.wikipedia.org/wiki/Haas_F1_Team,28.0
+formula1_constructors_world_championship_2019,constructor_williams,10,,points=1.0;wins=0;team=Williams;nationality=British;round=21;source_url=https://en.wikipedia.org/wiki/Williams_Racing,1.0
+formula1_constructors_world_championship_2020,constructor_mercedes,1,gold,points=573.0;wins=13;team=Mercedes;nationality=German;round=17;source_url=https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One,573.0
+formula1_constructors_world_championship_2020,constructor_red-bull,2,silver,points=319.0;wins=2;team=Red Bull;nationality=Austrian;round=17;source_url=https://en.wikipedia.org/wiki/Red_Bull_Racing,319.0
+formula1_constructors_world_championship_2020,constructor_mclaren,3,bronze,points=202.0;wins=0;team=McLaren;nationality=British;round=17;source_url=https://en.wikipedia.org/wiki/McLaren,202.0
+formula1_constructors_world_championship_2020,constructor_racing-point,4,,points=195.0;wins=1;team=Racing Point;nationality=British;round=17;source_url=https://en.wikipedia.org/wiki/Racing_Point_F1_Team,195.0
+formula1_constructors_world_championship_2020,constructor_renault,5,,points=181.0;wins=0;team=Renault;nationality=French;round=17;source_url=https://en.wikipedia.org/wiki/Renault_in_Formula_One,181.0
+formula1_constructors_world_championship_2020,constructor_ferrari,6,,points=131.0;wins=0;team=Ferrari;nationality=Italian;round=17;source_url=https://en.wikipedia.org/wiki/Scuderia_Ferrari,131.0
+formula1_constructors_world_championship_2020,constructor_alphatauri,7,,points=107.0;wins=1;team=AlphaTauri;nationality=Italian;round=17;source_url=https://en.wikipedia.org/wiki/Scuderia_AlphaTauri,107.0
+formula1_constructors_world_championship_2020,constructor_alfa,8,,points=8.0;wins=0;team=Alfa Romeo;nationality=Swiss;round=17;source_url=https://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One,8.0
+formula1_constructors_world_championship_2020,constructor_haas,9,,points=3.0;wins=0;team=Haas F1 Team;nationality=American;round=17;source_url=https://en.wikipedia.org/wiki/Haas_F1_Team,3.0
+formula1_constructors_world_championship_2020,constructor_williams,10,,points=0.0;wins=0;team=Williams;nationality=British;round=17;source_url=https://en.wikipedia.org/wiki/Williams_Racing,0.0
+formula1_constructors_world_championship_2021,constructor_mercedes,1,gold,points=613.5;wins=9;team=Mercedes;nationality=German;round=22;source_url=https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One,613.5
+formula1_constructors_world_championship_2021,constructor_red-bull,2,silver,points=585.5;wins=11;team=Red Bull;nationality=Austrian;round=22;source_url=https://en.wikipedia.org/wiki/Red_Bull_Racing,585.5
+formula1_constructors_world_championship_2021,constructor_ferrari,3,bronze,points=323.5;wins=0;team=Ferrari;nationality=Italian;round=22;source_url=https://en.wikipedia.org/wiki/Scuderia_Ferrari,323.5
+formula1_constructors_world_championship_2021,constructor_mclaren,4,,points=275.0;wins=1;team=McLaren;nationality=British;round=22;source_url=https://en.wikipedia.org/wiki/McLaren,275.0
+formula1_constructors_world_championship_2021,constructor_alpine,5,,points=155.0;wins=1;team=Alpine F1 Team;nationality=French;round=22;source_url=https://en.wikipedia.org/wiki/Alpine_F1_Team,155.0
+formula1_constructors_world_championship_2021,constructor_alphatauri,6,,points=142.0;wins=0;team=AlphaTauri;nationality=Italian;round=22;source_url=https://en.wikipedia.org/wiki/Scuderia_AlphaTauri,142.0
+formula1_constructors_world_championship_2021,constructor_aston-martin,7,,points=77.0;wins=0;team=Aston Martin;nationality=British;round=22;source_url=https://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One,77.0
+formula1_constructors_world_championship_2021,constructor_williams,8,,points=23.0;wins=0;team=Williams;nationality=British;round=22;source_url=https://en.wikipedia.org/wiki/Williams_Racing,23.0
+formula1_constructors_world_championship_2021,constructor_alfa,9,,points=13.0;wins=0;team=Alfa Romeo;nationality=Swiss;round=22;source_url=https://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One,13.0
+formula1_constructors_world_championship_2021,constructor_haas,10,,points=0.0;wins=0;team=Haas F1 Team;nationality=American;round=22;source_url=https://en.wikipedia.org/wiki/Haas_F1_Team,0.0
+formula1_constructors_world_championship_2022,constructor_red-bull,1,gold,points=759.0;wins=17;team=Red Bull;nationality=Austrian;round=22;source_url=https://en.wikipedia.org/wiki/Red_Bull_Racing,759.0
+formula1_constructors_world_championship_2022,constructor_ferrari,2,silver,points=554.0;wins=4;team=Ferrari;nationality=Italian;round=22;source_url=https://en.wikipedia.org/wiki/Scuderia_Ferrari,554.0
+formula1_constructors_world_championship_2022,constructor_mercedes,3,bronze,points=515.0;wins=1;team=Mercedes;nationality=German;round=22;source_url=https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One,515.0
+formula1_constructors_world_championship_2022,constructor_alpine,4,,points=173.0;wins=0;team=Alpine F1 Team;nationality=French;round=22;source_url=https://en.wikipedia.org/wiki/Alpine_F1_Team,173.0
+formula1_constructors_world_championship_2022,constructor_mclaren,5,,points=159.0;wins=0;team=McLaren;nationality=British;round=22;source_url=https://en.wikipedia.org/wiki/McLaren,159.0
+formula1_constructors_world_championship_2022,constructor_alfa,6,,points=55.0;wins=0;team=Alfa Romeo;nationality=Swiss;round=22;source_url=https://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One,55.0
+formula1_constructors_world_championship_2022,constructor_aston-martin,7,,points=55.0;wins=0;team=Aston Martin;nationality=British;round=22;source_url=https://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One,55.0
+formula1_constructors_world_championship_2022,constructor_haas,8,,points=37.0;wins=0;team=Haas F1 Team;nationality=American;round=22;source_url=https://en.wikipedia.org/wiki/Haas_F1_Team,37.0
+formula1_constructors_world_championship_2022,constructor_alphatauri,9,,points=35.0;wins=0;team=AlphaTauri;nationality=Italian;round=22;source_url=https://en.wikipedia.org/wiki/Scuderia_AlphaTauri,35.0
+formula1_constructors_world_championship_2022,constructor_williams,10,,points=8.0;wins=0;team=Williams;nationality=British;round=22;source_url=https://en.wikipedia.org/wiki/Williams_Racing,8.0
+formula1_constructors_world_championship_2023,constructor_red-bull,1,gold,points=860.0;wins=21;team=Red Bull;nationality=Austrian;round=22;source_url=https://en.wikipedia.org/wiki/Red_Bull_Racing,860.0
+formula1_constructors_world_championship_2023,constructor_mercedes,2,silver,points=409.0;wins=0;team=Mercedes;nationality=German;round=22;source_url=https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One,409.0
+formula1_constructors_world_championship_2023,constructor_ferrari,3,bronze,points=406.0;wins=1;team=Ferrari;nationality=Italian;round=22;source_url=https://en.wikipedia.org/wiki/Scuderia_Ferrari,406.0
+formula1_constructors_world_championship_2023,constructor_mclaren,4,,points=302.0;wins=0;team=McLaren;nationality=British;round=22;source_url=https://en.wikipedia.org/wiki/McLaren,302.0
+formula1_constructors_world_championship_2023,constructor_aston-martin,5,,points=280.0;wins=0;team=Aston Martin;nationality=British;round=22;source_url=https://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One,280.0
+formula1_constructors_world_championship_2023,constructor_alpine,6,,points=120.0;wins=0;team=Alpine F1 Team;nationality=French;round=22;source_url=https://en.wikipedia.org/wiki/Alpine_F1_Team,120.0
+formula1_constructors_world_championship_2023,constructor_williams,7,,points=28.0;wins=0;team=Williams;nationality=British;round=22;source_url=https://en.wikipedia.org/wiki/Williams_Racing,28.0
+formula1_constructors_world_championship_2023,constructor_alphatauri,8,,points=25.0;wins=0;team=AlphaTauri;nationality=Italian;round=22;source_url=https://en.wikipedia.org/wiki/Scuderia_AlphaTauri,25.0
+formula1_constructors_world_championship_2023,constructor_alfa,9,,points=16.0;wins=0;team=Alfa Romeo;nationality=Swiss;round=22;source_url=https://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One,16.0
+formula1_constructors_world_championship_2023,constructor_haas,10,,points=12.0;wins=0;team=Haas F1 Team;nationality=American;round=22;source_url=https://en.wikipedia.org/wiki/Haas_F1_Team,12.0
+formula1_constructors_world_championship_2024,constructor_mclaren,1,gold,points=666.0;wins=6;team=McLaren;nationality=British;round=24;source_url=https://en.wikipedia.org/wiki/McLaren,666.0
+formula1_constructors_world_championship_2024,constructor_ferrari,2,silver,points=652.0;wins=5;team=Ferrari;nationality=Italian;round=24;source_url=https://en.wikipedia.org/wiki/Scuderia_Ferrari,652.0
+formula1_constructors_world_championship_2024,constructor_red-bull,3,bronze,points=589.0;wins=9;team=Red Bull;nationality=Austrian;round=24;source_url=https://en.wikipedia.org/wiki/Red_Bull_Racing,589.0
+formula1_constructors_world_championship_2024,constructor_mercedes,4,,points=468.0;wins=4;team=Mercedes;nationality=German;round=24;source_url=https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One,468.0
+formula1_constructors_world_championship_2024,constructor_aston-martin,5,,points=94.0;wins=0;team=Aston Martin;nationality=British;round=24;source_url=https://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One,94.0
+formula1_constructors_world_championship_2024,constructor_alpine,6,,points=65.0;wins=0;team=Alpine F1 Team;nationality=French;round=24;source_url=https://en.wikipedia.org/wiki/Alpine_F1_Team,65.0
+formula1_constructors_world_championship_2024,constructor_haas,7,,points=58.0;wins=0;team=Haas F1 Team;nationality=American;round=24;source_url=https://en.wikipedia.org/wiki/Haas_F1_Team,58.0
+formula1_constructors_world_championship_2024,constructor_rb,8,,points=46.0;wins=0;team=RB F1 Team;nationality=Italian;round=24;source_url=https://en.wikipedia.org/wiki/Racing_Bulls,46.0
+formula1_constructors_world_championship_2024,constructor_williams,9,,points=17.0;wins=0;team=Williams;nationality=British;round=24;source_url=https://en.wikipedia.org/wiki/Williams_Racing,17.0
+formula1_constructors_world_championship_2024,constructor_sauber,10,,points=4.0;wins=0;team=Sauber;nationality=Swiss;round=24;source_url=https://en.wikipedia.org/wiki/Sauber_Motorsport,4.0
+formula1_constructors_world_championship_2025,constructor_mclaren,1,gold,points=833.0;wins=14;team=McLaren;nationality=British;round=24;source_url=https://en.wikipedia.org/wiki/McLaren,833.0
+formula1_constructors_world_championship_2025,constructor_mercedes,2,silver,points=469.0;wins=2;team=Mercedes;nationality=German;round=24;source_url=https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One,469.0
+formula1_constructors_world_championship_2025,constructor_red-bull,3,bronze,points=451.0;wins=8;team=Red Bull;nationality=Austrian;round=24;source_url=https://en.wikipedia.org/wiki/Red_Bull_Racing,451.0
+formula1_constructors_world_championship_2025,constructor_ferrari,4,,points=398.0;wins=0;team=Ferrari;nationality=Italian;round=24;source_url=https://en.wikipedia.org/wiki/Scuderia_Ferrari,398.0
+formula1_constructors_world_championship_2025,constructor_williams,5,,points=137.0;wins=0;team=Williams;nationality=British;round=24;source_url=https://en.wikipedia.org/wiki/Williams_Racing,137.0
+formula1_constructors_world_championship_2025,constructor_rb,6,,points=92.0;wins=0;team=RB F1 Team;nationality=Italian;round=24;source_url=https://en.wikipedia.org/wiki/Racing_Bulls,92.0
+formula1_constructors_world_championship_2025,constructor_aston-martin,7,,points=89.0;wins=0;team=Aston Martin;nationality=British;round=24;source_url=https://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One,89.0
+formula1_constructors_world_championship_2025,constructor_haas,8,,points=79.0;wins=0;team=Haas F1 Team;nationality=American;round=24;source_url=https://en.wikipedia.org/wiki/Haas_F1_Team,79.0
+formula1_constructors_world_championship_2025,constructor_sauber,9,,points=70.0;wins=0;team=Sauber;nationality=Swiss;round=24;source_url=https://en.wikipedia.org/wiki/Sauber_Motorsport,70.0
+formula1_constructors_world_championship_2025,constructor_alpine,10,,points=22.0;wins=0;team=Alpine F1 Team;nationality=French;round=24;source_url=https://en.wikipedia.org/wiki/Alpine_F1_Team,22.0
+formula1_drivers_world_championship_2001,driver_michael-schumacher,1,gold,points=123.0;wins=9;team=Ferrari;nationality=German;round=17;source_url=http://en.wikipedia.org/wiki/Michael_Schumacher,123.0
+formula1_drivers_world_championship_2001,driver_coulthard,2,silver,points=65.0;wins=2;team=McLaren;nationality=British;round=17;source_url=http://en.wikipedia.org/wiki/David_Coulthard,65.0
+formula1_drivers_world_championship_2001,driver_barrichello,3,bronze,points=56.0;wins=0;team=Ferrari;nationality=Brazilian;round=17;source_url=http://en.wikipedia.org/wiki/Rubens_Barrichello,56.0
+formula1_drivers_world_championship_2001,driver_ralf-schumacher,4,,points=49.0;wins=3;team=Williams;nationality=German;round=17;source_url=http://en.wikipedia.org/wiki/Ralf_Schumacher,49.0
+formula1_drivers_world_championship_2001,driver_hakkinen,5,,points=37.0;wins=2;team=McLaren;nationality=Finnish;round=17;source_url=http://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen,37.0
+formula1_drivers_world_championship_2001,driver_montoya,6,,points=31.0;wins=1;team=Williams;nationality=Colombian;round=17;source_url=http://en.wikipedia.org/wiki/Juan_Pablo_Montoya,31.0
+formula1_drivers_world_championship_2001,driver_villeneuve,7,,points=12.0;wins=0;team=BAR;nationality=Canadian;round=17;source_url=http://en.wikipedia.org/wiki/Jacques_Villeneuve,12.0
+formula1_drivers_world_championship_2001,driver_heidfeld,8,,points=12.0;wins=0;team=Sauber;nationality=German;round=17;source_url=http://en.wikipedia.org/wiki/Nick_Heidfeld,12.0
+formula1_drivers_world_championship_2001,driver_trulli,9,,points=12.0;wins=0;team=Jordan;nationality=Italian;round=17;source_url=http://en.wikipedia.org/wiki/Jarno_Trulli,12.0
+formula1_drivers_world_championship_2001,driver_raikkonen,10,,points=9.0;wins=0;team=Sauber;nationality=Finnish;round=17;source_url=http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,9.0
+formula1_drivers_world_championship_2002,driver_michael-schumacher,1,gold,points=144.0;wins=11;team=Ferrari;nationality=German;round=17;source_url=http://en.wikipedia.org/wiki/Michael_Schumacher,144.0
+formula1_drivers_world_championship_2002,driver_barrichello,2,silver,points=77.0;wins=4;team=Ferrari;nationality=Brazilian;round=17;source_url=http://en.wikipedia.org/wiki/Rubens_Barrichello,77.0
+formula1_drivers_world_championship_2002,driver_montoya,3,bronze,points=50.0;wins=0;team=Williams;nationality=Colombian;round=17;source_url=http://en.wikipedia.org/wiki/Juan_Pablo_Montoya,50.0
+formula1_drivers_world_championship_2002,driver_ralf-schumacher,4,,points=42.0;wins=1;team=Williams;nationality=German;round=17;source_url=http://en.wikipedia.org/wiki/Ralf_Schumacher,42.0
+formula1_drivers_world_championship_2002,driver_coulthard,5,,points=41.0;wins=1;team=McLaren;nationality=British;round=17;source_url=http://en.wikipedia.org/wiki/David_Coulthard,41.0
+formula1_drivers_world_championship_2002,driver_raikkonen,6,,points=24.0;wins=0;team=McLaren;nationality=Finnish;round=17;source_url=http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,24.0
+formula1_drivers_world_championship_2002,driver_button,7,,points=14.0;wins=0;team=Renault;nationality=British;round=17;source_url=http://en.wikipedia.org/wiki/Jenson_Button,14.0
+formula1_drivers_world_championship_2002,driver_trulli,8,,points=9.0;wins=0;team=Renault;nationality=Italian;round=17;source_url=http://en.wikipedia.org/wiki/Jarno_Trulli,9.0
+formula1_drivers_world_championship_2002,driver_irvine,9,,points=8.0;wins=0;team=Jaguar;nationality=British;round=17;source_url=http://en.wikipedia.org/wiki/Eddie_Irvine,8.0
+formula1_drivers_world_championship_2002,driver_heidfeld,10,,points=7.0;wins=0;team=Sauber;nationality=German;round=17;source_url=http://en.wikipedia.org/wiki/Nick_Heidfeld,7.0
+formula1_drivers_world_championship_2003,driver_michael-schumacher,1,gold,points=93.0;wins=6;team=Ferrari;nationality=German;round=16;source_url=http://en.wikipedia.org/wiki/Michael_Schumacher,93.0
+formula1_drivers_world_championship_2003,driver_raikkonen,2,silver,points=91.0;wins=1;team=McLaren;nationality=Finnish;round=16;source_url=http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,91.0
+formula1_drivers_world_championship_2003,driver_montoya,3,bronze,points=82.0;wins=2;team=Williams;nationality=Colombian;round=16;source_url=http://en.wikipedia.org/wiki/Juan_Pablo_Montoya,82.0
+formula1_drivers_world_championship_2003,driver_barrichello,4,,points=65.0;wins=2;team=Ferrari;nationality=Brazilian;round=16;source_url=http://en.wikipedia.org/wiki/Rubens_Barrichello,65.0
+formula1_drivers_world_championship_2003,driver_ralf-schumacher,5,,points=58.0;wins=2;team=Williams;nationality=German;round=16;source_url=http://en.wikipedia.org/wiki/Ralf_Schumacher,58.0
+formula1_drivers_world_championship_2003,driver_alonso,6,,points=55.0;wins=1;team=Renault;nationality=Spanish;round=16;source_url=http://en.wikipedia.org/wiki/Fernando_Alonso,55.0
+formula1_drivers_world_championship_2003,driver_coulthard,7,,points=51.0;wins=1;team=McLaren;nationality=British;round=16;source_url=http://en.wikipedia.org/wiki/David_Coulthard,51.0
+formula1_drivers_world_championship_2003,driver_trulli,8,,points=33.0;wins=0;team=Renault;nationality=Italian;round=16;source_url=http://en.wikipedia.org/wiki/Jarno_Trulli,33.0
+formula1_drivers_world_championship_2003,driver_button,9,,points=17.0;wins=0;team=BAR;nationality=British;round=16;source_url=http://en.wikipedia.org/wiki/Jenson_Button,17.0
+formula1_drivers_world_championship_2003,driver_webber,10,,points=17.0;wins=0;team=Jaguar;nationality=Australian;round=16;source_url=http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver),17.0
+formula1_drivers_world_championship_2004,driver_michael-schumacher,1,gold,points=148.0;wins=13;team=Ferrari;nationality=German;round=18;source_url=http://en.wikipedia.org/wiki/Michael_Schumacher,148.0
+formula1_drivers_world_championship_2004,driver_barrichello,2,silver,points=114.0;wins=2;team=Ferrari;nationality=Brazilian;round=18;source_url=http://en.wikipedia.org/wiki/Rubens_Barrichello,114.0
+formula1_drivers_world_championship_2004,driver_button,3,bronze,points=85.0;wins=0;team=BAR;nationality=British;round=18;source_url=http://en.wikipedia.org/wiki/Jenson_Button,85.0
+formula1_drivers_world_championship_2004,driver_alonso,4,,points=59.0;wins=0;team=Renault;nationality=Spanish;round=18;source_url=http://en.wikipedia.org/wiki/Fernando_Alonso,59.0
+formula1_drivers_world_championship_2004,driver_montoya,5,,points=58.0;wins=1;team=Williams;nationality=Colombian;round=18;source_url=http://en.wikipedia.org/wiki/Juan_Pablo_Montoya,58.0
+formula1_drivers_world_championship_2004,driver_trulli,6,,points=46.0;wins=1;team=Renault;nationality=Italian;round=18;source_url=http://en.wikipedia.org/wiki/Jarno_Trulli,46.0
+formula1_drivers_world_championship_2004,driver_raikkonen,7,,points=45.0;wins=1;team=McLaren;nationality=Finnish;round=18;source_url=http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,45.0
+formula1_drivers_world_championship_2004,driver_sato,8,,points=34.0;wins=0;team=BAR;nationality=Japanese;round=18;source_url=http://en.wikipedia.org/wiki/Takuma_Sato,34.0
+formula1_drivers_world_championship_2004,driver_ralf-schumacher,9,,points=24.0;wins=0;team=Williams;nationality=German;round=18;source_url=http://en.wikipedia.org/wiki/Ralf_Schumacher,24.0
+formula1_drivers_world_championship_2004,driver_coulthard,10,,points=24.0;wins=0;team=McLaren;nationality=British;round=18;source_url=http://en.wikipedia.org/wiki/David_Coulthard,24.0
+formula1_drivers_world_championship_2005,driver_alonso,1,gold,points=133.0;wins=7;team=Renault;nationality=Spanish;round=19;source_url=http://en.wikipedia.org/wiki/Fernando_Alonso,133.0
+formula1_drivers_world_championship_2005,driver_raikkonen,2,silver,points=112.0;wins=7;team=McLaren;nationality=Finnish;round=19;source_url=http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,112.0
+formula1_drivers_world_championship_2005,driver_michael-schumacher,3,bronze,points=62.0;wins=1;team=Ferrari;nationality=German;round=19;source_url=http://en.wikipedia.org/wiki/Michael_Schumacher,62.0
+formula1_drivers_world_championship_2005,driver_montoya,4,,points=60.0;wins=3;team=McLaren;nationality=Colombian;round=19;source_url=http://en.wikipedia.org/wiki/Juan_Pablo_Montoya,60.0
+formula1_drivers_world_championship_2005,driver_fisichella,5,,points=58.0;wins=1;team=Renault;nationality=Italian;round=19;source_url=http://en.wikipedia.org/wiki/Giancarlo_Fisichella,58.0
+formula1_drivers_world_championship_2005,driver_ralf-schumacher,6,,points=45.0;wins=0;team=Toyota;nationality=German;round=19;source_url=http://en.wikipedia.org/wiki/Ralf_Schumacher,45.0
+formula1_drivers_world_championship_2005,driver_trulli,7,,points=43.0;wins=0;team=Toyota;nationality=Italian;round=19;source_url=http://en.wikipedia.org/wiki/Jarno_Trulli,43.0
+formula1_drivers_world_championship_2005,driver_barrichello,8,,points=38.0;wins=0;team=Ferrari;nationality=Brazilian;round=19;source_url=http://en.wikipedia.org/wiki/Rubens_Barrichello,38.0
+formula1_drivers_world_championship_2005,driver_button,9,,points=37.0;wins=0;team=BAR;nationality=British;round=19;source_url=http://en.wikipedia.org/wiki/Jenson_Button,37.0
+formula1_drivers_world_championship_2005,driver_webber,10,,points=36.0;wins=0;team=Williams;nationality=Australian;round=19;source_url=http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver),36.0
+formula1_drivers_world_championship_2006,driver_alonso,1,gold,points=134.0;wins=7;team=Renault;nationality=Spanish;round=18;source_url=http://en.wikipedia.org/wiki/Fernando_Alonso,134.0
+formula1_drivers_world_championship_2006,driver_michael-schumacher,2,silver,points=121.0;wins=7;team=Ferrari;nationality=German;round=18;source_url=http://en.wikipedia.org/wiki/Michael_Schumacher,121.0
+formula1_drivers_world_championship_2006,driver_massa,3,bronze,points=80.0;wins=2;team=Ferrari;nationality=Brazilian;round=18;source_url=http://en.wikipedia.org/wiki/Felipe_Massa,80.0
+formula1_drivers_world_championship_2006,driver_fisichella,4,,points=72.0;wins=1;team=Renault;nationality=Italian;round=18;source_url=http://en.wikipedia.org/wiki/Giancarlo_Fisichella,72.0
+formula1_drivers_world_championship_2006,driver_raikkonen,5,,points=65.0;wins=0;team=McLaren;nationality=Finnish;round=18;source_url=http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,65.0
+formula1_drivers_world_championship_2006,driver_button,6,,points=56.0;wins=1;team=Honda;nationality=British;round=18;source_url=http://en.wikipedia.org/wiki/Jenson_Button,56.0
+formula1_drivers_world_championship_2006,driver_barrichello,7,,points=30.0;wins=0;team=Honda;nationality=Brazilian;round=18;source_url=http://en.wikipedia.org/wiki/Rubens_Barrichello,30.0
+formula1_drivers_world_championship_2006,driver_montoya,8,,points=26.0;wins=0;team=McLaren;nationality=Colombian;round=18;source_url=http://en.wikipedia.org/wiki/Juan_Pablo_Montoya,26.0
+formula1_drivers_world_championship_2006,driver_heidfeld,9,,points=23.0;wins=0;team=BMW Sauber;nationality=German;round=18;source_url=http://en.wikipedia.org/wiki/Nick_Heidfeld,23.0
+formula1_drivers_world_championship_2006,driver_ralf-schumacher,10,,points=20.0;wins=0;team=Toyota;nationality=German;round=18;source_url=http://en.wikipedia.org/wiki/Ralf_Schumacher,20.0
+formula1_drivers_world_championship_2007,driver_raikkonen,1,gold,points=110.0;wins=6;team=Ferrari;nationality=Finnish;round=17;source_url=http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,110.0
+formula1_drivers_world_championship_2007,driver_hamilton,2,silver,points=109.0;wins=4;team=McLaren;nationality=British;round=17;source_url=http://en.wikipedia.org/wiki/Lewis_Hamilton,109.0
+formula1_drivers_world_championship_2007,driver_alonso,3,bronze,points=109.0;wins=4;team=McLaren;nationality=Spanish;round=17;source_url=http://en.wikipedia.org/wiki/Fernando_Alonso,109.0
+formula1_drivers_world_championship_2007,driver_massa,4,,points=94.0;wins=3;team=Ferrari;nationality=Brazilian;round=17;source_url=http://en.wikipedia.org/wiki/Felipe_Massa,94.0
+formula1_drivers_world_championship_2007,driver_heidfeld,5,,points=61.0;wins=0;team=BMW Sauber;nationality=German;round=17;source_url=http://en.wikipedia.org/wiki/Nick_Heidfeld,61.0
+formula1_drivers_world_championship_2007,driver_kubica,6,,points=39.0;wins=0;team=BMW Sauber;nationality=Polish;round=17;source_url=http://en.wikipedia.org/wiki/Robert_Kubica,39.0
+formula1_drivers_world_championship_2007,driver_kovalainen,7,,points=30.0;wins=0;team=Renault;nationality=Finnish;round=17;source_url=http://en.wikipedia.org/wiki/Heikki_Kovalainen,30.0
+formula1_drivers_world_championship_2007,driver_fisichella,8,,points=21.0;wins=0;team=Renault;nationality=Italian;round=17;source_url=http://en.wikipedia.org/wiki/Giancarlo_Fisichella,21.0
+formula1_drivers_world_championship_2007,driver_rosberg,9,,points=20.0;wins=0;team=Williams;nationality=German;round=17;source_url=http://en.wikipedia.org/wiki/Nico_Rosberg,20.0
+formula1_drivers_world_championship_2007,driver_coulthard,10,,points=14.0;wins=0;team=Red Bull;nationality=British;round=17;source_url=http://en.wikipedia.org/wiki/David_Coulthard,14.0
+formula1_drivers_world_championship_2008,driver_hamilton,1,gold,points=98.0;wins=5;team=McLaren;nationality=British;round=18;source_url=http://en.wikipedia.org/wiki/Lewis_Hamilton,98.0
+formula1_drivers_world_championship_2008,driver_massa,2,silver,points=97.0;wins=6;team=Ferrari;nationality=Brazilian;round=18;source_url=http://en.wikipedia.org/wiki/Felipe_Massa,97.0
+formula1_drivers_world_championship_2008,driver_raikkonen,3,bronze,points=75.0;wins=2;team=Ferrari;nationality=Finnish;round=18;source_url=http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,75.0
+formula1_drivers_world_championship_2008,driver_kubica,4,,points=75.0;wins=1;team=BMW Sauber;nationality=Polish;round=18;source_url=http://en.wikipedia.org/wiki/Robert_Kubica,75.0
+formula1_drivers_world_championship_2008,driver_alonso,5,,points=61.0;wins=2;team=Renault;nationality=Spanish;round=18;source_url=http://en.wikipedia.org/wiki/Fernando_Alonso,61.0
+formula1_drivers_world_championship_2008,driver_heidfeld,6,,points=60.0;wins=0;team=BMW Sauber;nationality=German;round=18;source_url=http://en.wikipedia.org/wiki/Nick_Heidfeld,60.0
+formula1_drivers_world_championship_2008,driver_kovalainen,7,,points=53.0;wins=1;team=McLaren;nationality=Finnish;round=18;source_url=http://en.wikipedia.org/wiki/Heikki_Kovalainen,53.0
+formula1_drivers_world_championship_2008,driver_vettel,8,,points=35.0;wins=1;team=Toro Rosso;nationality=German;round=18;source_url=http://en.wikipedia.org/wiki/Sebastian_Vettel,35.0
+formula1_drivers_world_championship_2008,driver_trulli,9,,points=31.0;wins=0;team=Toyota;nationality=Italian;round=18;source_url=http://en.wikipedia.org/wiki/Jarno_Trulli,31.0
+formula1_drivers_world_championship_2008,driver_glock,10,,points=25.0;wins=0;team=Toyota;nationality=German;round=18;source_url=http://en.wikipedia.org/wiki/Timo_Glock,25.0
+formula1_drivers_world_championship_2009,driver_button,1,gold,points=95.0;wins=6;team=Brawn;nationality=British;round=17;source_url=http://en.wikipedia.org/wiki/Jenson_Button,95.0
+formula1_drivers_world_championship_2009,driver_vettel,2,silver,points=84.0;wins=4;team=Red Bull;nationality=German;round=17;source_url=http://en.wikipedia.org/wiki/Sebastian_Vettel,84.0
+formula1_drivers_world_championship_2009,driver_barrichello,3,bronze,points=77.0;wins=2;team=Brawn;nationality=Brazilian;round=17;source_url=http://en.wikipedia.org/wiki/Rubens_Barrichello,77.0
+formula1_drivers_world_championship_2009,driver_webber,4,,points=69.5;wins=2;team=Red Bull;nationality=Australian;round=17;source_url=http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver),69.5
+formula1_drivers_world_championship_2009,driver_hamilton,5,,points=49.0;wins=2;team=McLaren;nationality=British;round=17;source_url=http://en.wikipedia.org/wiki/Lewis_Hamilton,49.0
+formula1_drivers_world_championship_2009,driver_raikkonen,6,,points=48.0;wins=1;team=Ferrari;nationality=Finnish;round=17;source_url=http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,48.0
+formula1_drivers_world_championship_2009,driver_rosberg,7,,points=34.5;wins=0;team=Williams;nationality=German;round=17;source_url=http://en.wikipedia.org/wiki/Nico_Rosberg,34.5
+formula1_drivers_world_championship_2009,driver_trulli,8,,points=32.5;wins=0;team=Toyota;nationality=Italian;round=17;source_url=http://en.wikipedia.org/wiki/Jarno_Trulli,32.5
+formula1_drivers_world_championship_2009,driver_alonso,9,,points=26.0;wins=0;team=Renault;nationality=Spanish;round=17;source_url=http://en.wikipedia.org/wiki/Fernando_Alonso,26.0
+formula1_drivers_world_championship_2009,driver_glock,10,,points=24.0;wins=0;team=Toyota;nationality=German;round=17;source_url=http://en.wikipedia.org/wiki/Timo_Glock,24.0
+formula1_drivers_world_championship_2010,driver_vettel,1,gold,points=256.0;wins=5;team=Red Bull;nationality=German;round=19;source_url=http://en.wikipedia.org/wiki/Sebastian_Vettel,256.0
+formula1_drivers_world_championship_2010,driver_alonso,2,silver,points=252.0;wins=5;team=Ferrari;nationality=Spanish;round=19;source_url=http://en.wikipedia.org/wiki/Fernando_Alonso,252.0
+formula1_drivers_world_championship_2010,driver_webber,3,bronze,points=242.0;wins=4;team=Red Bull;nationality=Australian;round=19;source_url=http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver),242.0
+formula1_drivers_world_championship_2010,driver_hamilton,4,,points=240.0;wins=3;team=McLaren;nationality=British;round=19;source_url=http://en.wikipedia.org/wiki/Lewis_Hamilton,240.0
+formula1_drivers_world_championship_2010,driver_button,5,,points=214.0;wins=2;team=McLaren;nationality=British;round=19;source_url=http://en.wikipedia.org/wiki/Jenson_Button,214.0
+formula1_drivers_world_championship_2010,driver_massa,6,,points=144.0;wins=0;team=Ferrari;nationality=Brazilian;round=19;source_url=http://en.wikipedia.org/wiki/Felipe_Massa,144.0
+formula1_drivers_world_championship_2010,driver_rosberg,7,,points=142.0;wins=0;team=Mercedes;nationality=German;round=19;source_url=http://en.wikipedia.org/wiki/Nico_Rosberg,142.0
+formula1_drivers_world_championship_2010,driver_kubica,8,,points=136.0;wins=0;team=Renault;nationality=Polish;round=19;source_url=http://en.wikipedia.org/wiki/Robert_Kubica,136.0
+formula1_drivers_world_championship_2010,driver_michael-schumacher,9,,points=72.0;wins=0;team=Mercedes;nationality=German;round=19;source_url=http://en.wikipedia.org/wiki/Michael_Schumacher,72.0
+formula1_drivers_world_championship_2010,driver_barrichello,10,,points=47.0;wins=0;team=Williams;nationality=Brazilian;round=19;source_url=http://en.wikipedia.org/wiki/Rubens_Barrichello,47.0
+formula1_drivers_world_championship_2011,driver_vettel,1,gold,points=392.0;wins=11;team=Red Bull;nationality=German;round=19;source_url=http://en.wikipedia.org/wiki/Sebastian_Vettel,392.0
+formula1_drivers_world_championship_2011,driver_button,2,silver,points=270.0;wins=3;team=McLaren;nationality=British;round=19;source_url=http://en.wikipedia.org/wiki/Jenson_Button,270.0
+formula1_drivers_world_championship_2011,driver_webber,3,bronze,points=258.0;wins=1;team=Red Bull;nationality=Australian;round=19;source_url=http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver),258.0
+formula1_drivers_world_championship_2011,driver_alonso,4,,points=257.0;wins=1;team=Ferrari;nationality=Spanish;round=19;source_url=http://en.wikipedia.org/wiki/Fernando_Alonso,257.0
+formula1_drivers_world_championship_2011,driver_hamilton,5,,points=227.0;wins=3;team=McLaren;nationality=British;round=19;source_url=http://en.wikipedia.org/wiki/Lewis_Hamilton,227.0
+formula1_drivers_world_championship_2011,driver_massa,6,,points=118.0;wins=0;team=Ferrari;nationality=Brazilian;round=19;source_url=http://en.wikipedia.org/wiki/Felipe_Massa,118.0
+formula1_drivers_world_championship_2011,driver_rosberg,7,,points=89.0;wins=0;team=Mercedes;nationality=German;round=19;source_url=http://en.wikipedia.org/wiki/Nico_Rosberg,89.0
+formula1_drivers_world_championship_2011,driver_michael-schumacher,8,,points=76.0;wins=0;team=Mercedes;nationality=German;round=19;source_url=http://en.wikipedia.org/wiki/Michael_Schumacher,76.0
+formula1_drivers_world_championship_2011,driver_sutil,9,,points=42.0;wins=0;team=Force India;nationality=German;round=19;source_url=http://en.wikipedia.org/wiki/Adrian_Sutil,42.0
+formula1_drivers_world_championship_2011,driver_petrov,10,,points=37.0;wins=0;team=Renault;nationality=Russian;round=19;source_url=http://en.wikipedia.org/wiki/Vitaly_Petrov,37.0
+formula1_drivers_world_championship_2012,driver_vettel,1,gold,points=281.0;wins=5;team=Red Bull;nationality=German;round=20;source_url=http://en.wikipedia.org/wiki/Sebastian_Vettel,281.0
+formula1_drivers_world_championship_2012,driver_alonso,2,silver,points=278.0;wins=3;team=Ferrari;nationality=Spanish;round=20;source_url=http://en.wikipedia.org/wiki/Fernando_Alonso,278.0
+formula1_drivers_world_championship_2012,driver_raikkonen,3,bronze,points=207.0;wins=1;team=Lotus F1;nationality=Finnish;round=20;source_url=http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,207.0
+formula1_drivers_world_championship_2012,driver_hamilton,4,,points=190.0;wins=4;team=McLaren;nationality=British;round=20;source_url=http://en.wikipedia.org/wiki/Lewis_Hamilton,190.0
+formula1_drivers_world_championship_2012,driver_button,5,,points=188.0;wins=3;team=McLaren;nationality=British;round=20;source_url=http://en.wikipedia.org/wiki/Jenson_Button,188.0
+formula1_drivers_world_championship_2012,driver_webber,6,,points=179.0;wins=2;team=Red Bull;nationality=Australian;round=20;source_url=http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver),179.0
+formula1_drivers_world_championship_2012,driver_massa,7,,points=122.0;wins=0;team=Ferrari;nationality=Brazilian;round=20;source_url=http://en.wikipedia.org/wiki/Felipe_Massa,122.0
+formula1_drivers_world_championship_2012,driver_grosjean,8,,points=96.0;wins=0;team=Lotus F1;nationality=French;round=20;source_url=http://en.wikipedia.org/wiki/Romain_Grosjean,96.0
+formula1_drivers_world_championship_2012,driver_rosberg,9,,points=93.0;wins=1;team=Mercedes;nationality=German;round=20;source_url=http://en.wikipedia.org/wiki/Nico_Rosberg,93.0
+formula1_drivers_world_championship_2012,driver_perez,10,,points=66.0;wins=0;team=Sauber;nationality=Mexican;round=20;source_url=http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,66.0
+formula1_drivers_world_championship_2013,driver_vettel,1,gold,points=397.0;wins=13;team=Red Bull;nationality=German;round=19;source_url=http://en.wikipedia.org/wiki/Sebastian_Vettel,397.0
+formula1_drivers_world_championship_2013,driver_alonso,2,silver,points=242.0;wins=2;team=Ferrari;nationality=Spanish;round=19;source_url=http://en.wikipedia.org/wiki/Fernando_Alonso,242.0
+formula1_drivers_world_championship_2013,driver_webber,3,bronze,points=199.0;wins=0;team=Red Bull;nationality=Australian;round=19;source_url=http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver),199.0
+formula1_drivers_world_championship_2013,driver_hamilton,4,,points=189.0;wins=1;team=Mercedes;nationality=British;round=19;source_url=http://en.wikipedia.org/wiki/Lewis_Hamilton,189.0
+formula1_drivers_world_championship_2013,driver_raikkonen,5,,points=183.0;wins=1;team=Lotus F1;nationality=Finnish;round=19;source_url=http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,183.0
+formula1_drivers_world_championship_2013,driver_rosberg,6,,points=171.0;wins=2;team=Mercedes;nationality=German;round=19;source_url=http://en.wikipedia.org/wiki/Nico_Rosberg,171.0
+formula1_drivers_world_championship_2013,driver_grosjean,7,,points=132.0;wins=0;team=Lotus F1;nationality=French;round=19;source_url=http://en.wikipedia.org/wiki/Romain_Grosjean,132.0
+formula1_drivers_world_championship_2013,driver_massa,8,,points=112.0;wins=0;team=Ferrari;nationality=Brazilian;round=19;source_url=http://en.wikipedia.org/wiki/Felipe_Massa,112.0
+formula1_drivers_world_championship_2013,driver_button,9,,points=73.0;wins=0;team=McLaren;nationality=British;round=19;source_url=http://en.wikipedia.org/wiki/Jenson_Button,73.0
+formula1_drivers_world_championship_2013,driver_hulkenberg,10,,points=51.0;wins=0;team=Sauber;nationality=German;round=19;source_url=http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg,51.0
+formula1_drivers_world_championship_2014,driver_hamilton,1,gold,points=384.0;wins=11;team=Mercedes;nationality=British;round=19;source_url=http://en.wikipedia.org/wiki/Lewis_Hamilton,384.0
+formula1_drivers_world_championship_2014,driver_rosberg,2,silver,points=317.0;wins=5;team=Mercedes;nationality=German;round=19;source_url=http://en.wikipedia.org/wiki/Nico_Rosberg,317.0
+formula1_drivers_world_championship_2014,driver_ricciardo,3,bronze,points=238.0;wins=3;team=Red Bull;nationality=Australian;round=19;source_url=http://en.wikipedia.org/wiki/Daniel_Ricciardo,238.0
+formula1_drivers_world_championship_2014,driver_bottas,4,,points=186.0;wins=0;team=Williams;nationality=Finnish;round=19;source_url=http://en.wikipedia.org/wiki/Valtteri_Bottas,186.0
+formula1_drivers_world_championship_2014,driver_vettel,5,,points=167.0;wins=0;team=Red Bull;nationality=German;round=19;source_url=http://en.wikipedia.org/wiki/Sebastian_Vettel,167.0
+formula1_drivers_world_championship_2014,driver_alonso,6,,points=161.0;wins=0;team=Ferrari;nationality=Spanish;round=19;source_url=http://en.wikipedia.org/wiki/Fernando_Alonso,161.0
+formula1_drivers_world_championship_2014,driver_massa,7,,points=134.0;wins=0;team=Williams;nationality=Brazilian;round=19;source_url=http://en.wikipedia.org/wiki/Felipe_Massa,134.0
+formula1_drivers_world_championship_2014,driver_button,8,,points=126.0;wins=0;team=McLaren;nationality=British;round=19;source_url=http://en.wikipedia.org/wiki/Jenson_Button,126.0
+formula1_drivers_world_championship_2014,driver_hulkenberg,9,,points=96.0;wins=0;team=Force India;nationality=German;round=19;source_url=http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg,96.0
+formula1_drivers_world_championship_2014,driver_perez,10,,points=59.0;wins=0;team=Force India;nationality=Mexican;round=19;source_url=http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,59.0
+formula1_drivers_world_championship_2015,driver_hamilton,1,gold,points=381.0;wins=10;team=Mercedes;nationality=British;round=19;source_url=http://en.wikipedia.org/wiki/Lewis_Hamilton,381.0
+formula1_drivers_world_championship_2015,driver_rosberg,2,silver,points=322.0;wins=6;team=Mercedes;nationality=German;round=19;source_url=http://en.wikipedia.org/wiki/Nico_Rosberg,322.0
+formula1_drivers_world_championship_2015,driver_vettel,3,bronze,points=278.0;wins=3;team=Ferrari;nationality=German;round=19;source_url=http://en.wikipedia.org/wiki/Sebastian_Vettel,278.0
+formula1_drivers_world_championship_2015,driver_raikkonen,4,,points=150.0;wins=0;team=Ferrari;nationality=Finnish;round=19;source_url=http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,150.0
+formula1_drivers_world_championship_2015,driver_bottas,5,,points=136.0;wins=0;team=Williams;nationality=Finnish;round=19;source_url=http://en.wikipedia.org/wiki/Valtteri_Bottas,136.0
+formula1_drivers_world_championship_2015,driver_massa,6,,points=121.0;wins=0;team=Williams;nationality=Brazilian;round=19;source_url=http://en.wikipedia.org/wiki/Felipe_Massa,121.0
+formula1_drivers_world_championship_2015,driver_kvyat,7,,points=95.0;wins=0;team=Red Bull;nationality=Russian;round=19;source_url=http://en.wikipedia.org/wiki/Daniil_Kvyat,95.0
+formula1_drivers_world_championship_2015,driver_ricciardo,8,,points=92.0;wins=0;team=Red Bull;nationality=Australian;round=19;source_url=http://en.wikipedia.org/wiki/Daniel_Ricciardo,92.0
+formula1_drivers_world_championship_2015,driver_perez,9,,points=78.0;wins=0;team=Force India;nationality=Mexican;round=19;source_url=http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,78.0
+formula1_drivers_world_championship_2015,driver_hulkenberg,10,,points=58.0;wins=0;team=Force India;nationality=German;round=19;source_url=http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg,58.0
+formula1_drivers_world_championship_2016,driver_rosberg,1,gold,points=385.0;wins=9;team=Mercedes;nationality=German;round=21;source_url=http://en.wikipedia.org/wiki/Nico_Rosberg,385.0
+formula1_drivers_world_championship_2016,driver_hamilton,2,silver,points=380.0;wins=10;team=Mercedes;nationality=British;round=21;source_url=http://en.wikipedia.org/wiki/Lewis_Hamilton,380.0
+formula1_drivers_world_championship_2016,driver_ricciardo,3,bronze,points=256.0;wins=1;team=Red Bull;nationality=Australian;round=21;source_url=http://en.wikipedia.org/wiki/Daniel_Ricciardo,256.0
+formula1_drivers_world_championship_2016,driver_vettel,4,,points=212.0;wins=0;team=Ferrari;nationality=German;round=21;source_url=http://en.wikipedia.org/wiki/Sebastian_Vettel,212.0
+formula1_drivers_world_championship_2016,driver_max-verstappen,5,,points=204.0;wins=1;team=Toro Rosso;nationality=Dutch;round=21;source_url=http://en.wikipedia.org/wiki/Max_Verstappen,204.0
+formula1_drivers_world_championship_2016,driver_raikkonen,6,,points=186.0;wins=0;team=Ferrari;nationality=Finnish;round=21;source_url=http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,186.0
+formula1_drivers_world_championship_2016,driver_perez,7,,points=101.0;wins=0;team=Force India;nationality=Mexican;round=21;source_url=http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,101.0
+formula1_drivers_world_championship_2016,driver_bottas,8,,points=85.0;wins=0;team=Williams;nationality=Finnish;round=21;source_url=http://en.wikipedia.org/wiki/Valtteri_Bottas,85.0
+formula1_drivers_world_championship_2016,driver_hulkenberg,9,,points=72.0;wins=0;team=Force India;nationality=German;round=21;source_url=http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg,72.0
+formula1_drivers_world_championship_2016,driver_alonso,10,,points=54.0;wins=0;team=McLaren;nationality=Spanish;round=21;source_url=http://en.wikipedia.org/wiki/Fernando_Alonso,54.0
+formula1_drivers_world_championship_2017,driver_hamilton,1,gold,points=363.0;wins=9;team=Mercedes;nationality=British;round=20;source_url=http://en.wikipedia.org/wiki/Lewis_Hamilton,363.0
+formula1_drivers_world_championship_2017,driver_vettel,2,silver,points=317.0;wins=5;team=Ferrari;nationality=German;round=20;source_url=http://en.wikipedia.org/wiki/Sebastian_Vettel,317.0
+formula1_drivers_world_championship_2017,driver_bottas,3,bronze,points=305.0;wins=3;team=Mercedes;nationality=Finnish;round=20;source_url=http://en.wikipedia.org/wiki/Valtteri_Bottas,305.0
+formula1_drivers_world_championship_2017,driver_raikkonen,4,,points=205.0;wins=0;team=Ferrari;nationality=Finnish;round=20;source_url=http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,205.0
+formula1_drivers_world_championship_2017,driver_ricciardo,5,,points=200.0;wins=1;team=Red Bull;nationality=Australian;round=20;source_url=http://en.wikipedia.org/wiki/Daniel_Ricciardo,200.0
+formula1_drivers_world_championship_2017,driver_max-verstappen,6,,points=168.0;wins=2;team=Red Bull;nationality=Dutch;round=20;source_url=http://en.wikipedia.org/wiki/Max_Verstappen,168.0
+formula1_drivers_world_championship_2017,driver_perez,7,,points=100.0;wins=0;team=Force India;nationality=Mexican;round=20;source_url=http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,100.0
+formula1_drivers_world_championship_2017,driver_ocon,8,,points=87.0;wins=0;team=Force India;nationality=French;round=20;source_url=http://en.wikipedia.org/wiki/Esteban_Ocon,87.0
+formula1_drivers_world_championship_2017,driver_sainz,9,,points=54.0;wins=0;team=Toro Rosso;nationality=Spanish;round=20;source_url=http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,54.0
+formula1_drivers_world_championship_2017,driver_hulkenberg,10,,points=43.0;wins=0;team=Renault;nationality=German;round=20;source_url=http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg,43.0
+formula1_drivers_world_championship_2018,driver_hamilton,1,gold,points=408.0;wins=11;team=Mercedes;nationality=British;round=21;source_url=http://en.wikipedia.org/wiki/Lewis_Hamilton,408.0
+formula1_drivers_world_championship_2018,driver_vettel,2,silver,points=320.0;wins=5;team=Ferrari;nationality=German;round=21;source_url=http://en.wikipedia.org/wiki/Sebastian_Vettel,320.0
+formula1_drivers_world_championship_2018,driver_raikkonen,3,bronze,points=251.0;wins=1;team=Ferrari;nationality=Finnish;round=21;source_url=http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,251.0
+formula1_drivers_world_championship_2018,driver_max-verstappen,4,,points=249.0;wins=2;team=Red Bull;nationality=Dutch;round=21;source_url=http://en.wikipedia.org/wiki/Max_Verstappen,249.0
+formula1_drivers_world_championship_2018,driver_bottas,5,,points=247.0;wins=0;team=Mercedes;nationality=Finnish;round=21;source_url=http://en.wikipedia.org/wiki/Valtteri_Bottas,247.0
+formula1_drivers_world_championship_2018,driver_ricciardo,6,,points=170.0;wins=2;team=Red Bull;nationality=Australian;round=21;source_url=http://en.wikipedia.org/wiki/Daniel_Ricciardo,170.0
+formula1_drivers_world_championship_2018,driver_hulkenberg,7,,points=69.0;wins=0;team=Renault;nationality=German;round=21;source_url=http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg,69.0
+formula1_drivers_world_championship_2018,driver_perez,8,,points=62.0;wins=0;team=Force India;nationality=Mexican;round=21;source_url=http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,62.0
+formula1_drivers_world_championship_2018,driver_kevin-magnussen,9,,points=56.0;wins=0;team=Haas F1 Team;nationality=Danish;round=21;source_url=http://en.wikipedia.org/wiki/Kevin_Magnussen,56.0
+formula1_drivers_world_championship_2018,driver_sainz,10,,points=53.0;wins=0;team=Renault;nationality=Spanish;round=21;source_url=http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,53.0
+formula1_drivers_world_championship_2019,driver_hamilton,1,gold,points=413.0;wins=11;team=Mercedes;nationality=British;round=21;source_url=http://en.wikipedia.org/wiki/Lewis_Hamilton,413.0
+formula1_drivers_world_championship_2019,driver_bottas,2,silver,points=326.0;wins=4;team=Mercedes;nationality=Finnish;round=21;source_url=http://en.wikipedia.org/wiki/Valtteri_Bottas,326.0
+formula1_drivers_world_championship_2019,driver_max-verstappen,3,bronze,points=278.0;wins=3;team=Red Bull;nationality=Dutch;round=21;source_url=http://en.wikipedia.org/wiki/Max_Verstappen,278.0
+formula1_drivers_world_championship_2019,driver_leclerc,4,,points=264.0;wins=2;team=Ferrari;nationality=Monegasque;round=21;source_url=http://en.wikipedia.org/wiki/Charles_Leclerc,264.0
+formula1_drivers_world_championship_2019,driver_vettel,5,,points=240.0;wins=1;team=Ferrari;nationality=German;round=21;source_url=http://en.wikipedia.org/wiki/Sebastian_Vettel,240.0
+formula1_drivers_world_championship_2019,driver_sainz,6,,points=96.0;wins=0;team=McLaren;nationality=Spanish;round=21;source_url=http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,96.0
+formula1_drivers_world_championship_2019,driver_gasly,7,,points=95.0;wins=0;team=Red Bull;nationality=French;round=21;source_url=http://en.wikipedia.org/wiki/Pierre_Gasly,95.0
+formula1_drivers_world_championship_2019,driver_albon,8,,points=92.0;wins=0;team=Toro Rosso;nationality=Thai;round=21;source_url=http://en.wikipedia.org/wiki/Alexander_Albon,92.0
+formula1_drivers_world_championship_2019,driver_ricciardo,9,,points=54.0;wins=0;team=Renault;nationality=Australian;round=21;source_url=http://en.wikipedia.org/wiki/Daniel_Ricciardo,54.0
+formula1_drivers_world_championship_2019,driver_perez,10,,points=52.0;wins=0;team=Racing Point;nationality=Mexican;round=21;source_url=http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,52.0
+formula1_drivers_world_championship_2020,driver_hamilton,1,gold,points=347.0;wins=11;team=Mercedes;nationality=British;round=17;source_url=http://en.wikipedia.org/wiki/Lewis_Hamilton,347.0
+formula1_drivers_world_championship_2020,driver_bottas,2,silver,points=223.0;wins=2;team=Mercedes;nationality=Finnish;round=17;source_url=http://en.wikipedia.org/wiki/Valtteri_Bottas,223.0
+formula1_drivers_world_championship_2020,driver_max-verstappen,3,bronze,points=214.0;wins=2;team=Red Bull;nationality=Dutch;round=17;source_url=http://en.wikipedia.org/wiki/Max_Verstappen,214.0
+formula1_drivers_world_championship_2020,driver_perez,4,,points=125.0;wins=1;team=Racing Point;nationality=Mexican;round=17;source_url=http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,125.0
+formula1_drivers_world_championship_2020,driver_ricciardo,5,,points=119.0;wins=0;team=Renault;nationality=Australian;round=17;source_url=http://en.wikipedia.org/wiki/Daniel_Ricciardo,119.0
+formula1_drivers_world_championship_2020,driver_sainz,6,,points=105.0;wins=0;team=McLaren;nationality=Spanish;round=17;source_url=http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,105.0
+formula1_drivers_world_championship_2020,driver_albon,7,,points=105.0;wins=0;team=Red Bull;nationality=Thai;round=17;source_url=http://en.wikipedia.org/wiki/Alexander_Albon,105.0
+formula1_drivers_world_championship_2020,driver_leclerc,8,,points=98.0;wins=0;team=Ferrari;nationality=Monegasque;round=17;source_url=http://en.wikipedia.org/wiki/Charles_Leclerc,98.0
+formula1_drivers_world_championship_2020,driver_norris,9,,points=97.0;wins=0;team=McLaren;nationality=British;round=17;source_url=http://en.wikipedia.org/wiki/Lando_Norris,97.0
+formula1_drivers_world_championship_2020,driver_gasly,10,,points=75.0;wins=1;team=AlphaTauri;nationality=French;round=17;source_url=http://en.wikipedia.org/wiki/Pierre_Gasly,75.0
+formula1_drivers_world_championship_2021,driver_max-verstappen,1,gold,points=395.5;wins=10;team=Red Bull;nationality=Dutch;round=22;source_url=http://en.wikipedia.org/wiki/Max_Verstappen,395.5
+formula1_drivers_world_championship_2021,driver_hamilton,2,silver,points=387.5;wins=8;team=Mercedes;nationality=British;round=22;source_url=http://en.wikipedia.org/wiki/Lewis_Hamilton,387.5
+formula1_drivers_world_championship_2021,driver_bottas,3,bronze,points=226.0;wins=1;team=Mercedes;nationality=Finnish;round=22;source_url=http://en.wikipedia.org/wiki/Valtteri_Bottas,226.0
+formula1_drivers_world_championship_2021,driver_perez,4,,points=190.0;wins=1;team=Red Bull;nationality=Mexican;round=22;source_url=http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,190.0
+formula1_drivers_world_championship_2021,driver_sainz,5,,points=164.5;wins=0;team=Ferrari;nationality=Spanish;round=22;source_url=http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,164.5
+formula1_drivers_world_championship_2021,driver_norris,6,,points=160.0;wins=0;team=McLaren;nationality=British;round=22;source_url=http://en.wikipedia.org/wiki/Lando_Norris,160.0
+formula1_drivers_world_championship_2021,driver_leclerc,7,,points=159.0;wins=0;team=Ferrari;nationality=Monegasque;round=22;source_url=http://en.wikipedia.org/wiki/Charles_Leclerc,159.0
+formula1_drivers_world_championship_2021,driver_ricciardo,8,,points=115.0;wins=1;team=McLaren;nationality=Australian;round=22;source_url=http://en.wikipedia.org/wiki/Daniel_Ricciardo,115.0
+formula1_drivers_world_championship_2021,driver_gasly,9,,points=110.0;wins=0;team=AlphaTauri;nationality=French;round=22;source_url=http://en.wikipedia.org/wiki/Pierre_Gasly,110.0
+formula1_drivers_world_championship_2021,driver_alonso,10,,points=81.0;wins=0;team=Alpine F1 Team;nationality=Spanish;round=22;source_url=http://en.wikipedia.org/wiki/Fernando_Alonso,81.0
+formula1_drivers_world_championship_2022,driver_max-verstappen,1,gold,points=454.0;wins=15;team=Red Bull;nationality=Dutch;round=22;source_url=http://en.wikipedia.org/wiki/Max_Verstappen,454.0
+formula1_drivers_world_championship_2022,driver_leclerc,2,silver,points=308.0;wins=3;team=Ferrari;nationality=Monegasque;round=22;source_url=http://en.wikipedia.org/wiki/Charles_Leclerc,308.0
+formula1_drivers_world_championship_2022,driver_perez,3,bronze,points=305.0;wins=2;team=Red Bull;nationality=Mexican;round=22;source_url=http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,305.0
+formula1_drivers_world_championship_2022,driver_russell,4,,points=275.0;wins=1;team=Mercedes;nationality=British;round=22;source_url=http://en.wikipedia.org/wiki/George_Russell_(racing_driver),275.0
+formula1_drivers_world_championship_2022,driver_sainz,5,,points=246.0;wins=1;team=Ferrari;nationality=Spanish;round=22;source_url=http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,246.0
+formula1_drivers_world_championship_2022,driver_hamilton,6,,points=240.0;wins=0;team=Mercedes;nationality=British;round=22;source_url=http://en.wikipedia.org/wiki/Lewis_Hamilton,240.0
+formula1_drivers_world_championship_2022,driver_norris,7,,points=122.0;wins=0;team=McLaren;nationality=British;round=22;source_url=http://en.wikipedia.org/wiki/Lando_Norris,122.0
+formula1_drivers_world_championship_2022,driver_ocon,8,,points=92.0;wins=0;team=Alpine F1 Team;nationality=French;round=22;source_url=http://en.wikipedia.org/wiki/Esteban_Ocon,92.0
+formula1_drivers_world_championship_2022,driver_alonso,9,,points=81.0;wins=0;team=Alpine F1 Team;nationality=Spanish;round=22;source_url=http://en.wikipedia.org/wiki/Fernando_Alonso,81.0
+formula1_drivers_world_championship_2022,driver_bottas,10,,points=49.0;wins=0;team=Alfa Romeo;nationality=Finnish;round=22;source_url=http://en.wikipedia.org/wiki/Valtteri_Bottas,49.0
+formula1_drivers_world_championship_2023,driver_max-verstappen,1,gold,points=575.0;wins=19;team=Red Bull;nationality=Dutch;round=22;source_url=http://en.wikipedia.org/wiki/Max_Verstappen,575.0
+formula1_drivers_world_championship_2023,driver_perez,2,silver,points=285.0;wins=2;team=Red Bull;nationality=Mexican;round=22;source_url=http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,285.0
+formula1_drivers_world_championship_2023,driver_hamilton,3,bronze,points=234.0;wins=0;team=Mercedes;nationality=British;round=22;source_url=http://en.wikipedia.org/wiki/Lewis_Hamilton,234.0
+formula1_drivers_world_championship_2023,driver_alonso,4,,points=206.0;wins=0;team=Aston Martin;nationality=Spanish;round=22;source_url=http://en.wikipedia.org/wiki/Fernando_Alonso,206.0
+formula1_drivers_world_championship_2023,driver_leclerc,5,,points=206.0;wins=0;team=Ferrari;nationality=Monegasque;round=22;source_url=http://en.wikipedia.org/wiki/Charles_Leclerc,206.0
+formula1_drivers_world_championship_2023,driver_norris,6,,points=205.0;wins=0;team=McLaren;nationality=British;round=22;source_url=http://en.wikipedia.org/wiki/Lando_Norris,205.0
+formula1_drivers_world_championship_2023,driver_sainz,7,,points=200.0;wins=1;team=Ferrari;nationality=Spanish;round=22;source_url=http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,200.0
+formula1_drivers_world_championship_2023,driver_russell,8,,points=175.0;wins=0;team=Mercedes;nationality=British;round=22;source_url=http://en.wikipedia.org/wiki/George_Russell_(racing_driver),175.0
+formula1_drivers_world_championship_2023,driver_piastri,9,,points=97.0;wins=0;team=McLaren;nationality=Australian;round=22;source_url=http://en.wikipedia.org/wiki/Oscar_Piastri,97.0
+formula1_drivers_world_championship_2023,driver_stroll,10,,points=74.0;wins=0;team=Aston Martin;nationality=Canadian;round=22;source_url=http://en.wikipedia.org/wiki/Lance_Stroll,74.0
+formula1_drivers_world_championship_2024,driver_max-verstappen,1,gold,points=437.0;wins=9;team=Red Bull;nationality=Dutch;round=24;source_url=http://en.wikipedia.org/wiki/Max_Verstappen,437.0
+formula1_drivers_world_championship_2024,driver_norris,2,silver,points=374.0;wins=4;team=McLaren;nationality=British;round=24;source_url=http://en.wikipedia.org/wiki/Lando_Norris,374.0
+formula1_drivers_world_championship_2024,driver_leclerc,3,bronze,points=356.0;wins=3;team=Ferrari;nationality=Monegasque;round=24;source_url=http://en.wikipedia.org/wiki/Charles_Leclerc,356.0
+formula1_drivers_world_championship_2024,driver_piastri,4,,points=292.0;wins=2;team=McLaren;nationality=Australian;round=24;source_url=http://en.wikipedia.org/wiki/Oscar_Piastri,292.0
+formula1_drivers_world_championship_2024,driver_sainz,5,,points=290.0;wins=2;team=Ferrari;nationality=Spanish;round=24;source_url=http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,290.0
+formula1_drivers_world_championship_2024,driver_russell,6,,points=245.0;wins=2;team=Mercedes;nationality=British;round=24;source_url=http://en.wikipedia.org/wiki/George_Russell_(racing_driver),245.0
+formula1_drivers_world_championship_2024,driver_hamilton,7,,points=223.0;wins=2;team=Mercedes;nationality=British;round=24;source_url=http://en.wikipedia.org/wiki/Lewis_Hamilton,223.0
+formula1_drivers_world_championship_2024,driver_perez,8,,points=152.0;wins=0;team=Red Bull;nationality=Mexican;round=24;source_url=http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,152.0
+formula1_drivers_world_championship_2024,driver_alonso,9,,points=70.0;wins=0;team=Aston Martin;nationality=Spanish;round=24;source_url=http://en.wikipedia.org/wiki/Fernando_Alonso,70.0
+formula1_drivers_world_championship_2024,driver_gasly,10,,points=42.0;wins=0;team=Alpine F1 Team;nationality=French;round=24;source_url=http://en.wikipedia.org/wiki/Pierre_Gasly,42.0
+formula1_drivers_world_championship_2025,driver_norris,1,gold,points=423.0;wins=7;team=McLaren;nationality=British;round=24;source_url=http://en.wikipedia.org/wiki/Lando_Norris,423.0
+formula1_drivers_world_championship_2025,driver_max-verstappen,2,silver,points=421.0;wins=8;team=Red Bull;nationality=Dutch;round=24;source_url=http://en.wikipedia.org/wiki/Max_Verstappen,421.0
+formula1_drivers_world_championship_2025,driver_piastri,3,bronze,points=410.0;wins=7;team=McLaren;nationality=Australian;round=24;source_url=http://en.wikipedia.org/wiki/Oscar_Piastri,410.0
+formula1_drivers_world_championship_2025,driver_russell,4,,points=319.0;wins=2;team=Mercedes;nationality=British;round=24;source_url=http://en.wikipedia.org/wiki/George_Russell_(racing_driver),319.0
+formula1_drivers_world_championship_2025,driver_leclerc,5,,points=242.0;wins=0;team=Ferrari;nationality=Monegasque;round=24;source_url=http://en.wikipedia.org/wiki/Charles_Leclerc,242.0
+formula1_drivers_world_championship_2025,driver_hamilton,6,,points=156.0;wins=0;team=Ferrari;nationality=British;round=24;source_url=http://en.wikipedia.org/wiki/Lewis_Hamilton,156.0
+formula1_drivers_world_championship_2025,driver_antonelli,7,,points=150.0;wins=0;team=Mercedes;nationality=Italian;round=24;source_url=https://en.wikipedia.org/wiki/Andrea_Kimi_Antonelli,150.0
+formula1_drivers_world_championship_2025,driver_albon,8,,points=73.0;wins=0;team=Williams;nationality=Thai;round=24;source_url=http://en.wikipedia.org/wiki/Alexander_Albon,73.0
+formula1_drivers_world_championship_2025,driver_sainz,9,,points=64.0;wins=0;team=Williams;nationality=Spanish;round=24;source_url=http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,64.0
+formula1_drivers_world_championship_2025,driver_alonso,10,,points=56.0;wins=0;team=Aston Martin;nationality=Spanish;round=24;source_url=http://en.wikipedia.org/wiki/Fernando_Alonso,56.0

@@ -29,6 +29,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] UCI Road World Nation Ranking (cyclisme sur route, top 10 nations hommes; couverture 2015-2026 selon disponibilite UCI DataRide) ajoute via `uci_road_nation_ranking_history` (2026-03-20)
 - [x] World Judo Championships (podium par categorie de poids H/F, post-2000) ajoute via `world_judo_championships_history` (2026-03-20)
 - [x] World Wrestling Championships (freestyle + greco-romaine, podium par categorie de poids, post-2000) ajoute via `world_wrestling_championships_history` (2026-03-20)
+- [x] Formula 1 World Championship (classements finaux top 10 pilotes + constructeurs, post-2000) ajoute via `formula1_world_championship_history` (2026-03-21)
 
 ### Competitions mondiales
 
@@ -64,7 +65,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] UCI Track Cycling World Championships (cyclisme sur piste, H/F) (`uci_track_cycling_world_championships_history`)
 - [x] World Judo Championships (`world_judo_championships_history`)
 - [x] World Wrestling Championships (`world_wrestling_championships_history`)
-- [ ] Formula 1 World Championship (pilotes + constructeurs)
+- [x] Formula 1 World Championship (pilotes + constructeurs) (`formula1_world_championship_history`)
 - [ ] Formula E World Championship
 - [ ] Sailing World Championships (selon classes)
 
