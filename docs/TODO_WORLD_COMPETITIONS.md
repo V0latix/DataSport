@@ -4,7 +4,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 
 ## Etat actuel (deja ingere)
 
-### Derniers ajouts (2026-02-20 -> 2026-03-18)
+### Derniers ajouts (2026-02-20 -> 2026-03-21)
 
 - [x] IHF Handball World Championship (men/women) ajoute via `ihf_handball_world_championship_history` (commit `959b7ac`, 2026-02-20)
 - [x] ICC Cricket World Cup (ODI men/women) ajoute via `icc_cricket_world_cup_history` (commits `eda104c` et `3376ab8`, 2026-02-20 -> 2026-02-21)
@@ -30,6 +30,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] World Judo Championships (podium par categorie de poids H/F, post-2000) ajoute via `world_judo_championships_history` (2026-03-20)
 - [x] World Wrestling Championships (freestyle + greco-romaine, podium par categorie de poids, post-2000) ajoute via `world_wrestling_championships_history` (2026-03-20)
 - [x] Formula 1 World Championship (classements finaux top 10 pilotes + constructeurs, post-2000) ajoute via `formula1_world_championship_history` (2026-03-21)
+- [x] Formula E World Championship (classements finaux top 10 pilotes + equipes, post-2000) ajoute via `formulae_world_championship_history` (2026-03-21)
 
 ### Competitions mondiales
 
@@ -66,7 +67,19 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] World Judo Championships (`world_judo_championships_history`)
 - [x] World Wrestling Championships (`world_wrestling_championships_history`)
 - [x] Formula 1 World Championship (pilotes + constructeurs) (`formula1_world_championship_history`)
-- [ ] Formula E World Championship
+- [x] Formula E World Championship (`formulae_world_championship_history`)
+- [ ] FIH Hockey World Cup (men)
+- [ ] FIH Hockey World Cup (women)
+- [ ] BWF Sudirman Cup (equipes nationales mixtes)
+- [ ] Thomas Cup (badminton, equipes nationales hommes)
+- [ ] Uber Cup (badminton, equipes nationales femmes)
+- [ ] World Rowing Championships
+- [ ] ICF Canoe Sprint World Championships
+- [ ] ICF Canoe Slalom World Championships
+- [ ] FIE World Championships (fencing, epee/foil/sabre)
+- [ ] World Taekwondo Championships
+- [ ] UCI Cyclo-cross World Championships
+- [ ] UCI Mountain Bike World Championships
 - [ ] Sailing World Championships (selon classes)
 
 
@@ -81,8 +94,27 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] ICC Men's Team Rankings (Test, ODI, T20I) (`icc_team_ranking_history`)
 - [x] ICC Women's Team Rankings (ODI, T20I) (`icc_team_ranking_history`)
 - [x] Top 10 UCI Nation Ranking (route, hommes, couverture actuelle 2015-2026; pas de ranking mondial nations route expose avant 2015 dans UCI DataRide)
+- [ ] FIH World Ranking (men)
+- [ ] FIH World Ranking (women)
+- [ ] UCI Track Nation Ranking (si expose par UCI DataRide)
 - [ ] Top 10 ATP ranking / WTA ranking (joueurs -> agreger par nation)
+- [ ] Top 10 BWF ranking / ITTF ranking (joueurs -> agreger par nation)
+- [ ] Top 10 World Triathlon ranking (athletes -> agreger par nation)
 - [ ] Top 10 World Sailing rankings (selon classes)
+
+### Sports deja presents dans `sports.csv` mais encore sans couverture competition dediee
+
+- [ ] hockey
+- [ ] rowing
+- [ ] canoe
+- [ ] fencing
+- [ ] taekwondo
+- [ ] sailing
+- [ ] archery
+- [ ] triathlon
+- [ ] equestrian
+- [ ] golf
+- [x] motorsport hors F1 (Formula E integree via `formulae_world_championship_history`)
 
 
 ### Qualite des donnees `competition/events`

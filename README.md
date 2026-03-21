@@ -687,6 +687,32 @@ Comportement:
   - `2001` -> `2025`
   - annee courante exclue tant que la saison n'est pas complete (ex: `2026`)
 
+### 8s) Ingest Formula E Championship (classement final top 10 pilotes + equipes, post-2000)
+
+```bash
+python -m pipelines.ingest --connector formulae_world_championship_history --year 2026
+```
+
+Comportement:
+- ingere le seed local:
+  - `data/raw/formulae/formulae_world_standings_top10_seed.csv`
+  - seed reproductible via: `data/raw/formulae/build_formulae_world_standings_seed.py`
+- cree 2 competitions:
+  - `formulae_drivers_world_championship`
+  - `formulae_teams_world_championship`
+- cree un event annuel par competition:
+  - `formulae_drivers_world_championship_<YYYY>`
+  - `formulae_teams_world_championship_<YYYY>`
+- stocke un top 10 strict par event:
+  - profil attendu `1,2,3,4,5,6,7,8,9,10`
+- sport/discipline:
+  - sport `motorsport`
+  - discipline `formula-e`
+- couverture observee avec la source actuelle:
+  - `2015` -> `2025`
+  - annee courante exclue tant que la saison n'est pas complete (ex: `2026`)
+  - note source historique: quand une table equipes ne liste pas explicitement les equipes a 0 point, le seed complete jusqu'au rang 10 avec les entrants de la saison (points `0`)
+
 ### 9) Ingest JO d'été Paris 2024 (connecteur dédié, optionnel)
 
 ```bash

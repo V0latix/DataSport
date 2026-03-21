@@ -137,3 +137,5 @@ import_c8ed1633c5818457a917cf57de6e39403f8f3b2b,world_judo_championships_history
 import_3755b0530ef45ea0d7094dc9d6bfefd1b01299ea,world_judo_championships_history,2026-03-20T17:24:47+00:00,/Users/romain/dev/DataSport/data/raw/world_judo_championships_history/20260320T172446Z,success,
 import_005d315f6218334faf432b5ac55aaf4af7fb63c5,world_wrestling_championships_history,2026-03-20T22:43:17+00:00,/Users/romain/dev/DataSport/data/raw/world_wrestling_championships_history/20260320T224314Z,success,
 import_0ec76886cc541292072b4213c43c020d468b5920,formula1_world_championship_history,2026-03-21T18:40:16+00:00,/Users/romain/dev/DataSport/data/raw/formula1_world_championship_history/20260321T184015Z,success,
+import_0111db3fb934654268dc237418d9b1b926593a98,formulae_world_championship_history,2026-03-21T19:06:21+00:00,/Users/romain/dev/DataSport/data/raw/formulae_world_championship_history/20260321T190621Z,success,
+import_4a9c8a69cd0aeb1aa98beb8bc675f573a920edfe,formulae_world_championship_history,2026-03-21T19:09:04+00:00,/Users/romain/dev/DataSport/data/raw/formulae_world_championship_history/20260321T190903Z,success,
