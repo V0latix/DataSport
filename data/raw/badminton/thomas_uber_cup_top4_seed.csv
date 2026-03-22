@@ -1,0 +1,97 @@
+competition_id,competition_name,year,event_date,discipline_key,discipline_name,gender,rank,participant_type,participant_name,country_name,country_code,source_url
+bwf_thomas_cup,BWF Thomas Cup,2002,2002-12-31,badminton-team,Badminton Team,men,1,team,Indonesia,Indonesia,IDN,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2002,2002-12-31,badminton-team,Badminton Team,men,2,team,Malaysia,Malaysia,MYS,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2002,2002-12-31,badminton-team,Badminton Team,men,3,team,China,China,CHN,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2002,2002-12-31,badminton-team,Badminton Team,men,3,team,Denmark,Denmark,DNK,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2004,2004-12-31,badminton-team,Badminton Team,men,1,team,China,China,CHN,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2004,2004-12-31,badminton-team,Badminton Team,men,2,team,Denmark,Denmark,DNK,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2004,2004-12-31,badminton-team,Badminton Team,men,3,team,Indonesia,Indonesia,IDN,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2004,2004-12-31,badminton-team,Badminton Team,men,3,team,South Korea,South Korea,KOR,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2006,2006-12-31,badminton-team,Badminton Team,men,1,team,China,China,CHN,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2006,2006-12-31,badminton-team,Badminton Team,men,2,team,Denmark,Denmark,DNK,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2006,2006-12-31,badminton-team,Badminton Team,men,3,team,Indonesia,Indonesia,IDN,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2006,2006-12-31,badminton-team,Badminton Team,men,3,team,Malaysia,Malaysia,MYS,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2008,2008-12-31,badminton-team,Badminton Team,men,1,team,China,China,CHN,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2008,2008-12-31,badminton-team,Badminton Team,men,2,team,South Korea,South Korea,KOR,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2008,2008-12-31,badminton-team,Badminton Team,men,3,team,Indonesia,Indonesia,IDN,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2008,2008-12-31,badminton-team,Badminton Team,men,3,team,Malaysia,Malaysia,MYS,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2010,2010-12-31,badminton-team,Badminton Team,men,1,team,China,China,CHN,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2010,2010-12-31,badminton-team,Badminton Team,men,2,team,Indonesia,Indonesia,IDN,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2010,2010-12-31,badminton-team,Badminton Team,men,3,team,Japan,Japan,JPN,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2010,2010-12-31,badminton-team,Badminton Team,men,3,team,Malaysia,Malaysia,MYS,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2012,2012-12-31,badminton-team,Badminton Team,men,1,team,China,China,CHN,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2012,2012-12-31,badminton-team,Badminton Team,men,2,team,South Korea,South Korea,KOR,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2012,2012-12-31,badminton-team,Badminton Team,men,3,team,Denmark,Denmark,DNK,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2012,2012-12-31,badminton-team,Badminton Team,men,3,team,Japan,Japan,JPN,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2014,2014-12-31,badminton-team,Badminton Team,men,1,team,Japan,Japan,JPN,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2014,2014-12-31,badminton-team,Badminton Team,men,2,team,Malaysia,Malaysia,MYS,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2014,2014-12-31,badminton-team,Badminton Team,men,3,team,China,China,CHN,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2014,2014-12-31,badminton-team,Badminton Team,men,3,team,Indonesia,Indonesia,IDN,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2016,2016-12-31,badminton-team,Badminton Team,men,1,team,Denmark,Denmark,DNK,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2016,2016-12-31,badminton-team,Badminton Team,men,2,team,Indonesia,Indonesia,IDN,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2016,2016-12-31,badminton-team,Badminton Team,men,3,team,Malaysia,Malaysia,MYS,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2016,2016-12-31,badminton-team,Badminton Team,men,3,team,South Korea,South Korea,KOR,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2018,2018-12-31,badminton-team,Badminton Team,men,1,team,China,China,CHN,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2018,2018-12-31,badminton-team,Badminton Team,men,2,team,Japan,Japan,JPN,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2018,2018-12-31,badminton-team,Badminton Team,men,3,team,Denmark,Denmark,DNK,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2018,2018-12-31,badminton-team,Badminton Team,men,3,team,Indonesia,Indonesia,IDN,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2020,2020-12-31,badminton-team,Badminton Team,men,1,team,Indonesia,Indonesia,IDN,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2020,2020-12-31,badminton-team,Badminton Team,men,2,team,China,China,CHN,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2020,2020-12-31,badminton-team,Badminton Team,men,3,team,Denmark,Denmark,DNK,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2020,2020-12-31,badminton-team,Badminton Team,men,3,team,Japan,Japan,JPN,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2022,2022-12-31,badminton-team,Badminton Team,men,1,team,India,India,IND,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2022,2022-12-31,badminton-team,Badminton Team,men,2,team,Indonesia,Indonesia,IDN,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2022,2022-12-31,badminton-team,Badminton Team,men,3,team,Denmark,Denmark,DNK,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2022,2022-12-31,badminton-team,Badminton Team,men,3,team,Japan,Japan,JPN,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2024,2024-12-31,badminton-team,Badminton Team,men,1,team,China,China,CHN,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2024,2024-12-31,badminton-team,Badminton Team,men,2,team,Indonesia,Indonesia,IDN,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2024,2024-12-31,badminton-team,Badminton Team,men,3,team,Chinese Taipei,Chinese Taipei,TPE,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_thomas_cup,BWF Thomas Cup,2024,2024-12-31,badminton-team,Badminton Team,men,3,team,Malaysia,Malaysia,MYS,https://en.wikipedia.org/wiki/Thomas_Cup
+bwf_uber_cup,BWF Uber Cup,2002,2002-12-31,badminton-team,Badminton Team,women,1,team,China,China,CHN,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2002,2002-12-31,badminton-team,Badminton Team,women,2,team,South Korea,South Korea,KOR,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2002,2002-12-31,badminton-team,Badminton Team,women,3,team,Hong Kong,Hong Kong,HKG,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2002,2002-12-31,badminton-team,Badminton Team,women,3,team,Netherlands,Netherlands,NLD,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2004,2004-12-31,badminton-team,Badminton Team,women,1,team,China,China,CHN,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2004,2004-12-31,badminton-team,Badminton Team,women,2,team,South Korea,South Korea,KOR,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2004,2004-12-31,badminton-team,Badminton Team,women,3,team,Denmark,Denmark,DNK,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2004,2004-12-31,badminton-team,Badminton Team,women,3,team,Japan,Japan,JPN,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2006,2006-12-31,badminton-team,Badminton Team,women,1,team,China,China,CHN,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2006,2006-12-31,badminton-team,Badminton Team,women,2,team,Netherlands,Netherlands,NLD,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2006,2006-12-31,badminton-team,Badminton Team,women,3,team,Chinese Taipei,Chinese Taipei,TPE,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2006,2006-12-31,badminton-team,Badminton Team,women,3,team,Germany,Germany,DEU,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2008,2008-12-31,badminton-team,Badminton Team,women,1,team,China,China,CHN,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2008,2008-12-31,badminton-team,Badminton Team,women,2,team,Indonesia,Indonesia,IDN,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2008,2008-12-31,badminton-team,Badminton Team,women,3,team,Germany,Germany,DEU,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2008,2008-12-31,badminton-team,Badminton Team,women,3,team,South Korea,South Korea,KOR,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2010,2010-12-31,badminton-team,Badminton Team,women,1,team,South Korea,South Korea,KOR,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2010,2010-12-31,badminton-team,Badminton Team,women,2,team,China,China,CHN,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2010,2010-12-31,badminton-team,Badminton Team,women,3,team,Indonesia,Indonesia,IDN,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2010,2010-12-31,badminton-team,Badminton Team,women,3,team,Japan,Japan,JPN,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2012,2012-12-31,badminton-team,Badminton Team,women,1,team,China,China,CHN,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2012,2012-12-31,badminton-team,Badminton Team,women,2,team,South Korea,South Korea,KOR,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2012,2012-12-31,badminton-team,Badminton Team,women,3,team,Japan,Japan,JPN,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2012,2012-12-31,badminton-team,Badminton Team,women,3,team,Thailand,Thailand,THA,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2014,2014-12-31,badminton-team,Badminton Team,women,1,team,China,China,CHN,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2014,2014-12-31,badminton-team,Badminton Team,women,2,team,Japan,Japan,JPN,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2014,2014-12-31,badminton-team,Badminton Team,women,3,team,India,India,IND,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2014,2014-12-31,badminton-team,Badminton Team,women,3,team,South Korea,South Korea,KOR,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2016,2016-12-31,badminton-team,Badminton Team,women,1,team,China,China,CHN,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2016,2016-12-31,badminton-team,Badminton Team,women,2,team,South Korea,South Korea,KOR,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2016,2016-12-31,badminton-team,Badminton Team,women,3,team,India,India,IND,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2016,2016-12-31,badminton-team,Badminton Team,women,3,team,Japan,Japan,JPN,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2018,2018-12-31,badminton-team,Badminton Team,women,1,team,Japan,Japan,JPN,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2018,2018-12-31,badminton-team,Badminton Team,women,2,team,Thailand,Thailand,THA,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2018,2018-12-31,badminton-team,Badminton Team,women,3,team,China,China,CHN,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2018,2018-12-31,badminton-team,Badminton Team,women,3,team,South Korea,South Korea,KOR,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2020,2020-12-31,badminton-team,Badminton Team,women,1,team,China,China,CHN,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2020,2020-12-31,badminton-team,Badminton Team,women,2,team,Japan,Japan,JPN,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2020,2020-12-31,badminton-team,Badminton Team,women,3,team,South Korea,South Korea,KOR,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2020,2020-12-31,badminton-team,Badminton Team,women,3,team,Thailand,Thailand,THA,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2022,2022-12-31,badminton-team,Badminton Team,women,1,team,South Korea,South Korea,KOR,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2022,2022-12-31,badminton-team,Badminton Team,women,2,team,China,China,CHN,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2022,2022-12-31,badminton-team,Badminton Team,women,3,team,Japan,Japan,JPN,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2022,2022-12-31,badminton-team,Badminton Team,women,3,team,Thailand,Thailand,THA,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2024,2024-12-31,badminton-team,Badminton Team,women,1,team,China,China,CHN,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2024,2024-12-31,badminton-team,Badminton Team,women,2,team,Indonesia,Indonesia,IDN,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2024,2024-12-31,badminton-team,Badminton Team,women,3,team,Japan,Japan,JPN,https://en.wikipedia.org/wiki/Uber_Cup
+bwf_uber_cup,BWF Uber Cup,2024,2024-12-31,badminton-team,Badminton Team,women,3,team,South Korea,South Korea,KOR,https://en.wikipedia.org/wiki/Uber_Cup

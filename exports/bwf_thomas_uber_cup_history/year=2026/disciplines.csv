@@ -1,0 +1,2 @@
+discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
+badminton-team,Badminton Team,badminton-team,badminton,1.0,connector_bwf_thomas_uber_cup_history,2026-03-22T14:37:56+00:00

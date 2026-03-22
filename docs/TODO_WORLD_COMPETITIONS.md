@@ -4,7 +4,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 
 ## Etat actuel (deja ingere)
 
-### Derniers ajouts (2026-02-20 -> 2026-03-21)
+### Derniers ajouts (2026-02-20 -> 2026-03-22)
 
 - [x] IHF Handball World Championship (men/women) ajoute via `ihf_handball_world_championship_history` (commit `959b7ac`, 2026-02-20)
 - [x] ICC Cricket World Cup (ODI men/women) ajoute via `icc_cricket_world_cup_history` (commits `eda104c` et `3376ab8`, 2026-02-20 -> 2026-02-21)
@@ -32,6 +32,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] Formula 1 World Championship (classements finaux top 10 pilotes + constructeurs, post-2000) ajoute via `formula1_world_championship_history` (2026-03-21)
 - [x] Formula E World Championship (classements finaux top 10 pilotes + equipes, post-2000) ajoute via `formulae_world_championship_history` (2026-03-21)
 - [x] FIH Hockey World Cup (men/women, top 4 par edition, post-2000) ajoute via `fih_hockey_world_cup_history` (2026-03-22)
+- [x] Thomas Cup + Uber Cup (badminton equipes nationales, top 4 avec bronze partage, post-2000) ajoute via `bwf_thomas_uber_cup_history` (2026-03-22)
 
 ### Competitions mondiales
 
@@ -71,9 +72,8 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] Formula E World Championship (`formulae_world_championship_history`)
 - [x] FIH Hockey World Cup (men) (`fih_hockey_world_cup_history`)
 - [x] FIH Hockey World Cup (women) (`fih_hockey_world_cup_history`)
-- [ ] BWF Sudirman Cup (equipes nationales mixtes)
-- [ ] Thomas Cup (badminton, equipes nationales hommes)
-- [ ] Uber Cup (badminton, equipes nationales femmes)
+- [x] Thomas Cup (badminton, equipes nationales hommes) (`bwf_thomas_uber_cup_history`)
+- [x] Uber Cup (badminton, equipes nationales femmes) (`bwf_thomas_uber_cup_history`)
 - [ ] World Rowing Championships
 - [ ] ICF Canoe Sprint World Championships
 - [ ] ICF Canoe Slalom World Championships

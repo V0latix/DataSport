@@ -1,0 +1,13 @@
+country_id,iso2,iso3,name_en,name_fr
+IDN,ID,IDN,Indonesia,
+MYS,MY,MYS,Malaysia,
+CHN,CN,CHN,China,
+DNK,DK,DNK,Denmark,
+KOR,KR,KOR,"Korea, Republic of",
+JPN,JP,JPN,Japan,
+IND,IN,IND,India,
+TPE,,TPE,Chinese Taipei,
+HKG,HK,HKG,Hong Kong,
+NLD,NL,NLD,Netherlands,
+DEU,DE,DEU,Germany,
+THA,TH,THA,Thailand,

@@ -1,0 +1,3 @@
+competition_id,sport_id,name,season_year,level,start_date,end_date,source_id
+bwf_thomas_cup,badminton,BWF Thomas Cup,,national_team_tournament,2002-12-31,2024-12-31,bwf_thomas_uber_cup_history
+bwf_uber_cup,badminton,BWF Uber Cup,,national_team_tournament,2002-12-31,2024-12-31,bwf_thomas_uber_cup_history

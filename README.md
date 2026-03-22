@@ -510,6 +510,33 @@ Comportement:
   - singles: `athlete_<nom>_<country_code>`
   - doubles: `pair_<nom1_nom2>_<country_code>`
 
+### 8k2) Ingest BWF Thomas Cup + Uber Cup (historique, equipes nationales, top 4)
+
+```bash
+python -m pipelines.ingest --connector bwf_thomas_uber_cup_history --year 2026
+```
+
+Comportement:
+- ingere le seed local:
+  - `data/raw/badminton/thomas_uber_cup_top4_seed.csv`
+  - seed reproductible via: `data/raw/badminton/build_thomas_uber_cup_seed.py`
+- cree 2 competitions:
+  - `bwf_thomas_cup`
+  - `bwf_uber_cup`
+- cree un event par edition:
+  - `bwf_thomas_cup_<YYYY>`
+  - `bwf_uber_cup_<YYYY>`
+- stocke un top 4 avec bronze partage:
+  - profil attendu `1,2,3,3`
+- sport/discipline:
+  - sport `badminton`
+  - discipline `badminton-team` (format equipes nationales)
+- `participant_id`:
+  - code pays (`country_id`)
+- couverture observee avec la source actuelle:
+  - `2002` -> `2024` (scope strict `year > 2000`)
+  - edition `2026` ignoree tant que les finalistes/demi-finalistes ne sont pas complets
+
 ### 8l) Ingest ITTF World Table Tennis Championships (historique, 7 disciplines, top 4/podium)
 
 ```bash

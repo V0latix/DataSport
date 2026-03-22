@@ -21,7 +21,8 @@ def main() -> None:
         required=True,
         help=(
             "wikidata | football_data | balldontlie_nba | fiba_ranking_history | "
-            "bwf_world_championships_history | ittf_world_table_tennis_championships_history | "
+            "bwf_world_championships_history | bwf_thomas_uber_cup_history | "
+            "ittf_world_table_tennis_championships_history | "
             "fiba_basketball_world_cup_history | fivb_volleyball_world_championship_history | "
             "fih_hockey_world_cup_history | "
             "formulae_world_championship_history | "
