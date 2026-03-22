@@ -1,0 +1,12 @@
+country_id,iso2,iso3,name_en,name_fr
+DEU,DE,DEU,Germany,
+AUS,AU,AUS,Australia,
+NLD,NL,NLD,Netherlands,
+KOR,KR,KOR,"Korea, Republic of",
+ESP,ES,ESP,Spain,
+ENG,,ENG,England,
+ARG,AR,ARG,Argentina,
+BEL,BE,BEL,Belgium,
+CHN,CN,CHN,China,
+USA,US,USA,United States,
+IRL,IE,IRL,Ireland,

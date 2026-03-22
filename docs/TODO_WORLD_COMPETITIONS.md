@@ -31,6 +31,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] World Wrestling Championships (freestyle + greco-romaine, podium par categorie de poids, post-2000) ajoute via `world_wrestling_championships_history` (2026-03-20)
 - [x] Formula 1 World Championship (classements finaux top 10 pilotes + constructeurs, post-2000) ajoute via `formula1_world_championship_history` (2026-03-21)
 - [x] Formula E World Championship (classements finaux top 10 pilotes + equipes, post-2000) ajoute via `formulae_world_championship_history` (2026-03-21)
+- [x] FIH Hockey World Cup (men/women, top 4 par edition, post-2000) ajoute via `fih_hockey_world_cup_history` (2026-03-22)
 
 ### Competitions mondiales
 
@@ -68,8 +69,8 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] World Wrestling Championships (`world_wrestling_championships_history`)
 - [x] Formula 1 World Championship (pilotes + constructeurs) (`formula1_world_championship_history`)
 - [x] Formula E World Championship (`formulae_world_championship_history`)
-- [ ] FIH Hockey World Cup (men)
-- [ ] FIH Hockey World Cup (women)
+- [x] FIH Hockey World Cup (men) (`fih_hockey_world_cup_history`)
+- [x] FIH Hockey World Cup (women) (`fih_hockey_world_cup_history`)
 - [ ] BWF Sudirman Cup (equipes nationales mixtes)
 - [ ] Thomas Cup (badminton, equipes nationales hommes)
 - [ ] Uber Cup (badminton, equipes nationales femmes)
@@ -104,7 +105,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 
 ### Sports deja presents dans `sports.csv` mais encore sans couverture competition dediee
 
-- [ ] hockey
+- [x] hockey (FIH World Cup integree via `fih_hockey_world_cup_history`)
 - [ ] rowing
 - [ ] canoe
 - [ ] fencing

@@ -713,6 +713,32 @@ Comportement:
   - annee courante exclue tant que la saison n'est pas complete (ex: `2026`)
   - note source historique: quand une table equipes ne liste pas explicitement les equipes a 0 point, le seed complete jusqu'au rang 10 avec les entrants de la saison (points `0`)
 
+### 8t) Ingest FIH Hockey World Cup (historique, top 4 men/women, post-2000)
+
+```bash
+python -m pipelines.ingest --connector fih_hockey_world_cup_history --year 2026
+```
+
+Comportement:
+- ingere le seed local:
+  - `data/raw/hockey/fih_hockey_world_cup_top4_seed.csv`
+  - seed reproductible via: `data/raw/hockey/build_fih_hockey_world_cup_seed.py`
+- cree 2 competitions:
+  - `fih_hockey_world_cup_men`
+  - `fih_hockey_world_cup_women`
+- cree un event par edition:
+  - `fih_hockey_world_cup_men_<YYYY>`
+  - `fih_hockey_world_cup_women_<YYYY>`
+- stocke un top 4 strict par event:
+  - profil attendu `1,2,3,4`
+- sport/discipline:
+  - sport `hockey`
+  - discipline `hockey` (reutilisee, pas de doublon)
+- couverture observee avec la source actuelle:
+  - hommes: `2002`, `2006`, `2010`, `2014`, `2018`, `2023`
+  - femmes: `2002`, `2006`, `2010`, `2014`, `2018`, `2022`
+  - scope strict `year > 2000`
+
 ### 9) Ingest JO d'été Paris 2024 (connecteur dédié, optionnel)
 
 ```bash
