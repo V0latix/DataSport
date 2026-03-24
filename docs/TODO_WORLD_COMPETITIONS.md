@@ -33,6 +33,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] Formula E World Championship (classements finaux top 10 pilotes + equipes, post-2000) ajoute via `formulae_world_championship_history` (2026-03-21)
 - [x] FIH Hockey World Cup (men/women, top 4 par edition, post-2000) ajoute via `fih_hockey_world_cup_history` (2026-03-22)
 - [x] Thomas Cup + Uber Cup (badminton equipes nationales, top 4 avec bronze partage, post-2000) ajoute via `bwf_thomas_uber_cup_history` (2026-03-22)
+- [x] World Rowing Championships (podium par epreuve, post-2000; annees manquantes 2020-2021) ajoute via `world_rowing_championships_history` (2026-03-24)
 
 ### Competitions mondiales
 
@@ -74,7 +75,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] FIH Hockey World Cup (women) (`fih_hockey_world_cup_history`)
 - [x] Thomas Cup (badminton, equipes nationales hommes) (`bwf_thomas_uber_cup_history`)
 - [x] Uber Cup (badminton, equipes nationales femmes) (`bwf_thomas_uber_cup_history`)
-- [ ] World Rowing Championships
+- [x] World Rowing Championships (`world_rowing_championships_history`)
 - [ ] ICF Canoe Sprint World Championships
 - [ ] ICF Canoe Slalom World Championships
 - [ ] FIE World Championships (fencing, epee/foil/sabre)
@@ -106,7 +107,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 ### Sports deja presents dans `sports.csv` mais encore sans couverture competition dediee
 
 - [x] hockey (FIH World Cup integree via `fih_hockey_world_cup_history`)
-- [ ] rowing
+- [x] rowing (World Rowing Championships integre via `world_rowing_championships_history`)
 - [ ] canoe
 - [ ] fencing
 - [ ] taekwondo

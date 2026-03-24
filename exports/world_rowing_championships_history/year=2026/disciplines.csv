@@ -1,0 +1,31 @@
+discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
+rowing-adaptive-single-sculls,Adaptive single sculls,adaptive-single-sculls,rowing,1.0,connector_world_rowing_championships_history,2026-03-24T21:51:06+00:00
+rowing-as-single-sculls,AS single sculls,as-single-sculls,rowing,1.0,connector_world_rowing_championships_history,2026-03-24T21:51:06+00:00
+rowing-coxed-four,Coxed four,coxed-four,rowing,1.0,connector_world_rowing_championships_history,2026-03-24T21:51:06+00:00
+rowing-coxed-pair,Coxed pair,coxed-pair,rowing,1.0,connector_world_rowing_championships_history,2026-03-24T21:51:06+00:00
+rowing-coxless-four,Coxless four,coxless-four,rowing,1.0,connector_world_rowing_championships_history,2026-03-24T21:51:06+00:00
+rowing-coxless-pair,Coxless pair,coxless-pair,rowing,1.0,connector_world_rowing_championships_history,2026-03-24T21:51:06+00:00
+rowing-double-sculls,Double sculls,double-sculls,rowing,1.0,connector_world_rowing_championships_history,2026-03-24T21:51:06+00:00
+rowing-eight,Eight,eight,rowing,1.0,connector_world_rowing_championships_history,2026-03-24T21:51:06+00:00
+rowing-id-mixed-coxed-four,ID mixed coxed four,id-mixed-coxed-four,rowing,1.0,connector_world_rowing_championships_history,2026-03-24T21:51:06+00:00
+rowing-lightweight-coxless-four,Lightweight Coxless four,lightweight-coxless-four,rowing,1.0,connector_world_rowing_championships_history,2026-03-24T21:51:06+00:00
+rowing-lightweight-coxless-pair,Lightweight Coxless pair,lightweight-coxless-pair,rowing,1.0,connector_world_rowing_championships_history,2026-03-24T21:51:06+00:00
+rowing-lightweight-double-sculls,Lightweight Double sculls,lightweight-double-sculls,rowing,1.0,connector_world_rowing_championships_history,2026-03-24T21:51:06+00:00
+rowing-lightweight-eight,Lightweight Eight,lightweight-eight,rowing,1.0,connector_world_rowing_championships_history,2026-03-24T21:51:06+00:00
+rowing-lightweight-quadruple-sculls,Lightweight Quadruple sculls,lightweight-quadruple-sculls,rowing,1.0,connector_world_rowing_championships_history,2026-03-24T21:51:06+00:00
+rowing-lightweight-single-sculls,Lightweight Single sculls,lightweight-single-sculls,rowing,1.0,connector_world_rowing_championships_history,2026-03-24T21:51:06+00:00
+rowing-lta-coxed-four,LTA coxed four,lta-coxed-four,rowing,1.0,connector_world_rowing_championships_history,2026-03-24T21:51:06+00:00
+rowing-lta-mixed-coxed-four,LTA mixed coxed four,lta-mixed-coxed-four,rowing,1.0,connector_world_rowing_championships_history,2026-03-24T21:51:06+00:00
+rowing-lta-mixed-double-sculls,LTA mixed double sculls,lta-mixed-double-sculls,rowing,1.0,connector_world_rowing_championships_history,2026-03-24T21:51:06+00:00
+rowing-mixed-double-sculls,Mixed Double sculls,mixed-double-sculls,rowing,1.0,connector_world_rowing_championships_history,2026-03-24T21:51:06+00:00
+rowing-mixed-eight,Mixed Eight,mixed-eight,rowing,1.0,connector_world_rowing_championships_history,2026-03-24T21:51:06+00:00
+rowing-pr1-single-sculls,PR1 single sculls,pr1-single-sculls,rowing,1.0,connector_world_rowing_championships_history,2026-03-24T21:51:06+00:00
+rowing-pr2-mixed-double-sculls,PR2 mixed double sculls,pr2-mixed-double-sculls,rowing,1.0,connector_world_rowing_championships_history,2026-03-24T21:51:06+00:00
+rowing-pr2-single-sculls,PR2 single sculls,pr2-single-sculls,rowing,1.0,connector_world_rowing_championships_history,2026-03-24T21:51:06+00:00
+rowing-pr3-coxless-pair,PR3 coxless pair,pr3-coxless-pair,rowing,1.0,connector_world_rowing_championships_history,2026-03-24T21:51:06+00:00
+rowing-pr3-mixed-coxed-four,PR3 mixed coxed four,pr3-mixed-coxed-four,rowing,1.0,connector_world_rowing_championships_history,2026-03-24T21:51:06+00:00
+rowing-pr3-mixed-double-sculls,PR3 mixed double sculls,pr3-mixed-double-sculls,rowing,1.0,connector_world_rowing_championships_history,2026-03-24T21:51:06+00:00
+rowing-quadruple-sculls,Quadruple sculls,quadruple-sculls,rowing,1.0,connector_world_rowing_championships_history,2026-03-24T21:51:06+00:00
+rowing-single-sculls,Single sculls,single-sculls,rowing,1.0,connector_world_rowing_championships_history,2026-03-24T21:51:06+00:00
+rowing-ta-mixed-double-sculls,TA mixed double sculls,ta-mixed-double-sculls,rowing,1.0,connector_world_rowing_championships_history,2026-03-24T21:51:06+00:00
+rowing-ta-single-sculls,TA single sculls,ta-single-sculls,rowing,1.0,connector_world_rowing_championships_history,2026-03-24T21:51:06+00:00

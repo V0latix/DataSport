@@ -1,0 +1,2 @@
+competition_id,sport_id,name,season_year,level,start_date,end_date,source_id
+world_rowing_championships,rowing,World Rowing Championships,,international_championship,2001-12-31,2025-09-28,world_rowing_championships_history

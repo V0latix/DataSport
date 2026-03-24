@@ -689,7 +689,31 @@ Comportement:
 - couverture observee avec la source actuelle:
   - `2001` -> `2025` (scope strict `year > 2000`)
 
-### 8r) Ingest Formula 1 World Championship (classement final top 10 pilotes + constructeurs, post-2000)
+### 8r) Ingest World Rowing Championships (historique, podium par epreuve, post-2000)
+
+```bash
+python -m pipelines.ingest --connector world_rowing_championships_history --year 2026
+```
+
+Comportement:
+- ingere le seed local:
+  - `data/raw/rowing/world_rowing_championships_top3_seed.csv`
+  - seed reproductible via: `data/raw/rowing/build_world_rowing_championships_seed.py`
+- cree la competition:
+  - `world_rowing_championships`
+- cree un event par edition + code d'epreuve:
+  - `world_rowing_championships_<YYYY>_<discipline_key>`
+- stocke le podium par epreuve:
+  - profils attendus: `1`, `1,2`, `1,2,3`
+- sport/discipline:
+  - sport `rowing`
+  - disciplines rowing prefixees par format (`rowing-single-sculls`, `rowing-lightweight-single-sculls`, `rowing-pr1-single-sculls`, etc.)
+- couverture observee avec la source actuelle:
+  - `2001` -> `2025`
+  - annees manquantes detectees par le connecteur: `2020`, `2021`
+  - scope strict `year > 2000`
+
+### 8s) Ingest Formula 1 World Championship (classement final top 10 pilotes + constructeurs, post-2000)
 
 ```bash
 python -m pipelines.ingest --connector formula1_world_championship_history --year 2026
@@ -714,7 +738,7 @@ Comportement:
   - `2001` -> `2025`
   - annee courante exclue tant que la saison n'est pas complete (ex: `2026`)
 
-### 8s) Ingest Formula E Championship (classement final top 10 pilotes + equipes, post-2000)
+### 8t) Ingest Formula E Championship (classement final top 10 pilotes + equipes, post-2000)
 
 ```bash
 python -m pipelines.ingest --connector formulae_world_championship_history --year 2026
@@ -740,7 +764,7 @@ Comportement:
   - annee courante exclue tant que la saison n'est pas complete (ex: `2026`)
   - note source historique: quand une table equipes ne liste pas explicitement les equipes a 0 point, le seed complete jusqu'au rang 10 avec les entrants de la saison (points `0`)
 
-### 8t) Ingest FIH Hockey World Cup (historique, top 4 men/women, post-2000)
+### 8u) Ingest FIH Hockey World Cup (historique, top 4 men/women, post-2000)
 
 ```bash
 python -m pipelines.ingest --connector fih_hockey_world_cup_history --year 2026
