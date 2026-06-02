@@ -1,0 +1,3 @@
+competition_id,sport_id,name,season_year,level,start_date,end_date,source_id
+icf_canoe_sprint_world_championships,canoe,ICF Canoe Sprint World Championships,,international_championship,2001-12-31,2025-12-31,icf_canoe_world_championships_history
+icf_canoe_slalom_world_championships,canoe,ICF Canoe Slalom World Championships,,international_championship,2002-12-31,2025-12-31,icf_canoe_world_championships_history

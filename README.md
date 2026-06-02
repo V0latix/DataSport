@@ -713,6 +713,31 @@ Comportement:
   - annees manquantes detectees par le connecteur: `2020`, `2021`
   - scope strict `year > 2000`
 
+### 8r-b) Ingest ICF Canoe Sprint/Slalom World Championships (historique, podium par epreuve, post-2000)
+
+```bash
+python -m pipelines.ingest --connector icf_canoe_world_championships_history --year 2026
+```
+
+Comportement:
+- ingere le seed local:
+  - `data/raw/canoe/icf_canoe_world_championships_top3_seed.csv`
+  - seed reproductible via: `data/raw/canoe/build_icf_canoe_world_championships_seed.py`
+- cree 2 competitions:
+  - `icf_canoe_sprint_world_championships`
+  - `icf_canoe_slalom_world_championships`
+- cree un event par edition + discipline + genre + epreuve:
+  - `<competition_id>_<YYYY>_<sprint|slalom>_<gender>_<event_key>`
+- stocke le podium par epreuve:
+  - profils attendus: `1,2,3`, `1,2,3,3` et cas source rare `1,1,3` (double or sans argent)
+- sport/discipline:
+  - sport `canoe`
+  - disciplines `canoe-sprint` et `canoe-slalom`
+- couverture observee avec la source actuelle:
+  - sprint: `2001` -> `2025`
+  - slalom: `2002` -> `2025`
+  - Paracanoe exclu; scope strict `year > 2000`
+
 ### 8s) Ingest Formula 1 World Championship (classement final top 10 pilotes + constructeurs, post-2000)
 
 ```bash

@@ -34,6 +34,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] FIH Hockey World Cup (men/women, top 4 par edition, post-2000) ajoute via `fih_hockey_world_cup_history` (2026-03-22)
 - [x] Thomas Cup + Uber Cup (badminton equipes nationales, top 4 avec bronze partage, post-2000) ajoute via `bwf_thomas_uber_cup_history` (2026-03-22)
 - [x] World Rowing Championships (podium par epreuve, post-2000; annees manquantes 2020-2021) ajoute via `world_rowing_championships_history` (2026-03-24)
+- [x] ICF Canoe Sprint + Slalom World Championships (podium par epreuve, post-2000; Paracanoe exclu) ajoutes via `icf_canoe_world_championships_history` (2026-06-02)
 
 ### Competitions mondiales
 
@@ -76,8 +77,8 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] Thomas Cup (badminton, equipes nationales hommes) (`bwf_thomas_uber_cup_history`)
 - [x] Uber Cup (badminton, equipes nationales femmes) (`bwf_thomas_uber_cup_history`)
 - [x] World Rowing Championships (`world_rowing_championships_history`)
-- [ ] ICF Canoe Sprint World Championships
-- [ ] ICF Canoe Slalom World Championships
+- [x] ICF Canoe Sprint World Championships (`icf_canoe_world_championships_history`)
+- [x] ICF Canoe Slalom World Championships (`icf_canoe_world_championships_history`)
 - [ ] FIE World Championships (fencing, epee/foil/sabre)
 - [ ] World Taekwondo Championships
 - [ ] UCI Cyclo-cross World Championships
@@ -108,7 +109,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 
 - [x] hockey (FIH World Cup integree via `fih_hockey_world_cup_history`)
 - [x] rowing (World Rowing Championships integre via `world_rowing_championships_history`)
-- [ ] canoe
+- [x] canoe (ICF Canoe Sprint/Slalom World Championships integres via `icf_canoe_world_championships_history`)
 - [ ] fencing
 - [ ] taekwondo
 - [ ] sailing

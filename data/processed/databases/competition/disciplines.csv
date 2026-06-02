@@ -41,9 +41,9 @@ bobsleigh,Bobsleigh,bobsleigh,bobsleigh,0.95,connector_olympics_keith_history,20
 bobsleigh-bobsleigh,Bobsleigh (Bobsleigh),bobsleigh-bobsleigh,bobsleigh-bobsleigh,0.95,connector_olympics_keith_history,2026-02-25T00:05:53+00:00
 boxing,Boxing,boxing,boxing,0.95,connector_olympics_keith_history,2026-02-25T00:05:53+00:00
 breaking,Breaking,breaking,breaking,0.95,connector_olympics_keith_history,2026-02-25T00:05:53+00:00
-canoe-slalom,Canoe Slalom,canoe-slalom,canoe,0.95,connector_olympics_keith_history,2026-02-25T00:05:53+00:00
+canoe-slalom,Canoe Slalom,canoe-slalom,canoe,1.0,connector_icf_canoe_world_championships_history,2026-06-02T18:39:39+00:00
 canoe-slalom-canoeing,Canoe Slalom (Canoeing),canoe-slalom-canoeing,canoe,0.95,connector_olympics_keith_history,2026-02-25T00:05:53+00:00
-canoe-sprint,Canoe Sprint,canoe-sprint,canoe,0.95,connector_olympics_keith_history,2026-02-25T00:05:53+00:00
+canoe-sprint,Canoe Sprint,canoe-sprint,canoe,1.0,connector_icf_canoe_world_championships_history,2026-06-02T18:39:39+00:00
 canoe-sprint-canoeing,Canoe Sprint (Canoeing),canoe-sprint-canoeing,canoe,0.95,connector_olympics_keith_history,2026-02-25T00:05:53+00:00
 curling,Curling,curling,curling,0.95,connector_olympics_keith_history,2026-02-25T00:05:53+00:00
 cycling-bmx-freestyle,Cycling BMX Freestyle,cycling-bmx-freestyle,cycling,0.95,connector_olympics_keith_history,2026-02-25T00:05:53+00:00

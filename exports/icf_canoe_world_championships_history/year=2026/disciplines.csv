@@ -1,0 +1,3 @@
+discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
+canoe-sprint,Canoe Sprint,canoe-sprint,canoe,1.0,connector_icf_canoe_world_championships_history,2026-06-02T18:39:39+00:00
+canoe-slalom,Canoe Slalom,canoe-slalom,canoe,1.0,connector_icf_canoe_world_championships_history,2026-06-02T18:39:39+00:00
