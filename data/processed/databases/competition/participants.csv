@@ -32,7 +32,7 @@ AUT,team,Austria,AUT
 POL,team,Poland,POL
 TCH,team,Czechoslovakia,TCH
 HUN,team,Hungary,HUN
-KOR,team,South Korea,KOR
+KOR,team,"Korea, Republic of",KOR
 MAR,team,Morocco,MAR
 URS,team,Soviet Union,URS
 BGR,team,Bulgaria,BGR
@@ -13979,7 +13979,7 @@ PNG,team,Papua New Guinea,PNG
 NZM,team,New Zealand Maori,NZM
 PAC,team,Pacific Islands,PAC
 NIC,team,Nicaragua,NIC
-VEN,team,Venezuela,VEN
+VEN,team,"Venezuela, Bolivarian Republic of",VEN
 PAN,team,Panama,PAN
 TPE,team,Chinese Taipei,TPE
 IDN,team,Indonesia,IDN
@@ -19796,3 +19796,114 @@ team_Paulina_Paszek__Pauline_Jagsch_DEU,team,Paulina Paszek / Pauline Jagsch,DEU
 team_Sara_Ouzande__Lucía_Val__Estefanía_Fernández__Bárbara_Pardo_ESP,team,Sara Ouzande / Lucía Val / Estefanía Fernández / Bárbara Pardo,ESP
 team_Li_Dongyin__Yu_Shimeng__Wang_Nan__Wang_Ji_CHN,team,Li Dongyin / Yu Shimeng / Wang Nan / Wang Ji,CHN
 team_Marharyta_Tkachova__Uladzislava_Skryhanava__Ina_Sauchuk__Nadzeya_Kushner_AIN,team,Marharyta Tkachova / Uladzislava Skryhanava / Ina Sauchuk / Nadzeya Kushner,AIN
+athlete_Basil_Hoffmann_CHE,athlete,Basil Hoffmann,CHE
+athlete_Oliver_Lücke_DEU,athlete,Oliver Lücke,DEU
+athlete_Loïc_Attely_FRA,athlete,Loïc Attely,FRA
+athlete_Franck_Boidin_FRA,athlete,Franck Boidin,FRA
+athlete_Mathieu_Gourdain_FRA,athlete,Mathieu Gourdain,FRA
+athlete_Rafal_Sznajder_POL,athlete,Rafal Sznajder,POL
+athlete_Claudia_Bokel_DEU,athlete,Claudia Bokel,DEU
+athlete_Gianna_Hablützel-Bürki_CHE,athlete,Gianna Hablützel-Bürki,CHE
+athlete_Maria_Isaksson_SWE,athlete,Maria Isaksson,SWE
+athlete_Sabine_Bau_DEU,athlete,Sabine Bau,DEU
+athlete_Roxana_Scarlat_ROU,athlete,Roxana Scarlat,ROU
+athlete_Ekaterina_Youcheva_RUS,athlete,Ekaterina Youcheva,RUS
+athlete_Anne-Lise_Touya_FRA,athlete,Anne-Lise Touya,FRA
+athlete_Ilaria_Bianco_ITA,athlete,Ilaria Bianco,ITA
+athlete_Yelena_Jemayeva_AZE,athlete,Yelena Jemayeva,AZE
+athlete_Gioia_Marzocca_ITA,athlete,Gioia Marzocca,ITA
+athlete_Vitaly_Zakharov_BLR,athlete,Vitaly Zakharov,BLR
+athlete_Ku_Kyo-dong_KOR,athlete,Ku Kyo-dong,KOR
+athlete_Andre_Wessels_DEU,athlete,Andre Wessels,DEU
+athlete_Piotr_Kielpikowski_POL,athlete,Piotr Kielpikowski,POL
+athlete_Hyun_Hee_KOR,athlete,Hyun Hee,KOR
+athlete_Imke_Duplitzer_DEU,athlete,Imke Duplitzer,DEU
+athlete_Britta_Heidemann_DEU,athlete,Britta Heidemann,DEU
+athlete_Yekaterina_Yusheva_RUS,athlete,Yekaterina Yusheva,RUS
+athlete_Aida_Mohamed_HUN,athlete,Aida Mohamed,HUN
+athlete_Edina_Knapek_HUN,athlete,Edina Knapek,HUN
+athlete_Cécile_Argiolas_FRA,athlete,Cécile Argiolas,FRA
+athlete_Yelena_Nechayeva_RUS,athlete,Yelena Nechayeva,RUS
+athlete_Natalia_Konrad_UKR,athlete,Natalia Konrad,UKR
+athlete_Christiana_Cascioli_ITA,athlete,Christiana Cascioli,ITA
+athlete_Dorina_Mihai_ROU,athlete,Dorina Mihai,ROU
+athlete_Aleksandra_Socha_POL,athlete,Aleksandra Socha,POL
+athlete_Joaquim_Videira_PRT,athlete,Joaquim Videira,PRT
+athlete_Igor_Tikhomirov_CAN,athlete,Igor Tikhomirov,CAN
+athlete_Sven_Järve_EST,athlete,Sven Järve,EST
+athlete_Peter_Joppich_DEU,athlete,Peter Joppich,DEU
+athlete_Stefano_Barrera_ITA,athlete,Stefano Barrera,ITA
+athlete_Won_Woo-young_KOR,athlete,Won Woo-young,KOR
+athlete_Emese_Szász_HUN,athlete,Emese Szász,HUN
+athlete_Rebecca_Ward_USA,athlete,Rebecca Ward,USA
+athlete_Kim_Hye-lim_KOR,athlete,Kim Hye-lim,KOR
+athlete_Érik_Boisse_FRA,athlete,Érik Boisse,FRA
+athlete_Benjamin_Kleibrink_DEU,athlete,Benjamin Kleibrink,DEU
+athlete_Nicolas_Limbach_DEU,athlete,Nicolas Limbach,DEU
+athlete_Bogna_Jówiak_POL,athlete,Bogna Jóźwiak,POL
+athlete_Nikolai_Novosjolov_EST,athlete,Nikolai Novosjolov,EST
+athlete_Richard_Schmidt_DEU,athlete,Richard Schmidt,DEU
+athlete_Dmitry_Zherebchenko_RUS,athlete,Dmitry Zherebchenko,RUS
+athlete_Toshiya_Saito_JPN,athlete,Toshiya Saito,JPN
+athlete_Takahiro_Shikine_JPN,athlete,Takahiro Shikine,JPN
+athlete_András_Szatmári_HUN,athlete,András Szatmári,HUN
+athlete_Vincent_Anstett_FRA,athlete,Vincent Anstett,FRA
+athlete_Kamil_Ibragimov_RUS,athlete,Kamil Ibragimov,RUS
+athlete_Tatyana_Gudkova_RUS,athlete,Tatyana Gudkova,RUS
+athlete_Ewa_Nelip_POL,athlete,Ewa Nelip,POL
+athlete_Olena_Kryvytska_UKR,athlete,Olena Kryvytska,UKR
+athlete_Azza_Besbes_TUN,athlete,Azza Besbes,TUN
+athlete_Irene_Vecchi_ITA,athlete,Irene Vecchi,ITA
+athlete_Bohdan_Nikishyn_UKR,athlete,Bohdan Nikishyn,UKR
+athlete_Roman_Svichkar_UKR,athlete,Roman Svichkar,UKR
+athlete_Alessio_Foconi_ITA,athlete,Alessio Foconi,ITA
+athlete_Richard_Kruse_GBR,athlete,Richard Kruse,GBR
+athlete_Carlos_Llavador_ESP,athlete,Carlos Llavador,ESP
+athlete_Heo_Jun_KOR,athlete,Heo Jun,KOR
+athlete_Kim_Jung-hwan_KOR,athlete,Kim Jung-hwan,KOR
+athlete_Eli_Dershwitz_USA,athlete,Eli Dershwitz,USA
+athlete_Laura_Staehli_CHE,athlete,Laura Staehli,CHE
+athlete_Sofia_Pozdniakova_RUS,athlete,Sofia Pozdniakova,RUS
+athlete_Yana_Egorian_RUS,athlete,Yana Egorian,RUS
+athlete_Anne-Elizabeth_Stone_USA,athlete,Anne-Elizabeth Stone,USA
+athlete_Sergey_Bida_RUS,athlete,Sergey Bida,RUS
+athlete_Marcus_Mepstead_GBR,athlete,Marcus Mepstead,GBR
+athlete_Son_Young-ki_KOR,athlete,Son Young-ki,KOR
+athlete_Mojtaba_Abedini_IRN,athlete,Mojtaba Abedini,IRN
+athlete_Nathalie_Moellhausen_BRA,athlete,Nathalie Moellhausen,BRA
+athlete_Lin_Sheng_CHN,athlete,Lin Sheng,CHN
+athlete_Vivian_Kong_HKG,athlete,Vivian Kong,HKG
+athlete_Theodora_Goudoura_GRC,athlete,Theodora Goudoura,GRC
+athlete_Bianca_Pascu_ROU,athlete,Bianca Pascu,ROU
+athlete_Neisser_Loyola_BEL,athlete,Neisser Loyola,BEL
+athlete_Tommaso_Marini_ITA,athlete,Tommaso Marini,ITA
+athlete_Maxime_Pianfetti_FRA,athlete,Maxime Pianfetti,FRA
+athlete_Sandro_Bazadze_GEO,athlete,Sandro Bazadze,GEO
+athlete_Iulian_Teodosiu_ROU,athlete,Iulian Teodosiu,ROU
+athlete_Alexandra_Ndolo_DEU,athlete,Alexandra Ndolo,DEU
+athlete_Maria_Boldor_ROU,athlete,Maria Boldor,ROU
+athlete_Misaki_Emura_JPN,athlete,Misaki Emura,JPN
+athlete_Anna_Bashta_AZE,athlete,Anna Bashta,AZE
+athlete_Araceli_Navarro_ESP,athlete,Araceli Navarro,ESP
+athlete_Despina_Georgiadou_GRC,athlete,Despina Georgiadou,GRC
+athlete_Máté_Tamás_Koch_HUN,athlete,Máté Tamás Koch,HUN
+athlete_Davide_Di_Veroli_ITA,athlete,Davide Di Veroli,ITA
+athlete_Ruslan_Kurbanov_KAZ,athlete,Ruslan Kurbanov,KAZ
+athlete_Kyosuke_Matsuyama_JPN,athlete,Kyosuke Matsuyama,JPN
+athlete_Ziad_El-Sissy_EGY,athlete,Ziad El-Sissy,EGY
+athlete_Marie-Florence_Candassamy_FRA,athlete,Marie-Florence Candassamy,FRA
+athlete_Alberta_Santuccio_ITA,athlete,Alberta Santuccio,ITA
+athlete_Martina_Favaretto_ITA,athlete,Martina Favaretto,ITA
+athlete_Yoana_Ilieva_BGR,athlete,Yoana Ilieva,BGR
+athlete_Theodora_Gkountoura_GRC,athlete,Theodora Gkountoura,GRC
+athlete_Nikita_Koshman_UKR,athlete,Nikita Koshman,UKR
+athlete_Ryan_Choi_HKG,athlete,Ryan Choi,HKG
+athlete_Kirill_Borodachev_AIN,athlete,Kirill Borodachev,AIN
+athlete_Gerg_Szemes_HUN,athlete,Gergő Szemes,HUN
+athlete_Jean-Philippe_Patrice_FRA,athlete,Jean-Philippe Patrice,FRA
+athlete_Ahmed_Hesham_EGY,athlete,Ahmed Hesham,EGY
+athlete_Vlada_Kharkova_UKR,athlete,Vlada Kharkova,UKR
+athlete_Anna_Cristino_ITA,athlete,Anna Cristino,ITA
+athlete_Yana_Egorian_AIN,athlete,Yana Egorian,AIN
+athlete_Zuzanna_Cielar_POL,athlete,Zuzanna Cieślar,POL
+athlete_Pan_Qimiao_CHN,athlete,Pan Qimiao,CHN

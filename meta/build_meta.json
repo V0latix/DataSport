@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-06-03T14:24:35+00:00",
-  "git_hash": "dd06899",
+  "generated_at_utc": "2026-06-03T14:39:08+00:00",
+  "git_hash": "9e976e3",
   "db_path": "/Users/romain/dev/DataSport/data/processed/sports_nations.db",
   "row_counts": {
     "countries": 319,
     "sports": 90,
     "disciplines": 278,
-    "competitions": 75,
-    "events": 9719,
-    "participants": 19797,
-    "results": 41044,
-    "sources": 37,
-    "raw_imports": 150,
+    "competitions": 76,
+    "events": 9898,
+    "participants": 19908,
+    "results": 41644,
+    "sources": 38,
+    "raw_imports": 151,
     "sport_federations": 3
   },
   "pipeline": "ingest",
-  "connector": "fih_world_ranking_history",
-  "year": 2025,
+  "connector": "fie_world_championships_history",
+  "year": 2026,
   "status": "success",
   "validation_passed": true
 }

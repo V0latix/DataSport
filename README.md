@@ -738,6 +738,31 @@ Comportement:
   - slalom: `2002` -> `2025`
   - Paracanoe exclu; scope strict `year > 2000`
 
+### 8r-c) Ingest FIE World Championships (historique, epee/foil/sabre, post-2000)
+
+```bash
+python -m pipelines.ingest --connector fie_world_championships_history --year 2026
+```
+
+Comportement:
+- ingere le seed local:
+  - `data/raw/fencing/fie_world_championships_top3_seed.csv`
+  - seed reproductible via: `data/raw/fencing/build_fie_world_championships_seed.py`
+- cree la competition:
+  - `fie_world_championships`
+- cree un event par edition + genre + arme + format:
+  - `fie_world_championships_<YYYY>_<gender>_<individual|team>_<epee|foil|sabre>`
+- stocke le podium par epreuve:
+  - individuel: profil attendu `1,2,3,3` (double bronze)
+  - equipe: profil attendu `1,2,3`
+- sport/discipline:
+  - sport `fencing`
+  - disciplines existantes reutilisees: `epee`, `foil`, `sabre`
+- couverture observee avec la source actuelle:
+  - `2001` -> `2025`
+  - annees sans edition retenue: `2020`, `2021`, `2024`, `2026`
+  - scope strict `year > 2000`
+
 ### 8s) Ingest Formula 1 World Championship (classement final top 10 pilotes + constructeurs, post-2000)
 
 ```bash

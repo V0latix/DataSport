@@ -7,6 +7,7 @@ from .fiba_basketball_world_cup_history_connector import FibaBasketballWorldCupH
 from .fiba_ranking_history_connector import FibaRankingHistoryConnector
 from .fih_hockey_world_cup_history_connector import FihHockeyWorldCupHistoryConnector
 from .fih_world_ranking_history_connector import FihWorldRankingHistoryConnector
+from .fie_world_championships_history_connector import FieWorldChampionshipsHistoryConnector
 from .formulae_world_championship_history_connector import FormulaEWorldChampionshipHistoryConnector
 from .formula1_world_championship_history_connector import Formula1WorldChampionshipHistoryConnector
 from .fivb_volleyball_world_championship_history_connector import FivbVolleyballWorldChampionshipHistoryConnector
@@ -55,6 +56,7 @@ CONNECTOR_REGISTRY = {
     "fiba_basketball_world_cup_history": FibaBasketballWorldCupHistoryConnector,
     "fih_hockey_world_cup_history": FihHockeyWorldCupHistoryConnector,
     "fih_world_ranking_history": FihWorldRankingHistoryConnector,
+    "fie_world_championships_history": FieWorldChampionshipsHistoryConnector,
     "formulae_world_championship_history": FormulaEWorldChampionshipHistoryConnector,
     "formula1_world_championship_history": Formula1WorldChampionshipHistoryConnector,
     "fivb_volleyball_world_championship_history": FivbVolleyballWorldChampionshipHistoryConnector,
