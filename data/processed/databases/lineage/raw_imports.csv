@@ -146,3 +146,6 @@ import_5c1bf74a3af4a5618b266eb79fa591ce280b6303,bwf_thomas_uber_cup_history,2026
 import_7dbb1d51b879d93d237f89547a04973ca43ea88f,world_rowing_championships_history,2026-03-24T21:51:08+00:00,/Users/romain/dev/DataSport/data/raw/world_rowing_championships_history/20260324T215106Z,success,
 import_1015b193b6d78d711d9073e2a7a8ce3ef6c10517,icf_canoe_world_championships_history,2026-06-02T17:29:41+00:00,/Users/romain/dev/DataSport/data/raw/icf_canoe_world_championships_history/20260602T172938Z,success,
 import_371c3187cc0a7d1728e3559ba694b46a0c6dbf5d,icf_canoe_world_championships_history,2026-06-02T18:39:43+00:00,/Users/romain/dev/DataSport/data/raw/icf_canoe_world_championships_history/20260602T183939Z,success,
+import_aa8bb3443eff819bba903d28caa7756fc22922c1,fih_world_ranking_history,2026-06-03T13:50:09+00:00,/Users/romain/dev/DataSport/data/raw/fih_world_ranking_history/20260603T135008Z,success,
+import_44914eda4c13c7dbd43eb54f16488c17695692fc,fih_world_ranking_history,2026-06-03T14:23:32+00:00,/Users/romain/dev/DataSport/data/raw/fih_world_ranking_history/20260603T142331Z,success,
+import_39e50f2a0c3aca1a8886202bc015808cef1e5b70,fih_world_ranking_history,2026-06-03T14:24:35+00:00,/Users/romain/dev/DataSport/data/raw/fih_world_ranking_history/20260603T142434Z,success,

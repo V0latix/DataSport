@@ -35,6 +35,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] Thomas Cup + Uber Cup (badminton equipes nationales, top 4 avec bronze partage, post-2000) ajoute via `bwf_thomas_uber_cup_history` (2026-03-22)
 - [x] World Rowing Championships (podium par epreuve, post-2000; annees manquantes 2020-2021) ajoute via `world_rowing_championships_history` (2026-03-24)
 - [x] ICF Canoe Sprint + Slalom World Championships (podium par epreuve, post-2000; Paracanoe exclu) ajoutes via `icf_canoe_world_championships_history` (2026-06-02)
+- [x] FIH World Ranking (men/women, top 10 annuel 2003-2025; 2003-2024 via archive officielle FIH, 2025 via pages d'equipe FIH) ajoute via `fih_world_ranking_history` (2026-06-03)
 
 ### Competitions mondiales
 
@@ -97,8 +98,8 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] ICC Men's Team Rankings (Test, ODI, T20I) (`icc_team_ranking_history`)
 - [x] ICC Women's Team Rankings (ODI, T20I) (`icc_team_ranking_history`)
 - [x] Top 10 UCI Nation Ranking (route, hommes, couverture actuelle 2015-2026; pas de ranking mondial nations route expose avant 2015 dans UCI DataRide)
-- [ ] FIH World Ranking (men)
-- [ ] FIH World Ranking (women)
+- [x] FIH World Ranking (men, top 10 2003-2025; 2025 derive des points avant premier match 2026 sur pages d'equipe FIH) (`fih_world_ranking_history`)
+- [x] FIH World Ranking (women, top 10 2003-2025; 2025 derive des points avant premier match 2026 sur pages d'equipe FIH) (`fih_world_ranking_history`)
 - [ ] UCI Track Nation Ranking (si expose par UCI DataRide)
 - [ ] Top 10 ATP ranking / WTA ranking (joueurs -> agreger par nation)
 - [ ] Top 10 BWF ranking / ITTF ranking (joueurs -> agreger par nation)

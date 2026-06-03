@@ -72,3 +72,5 @@ bwf_uber_cup,badminton,BWF Uber Cup,,national_team_tournament,2002-12-31,2024-12
 world_rowing_championships,rowing,World Rowing Championships,,international_championship,2001-12-31,2025-09-28,world_rowing_championships_history
 icf_canoe_sprint_world_championships,canoe,ICF Canoe Sprint World Championships,,international_championship,2001-12-31,2025-12-31,icf_canoe_world_championships_history
 icf_canoe_slalom_world_championships,canoe,ICF Canoe Slalom World Championships,,international_championship,2002-12-31,2025-12-31,icf_canoe_world_championships_history
+fih_men_world_ranking,hockey,FIH Men's World Ranking,,national_team_ranking,2003-12-31,2025-12-31,fih_world_ranking_history
+fih_women_world_ranking,hockey,FIH Women's World Ranking,,national_team_ranking,2003-12-31,2025-12-31,fih_world_ranking_history

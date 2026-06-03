@@ -228,6 +228,7 @@ python -m pipelines.init_databases
   - `icc_men_t20i_team_ranking_YY`
   - `icc_women_odi_team_ranking_YY`
   - `icc_women_t20i_team_ranking_YY`
+
 - disciplines:
   - `cricket-test` (men test)
   - `cricket-odi` (men/women ODI)
@@ -245,6 +246,24 @@ python -m pipelines.init_databases
   - `t20w`: 2018-...
 - attention: pour certaines années, l'API fournit moins de 10 équipes (ex. ancien Test / Women ODI), conserver ce volume tel quel
 - seed local fallback/cache: `data/raw/cricket/icc_team_rankings_history_seed.csv`
+
+## 8f) Cas FIH World Ranking (historique)
+
+- connecteur: `fih_world_ranking_history`
+- compétitions:
+  - `fih_men_world_ranking`
+  - `fih_women_world_ranking`
+- `event_id` annuel:
+  - `fih_men_world_ranking_YYYY`
+  - `fih_women_world_ranking_YYYY`
+- discipline: `hockey`
+- `participant_id` = code pays/équipe nationale (`ENG`, `KOR`, `TPE` conservés si non ISO strict)
+- `results`: top 10 annuel pour chaque genre
+- source officielle:
+  - 2003-2024: archive FIH Outdoor World Rankings, ZIP `rankings-archive-2003-2024.zip`
+  - 2025: pages d'équipe FIH, snapshot reconstruit avec `points_before` du premier match 2026
+- seed local: `data/raw/hockey/fih_world_rankings_top10_seed.csv`
+- builder: `data/raw/hockey/build_fih_world_ranking_seed.py`
 
 ## 9) Cas Coupe du Monde FIFA (historique)
 

@@ -24,7 +24,7 @@ def main() -> None:
             "bwf_world_championships_history | bwf_thomas_uber_cup_history | "
             "ittf_world_table_tennis_championships_history | "
             "fiba_basketball_world_cup_history | fivb_volleyball_world_championship_history | "
-            "fih_hockey_world_cup_history | "
+            "fih_hockey_world_cup_history | fih_world_ranking_history | "
             "formulae_world_championship_history | "
             "formula1_world_championship_history | "
             "fifa_ranking_history | fifa_women_ranking_history | "
