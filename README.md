@@ -763,6 +763,34 @@ Comportement:
   - annees sans edition retenue: `2020`, `2021`, `2024`, `2026`
   - scope strict `year > 2000`
 
+### 8r-d) Ingest World Taekwondo Championships (historique, podium par categorie, post-2000)
+
+```bash
+python -m pipelines.ingest --connector world_taekwondo_championships_history --year 2026
+```
+
+Comportement:
+- ingere le seed local:
+  - `data/raw/taekwondo/world_taekwondo_championships_top4_seed.csv`
+  - seed reproductible via: `data/raw/taekwondo/build_world_taekwondo_championships_seed.py`
+- cree la competition:
+  - `world_taekwondo_championships`
+- cree un event par edition + genre + categorie:
+  - `world_taekwondo_championships_<YYYY>_<gender>_<weight_class>`
+- stocke le podium par categorie:
+  - profil attendu standard: `1,2,3,3`
+  - profil officiel simple bronze accepte: `1,2,3`
+  - events officiels exclus si la page source publie un profil non standard ou le meme athlete plusieurs fois dans le meme event
+- sport/discipline:
+  - sport `taekwondo`
+  - discipline existante reutilisee: `taekwondo`
+- couverture observee avec la source actuelle:
+  - `2001` -> `2025`
+  - annees sans edition senior retenue: `2020`, `2021`, `2024`, `2026`
+  - events retenus: `199`
+  - events exclus pour anomalie source: `2001 men feather`, `2003 women welter`, `2005 men bantam`, `2005 women bantam`, `2007 men heavy`, `2009 men light`, `2009 women middle`, `2011 women heavy`
+  - scope strict `year > 2000`
+
 ### 8s) Ingest Formula 1 World Championship (classement final top 10 pilotes + constructeurs, post-2000)
 
 ```bash

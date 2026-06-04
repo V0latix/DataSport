@@ -41,6 +41,7 @@ from .world_athletics_championships_history_connector import WorldAthleticsChamp
 from .world_aquatics_championships_history_connector import WorldAquaticsChampionshipsHistoryConnector
 from .world_judo_championships_history_connector import WorldJudoChampionshipsHistoryConnector
 from .world_rowing_championships_history_connector import WorldRowingChampionshipsHistoryConnector
+from .world_taekwondo_championships_history_connector import WorldTaekwondoChampionshipsHistoryConnector
 from .world_wrestling_championships_history_connector import WorldWrestlingChampionshipsHistoryConnector
 from .world_rugby_ranking_history_connector import WorldRugbyRankingHistoryConnector
 
@@ -80,6 +81,7 @@ CONNECTOR_REGISTRY = {
     "world_aquatics_championships_history": WorldAquaticsChampionshipsHistoryConnector,
     "world_judo_championships_history": WorldJudoChampionshipsHistoryConnector,
     "world_rowing_championships_history": WorldRowingChampionshipsHistoryConnector,
+    "world_taekwondo_championships_history": WorldTaekwondoChampionshipsHistoryConnector,
     "world_wrestling_championships_history": WorldWrestlingChampionshipsHistoryConnector,
     "paris_2024_summer_olympics": Paris2024SummerOlympicsConnector,
     "olympics_keith_history": OlympicsKeithHistoryConnector,

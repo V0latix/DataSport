@@ -150,3 +150,5 @@ import_aa8bb3443eff819bba903d28caa7756fc22922c1,fih_world_ranking_history,2026-0
 import_44914eda4c13c7dbd43eb54f16488c17695692fc,fih_world_ranking_history,2026-06-03T14:23:32+00:00,/Users/romain/dev/DataSport/data/raw/fih_world_ranking_history/20260603T142331Z,success,
 import_39e50f2a0c3aca1a8886202bc015808cef1e5b70,fih_world_ranking_history,2026-06-03T14:24:35+00:00,/Users/romain/dev/DataSport/data/raw/fih_world_ranking_history/20260603T142434Z,success,
 import_5f1aaa7c40306501bd4a1e53130b5519fcf09359,fie_world_championships_history,2026-06-03T14:39:08+00:00,/Users/romain/dev/DataSport/data/raw/fie_world_championships_history/20260603T143907Z,success,
+import_a01f1fc19562dc41992f499add119b14535516e1,world_taekwondo_championships_history,2026-06-04T07:09:20+00:00,/Users/romain/dev/DataSport/data/raw/world_taekwondo_championships_history/20260604T070918Z,success,
+import_0e914c44c97df69c0398d68f9fa495220d2d8f36,world_taekwondo_championships_history,2026-06-04T07:10:40+00:00,/Users/romain/dev/DataSport/data/raw/world_taekwondo_championships_history/20260604T071038Z,success,
