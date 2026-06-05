@@ -618,6 +618,31 @@ Comportement:
   - sport `cycling`
   - disciplines piste specialisees (pas de nouveau sport cree)
 
+### 8n-b) Ingest UCI Cyclo-cross World Championships (historique, elite H/F, post-2000)
+
+```bash
+python -m pipelines.ingest --connector uci_cyclocross_world_championships_history --year 2026
+```
+
+Comportement:
+- ingere le seed local:
+  - `data/raw/cycling/uci_cyclocross_world_championships_top3_seed.csv`
+  - seed reproductible via: `data/raw/cycling/build_uci_cyclocross_world_championships_seed.py`
+- cree la competition:
+  - `uci_cyclocross_world_championships`
+- cree un event par edition + genre elite:
+  - `uci_cyclocross_world_championships_<YYYY>_<men|women>_elite`
+- stocke le podium elite:
+  - profil attendu strict: `1,2,3`
+- sport/discipline:
+  - sport `cycling`
+  - discipline `cycling-cyclo-cross`
+- couverture observee avec la source actuelle:
+  - `2001` -> `2026`
+  - categories retenues: elite hommes et elite femmes
+  - categories exclues: U23 et juniors
+  - scope strict `year > 2000`
+
 ### 8o) Ingest UCI Road World Nation Ranking (historique, top 10 nations)
 
 ```bash

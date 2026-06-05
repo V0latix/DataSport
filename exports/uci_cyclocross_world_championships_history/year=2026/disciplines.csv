@@ -1,0 +1,2 @@
+discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
+cycling-cyclo-cross,Cyclo-cross,cyclo-cross,cycling,1.0,connector_uci_cyclocross_world_championships_history,2026-06-05T07:08:12+00:00

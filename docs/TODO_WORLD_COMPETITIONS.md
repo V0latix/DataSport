@@ -38,6 +38,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] FIH World Ranking (men/women, top 10 annuel 2003-2025; 2003-2024 via archive officielle FIH, 2025 via pages d'equipe FIH) ajoute via `fih_world_ranking_history` (2026-06-03)
 - [x] FIE World Championships (epee/foil/sabre, individuel + equipes H/F, podiums post-2000; annees sans edition retenue: 2020, 2021, 2024, 2026) ajoute via `fie_world_championships_history` (2026-06-03)
 - [x] World Taekwondo Championships (podium par categorie H/F, post-2000; 199 events retenus, anomalies source exclues) ajoute via `world_taekwondo_championships_history` (2026-06-04)
+- [x] UCI Cyclo-cross World Championships (elite H/F, podium top 3 post-2000, 2001-2026) ajoute via `uci_cyclocross_world_championships_history` (2026-06-05)
 
 ### Competitions mondiales
 
@@ -84,7 +85,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] ICF Canoe Slalom World Championships (`icf_canoe_world_championships_history`)
 - [x] FIE World Championships (fencing, epee/foil/sabre) (`fie_world_championships_history`)
 - [x] World Taekwondo Championships (`world_taekwondo_championships_history`)
-- [ ] UCI Cyclo-cross World Championships
+- [x] UCI Cyclo-cross World Championships (`uci_cyclocross_world_championships_history`)
 - [ ] UCI Mountain Bike World Championships
 - [ ] Sailing World Championships (selon classes)
 

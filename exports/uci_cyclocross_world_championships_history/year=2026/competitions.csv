@@ -1,0 +1,2 @@
+competition_id,sport_id,name,season_year,level,start_date,end_date,source_id
+uci_cyclocross_world_championships,cycling,UCI Cyclo-cross World Championships,,international_championship,2001-02-01,2026-02-01,uci_cyclocross_world_championships_history
