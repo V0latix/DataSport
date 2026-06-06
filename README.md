@@ -643,6 +643,34 @@ Comportement:
   - categories exclues: U23 et juniors
   - scope strict `year > 2000`
 
+### 8n-c) Ingest UCI Mountain Bike World Championships (historique, elite H/F, post-2000)
+
+```bash
+python -m pipelines.ingest --connector uci_mountain_bike_world_championships_history --year 2026
+```
+
+Comportement:
+- ingere le seed local:
+  - `data/raw/cycling/uci_mountain_bike_world_championships_top3_seed.csv`
+  - seed reproductible via: `data/raw/cycling/build_uci_mountain_bike_world_championships_seed.py`
+- cree la competition:
+  - `uci_mountain_bike_world_championships`
+- couvre les epreuves elite hommes/femmes:
+  - `xco` (cross-country)
+  - `downhill`
+- cree un event par edition + epreuve + genre elite:
+  - `uci_mountain_bike_world_championships_<YYYY>_<xco|downhill>_<men|women>_elite`
+- stocke un podium top 3 strict par event:
+  - profil attendu: `1,2,3`
+- sport/discipline:
+  - sport `cycling`
+  - disciplines `cycling-mountain-bike-cross-country` et `cycling-mountain-bike-downhill`
+- couverture observee avec la source actuelle:
+  - `2001` -> `2025`
+  - categories retenues: elite cross-country et downhill hommes/femmes
+  - categories exclues: U23, juniors, relais, trials, marathon, eliminator, e-MTB et four-cross
+  - scope strict `year > 2000`
+
 ### 8o) Ingest UCI Road World Nation Ranking (historique, top 10 nations)
 
 ```bash
