@@ -1,0 +1,22 @@
+discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
+sailing-2-4-metre,2.4 Metre,2-4-metre,sailing,1.0,connector_world_sailing_championships_history,2026-06-07T07:07:58+00:00
+sailing-470,470,470,sailing,1.0,connector_world_sailing_championships_history,2026-06-07T07:07:58+00:00
+sailing-49er,49er,49er,sailing,1.0,connector_world_sailing_championships_history,2026-06-07T07:07:58+00:00
+sailing-49er-fx,49er FX,49er-fx,sailing,1.0,connector_world_sailing_championships_history,2026-06-07T07:07:58+00:00
+sailing-elliott-6m,Elliott 6m,elliott-6m,sailing,1.0,connector_world_sailing_championships_history,2026-06-07T07:07:58+00:00
+sailing-europe,Europe,europe,sailing,1.0,connector_world_sailing_championships_history,2026-06-07T07:07:58+00:00
+sailing-finn,Finn,finn,sailing,1.0,connector_world_sailing_championships_history,2026-06-07T07:07:58+00:00
+sailing-formula-kite,Formula Kite,formula-kite,sailing,1.0,connector_world_sailing_championships_history,2026-06-07T07:07:58+00:00
+sailing-hansa-303,Hansa 303,hansa-303,sailing,1.0,connector_world_sailing_championships_history,2026-06-07T07:07:58+00:00
+sailing-ilca-6,ILCA 6,ilca-6,sailing,1.0,connector_world_sailing_championships_history,2026-06-07T07:07:58+00:00
+sailing-ilca-7,ILCA 7,ilca-7,sailing,1.0,connector_world_sailing_championships_history,2026-06-07T07:07:58+00:00
+sailing-iqfoil,iQFoil,iqfoil,sailing,1.0,connector_world_sailing_championships_history,2026-06-07T07:07:58+00:00
+sailing-laser,Laser,laser,sailing,1.0,connector_world_sailing_championships_history,2026-06-07T07:07:58+00:00
+sailing-laser-radial,Laser Radial,laser-radial,sailing,1.0,connector_world_sailing_championships_history,2026-06-07T07:07:58+00:00
+sailing-mistral,Mistral,mistral,sailing,1.0,connector_world_sailing_championships_history,2026-06-07T07:07:58+00:00
+sailing-nacra-17,Nacra 17,nacra-17,sailing,1.0,connector_world_sailing_championships_history,2026-06-07T07:07:58+00:00
+sailing-rs-venture-connect,RS Venture Connect,rs-venture-connect,sailing,1.0,connector_world_sailing_championships_history,2026-06-07T07:07:58+00:00
+sailing-rsx,RS:X,rs-x,sailing,1.0,connector_world_sailing_championships_history,2026-06-07T07:07:58+00:00
+sailing-star,Star,star,sailing,1.0,connector_world_sailing_championships_history,2026-06-07T07:07:58+00:00
+sailing-tornado,Tornado,tornado,sailing,1.0,connector_world_sailing_championships_history,2026-06-07T07:07:58+00:00
+sailing-yngling,Yngling,yngling,sailing,1.0,connector_world_sailing_championships_history,2026-06-07T07:07:58+00:00

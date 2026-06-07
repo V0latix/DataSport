@@ -1,0 +1,2 @@
+competition_id,sport_id,name,season_year,level,start_date,end_date,source_id
+world_sailing_championships,sailing,Sailing World Championships,,international_championship,2003-12-31,2023-12-31,world_sailing_championships_history

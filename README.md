@@ -671,6 +671,35 @@ Comportement:
   - categories exclues: U23, juniors, relais, trials, marathon, eliminator, e-MTB et four-cross
   - scope strict `year > 2000`
 
+### 8n-d) Ingest Sailing World Championships (historique, podium par classe, post-2000)
+
+```bash
+python -m pipelines.ingest --connector world_sailing_championships_history --year 2026
+```
+
+Comportement:
+- ingere le seed local:
+  - `data/raw/sailing/world_sailing_championships_top3_seed.csv`
+  - seed reproductible via: `data/raw/sailing/build_world_sailing_championships_seed.py`
+- cree la competition:
+  - `world_sailing_championships`
+- couvre les editions combinees ISAF/Sailing World Championships:
+  - `2003`, `2007`, `2011`, `2014`, `2018`, `2023`
+- cree un event par edition + classe + genre:
+  - `world_sailing_championships_<YYYY>_<class_key>_<men|women|mixed>`
+- stocke un podium top 3 strict par event:
+  - profil attendu: `1,2,3`
+- sport/discipline:
+  - sport `sailing`
+  - disciplines par classe (`sailing-470`, `sailing-49er`, `sailing-ilca-7`, `sailing-iqfoil`, etc.)
+- participants:
+  - `type=team`, representant l'entree/equipage medaliste avec `country_id`
+- couverture observee avec la source actuelle:
+  - 68 events, 204 resultats
+  - 21 classes, dont les classes para sailing presentes en 2023
+  - championnats annuels isoles par classe exclus
+  - scope strict `year > 2000`
+
 ### 8o) Ingest UCI Road World Nation Ranking (historique, top 10 nations)
 
 ```bash

@@ -40,6 +40,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] World Taekwondo Championships (podium par categorie H/F, post-2000; 199 events retenus, anomalies source exclues) ajoute via `world_taekwondo_championships_history` (2026-06-04)
 - [x] UCI Cyclo-cross World Championships (elite H/F, podium top 3 post-2000, 2001-2026) ajoute via `uci_cyclocross_world_championships_history` (2026-06-05)
 - [x] UCI Mountain Bike World Championships (elite XCO + downhill H/F, podium top 3 post-2000, 2001-2025) ajoute via `uci_mountain_bike_world_championships_history` (2026-06-06)
+- [x] Sailing World Championships (editions combinees, podium par classe, post-2000, 2003-2023) ajoute via `world_sailing_championships_history` (2026-06-07)
 
 ### Competitions mondiales
 
@@ -88,7 +89,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] World Taekwondo Championships (`world_taekwondo_championships_history`)
 - [x] UCI Cyclo-cross World Championships (`uci_cyclocross_world_championships_history`)
 - [x] UCI Mountain Bike World Championships (`uci_mountain_bike_world_championships_history`)
-- [ ] Sailing World Championships (selon classes)
+- [x] Sailing World Championships (selon classes) (`world_sailing_championships_history`)
 
 
 ### Classements mondiaux (Top 10)
@@ -117,7 +118,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] canoe (ICF Canoe Sprint/Slalom World Championships integres via `icf_canoe_world_championships_history`)
 - [x] fencing (FIE World Championships integres via `fie_world_championships_history`)
 - [x] taekwondo (World Taekwondo Championships integres via `world_taekwondo_championships_history`)
-- [ ] sailing
+- [x] sailing (Sailing World Championships integres via `world_sailing_championships_history`)
 - [ ] archery
 - [ ] triathlon
 - [ ] equestrian
