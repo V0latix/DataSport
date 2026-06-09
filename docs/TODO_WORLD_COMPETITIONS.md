@@ -90,6 +90,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] UCI Cyclo-cross World Championships (`uci_cyclocross_world_championships_history`)
 - [x] UCI Mountain Bike World Championships (`uci_mountain_bike_world_championships_history`)
 - [x] Sailing World Championships (selon classes) (`world_sailing_championships_history`)
+- [ ] World Archery Championships
 
 
 ### Classements mondiaux (Top 10)
