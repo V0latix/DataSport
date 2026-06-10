@@ -700,6 +700,35 @@ Comportement:
   - championnats annuels isoles par classe exclus
   - scope strict `year > 2000`
 
+### 8n-e) Ingest World Archery Championships (historique, recurve + compound, post-2000)
+
+```bash
+python -m pipelines.ingest --connector world_archery_championships_history --year 2026
+```
+
+Comportement:
+- ingere le seed local:
+  - `data/raw/archery/world_archery_championships_top3_seed.csv`
+  - seed reproductible via: `data/raw/archery/build_world_archery_championships_seed.py`
+- cree la competition:
+  - `world_archery_championships`
+- couvre les editions outdoor:
+  - `2001` -> `2025`
+- couvre les disciplines:
+  - `archery-recurve`
+  - `archery-compound`
+- cree un event par edition + discipline + epreuve + genre:
+  - `world_archery_championships_<YYYY>_<recurve|compound>_<individual|team>_<men|women|mixed>`
+- stocke un podium top 3 strict par event:
+  - profil attendu: `1,2,3`
+- participants:
+  - `type=athlete` pour les epreuves individuelles
+  - `type=team` pour les epreuves par equipes et mixtes
+- notes source:
+  - `RAF` conserve l'entite source `Russian Archery Federation` en 2021
+  - championnats indoor, field, youth et para exclus
+  - scope strict `year > 2000`
+
 ### 8o) Ingest UCI Road World Nation Ranking (historique, top 10 nations)
 
 ```bash

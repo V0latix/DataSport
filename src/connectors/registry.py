@@ -41,6 +41,7 @@ from .wikidata_connector import WikidataConnector
 from .world_cup_history_connector import WorldCupHistoryConnector
 from .world_athletics_championships_history_connector import WorldAthleticsChampionshipsHistoryConnector
 from .world_aquatics_championships_history_connector import WorldAquaticsChampionshipsHistoryConnector
+from .world_archery_championships_history_connector import WorldArcheryChampionshipsHistoryConnector
 from .world_judo_championships_history_connector import WorldJudoChampionshipsHistoryConnector
 from .world_rowing_championships_history_connector import WorldRowingChampionshipsHistoryConnector
 from .world_sailing_championships_history_connector import WorldSailingChampionshipsHistoryConnector
@@ -84,6 +85,7 @@ CONNECTOR_REGISTRY = {
     "world_cup_history": WorldCupHistoryConnector,
     "world_athletics_championships_history": WorldAthleticsChampionshipsHistoryConnector,
     "world_aquatics_championships_history": WorldAquaticsChampionshipsHistoryConnector,
+    "world_archery_championships_history": WorldArcheryChampionshipsHistoryConnector,
     "world_judo_championships_history": WorldJudoChampionshipsHistoryConnector,
     "world_rowing_championships_history": WorldRowingChampionshipsHistoryConnector,
     "world_sailing_championships_history": WorldSailingChampionshipsHistoryConnector,

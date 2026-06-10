@@ -1,0 +1,324 @@
+participant_id,type,display_name,country_id
+archery_athlete_Dejan_Sitar_SVN,athlete,Dejan Sitar,SVN
+archery_athlete_Morgan_Lundin_SWE,athlete,Morgan Lundin,SWE
+archery_athlete_Morten_Bøe_NOR,athlete,Morten Bøe,NOR
+archery_athlete_Ulrika_Sjöwall_SWE,athlete,Ulrika Sjöwall,SWE
+archery_athlete_Bettina_Thiele_DEU,athlete,Bettina Thiele,DEU
+archery_athlete_Sirkka_Sokka-Matikainen_FIN,athlete,Sirkka Sokka-Matikainen,FIN
+archery_team_Morten_Bøe_Sigmund_Johansen_Kolbjoern_Flaa_NOR,team,Morten Bøe Sigmund Johansen Kolbjoern Flaa,NOR
+archery_team_Robert_Hesse_Stefan_Griem_Rainer_Voss_DEU,team,Robert Hesse Stefan Griem Rainer Voss,DEU
+archery_team_Chris_White_Michael_Peart_Jonathan_Mynott_GBR,team,Chris White Michael Peart Jonathan Mynott,GBR
+archery_team_Maggy_Masson_Catherine_Pellen_Valerie_Fabre_FRA,team,Maggy Masson Catherine Pellen Valerie Fabre,FRA
+archery_team_Stefania_Montagnoni_Assunta_Atorino_Francesca_Peracino_ITA,team,Stefania Montagnoni Assunta Atorino Francesca Peracino,ITA
+archery_team_Irma_Luyting_Marjon_Pigney_Olga_Zandvliet_NLD,team,Irma Luyting Marjon Pigney Olga Zandvliet,NLD
+archery_athlete_Yeon_Jung-ki_KOR,athlete,Yeon Jung-ki,KOR
+archery_athlete_Lionel_Torres_FRA,athlete,Lionel Torres,FRA
+archery_athlete_Park_Kyung-mo_KOR,athlete,Park Kyung-mo,KOR
+archery_athlete_Park_Sung-hyun_KOR,athlete,Park Sung-hyun,KOR
+archery_athlete_Kim_Kyung-wook_KOR,athlete,Kim Kyung-wook,KOR
+archery_athlete_Kateryna_Palekha_UKR,athlete,Kateryna Palekha,UKR
+archery_team_Yeon_Jung-ki_Lee_Chang-hwan_Park_Kyung-mo_KOR,team,Yeon Jung-ki Lee Chang-hwan Park Kyung-mo,KOR
+archery_team_Michele_Frangilli_Ilario_di_Buo_Matteo_Bisiani_ITA,team,Michele Frangilli Ilario di Buo Matteo Bisiani,ITA
+archery_team_Chen_Hongyuan_Sun_Jian_Yang_Bo_CHN,team,Chen Hongyuan Sun Jian Yang Bo,CHN
+archery_team_Zhang_Juanjuan_He_Ying_Yang_Jianping_CHN,team,Zhang Juanjuan He Ying Yang Jianping,CHN
+archery_team_Natalia_Valeeva_Irene_Franchini_Roberta_Allodi_ITA,team,Natalia Valeeva Irene Franchini Roberta Allodi,ITA
+archery_team_Choi_Nam-ok_Park_Sung-hyun_Kim_Kyung-wook_KOR,team,Choi Nam-ok Park Sung-hyun Kim Kyung-wook,KOR
+archery_athlete_Clint_Freeman_AUS,athlete,Clint Freeman,AUS
+archery_athlete_Dave_Cousins_USA,athlete,Dave Cousins,USA
+archery_athlete_Braden_Gellenthien_USA,athlete,Braden Gellenthien,USA
+archery_athlete_Mary_Zorn_USA,athlete,Mary Zorn,USA
+archery_athlete_Amber_Dawson_USA,athlete,Amber Dawson,USA
+archery_athlete_Irma_Luyting_NLD,athlete,Irma Luyting,NLD
+archery_team_Dave_Cousins_Braden_Gellenthien_Dee_Wilde_USA,team,Dave Cousins Braden Gellenthien Dee Wilde,USA
+archery_team_Fabio_Girardi_Antonio_Tosco_Mario_Ruele_ITA,team,Fabio Girardi Antonio Tosco Mario Ruele,ITA
+archery_team_Kevin_Tataryn_Ed_Wilson_Travis_Vandaele_CAN,team,Kevin Tataryn Ed Wilson Travis Vandaele,CAN
+archery_team_Mary_Zorn_Amber_Dawson_Aya_Labrie_USA,team,Mary Zorn Amber Dawson Aya Labrie,USA
+archery_team_Sandrine_Vandionant_Cecile_Jousselin_Valerie_Fabre_FRA,team,Sandrine Vandionant Cecile Jousselin Valerie Fabre,FRA
+archery_team_Petra_Dortmund_Andrea_Weihe_Dorith_Landesfeind_DEU,team,Petra Dortmund Andrea Weihe Dorith Landesfeind,DEU
+archery_athlete_Michele_Frangilli_ITA,athlete,Michele Frangilli,ITA
+archery_athlete_Im_Dong-hyun_KOR,athlete,Im Dong-hyun,KOR
+archery_athlete_David_Barnes_AUS,athlete,David Barnes,AUS
+archery_athlete_Yun_Mi-jin_KOR,athlete,Yun Mi-jin,KOR
+archery_athlete_Lee_Hyun-jeong_KOR,athlete,Lee Hyun-jeong,KOR
+archery_team_Jang_Yong-ho_Choi_Young-kwang_Im_Dong-hyun_KOR,team,Jang Yong-ho Choi Young-kwang Im Dong-hyun,KOR
+archery_team_Magnus_Petersson_Mattias_Eriksson_Mikael_Larsson_SWE,team,Magnus Petersson Mattias Eriksson Mikael Larsson,SWE
+archery_team_Marco_Galiazzo_Michele_Frangilli_Ilario_di_Buo_ITA,team,Marco Galiazzo Michele Frangilli Ilario di Buo,ITA
+archery_team_Park_Sung-hyun_Yun_Mi-jin_Lee_Hyun-jeong_KOR,team,Park Sung-hyun Yun Mi-jin Lee Hyun-jeong,KOR
+archery_team_Sayami_Matsushita_Sayoko_Kawauchi_Yukari_Kawasaki_JPN,team,Sayami Matsushita Sayoko Kawauchi Yukari Kawasaki,JPN
+archery_team_Nataliya_Burdeyna_Yulia_Lobzhenidze_Tetyana_Dorokhova_UKR,team,Nataliya Burdeyna Yulia Lobzhenidze Tetyana Dorokhova,UKR
+archery_athlete_Sofia_Goncharova_RUS,athlete,Sofia Goncharova,RUS
+archery_athlete_Arminda_Bastos_MEX,athlete,Arminda Bastos,MEX
+archery_athlete_Svetlana_Kondrashenko_RUS,athlete,Svetlana Kondrashenko,RUS
+archery_team_Dave_Cousins_Braden_Gellenthien_Kevin_Polish_USA,team,Dave Cousins Braden Gellenthien Kevin Polish,USA
+archery_team_Morten_Bøe_Odd_Martin_Mørk_Thomas_Stenvoll_Terje_Roestad_NOR,team,Morten Bøe Odd Martin Mørk Thomas Stenvoll Terje Roestad,NOR
+archery_team_Patrick_Coghlan_Clint_Freeman_Dennis_Carson_AUS,team,Patrick Coghlan Clint Freeman Dennis Carson,AUS
+archery_team_Anne-Marie_Bloch_Valerie_Fabre_Cecile_Jousselin_FRA,team,Anne-Marie Bloch Valerie Fabre Cecile Jousselin,FRA
+archery_team_Mary_Zorn_Erika_Anschutz_Jamie_van_Natta_USA,team,Mary Zorn Erika Anschutz Jamie van Natta,USA
+archery_team_Camilla_Sømod_Louise_Hauge_Rikke_Marslev_DNK,team,Camilla Sømod Louise Hauge Rikke Marslev,DNK
+archery_athlete_Chung_Jae-hun_KOR,athlete,Chung Jae-hun,KOR
+archery_athlete_Ryuichi_Moriya_JPN,athlete,Ryuichi Moriya,JPN
+archery_athlete_Choi_Won-jong_KOR,athlete,Choi Won-jong,KOR
+archery_athlete_Lee_Sung-jin_KOR,athlete,Lee Sung-jin,KOR
+archery_athlete_Lee_Tuk-young_KOR,athlete,Lee Tuk-young,KOR
+archery_team_Park_Kyung-mo_Chung_Jae-hun_Choi_Won-jong_KOR,team,Park Kyung-mo Chung Jae-hun Choi Won-jong,KOR
+archery_team_Tarundeep_Rai_Gautam_Singh_Jayanta_Talukdar_IND,team,Tarundeep Rai Gautam Singh Jayanta Talukdar,IND
+archery_team_Piotr_Pitek_Jacek_Pro_Grzegorz_liwka_POL,team,Piotr Piątek Jacek Proć Grzegorz Śliwka,POL
+archery_team_Lee_Tuk-young_Park_Sung-hyun_Yun_Mi-jin_KOR,team,Lee Tuk-young Park Sung-hyun Yun Mi-jin,KOR
+archery_team_Tetyana_Berezhna_Nataliya_Burdeyna_Kateryna_Palekha_UKR,team,Tetyana Berezhna Nataliya Burdeyna Kateryna Palekha,UKR
+archery_team_Margarita_Galinovskaya_Elena_Gracheva_Ekateraina_Kharkhanova_RUS,team,Margarita Galinovskaya Elena Gracheva Ekateraina Kharkhanova,RUS
+archery_athlete_Dietmar_Trillus_CAN,athlete,Dietmar Trillus,CAN
+archery_athlete_Martin_Damsbo_DNK,athlete,Martin Damsbo,DNK
+archery_athlete_Eugenia_Salvi_ITA,athlete,Eugenia Salvi,ITA
+archery_athlete_Albina_Loginova_RUS,athlete,Albina Loginova,RUS
+archery_athlete_Amandine_Bouillot_FRA,athlete,Amandine Bouillot,FRA
+archery_team_Braden_Gellenthien_Reo_Wilde_Rodger_Willett_Jr_USA,team,Braden Gellenthien Reo Wilde Rodger Willett Jr.,USA
+archery_team_Patrick_Coghlan_Clint_Freeman_Robert_Timms_AUS,team,Patrick Coghlan Clint Freeman Robert Timms,AUS
+archery_team_Fredrik_Lindblad_Morgan_Lundin_Anders_Malm_SWE,team,Fredrik Lindblad Morgan Lundin Anders Malm,SWE
+archery_team_Catheline_Dessoy_Petra_Haemhouts_Gladys_Willems_BEL,team,Catheline Dessoy Petra Haemhouts Gladys Willems,BEL
+archery_team_Anastasia_Anastasio_Eugenia_Salvi_Giorgia_Solato_ITA,team,Anastasia Anastasio Eugenia Salvi Giorgia Solato,ITA
+archery_team_Erika_Anschutz_Kendal_Nicely_Jamie_van_Natta_USA,team,Erika Anschutz Kendal Nicely Jamie van Natta,USA
+archery_athlete_Baljinima_Tsyrempilov_RUS,athlete,Baljinima Tsyrempilov,RUS
+archery_athlete_Alan_Wills_GBR,athlete,Alan Wills,GBR
+archery_athlete_Natalia_Valeeva_ITA,athlete,Natalia Valeeva,ITA
+archery_athlete_Natalya_Erdyniyeva_RUS,athlete,Natalya Erdyniyeva,RUS
+archery_team_Kim_Yeon-chul_Lee_Chang-hwan_Im_Dong-hyun_KOR,team,Kim Yeon-chul Lee Chang-hwan Im Dong-hyun,KOR
+archery_team_Larry_Godfrey_Simon_Terry_Alan_Wills_GBR,team,Larry Godfrey Simon Terry Alan Wills,GBR
+archery_team_Kuo_Cheng-wei_Liu_Ming-huang_Wang_Cheng-pang_TPE,team,Kuo Cheng-wei Liu Ming-huang Wang Cheng-pang,TPE
+archery_team_Choi_Eun-young_Lee_Tuk-young_Park_Sung-hyun_KOR,team,Choi Eun-young Lee Tuk-young Park Sung-hyun,KOR
+archery_team_Shen_Hsiao-chun_Wu_Hui-ju_Yuan_Shu-chi_TPE,team,Shen Hsiao-chun Wu Hui-ju Yuan Shu-chi,TPE
+archery_team_Charlotte_Burgess_Naomi_Folkard_Alison_Williamson_GBR,team,Charlotte Burgess Naomi Folkard Alison Williamson,GBR
+archery_athlete_Reo_Wilde_USA,athlete,Reo Wilde,USA
+archery_athlete_Liam_Grimwood_GBR,athlete,Liam Grimwood,GBR
+archery_athlete_Stephen_Clifton_NZL,athlete,Stephen Clifton,NZL
+archery_athlete_Jorina_Coetzee_ZAF,athlete,Jorina Coetzee,ZAF
+archery_athlete_Laura_Longo_ITA,athlete,Laura Longo,ITA
+archery_team_Dave_Cousins_Braden_Gellenthien_Reo_Wilde_USA,team,Dave Cousins Braden Gellenthien Reo Wilde,USA
+archery_team_Vladimir_Fedosov_Danzan_Khaludorov_Anton_Khlyschenko_RUS,team,Vladimir Fedosov Danzan Khaludorov Anton Khlyschenko,RUS
+archery_team_Jorge_Jiménez_Rigoberto_Hernandez_Roberto_Hernández_SLV,team,Jorge Jiménez Rigoberto Hernandez Roberto Hernández,SLV
+archery_team_Viktoria_Balzhanova_Ekaterina_Korobeynikova_Albina_Loginova_RUS,team,Viktoria Balzhanova Ekaterina Korobeynikova Albina Loginova,RUS
+archery_team_Kwon_Oh-hyang_Seo_Jung-hee_Seok_Ji-hyun_KOR,team,Kwon Oh-hyang Seo Jung-hee Seok Ji-hyun,KOR
+archery_team_Erika_Anschutz_Kendal_Nicely_Diane_Watson_USA,team,Erika Anschutz Kendal Nicely Diane Watson,USA
+archery_athlete_Lee_Chang-hwan_KOR,athlete,Lee Chang-hwan,KOR
+archery_athlete_Viktor_Ruban_UKR,athlete,Viktor Ruban,UKR
+archery_athlete_Joo_Hyun-jung_KOR,athlete,Joo Hyun-jung,KOR
+archery_athlete_Kwak_Ye-ji_KOR,athlete,Kwak Ye-ji,KOR
+archery_athlete_Natalia_Sánchez_COL,athlete,Natalia Sánchez,COL
+archery_team_Oh_Jin-hyek_Lee_Chang-hwan_Im_Dong-hyun_KOR,team,Oh Jin-hyek Lee Chang-hwan Im Dong-hyun,KOR
+archery_team_Thomas_Aubert_Jean-Charles_Valladont_Romain_Girouille_FRA,team,Thomas Aubert Jean-Charles Valladont Romain Girouille,FRA
+archery_team_Hideki_Kikuchi_Hiroshi_Yamamoto_Hiroyuki_Yoshinaga_JPN,team,Hideki Kikuchi Hiroshi Yamamoto Hiroyuki Yoshinaga,JPN
+archery_team_Joo_Hyun-jung_Kwak_Ye-ji_Yun_Ok-hee_KOR,team,Joo Hyun-jung Kwak Ye-ji Yun Ok-hee,KOR
+archery_team_Miki_Kanie_Asako_Matsunaga_Sayami_Matsushita_JPN,team,Miki Kanie Asako Matsunaga Sayami Matsushita,JPN
+archery_team_Tatyana_Boroday_Natalya_Erdyniyeva_Tatiana_Segina_RUS,team,Tatyana Boroday Natalya Erdyniyeva Tatiana Segina,RUS
+archery_athlete_Christopher_Perkins_CAN,athlete,Christopher Perkins,CAN
+archery_athlete_Jesse_Broadwater_USA,athlete,Jesse Broadwater,USA
+archery_athlete_Pascale_Lebecque_FRA,athlete,Pascale Lebecque,FRA
+archery_athlete_Erika_Anschutz_USA,athlete,Erika Anschutz,USA
+archery_team_Jesse_Broadwater_Braden_Gellenthien_Reo_Wilde_USA,team,Jesse Broadwater Braden Gellenthien Reo Wilde,USA
+archery_team_Martin_Damsbo_Torben_Johannessen_Patrick_Laursen_DNK,team,Martin Damsbo Torben Johannessen Patrick Laursen,DNK
+archery_team_Christopher_Perkins_Simon_Rousseau_Dietmar_Trillus_CAN,team,Christopher Perkins Simon Rousseau Dietmar Trillus,CAN
+archery_team_Sergio_Pagni_Marcella_Tonioli_ITA,team,Sergio Pagni Marcella Tonioli,ITA
+archery_team_Peter_Elzinga_Inge_van_Caspel_NLD,team,Peter Elzinga Inge van Caspel,NLD
+archery_team_Choi_Yong-hee_Seok_Ji-hyun_KOR,team,Choi Yong-hee Seok Ji-hyun,KOR
+archery_team_Erika_Anschutz_Christie_Colin_Jamie_Van_Natta_USA,team,Erika Anschutz Christie Colin Jamie Van Natta,USA
+archery_team_Vida_Halimian_Mahtab_Parsamehr_Shabnam_Sarlak_IRN,team,Vida Halimian Mahtab Parsamehr Shabnam Sarlak,IRN
+archery_team_Olga_Bosh_Luzmary_Guédez_Ana_Mendoza_VEN,team,Olga Bosh Luzmary Guédez Ana Mendoza,VEN
+archery_athlete_Kim_Woo-jin_KOR,athlete,Kim Woo-jin,KOR
+archery_athlete_Oh_Jin-hyek_KOR,athlete,Oh Jin-hyek,KOR
+archery_athlete_Brady_Ellison_USA,athlete,Brady Ellison,USA
+archery_athlete_Denisse_van_Lamoen_CHL,athlete,Denisse van Lamoen,CHL
+archery_athlete_Kristine_Esebua_GEO,athlete,Kristine Esebua,GEO
+archery_athlete_Fang_Yuting_CHN,athlete,Fang Yuting,CHN
+archery_team_Oh_Jin-hyek_Kim_Woo-jin_Im_Dong-hyun_KOR,team,Oh Jin-hyek Kim Woo-jin Im Dong-hyun,KOR
+archery_team_Gaël_Prévost_Jean-Charles_Valladont_Romain_Girouille_FRA,team,Gaël Prévost Jean-Charles Valladont Romain Girouille,FRA
+archery_team_Michele_Frangilli_Marco_Galiazzo_Mauro_Nespoli_ITA,team,Michele Frangilli Marco Galiazzo Mauro Nespoli,ITA
+archery_team_Im_Dong-hyun_Ki_Bo-bae_KOR,team,Im Dong-hyun Ki Bo-bae,KOR
+archery_team_Juan_René_Serrano_Aída_Román_MEX,team,Juan René Serrano Aída Román,MEX
+archery_team_Laurence_Godfrey_Amy_Oliver_GBR,team,Laurence Godfrey Amy Oliver,GBR
+archery_team_Natalia_Valeeva_Guendalina_Sartori_Jessica_Tomasi_ITA,team,Natalia Valeeva Guendalina Sartori Jessica Tomasi,ITA
+archery_team_Deepika_Kumari_Bombayla_Devi_Laishram_Chekrovolü_Swüro_IND,team,Deepika Kumari Bombayla Devi Laishram Chekrovolü Swüro,IND
+archery_team_Han_Gyeong-hee_Jung_Dasomi_Ki_Bo-bae_KOR,team,Han Gyeong-hee Jung Dasomi Ki Bo-bae,KOR
+archery_athlete_Mike_Schloesser_NLD,athlete,Mike Schloesser,NLD
+archery_athlete_Pierre-Julien_Deloche_FRA,athlete,Pierre-Julien Deloche,FRA
+archery_athlete_Alexander_Dambaev_RUS,athlete,Alexander Dambaev,RUS
+archery_athlete_Kristina_Berger_DEU,athlete,Kristina Berger,DEU
+archery_athlete_Ivana_Buden_HRV,athlete,Ivana Buden,HRV
+archery_athlete_Gerda_Roux_ZAF,athlete,Gerda Roux,ZAF
+archery_team_Martin_Damsbo_Stephan_Hansen_Patrick_Laursen_DNK,team,Martin Damsbo Stephan Hansen Patrick Laursen,DNK
+archery_team_Gabriel_Badenhorst_DP_Bierman_Patrick_Roux_ZAF,team,Gabriel Badenhorst DP Bierman Patrick Roux,ZAF
+archery_team_Sebastien_Brasseur_Pierre-Julien_Deloche_Dominique_Genet_FRA,team,Sebastien Brasseur Pierre-Julien Deloche Dominique Genet,FRA
+archery_team_Marcella_Tonioli_Sergio_Pagni_ITA,team,Marcella Tonioli Sergio Pagni,ITA
+archery_team_Albina_Loginova_Alexander_Dambaev_RUS,team,Albina Loginova Alexander Dambaev,RUS
+archery_team_Erika_Jones_Jesse_Broadwater_USA,team,Erika Jones Jesse Broadwater,USA
+archery_team_Aura_Bravo_Sara_López_Alejandra_Usquiano_COL,team,Aura Bravo Sara López Alejandra Usquiano,COL
+archery_team_Martine_Couwenberg_Irina_Markovic_Inge_van_Caspel_NLD,team,Martine Couwenberg Irina Markovic Inge van Caspel,NLD
+archery_team_Sophie_Dodemont_Pascale_Lebecque_Sandrine_Vandionant_FRA,team,Sophie Dodemont Pascale Lebecque Sandrine Vandionant,FRA
+archery_athlete_Lee_Seung-yun_KOR,athlete,Lee Seung-yun,KOR
+archery_athlete_Crispin_Duenas_CAN,athlete,Crispin Duenas,CAN
+archery_athlete_Maja_Jager_DNK,athlete,Maja Jager,DNK
+archery_athlete_Xu_Jing_CHN,athlete,Xu Jing,CHN
+archery_athlete_Yun_Ok-hee_KOR,athlete,Yun Ok-hee,KOR
+archery_team_Brady_Ellison_Joe_Fanchin_Jake_Kaminski_USA,team,Brady Ellison Joe Fanchin Jake Kaminski,USA
+archery_team_Sjef_van_den_Berg_Rick_van_den_Oever_Rick_van_der_Ven_NLD,team,Sjef van den Berg Rick van den Oever Rick van der Ven,NLD
+archery_team_Thomas_Faucheron_Gaël_Prévost_Jean-Charles_Valladont_FRA,team,Thomas Faucheron Gaël Prévost Jean-Charles Valladont,FRA
+archery_team_Ki_Bo-bae_Oh_Jin-hyek_KOR,team,Ki Bo-bae Oh Jin-hyek,KOR
+archery_team_Khatuna_Lorig_Brady_Ellison_USA,team,Khatuna Lorig Brady Ellison,USA
+archery_team_Tan_Ya-ting_Kuo_Cheng-wei_TPE,team,Tan Ya-ting Kuo Cheng-wei,TPE
+archery_team_Chang_Hye-jin_Ki_Bo-bae_Yun_Ok-hee_KOR,team,Chang Hye-jin Ki Bo-bae Yun Ok-hee,KOR
+archery_team_Hanna_Marusava_Yekaterina_Mulyuk-Timofeyeva_Alena_Tolkach_BLR,team,Hanna Marusava Yekaterina Mulyuk-Timofeyeva Alena Tolkach,BLR
+archery_team_Carina_Rosenvinge_Christiansen_Maja_Jager_Anne_Marie_Laursen_DNK,team,Carina Rosenvinge Christiansen Maja Jager Anne Marie Laursen,DNK
+archery_athlete_Stephan_Hansen_DNK,athlete,Stephan Hansen,DNK
+archery_athlete_Rajat_Chauhan_IND,athlete,Rajat Chauhan,IND
+archery_athlete_Adam_Ravenscroft_GBR,athlete,Adam Ravenscroft,GBR
+archery_athlete_Kim_Yun-hee_KOR,athlete,Kim Yun-hee,KOR
+archery_athlete_Crystal_Gauvin_USA,athlete,Crystal Gauvin,USA
+archery_athlete_Sara_López_COL,athlete,Sara López,COL
+archery_team_Esmaeil_Ebadi_Majid_Gheidi_Amir_Kazempour_IRN,team,Esmaeil Ebadi Majid Gheidi Amir Kazempour,IRN
+archery_team_Christopher_Perkins_Kevin_Tataryn_Dietmar_Trillus_CAN,team,Christopher Perkins Kevin Tataryn Dietmar Trillus,CAN
+archery_team_Kim_Yun-hee_Kim_Jong-ho_KOR,team,Kim Yun-hee Kim Jong-ho,KOR
+archery_team_Amelie_Sancenot_Dominique_Genet_FRA,team,Amelie Sancenot Dominique Genet,FRA
+archery_team_Sera_Cornelius_Patrick_Roux_ZAF,team,Sera Cornelius Patrick Roux,ZAF
+archery_team_Olena_Borysenko_Viktoriya_Dyakova_Mariya_Shkolna_UKR,team,Olena Borysenko Viktoriya Dyakova Mariya Shkolna,UKR
+archery_team_Evelien_Groeneveld_Irina_Markovic_Inge_Van_Caspel_NLD,team,Evelien Groeneveld Irina Markovic Inge Van Caspel,NLD
+archery_team_Choi_Bo-min_Kim_Yun-hee_Seol_Da-yeong_KOR,team,Choi Bo-min Kim Yun-hee Seol Da-yeong,KOR
+archery_athlete_Rick_van_der_Ven_NLD,athlete,Rick van der Ven,NLD
+archery_athlete_Takaharu_Furukawa_JPN,athlete,Takaharu Furukawa,JPN
+archery_athlete_Ki_Bo-bae_KOR,athlete,Ki Bo-bae,KOR
+archery_athlete_Lin_Shih-chia_TPE,athlete,Lin Shih-chia,TPE
+archery_athlete_Choi_Mi-sun_KOR,athlete,Choi Mi-sun,KOR
+archery_team_Kim_Woo-jin_Ku_Bon-chan_Oh_Jin-hyek_KOR,team,Kim Woo-jin Ku Bon-chan Oh Jin-hyek,KOR
+archery_team_Michele_Frangilli_Mauro_Nespoli_David_Pasqualucci_ITA,team,Michele Frangilli Mauro Nespoli David Pasqualucci,ITA
+archery_team_Kuo_Cheng-wei_Wang_Hou-chieh_Yu_Guan-lin_TPE,team,Kuo Cheng-wei Wang Hou-chieh Yu Guan-lin,TPE
+archery_team_Ki_Bo-bae_Ku_Bon-chan_KOR,team,Ki Bo-bae Ku Bon-chan,KOR
+archery_team_Lin_Shih-chia_Kuo_Cheng-wei_TPE,team,Lin Shih-chia Kuo Cheng-wei,TPE
+archery_team_Zhu_Jueman_Gu_Xuesong_CHN,team,Zhu Jueman Gu Xuesong,CHN
+archery_team_Tuyana_Dashidorzhieva_Ksenia_Perova_Inna_Stepanova_RUS,team,Tuyana Dashidorzhieva Ksenia Perova Inna Stepanova,RUS
+archery_team_Rimil_Buriuly_Deepika_Kumari_Laxmirani_Majhi_IND,team,Rimil Buriuly Deepika Kumari Laxmirani Majhi,IND
+archery_team_Choi_Mi-sun_Kang_Chae-young_Ki_Bo-bae_KOR,team,Choi Mi-sun Kang Chae-young Ki Bo-bae,KOR
+archery_athlete_Sebastien_Peineau_FRA,athlete,Sebastien Peineau,FRA
+archery_athlete_Song_Yun-soo_KOR,athlete,Song Yun-soo,KOR
+archery_athlete_Yeim_Bostan_TUR,athlete,Yeşim Bostan,TUR
+archery_athlete_Kristina_Heigenhauser_DEU,athlete,Kristina Heigenhauser,DEU
+archery_team_Steve_Anderson_Braden_Gellenthien_Kris_Schaff_USA,team,Steve Anderson Braden Gellenthien Kris Schaff,USA
+archery_team_Sergio_Pagni_Federico_Pagnoni_Alberto_Simonelli_ITA,team,Sergio Pagni Federico Pagnoni Alberto Simonelli,ITA
+archery_team_Sebastián_Arenas_Camilo_Cardona_Daniel_Muñoz_COL,team,Sebastián Arenas Camilo Cardona Daniel Muñoz,COL
+archery_team_Kim_Jong-ho_Song_Yun-soo_KOR,team,Kim Jong-ho Song Yun-soo,KOR
+archery_team_Marcel_Trachsel_Kristina_Heigenhauser_DEU,team,Marcel Trachsel Kristina Heigenhauser,DEU
+archery_team_Sergio_Pagni_Irene_Franchini_ITA,team,Sergio Pagni Irene Franchini,ITA
+archery_team_Sara_López_Alejandra_Usquiano_Nora_Valdez_COL,team,Sara López Alejandra Usquiano Nora Valdez,COL
+archery_team_Trisha_Deb_Lily_Chanu_Paonam_Jyothi_Surekha_Vennam_IND,team,Trisha Deb Lily Chanu Paonam Jyothi Surekha Vennam,IND
+archery_team_Choi_Bo-min_So_Chae-won_Song_Yun-soo_KOR,team,Choi Bo-min So Chae-won Song Yun-soo,KOR
+archery_athlete_Wei_Chun-heng_TPE,athlete,Wei Chun-heng,TPE
+archery_athlete_Steve_Wijler_NLD,athlete,Steve Wijler,NLD
+archery_athlete_Ksenia_Perova_RUS,athlete,Ksenia Perova,RUS
+archery_athlete_Chang_Hye-jin_KOR,athlete,Chang Hye-jin,KOR
+archery_athlete_Tan_Ya-ting_TPE,athlete,Tan Ya-ting,TPE
+archery_team_Marco_Galiazzo_Mauro_Nespoli_David_Pasqualucci_ITA,team,Marco Galiazzo Mauro Nespoli David Pasqualucci,ITA
+archery_team_Thomas_Chirault_Pierre_Plihon_Jean-Charles_Valladont_FRA,team,Thomas Chirault Pierre Plihon Jean-Charles Valladont,FRA
+archery_team_Im_Dong-hyun_Kim_Woo-jin_Oh_Jin-hyek_KOR,team,Im Dong-hyun Kim Woo-jin Oh Jin-hyek,KOR
+archery_team_Im_Dong-hyun_Kang_Chae-young_KOR,team,Im Dong-hyun Kang Chae-young,KOR
+archery_team_Florian_Kahllund_Lisa_Unruh_DEU,team,Florian Kahllund Lisa Unruh,DEU
+archery_team_Patrick_Huston_Naomi_Folkard_GBR,team,Patrick Huston Naomi Folkard,GBR
+archery_team_Chang_Hye-jin_Choi_Mi-sun_Kang_Chae-young_KOR,team,Chang Hye-jin Choi Mi-sun Kang Chae-young,KOR
+archery_team_Mariana_Avitia_Aída_Román_Alejandra_Valencia_MEX,team,Mariana Avitia Aída Román Alejandra Valencia,MEX
+archery_team_Lin_Shih-chia_Lin_Yu-hsuan_Tan_Ya-ting_TPE,team,Lin Shih-chia Lin Yu-hsuan Tan Ya-ting,TPE
+archery_athlete_James_Lutz_USA,athlete,James Lutz,USA
+archery_athlete_Anders_Faugstad_NOR,athlete,Anders Faugstad,NOR
+archery_athlete_Kim_Jong-ho_KOR,athlete,Kim Jong-ho,KOR
+archery_athlete_Natalia_Avdeeva_RUS,athlete,Natalia Avdeeva,RUS
+archery_athlete_Paige_Pearce_USA,athlete,Paige Pearce,USA
+archery_athlete_Jyothi_Surekha_Vennam_IND,athlete,Jyothi Surekha Vennam,IND
+archery_team_Choi_Yong-hee_Kim_Jong-ho_Yang_Jae-won_KOR,team,Choi Yong-hee Kim Jong-ho Yang Jae-won,KOR
+archery_team_Süleyman_Araz_Evren_Çaran_Muhammed_Yetim_TUR,team,Süleyman Araz Evren Çağıran Muhammed Yetim,TUR
+archery_team_Peter_Elzinga_Sil_Pater_Mike_Schloesser_NLD,team,Peter Elzinga Sil Pater Mike Schloesser,NLD
+archery_team_Kim_Jong-ho_So_Chae-won_KOR,team,Kim Jong-ho So Chae-won,KOR
+archery_team_Pierre-Julien_Deloche_Sophie_Dodemont_FRA,team,Pierre-Julien Deloche Sophie Dodemont,FRA
+archery_team_Chen_Chieh-lun_Chen_Yi-hsuan_TPE,team,Chen Chieh-lun Chen Yi-hsuan,TPE
+archery_team_Chen_Li-ju_Chen_Yi-hsuan_Huang_I-jou_TPE,team,Chen Li-ju Chen Yi-hsuan Huang I-jou,TPE
+archery_team_Cassidy_Cox_Paige_Pearce_Alexis_Ruiz_USA,team,Cassidy Cox Paige Pearce Alexis Ruiz,USA
+archery_team_Raj_Kaur_Muskan_Kirar_Jyothi_Surekha_Vennam_IND,team,Raj Kaur Muskan Kirar Jyothi Surekha Vennam,IND
+archery_athlete_Khairul_Anuar_Mohamad_MYS,athlete,Khairul Anuar Mohamad,MYS
+archery_athlete_Ruman_Shana_BGD,athlete,Ruman Shana,BGD
+archery_athlete_Lei_Chien-ying_TPE,athlete,Lei Chien-ying,TPE
+archery_athlete_Kang_Chae-young_KOR,athlete,Kang Chae-young,KOR
+archery_team_Ding_Yiliang_Feng_Hao_Wei_Shaoxuan_CHN,team,Ding Yiliang Feng Hao Wei Shaoxuan,CHN
+archery_team_Atanu_Das_Pravin_Ramesh_Jadhav_Tarundeep_Rai_IND,team,Atanu Das Pravin Ramesh Jadhav Tarundeep Rai,IND
+archery_team_Kim_Woo-jin_Lee_Seung-yun_Lee_Woo-seok_KOR,team,Kim Woo-jin Lee Seung-yun Lee Woo-seok,KOR
+archery_team_Lee_Woo-seok_Kang_Chae-young_KOR,team,Lee Woo-seok Kang Chae-young,KOR
+archery_team_Sjef_van_den_Berg_Gabriela_Bayardo_NLD,team,Sjef van den Berg Gabriela Bayardo,NLD
+archery_team_Mauro_Nespoli_Vanessa_Landi_ITA,team,Mauro Nespoli Vanessa Landi,ITA
+archery_team_Lei_Chien-ying_Peng_Chia-mao_Tan_Ya-ting_TPE,team,Lei Chien-ying Peng Chia-mao Tan Ya-ting,TPE
+archery_team_Sarah_Bettles_Naomi_Folkard_Bryony_Pitman_GBR,team,Sarah Bettles Naomi Folkard Bryony Pitman,GBR
+archery_athlete_Nico_Wiener_AUT,athlete,Nico Wiener,AUT
+archery_athlete_Robin_Jäätma_EST,athlete,Robin Jäätma,EST
+archery_athlete_Andrea_Becerra_MEX,athlete,Andrea Becerra,MEX
+archery_team_Braden_Gellenthien_James_Lutz_Kris_Schaff_USA,team,Braden Gellenthien James Lutz Kris Schaff,USA
+archery_team_Miguel_Becerra_Antonio_Hidalgo_Uriel_Olvera_MEX,team,Miguel Becerra Antonio Hidalgo Uriel Olvera,MEX
+archery_team_Stefan_Heincz_Michael_Matzner_Nico_Wiener_AUT,team,Stefan Heincz Michael Matzner Nico Wiener,AUT
+archery_team_Sara_López_Daniel_Muñoz_COL,team,Sara López Daniel Muñoz,COL
+archery_team_Jyothi_Surekha_Vennam_Abhishek_Verma_IND,team,Jyothi Surekha Vennam Abhishek Verma,IND
+archery_team_Priya_Gurjar_Muskan_Kirar_Jyothi_Surekha_Vennam_IND,team,Priya Gurjar Muskan Kirar Jyothi Surekha Vennam,IND
+archery_team_Linda_Ochoa-Anderson_Paige_Pearce_Makenna_Proctor_USA,team,Linda Ochoa-Anderson Paige Pearce Makenna Proctor,USA
+archery_athlete_Marcus_Vinicius_DAlmeida_BRA,athlete,Marcus Vinicius D'Almeida,BRA
+archery_athlete_Jang_Min-hee_KOR,athlete,Jang Min-hee,KOR
+archery_athlete_Casey_Kaufhold_USA,athlete,Casey Kaufhold,USA
+archery_athlete_An_San_KOR,athlete,An San,KOR
+archery_team_Kim_Woo-jin_Kim_Je-deok_Oh_Jin-hyek_KOR,team,Kim Woo-jin Kim Je-deok Oh Jin-hyek,KOR
+archery_team_Brady_Ellison_Matthew_Nofel_Jack_Williams_USA,team,Brady Ellison Matthew Nofel Jack Williams,USA
+archery_team_Hung_Cheng-hao_Wei_Chun-heng_Yu_Guan-lin_TPE,team,Hung Cheng-hao Wei Chun-heng Yu Guan-lin,TPE
+archery_team_An_San_Kim_Woo-jin_KOR,team,An San Kim Woo-jin,KOR
+archery_team_Elena_Osipova_Galsan_Bazarzhapov_RAF,team,Elena Osipova Galsan Bazarzhapov,RAF
+archery_team_Yasemin_Anagöz_Mete_Gazoz_TUR,team,Yasemin Anagöz Mete Gazoz,TUR
+archery_team_An_San_Jang_Min-hee_Kang_Chae-young_KOR,team,An San Jang Min-hee Kang Chae-young,KOR
+archery_team_Aída_Román_Alejandra_Valencia_Ana_Vázquez_MEX,team,Aída Román Alejandra Valencia Ana Vázquez,MEX
+archery_team_Lisa_Barbelin_Caroline_Lopez_Mélodie_Richard_FRA,team,Lisa Barbelin Caroline Lopez Mélodie Richard,FRA
+archery_athlete_Ojas_Pravin_Deotale_IND,athlete,Ojas Pravin Deotale,IND
+archery_athlete_ukasz_Przybylski_POL,athlete,Łukasz Przybylski,POL
+archery_athlete_Aditi_Gopichand_Swami_IND,athlete,Aditi Gopichand Swami,IND
+archery_team_Rafa_Dobrowolski_Przemysaw_Konecki_ukasz_Przybylski_POL,team,Rafał Dobrowolski Przemysław Konecki Łukasz Przybylski,POL
+archery_team_Tore_Bjarnarson_Martin_Damsbo_Mathias_Fullerton_DNK,team,Tore Bjarnarson Martin Damsbo Mathias Fullerton,DNK
+archery_team_Sil_Pater_Mike_Schloesser_Jay_Tjin-A-Djie_NLD,team,Sil Pater Mike Schloesser Jay Tjin-A-Djie,NLD
+archery_team_Alexis_Ruiz_Sawyer_Sullivan_USA,team,Alexis Ruiz Sawyer Sullivan,USA
+archery_team_Sara_López_Sebastián_Arenas_COL,team,Sara López Sebastián Arenas,COL
+archery_team_Mariya_Shkolna_Gilles_Seywert_LUX,team,Mariya Shkolna Gilles Seywert,LUX
+archery_team_Parneet_Kaur_Aditi_Gopichand_Swami_Jyothi_Surekha_Vennam_IND,team,Parneet Kaur Aditi Gopichand Swami Jyothi Surekha Vennam,IND
+archery_team_Andrea_Becerra_Ana_Sofía_Hernández_Jeon_Dafne_Quintero_MEX,team,Andrea Becerra Ana Sofía Hernández Jeon Dafne Quintero,MEX
+archery_team_Oh_Yoo-hyun_So_Chae-won_Song_Yun-soo_KOR,team,Oh Yoo-hyun So Chae-won Song Yun-soo,KOR
+archery_athlete_Mete_Gazoz_TUR,athlete,Mete Gazoz,TUR
+archery_athlete_Eric_Peters_CAN,athlete,Eric Peters,CAN
+archery_athlete_Marcus_DAlmeida_BRA,athlete,Marcus D'Almeida,BRA
+archery_athlete_Marie_Horáková_CZE,athlete,Marie Horáčková,CZE
+archery_athlete_Alejandra_Valencia_MEX,athlete,Alejandra Valencia,MEX
+archery_athlete_Satsuki_Noda_JPN,athlete,Satsuki Noda,JPN
+archery_team_Kim_Je-deok_Kim_Woo-jin_Lee_Woo-seok_KOR,team,Kim Je-deok Kim Woo-jin Lee Woo-seok,KOR
+archery_team_Mete_Gazoz_Berkim_Tümer_Abdullah_Yldrm_TUR,team,Mete Gazoz Berkim Tümer Abdullah Yıldırmış,TUR
+archery_team_Takaharu_Furukawa_Junya_Nakanishi_Fumiya_Saito_JPN,team,Takaharu Furukawa Junya Nakanishi Fumiya Saito,JPN
+archery_team_Lim_Si-hyeon_Kim_Woo-jin_KOR,team,Lim Si-hyeon Kim Woo-jin,KOR
+archery_team_Michelle_Kroppen_Florian_Unruh_DEU,team,Michelle Kroppen Florian Unruh,DEU
+archery_team_Tatiana_Andreoli_Mauro_Nespoli_ITA,team,Tatiana Andreoli Mauro Nespoli,ITA
+archery_team_Katharina_Bauer_Michelle_Kroppen_Charline_Schwarz_DEU,team,Katharina Bauer Michelle Kroppen Charline Schwarz,DEU
+archery_team_Audrey_Adiceom_Lisa_Barbelin_Caroline_Lopez_FRA,team,Audrey Adiceom Lisa Barbelin Caroline Lopez,FRA
+archery_team_Aída_Román_Ángela_Ruiz_Alejandra_Valencia_MEX,team,Aída Román Ángela Ruiz Alejandra Valencia,MEX
+archery_athlete_Nicolas_Girard_FRA,athlete,Nicolas Girard,FRA
+archery_athlete_Mathias_Fullerton_DNK,athlete,Mathias Fullerton,DNK
+archery_athlete_Choi_Yong-hee_KOR,athlete,Choi Yong-hee,KOR
+archery_athlete_Sofía_Paiz_SLV,athlete,Sofía Paiz,SLV
+archery_athlete_Alejandra_Usquiano_COL,athlete,Alejandra Usquiano,COL
+archery_team_Prathamesh_Fuge_Aman_Saini_Rishabh_Yadav_IND,team,Prathamesh Fuge Aman Saini Rishabh Yadav,IND
+archery_team_Jean-Philippe_Boulch_François_Dubois_Nicolas_Girard_FRA,team,Jean-Philippe Boulch François Dubois Nicolas Girard,FRA
+archery_team_Alja_Matija_Brenk_Tim_Jevnik_Sta_Modic_SVN,team,Aljaž Matija Brenk Tim Jevšnik Staš Modic,SVN
+archery_team_Sanne_de_Laat_Mike_Schloesser_NLD,team,Sanne de Laat Mike Schloesser,NLD
+archery_team_Jyothi_Surekha_Vennam_Rishabh_Yadav_IND,team,Jyothi Surekha Vennam Rishabh Yadav,IND
+archery_team_Andrea_Becerra_Sebastián_García_MEX,team,Andrea Becerra Sebastián García,MEX
+archery_team_Andrea_Becerra_Mariana_Bernal_Adriana_Castillo_MEX,team,Andrea Becerra Mariana Bernal Adriana Castillo,MEX
+archery_team_Olivia_Dean_Alexis_Ruiz_Sydney_Sullenberger_USA,team,Olivia Dean Alexis Ruiz Sydney Sullenberger,USA
+archery_team_Viktoriya_Lyan_Roxana_Yunussova_Adel_Zhexenbinova_KAZ,team,Viktoriya Lyan Roxana Yunussova Adel Zhexenbinova,KAZ
+archery_athlete_Andrés_Temiño_ESP,athlete,Andrés Temiño,ESP
+archery_athlete_Kim_Je-deok_KOR,athlete,Kim Je-deok,KOR
+archery_athlete_Zhu_Jingyi_CHN,athlete,Zhu Jingyi,CHN
+archery_team_Trenton_Cowles_Brady_Ellison_Christian_Stoddard_USA,team,Trenton Cowles Brady Ellison Christian Stoddard,USA
+archery_team_Tetsuya_Aoshima_Yuki_Kawata_Junya_Nakanishi_JPN,team,Tetsuya Aoshima Yuki Kawata Junya Nakanishi,JPN
+archery_team_Elia_Canales_Andrés_Temiño_ESP,team,Elia Canales Andrés Temiño,ESP
+archery_team_Nanami_Asakuno_Yuki_Kawata_JPN,team,Nanami Asakuno Yuki Kawata,JPN
+archery_team_Chiu_Yi-ching_Hsu_Hsin-tzu_Li_Cai-xuan_TPE,team,Chiu Yi-ching Hsu Hsin-tzu Li Cai-xuan,TPE
+archery_team_Nanami_Asakuno_Tomomi_Sugimoto_Ruka_Uehara_JPN,team,Nanami Asakuno Tomomi Sugimoto Ruka Uehara,JPN
+archery_team_An_San_Kang_Chae-young_Lim_Si-hyeon_KOR,team,An San Kang Chae-young Lim Si-hyeon,KOR
