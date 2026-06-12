@@ -1,0 +1,2 @@
+discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
+triathlon,Triathlon,triathlon,triathlon,1.0,connector_world_triathlon_championship_series_history,2026-06-12T07:11:25+00:00

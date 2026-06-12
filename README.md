@@ -729,6 +729,33 @@ Comportement:
   - championnats indoor, field, youth et para exclus
   - scope strict `year > 2000`
 
+### 8n-f) Ingest World Triathlon Championship Series (historique, classements finaux H/F)
+
+```bash
+python -m pipelines.ingest --connector world_triathlon_championship_series_history --year 2026
+```
+
+Comportement:
+- ingere le seed local:
+  - `data/raw/triathlon/world_triathlon_championship_series_top3_seed.csv`
+  - seed reproductible via: `data/raw/triathlon/build_world_triathlon_championship_series_seed.py`
+- cree la competition:
+  - `world_triathlon_championship_series`
+- couvre l'ere Championship Series:
+  - `2009` -> `2025`
+  - pages sources ITU World Championship Series / ITU World Triathlon Series / World Triathlon Championship Series
+- cree un event annuel par genre:
+  - `world_triathlon_championship_series_<YYYY>_<men|women>`
+- stocke un podium top 3 strict par event:
+  - profil attendu: `1,2,3`
+- sport/discipline:
+  - sport `triathlon`
+  - discipline `triathlon`
+- notes source:
+  - la saison 2020 est incluse comme championnat du monde single-race COVID depuis la page annuelle de la serie, avec `score_raw` en temps de course
+  - les autres annees stockent les points finaux WTCS/ITU dans `score_raw`
+  - scope strict `year > 2000`
+
 ### 8o) Ingest UCI Road World Nation Ranking (historique, top 10 nations)
 
 ```bash

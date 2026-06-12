@@ -159,3 +159,5 @@ import_c74eabea59b881d6e257dde0df1fe98ad76ac8c2,uci_mountain_bike_world_champion
 import_b7a7508d9f957dc5d45f31dd67ee5d65ac05c4d8,world_sailing_championships_history,2026-06-07T07:07:59+00:00,/Users/romain/dev/DataSport/data/raw/world_sailing_championships_history/20260607T070758Z,success,
 import_2653803ad3cc78aad5c108ce445a3a073066e6d6,world_archery_championships_history,2026-06-10T07:06:19+00:00,/Users/romain/dev/DataSport/data/raw/world_archery_championships_history/20260610T070618Z,success,
 import_e178c346d6b12317853ba9997c1a9ee57a9a8326,world_archery_championships_history,2026-06-10T07:07:56+00:00,/Users/romain/dev/DataSport/data/raw/world_archery_championships_history/20260610T070756Z,success,
+import_302b6f86a021052d3aa6f044a9dbaf471dfd55d9,world_triathlon_championship_series_history,2026-06-12T07:09:07+00:00,/Users/romain/dev/DataSport/data/raw/world_triathlon_championship_series_history/20260612T070906Z,success,
+import_0d9d488e5b1c6e442ac9a3a1ac1aa49131f2e568,world_triathlon_championship_series_history,2026-06-12T07:11:26+00:00,/Users/romain/dev/DataSport/data/raw/world_triathlon_championship_series_history/20260612T071125Z,success,

@@ -42,6 +42,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] UCI Mountain Bike World Championships (elite XCO + downhill H/F, podium top 3 post-2000, 2001-2025) ajoute via `uci_mountain_bike_world_championships_history` (2026-06-06)
 - [x] Sailing World Championships (editions combinees, podium par classe, post-2000, 2003-2023) ajoute via `world_sailing_championships_history` (2026-06-07)
 - [x] World Archery Championships (recurve + compound, individuel/equipes/mixte, podium top 3 post-2000, 2001-2025) ajoute via `world_archery_championships_history` (2026-06-10)
+- [x] World Triathlon Championship Series (classements finaux H/F, top 3, 2009-2025; 2020 COVID single-race inclus) ajoute via `world_triathlon_championship_series_history` (2026-06-12)
 
 ### Competitions mondiales
 
@@ -92,6 +93,9 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] UCI Mountain Bike World Championships (`uci_mountain_bike_world_championships_history`)
 - [x] Sailing World Championships (selon classes) (`world_sailing_championships_history`)
 - [x] World Archery Championships (`world_archery_championships_history`)
+- [x] World Triathlon Championship Series / Championship Finals (`world_triathlon_championship_series_history`)
+- [ ] FEI World Championships (equestrian)
+- [ ] World Amateur Team Championships (golf)
 
 
 ### Classements mondiaux (Top 10)
@@ -122,7 +126,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] taekwondo (World Taekwondo Championships integres via `world_taekwondo_championships_history`)
 - [x] sailing (Sailing World Championships integres via `world_sailing_championships_history`)
 - [x] archery (World Archery Championships integres via `world_archery_championships_history`)
-- [ ] triathlon
+- [x] triathlon (World Triathlon Championship Series integree via `world_triathlon_championship_series_history`)
 - [ ] equestrian
 - [ ] golf
 - [x] motorsport hors F1 (Formula E integree via `formulae_world_championship_history`)
