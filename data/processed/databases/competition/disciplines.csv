@@ -303,3 +303,8 @@ sailing-tornado,Tornado,tornado,sailing,1.0,connector_world_sailing_championship
 sailing-yngling,Yngling,yngling,sailing,1.0,connector_world_sailing_championships_history,2026-06-07T07:07:58+00:00
 archery-compound,Compound,compound,archery,1.0,connector_world_archery_championships_history,2026-06-10T07:07:56+00:00
 archery-recurve,Recurve,recurve,archery,1.0,connector_world_archery_championships_history,2026-06-10T07:07:56+00:00
+equestrian-driving,Driving,driving,equestrian,1.0,connector_fei_world_championships_history,2026-06-13T07:08:53+00:00
+equestrian-endurance,Endurance,endurance,equestrian,1.0,connector_fei_world_championships_history,2026-06-13T07:08:53+00:00
+equestrian-para-dressage,Para-dressage,para-dressage,equestrian,1.0,connector_fei_world_championships_history,2026-06-13T07:08:53+00:00
+equestrian-reining,Reining,reining,equestrian,1.0,connector_fei_world_championships_history,2026-06-13T07:08:53+00:00
+equestrian-vaulting,Vaulting,vaulting,equestrian,1.0,connector_fei_world_championships_history,2026-06-13T07:08:53+00:00

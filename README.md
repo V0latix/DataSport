@@ -756,6 +756,35 @@ Comportement:
   - les autres annees stockent les points finaux WTCS/ITU dans `score_raw`
   - scope strict `year > 2000`
 
+### 8n-g) Ingest FEI World Championships (historique, podiums equestrian)
+
+```bash
+python -m pipelines.ingest --connector fei_world_championships_history --year 2026
+```
+
+Comportement:
+- ingere le seed local:
+  - `data/raw/equestrian/fei_world_championships_top3_seed.csv`
+  - seed reproductible via: `data/raw/equestrian/build_fei_world_championships_seed.py`
+- cree la competition:
+  - `fei_world_championships`
+- couvre le format global FEI post-2000:
+  - FEI World Equestrian Games: `2002`, `2006`, `2010`, `2014`, `2018`
+  - FEI World Championships: `2022`
+- cree un event par edition + discipline + epreuve + genre:
+  - `fei_world_championships_<YYYY>_<discipline_key>_<event_key>_<men|women|mixed>`
+- stocke un podium top 3 strict par event:
+  - profil attendu: `1,2,3`
+- sport/discipline:
+  - sport `equestrian`
+  - disciplines reutilisees: dressage, eventing, jumping
+  - disciplines ajoutees: driving, endurance, para-dressage, reining, vaulting
+- notes source:
+  - les podiums proviennent des tables medalistes Wikipedia par edition
+  - les epreuves annulees ou abandonnees sont exclues
+  - les epreuves open sont codees `gender=mixed`; vaulting hommes/femmes conserve `men`/`women`
+  - scope strict `year > 2000`
+
 ### 8o) Ingest UCI Road World Nation Ranking (historique, top 10 nations)
 
 ```bash

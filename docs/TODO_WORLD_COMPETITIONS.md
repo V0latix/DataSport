@@ -43,6 +43,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] Sailing World Championships (editions combinees, podium par classe, post-2000, 2003-2023) ajoute via `world_sailing_championships_history` (2026-06-07)
 - [x] World Archery Championships (recurve + compound, individuel/equipes/mixte, podium top 3 post-2000, 2001-2025) ajoute via `world_archery_championships_history` (2026-06-10)
 - [x] World Triathlon Championship Series (classements finaux H/F, top 3, 2009-2025; 2020 COVID single-race inclus) ajoute via `world_triathlon_championship_series_history` (2026-06-12)
+- [x] FEI World Championships (equestrian, podiums par epreuve, 2002-2022; WEG 2002-2018 + FEI Worlds 2022) ajoute via `fei_world_championships_history` (2026-06-13)
 
 ### Competitions mondiales
 
@@ -94,7 +95,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] Sailing World Championships (selon classes) (`world_sailing_championships_history`)
 - [x] World Archery Championships (`world_archery_championships_history`)
 - [x] World Triathlon Championship Series / Championship Finals (`world_triathlon_championship_series_history`)
-- [ ] FEI World Championships (equestrian)
+- [x] FEI World Championships (equestrian) (`fei_world_championships_history`)
 - [ ] World Amateur Team Championships (golf)
 
 
@@ -127,7 +128,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] sailing (Sailing World Championships integres via `world_sailing_championships_history`)
 - [x] archery (World Archery Championships integres via `world_archery_championships_history`)
 - [x] triathlon (World Triathlon Championship Series integree via `world_triathlon_championship_series_history`)
-- [ ] equestrian
+- [x] equestrian (FEI World Championships integres via `fei_world_championships_history`)
 - [ ] golf
 - [x] motorsport hors F1 (Formula E integree via `formulae_world_championship_history`)
 

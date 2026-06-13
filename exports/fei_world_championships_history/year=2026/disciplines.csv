@@ -1,0 +1,9 @@
+discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
+equestrian-dressage-equestrian,Equestrian Dressage (Equestrian),equestrian-dressage-equestrian,equestrian,1.0,connector_fei_world_championships_history,2026-06-13T07:08:53+00:00
+equestrian-driving,Driving,driving,equestrian,1.0,connector_fei_world_championships_history,2026-06-13T07:08:53+00:00
+equestrian-endurance,Endurance,endurance,equestrian,1.0,connector_fei_world_championships_history,2026-06-13T07:08:53+00:00
+equestrian-eventing-equestrian,Equestrian Eventing (Equestrian),equestrian-eventing-equestrian,equestrian,1.0,connector_fei_world_championships_history,2026-06-13T07:08:53+00:00
+equestrian-jumping-equestrian,Equestrian Jumping (Equestrian),equestrian-jumping-equestrian,equestrian,1.0,connector_fei_world_championships_history,2026-06-13T07:08:53+00:00
+equestrian-para-dressage,Para-dressage,para-dressage,equestrian,1.0,connector_fei_world_championships_history,2026-06-13T07:08:53+00:00
+equestrian-reining,Reining,reining,equestrian,1.0,connector_fei_world_championships_history,2026-06-13T07:08:53+00:00
+equestrian-vaulting,Vaulting,vaulting,equestrian,1.0,connector_fei_world_championships_history,2026-06-13T07:08:53+00:00
