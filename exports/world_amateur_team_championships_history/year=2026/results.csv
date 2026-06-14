@@ -1,0 +1,80 @@
+event_id,participant_id,rank,medal,score_raw,points_awarded
+world_amateur_team_championships_2002_men,USA,1,gold,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,10.0
+world_amateur_team_championships_2002_men,FRA,2,silver,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,7.0
+world_amateur_team_championships_2002_men,AUS,3,bronze,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,5.0
+world_amateur_team_championships_2002_men,PHL,3,bronze,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,5.0
+world_amateur_team_championships_2002_women,AUS,1,gold,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,10.0
+world_amateur_team_championships_2002_women,THA,2,silver,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,7.0
+world_amateur_team_championships_2002_women,ESP,3,bronze,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,5.0
+world_amateur_team_championships_2004_men,USA,1,gold,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,10.0
+world_amateur_team_championships_2004_men,ESP,2,silver,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,7.0
+world_amateur_team_championships_2004_men,SWE,3,bronze,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,5.0
+world_amateur_team_championships_2004_women,SWE,1,gold,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,10.0
+world_amateur_team_championships_2004_women,CAN,2,silver,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,7.0
+world_amateur_team_championships_2004_women,USA,2,silver,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,7.0
+world_amateur_team_championships_2006_men,NLD,1,gold,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,10.0
+world_amateur_team_championships_2006_men,CAN,2,silver,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,7.0
+world_amateur_team_championships_2006_men,USA,3,bronze,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,5.0
+world_amateur_team_championships_2006_women,ZAF,1,gold,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,10.0
+world_amateur_team_championships_2006_women,SWE,2,silver,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,7.0
+world_amateur_team_championships_2006_women,COL,3,bronze,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,5.0
+world_amateur_team_championships_2008_men,SCO,1,gold,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,10.0
+world_amateur_team_championships_2008_men,USA,2,silver,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,7.0
+world_amateur_team_championships_2008_men,SWE,3,bronze,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,5.0
+world_amateur_team_championships_2008_women,SWE,1,gold,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,10.0
+world_amateur_team_championships_2008_women,ESP,2,silver,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,7.0
+world_amateur_team_championships_2008_women,USA,3,bronze,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,5.0
+world_amateur_team_championships_2010_men,FRA,1,gold,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,10.0
+world_amateur_team_championships_2010_men,DNK,2,silver,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,7.0
+world_amateur_team_championships_2010_men,USA,3,bronze,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,5.0
+world_amateur_team_championships_2010_women,KOR,1,gold,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,10.0
+world_amateur_team_championships_2010_women,USA,2,silver,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,7.0
+world_amateur_team_championships_2010_women,FRA,3,bronze,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,5.0
+world_amateur_team_championships_2010_women,SWE,3,bronze,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,5.0
+world_amateur_team_championships_2012_men,USA,1,gold,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,10.0
+world_amateur_team_championships_2012_men,MEX,2,silver,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,7.0
+world_amateur_team_championships_2012_men,DEU,3,bronze,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,5.0
+world_amateur_team_championships_2012_men,FRA,3,bronze,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,5.0
+world_amateur_team_championships_2012_men,KOR,3,bronze,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,5.0
+world_amateur_team_championships_2012_women,KOR,1,gold,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,10.0
+world_amateur_team_championships_2012_women,DEU,2,silver,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,7.0
+world_amateur_team_championships_2012_women,AUS,3,bronze,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,5.0
+world_amateur_team_championships_2012_women,FIN,3,bronze,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,5.0
+world_amateur_team_championships_2014_men,USA,1,gold,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,10.0
+world_amateur_team_championships_2014_men,CAN,2,silver,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,7.0
+world_amateur_team_championships_2014_men,ESP,3,bronze,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,5.0
+world_amateur_team_championships_2014_women,AUS,1,gold,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,10.0
+world_amateur_team_championships_2014_women,CAN,2,silver,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,7.0
+world_amateur_team_championships_2014_women,KOR,3,bronze,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,5.0
+world_amateur_team_championships_2016_men,AUS,1,gold,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,10.0
+world_amateur_team_championships_2016_men,ENG,2,silver,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,7.0
+world_amateur_team_championships_2016_men,AUT,3,bronze,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,5.0
+world_amateur_team_championships_2016_men,IRL,3,bronze,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,5.0
+world_amateur_team_championships_2016_women,KOR,1,gold,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,10.0
+world_amateur_team_championships_2016_women,CHE,2,silver,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,7.0
+world_amateur_team_championships_2016_women,IRL,3,bronze,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,5.0
+world_amateur_team_championships_2018_men,DNK,1,gold,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,10.0
+world_amateur_team_championships_2018_men,USA,2,silver,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,7.0
+world_amateur_team_championships_2018_men,ESP,3,bronze,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,5.0
+world_amateur_team_championships_2018_women,USA,1,gold,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,10.0
+world_amateur_team_championships_2018_women,JPN,2,silver,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,7.0
+world_amateur_team_championships_2018_women,KOR,3,bronze,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,5.0
+world_amateur_team_championships_2022_men,ITA,1,gold,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,10.0
+world_amateur_team_championships_2022_men,SWE,2,silver,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,7.0
+world_amateur_team_championships_2022_men,USA,3,bronze,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,5.0
+world_amateur_team_championships_2022_women,SWE,1,gold,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,10.0
+world_amateur_team_championships_2022_women,USA,2,silver,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,7.0
+world_amateur_team_championships_2022_women,DEU,3,bronze,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,5.0
+world_amateur_team_championships_2022_women,JPN,3,bronze,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,5.0
+world_amateur_team_championships_2023_men,USA,1,gold,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,10.0
+world_amateur_team_championships_2023_men,AUS,2,silver,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,7.0
+world_amateur_team_championships_2023_men,NOR,2,silver,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,7.0
+world_amateur_team_championships_2023_women,KOR,1,gold,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,10.0
+world_amateur_team_championships_2023_women,TPE,2,silver,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,7.0
+world_amateur_team_championships_2023_women,ESP,3,bronze,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,5.0
+world_amateur_team_championships_2025_men,ZAF,1,gold,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,10.0
+world_amateur_team_championships_2025_men,AUS,2,silver,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,7.0
+world_amateur_team_championships_2025_men,ENG,3,bronze,event=Eisenhower Trophy;source_url=https://en.wikipedia.org/wiki/Eisenhower_Trophy,5.0
+world_amateur_team_championships_2025_women,USA,1,gold,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,10.0
+world_amateur_team_championships_2025_women,ESP,2,silver,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,7.0
+world_amateur_team_championships_2025_women,KOR,2,silver,event=Espirito Santo Trophy;source_url=https://en.wikipedia.org/wiki/Espirito_Santo_Trophy,7.0

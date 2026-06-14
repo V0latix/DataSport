@@ -785,6 +785,39 @@ Comportement:
   - les epreuves open sont codees `gender=mixed`; vaulting hommes/femmes conserve `men`/`women`
   - scope strict `year > 2000`
 
+### 8n-h) Ingest World Amateur Team Championships (historique, golf par nations)
+
+```bash
+python -m pipelines.ingest --connector world_amateur_team_championships_history --year 2026
+```
+
+Comportement:
+- ingere le seed local:
+  - `data/raw/golf/world_amateur_team_championships_top3_seed.csv`
+  - seed reproductible via: `data/raw/golf/build_world_amateur_team_championships_seed.py`
+- cree la competition:
+  - `world_amateur_team_championships`
+- couvre les trophees par genre:
+  - hommes: Eisenhower Trophy
+  - femmes: Espirito Santo Trophy
+- couverture observee:
+  - `2002` -> `2025`
+  - edition `2020` exclue car annulee COVID
+- cree un event par edition + genre:
+  - `world_amateur_team_championships_<YYYY>_<men|women>`
+- stocke le podium source en conservant les egalites:
+  - profils acceptes: `1,2,3`, `1,2,2`, `1,2,3,3`, `1,2,3,3,3`
+- sport/discipline:
+  - sport `golf`
+  - discipline `golf`
+- participants:
+  - `type=team`
+  - `participant_id=country_code`
+- notes source:
+  - les podiums proviennent des tables Wikipedia Eisenhower Trophy et Espirito Santo Trophy
+  - les equipes constitutives comme `England` et `Scotland` conservent leurs codes existants (`ENG`, `SCO`)
+  - scope strict `year > 2000`
+
 ### 8o) Ingest UCI Road World Nation Ranking (historique, top 10 nations)
 
 ```bash
