@@ -98,6 +98,10 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] World Triathlon Championship Series / Championship Finals (`world_triathlon_championship_series_history`)
 - [x] FEI World Championships (equestrian) (`fei_world_championships_history`)
 - [x] World Amateur Team Championships (golf) (`world_amateur_team_championships_history`)
+- [ ] IIHF Ice Hockey World Championship (men/women)
+- [ ] FIG Artistic Gymnastics World Championships
+- [ ] FIS Alpine World Ski Championships
+- [ ] World Figure Skating Championships
 
 
 ### Classements mondiaux (Top 10)
