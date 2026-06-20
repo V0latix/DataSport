@@ -1,0 +1,3 @@
+competition_id,sport_id,name,season_year,level,start_date,end_date,source_id
+iihf_ice_hockey_world_championship_men,ice-hockey,IIHF Ice Hockey World Championship (Men),,national_team_tournament,2001-12-31,2026-12-31,iihf_ice_hockey_world_championship_history
+iihf_ice_hockey_world_championship_women,ice-hockey,IIHF Women's World Championship,,national_team_tournament,2001-12-31,2025-12-31,iihf_ice_hockey_world_championship_history

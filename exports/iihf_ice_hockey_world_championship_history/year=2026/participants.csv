@@ -1,0 +1,13 @@
+participant_id,type,display_name,country_id
+CZE,team,Czechia,CZE
+FIN,team,Finland,FIN
+SWE,team,Sweden,SWE
+USA,team,United States,USA
+SVK,team,Slovakia,SVK
+RUS,team,Russia,RUS
+CAN,team,Canada,CAN
+DEU,team,Germany,DEU
+CHE,team,Switzerland,CHE
+LVA,team,Latvia,LVA
+DNK,team,Denmark,DNK
+NOR,team,Norway,NOR

@@ -363,6 +363,29 @@ Comportement:
 - alimente le classement final top 4 par édition (1er, 2e, 3e, 4e)
 - `participant_id` est le code pays (avec mapping historique pour `URS`, `YUG`, `TCH`, `GDR`, `FRG`)
 
+### 8e2) Ingest IIHF Ice Hockey World Championship (historique, hommes + femmes)
+
+```bash
+python -m pipelines.ingest --connector iihf_ice_hockey_world_championship_history --year 2026
+```
+
+Comportement:
+- ingere le seed historique local:
+  - `data/raw/ice_hockey/iihf_ice_hockey_world_championship_top4_seed.csv`
+  - seed reproductible via: `data/raw/ice_hockey/build_iihf_ice_hockey_world_championship_seed.py`
+- cree deux competitions:
+  - `iihf_ice_hockey_world_championship_men`
+  - `iihf_ice_hockey_world_championship_women`
+- sport/discipline:
+  - sport `ice-hockey`
+  - discipline `ice-hockey`
+- cree un event par edition (`<competition_id>_<YYYY>`)
+- alimente le classement final top 4 par edition (profil strict `1,2,3,4`)
+- couverture actuelle post-2000:
+  - hommes: `2001` -> `2026`, hors `2020` annulee
+  - femmes: `2001` -> `2025`, hors annees non disputees/annulees; `2026` future en novembre
+- `participant_id` est le code pays
+
 ### 8f) Ingest ICC Cricket competitions mondiales (historique, ODI/Test/T20/Champions Trophy)
 
 ```bash

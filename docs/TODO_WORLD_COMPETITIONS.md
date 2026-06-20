@@ -45,6 +45,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] World Triathlon Championship Series (classements finaux H/F, top 3, 2009-2025; 2020 COVID single-race inclus) ajoute via `world_triathlon_championship_series_history` (2026-06-12)
 - [x] FEI World Championships (equestrian, podiums par epreuve, 2002-2022; WEG 2002-2018 + FEI Worlds 2022) ajoute via `fei_world_championships_history` (2026-06-13)
 - [x] World Amateur Team Championships (golf, Eisenhower Trophy H + Espirito Santo Trophy F, podiums 2002-2025; egalites conservees) ajoute via `world_amateur_team_championships_history` (2026-06-14)
+- [x] IIHF Ice Hockey World Championship (men/women, top 4 par edition, post-2000; hommes 2001-2026 hors 2020, femmes 2001-2025 selon annees disputees) ajoute via `iihf_ice_hockey_world_championship_history` (2026-06-20)
 
 ### Competitions mondiales
 
@@ -98,7 +99,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] World Triathlon Championship Series / Championship Finals (`world_triathlon_championship_series_history`)
 - [x] FEI World Championships (equestrian) (`fei_world_championships_history`)
 - [x] World Amateur Team Championships (golf) (`world_amateur_team_championships_history`)
-- [ ] IIHF Ice Hockey World Championship (men/women)
+- [x] IIHF Ice Hockey World Championship (men/women) (`iihf_ice_hockey_world_championship_history`)
 - [ ] FIG Artistic Gymnastics World Championships
 - [ ] FIS Alpine World Ski Championships
 - [ ] World Figure Skating Championships
@@ -135,6 +136,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] triathlon (World Triathlon Championship Series integree via `world_triathlon_championship_series_history`)
 - [x] equestrian (FEI World Championships integres via `fei_world_championships_history`)
 - [x] golf (World Amateur Team Championships integres via `world_amateur_team_championships_history`)
+- [x] ice-hockey (IIHF Ice Hockey World Championship integre via `iihf_ice_hockey_world_championship_history`)
 - [x] motorsport hors F1 (Formula E integree via `formulae_world_championship_history`)
 
 
