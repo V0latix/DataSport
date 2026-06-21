@@ -386,6 +386,36 @@ Comportement:
   - femmes: `2001` -> `2025`, hors annees non disputees/annulees; `2026` future en novembre
 - `participant_id` est le code pays
 
+### 8e3) Ingest FIG Artistic Gymnastics World Championships (historique, podiums par agrès)
+
+```bash
+python -m pipelines.ingest --connector fig_artistic_gymnastics_world_championships_history --year 2026
+```
+
+Comportement:
+- ingere le seed historique local:
+  - `data/raw/gymnastics/fig_artistic_gymnastics_world_championships_top3_seed.csv`
+  - seed reproductible via: `data/raw/gymnastics/build_fig_artistic_gymnastics_world_championships_seed.py`
+- cree la competition:
+  - `fig_artistic_gymnastics_world_championships`
+- sport/discipline:
+  - sport parent `gymnastics`
+  - disciplines `artistic-gymnastics-*` par agres/format: all-around, team, floor, vault, bars, beam, rings, pommel horse
+- cree un event par edition + genre + discipline:
+  - `fig_artistic_gymnastics_world_championships_<YYYY>_<men|women>_<discipline_key>`
+- stocke les podiums source en conservant les egalites:
+  - profils acceptes: `1,2,3`, `1,2,2`, `1,1,3`, `1,2,3,3`, `1,1,3,3`, `1,1,1,1`
+- couverture actuelle post-2000:
+  - `2001` -> `2025`, 250 events, 760 resultats
+  - annees sans edition mondiale senior artistique ou sans medailles publiees: `2004`, `2008`, `2012`, `2016`, `2020`, `2024`, `2026`
+- participants:
+  - `type=athlete` pour les epreuves individuelles
+  - `type=team` pour les epreuves par equipes nationales
+- notes source:
+  - les podiums proviennent des tables medalistes Wikipedia par edition annuelle
+  - `AIN` et `RGF` conservent les entites source non-ISO; les codes IOC historiques sont normalises vers ISO alpha-3 quand possible
+  - scope strict `year > 2000`
+
 ### 8f) Ingest ICC Cricket competitions mondiales (historique, ODI/Test/T20/Champions Trophy)
 
 ```bash

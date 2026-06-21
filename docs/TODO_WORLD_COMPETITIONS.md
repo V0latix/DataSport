@@ -46,6 +46,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] FEI World Championships (equestrian, podiums par epreuve, 2002-2022; WEG 2002-2018 + FEI Worlds 2022) ajoute via `fei_world_championships_history` (2026-06-13)
 - [x] World Amateur Team Championships (golf, Eisenhower Trophy H + Espirito Santo Trophy F, podiums 2002-2025; egalites conservees) ajoute via `world_amateur_team_championships_history` (2026-06-14)
 - [x] IIHF Ice Hockey World Championship (men/women, top 4 par edition, post-2000; hommes 2001-2026 hors 2020, femmes 2001-2025 selon annees disputees) ajoute via `iihf_ice_hockey_world_championship_history` (2026-06-20)
+- [x] FIG Artistic Gymnastics World Championships (podiums par epreuve H/F, post-2000; 250 events, 760 resultats, egalites conservees, 2001-2025) ajoute via `fig_artistic_gymnastics_world_championships_history` (2026-06-21)
 
 ### Competitions mondiales
 
@@ -100,7 +101,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] FEI World Championships (equestrian) (`fei_world_championships_history`)
 - [x] World Amateur Team Championships (golf) (`world_amateur_team_championships_history`)
 - [x] IIHF Ice Hockey World Championship (men/women) (`iihf_ice_hockey_world_championship_history`)
-- [ ] FIG Artistic Gymnastics World Championships
+- [x] FIG Artistic Gymnastics World Championships (`fig_artistic_gymnastics_world_championships_history`)
 - [ ] FIS Alpine World Ski Championships
 - [ ] World Figure Skating Championships
 
@@ -137,6 +138,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] equestrian (FEI World Championships integres via `fei_world_championships_history`)
 - [x] golf (World Amateur Team Championships integres via `world_amateur_team_championships_history`)
 - [x] ice-hockey (IIHF Ice Hockey World Championship integre via `iihf_ice_hockey_world_championship_history`)
+- [x] gymnastics (FIG Artistic Gymnastics World Championships integres via `fig_artistic_gymnastics_world_championships_history`)
 - [x] motorsport hors F1 (Formula E integree via `formulae_world_championship_history`)
 
 

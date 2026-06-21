@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-20T07:06:00+00:00",
+  "generated_at_utc": "2026-06-21T07:20:22+00:00",
   "master_db": "/Users/romain/dev/DataSport/data/processed/sports_nations.db",
   "format": "csv",
   "databases": {
@@ -17,15 +17,15 @@
         "results"
       ],
       "rows_synced": {
-        "countries": 321,
+        "countries": 322,
         "sports": 90,
-        "disciplines": 309,
-        "sources": 47,
+        "disciplines": 319,
+        "sources": 48,
         "sport_federations": 3,
-        "competitions": 86,
-        "events": 10671,
-        "participants": 21286,
-        "results": 44207
+        "competitions": 87,
+        "events": 10921,
+        "participants": 21610,
+        "results": 44967
       }
     },
     "lineage": {
@@ -34,7 +34,7 @@
         "raw_imports"
       ],
       "rows_synced": {
-        "raw_imports": 166
+        "raw_imports": 169
       }
     }
   }

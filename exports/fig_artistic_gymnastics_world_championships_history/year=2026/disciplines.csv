@@ -1,0 +1,11 @@
+discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
+artistic-gymnastics-balance-beam,Artistic Gymnastics - Balance beam,artistic-gymnastics-balance-beam,gymnastics,1.0,connector_fig_artistic_gymnastics_world_championships_history,2026-06-21T07:20:14+00:00
+artistic-gymnastics-floor-exercise,Artistic Gymnastics - Floor exercise,artistic-gymnastics-floor-exercise,gymnastics,1.0,connector_fig_artistic_gymnastics_world_championships_history,2026-06-21T07:20:14+00:00
+artistic-gymnastics-horizontal-bar,Artistic Gymnastics - Horizontal bar,artistic-gymnastics-horizontal-bar,gymnastics,1.0,connector_fig_artistic_gymnastics_world_championships_history,2026-06-21T07:20:14+00:00
+artistic-gymnastics-individual-all-around,Artistic Gymnastics - Individual all-around,artistic-gymnastics-individual-all-around,gymnastics,1.0,connector_fig_artistic_gymnastics_world_championships_history,2026-06-21T07:20:14+00:00
+artistic-gymnastics-parallel-bars,Artistic Gymnastics - Parallel bars,artistic-gymnastics-parallel-bars,gymnastics,1.0,connector_fig_artistic_gymnastics_world_championships_history,2026-06-21T07:20:14+00:00
+artistic-gymnastics-pommel-horse,Artistic Gymnastics - Pommel horse,artistic-gymnastics-pommel-horse,gymnastics,1.0,connector_fig_artistic_gymnastics_world_championships_history,2026-06-21T07:20:14+00:00
+artistic-gymnastics-still-rings,Artistic Gymnastics - Still rings,artistic-gymnastics-still-rings,gymnastics,1.0,connector_fig_artistic_gymnastics_world_championships_history,2026-06-21T07:20:14+00:00
+artistic-gymnastics-team,Artistic Gymnastics - Team,artistic-gymnastics-team,gymnastics,1.0,connector_fig_artistic_gymnastics_world_championships_history,2026-06-21T07:20:14+00:00
+artistic-gymnastics-uneven-bars,Artistic Gymnastics - Uneven bars,artistic-gymnastics-uneven-bars,gymnastics,1.0,connector_fig_artistic_gymnastics_world_championships_history,2026-06-21T07:20:14+00:00
+artistic-gymnastics-vault,Artistic Gymnastics - Vault,artistic-gymnastics-vault,gymnastics,1.0,connector_fig_artistic_gymnastics_world_championships_history,2026-06-21T07:20:14+00:00
