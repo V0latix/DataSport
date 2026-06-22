@@ -416,6 +416,38 @@ Comportement:
   - `AIN` et `RGF` conservent les entites source non-ISO; les codes IOC historiques sont normalises vers ISO alpha-3 quand possible
   - scope strict `year > 2000`
 
+### 8e4) Ingest FIS Alpine World Ski Championships (historique, podiums ski alpin)
+
+```bash
+python -m pipelines.ingest --connector fis_alpine_world_ski_championships_history --year 2026
+```
+
+Comportement:
+- ingere le seed historique local:
+  - `data/raw/skiing/fis_alpine_world_ski_championships_top3_seed.csv`
+  - seed reproductible via: `data/raw/skiing/build_fis_alpine_world_ski_championships_seed.py`
+- cree la competition:
+  - `fis_alpine_world_ski_championships`
+- sport/discipline:
+  - sport parent `skiing`
+  - discipline existante `alpine-skiing`
+- cree un event par edition + genre + epreuve:
+  - `fis_alpine_world_ski_championships_<YYYY>_<men|women|mixed>_<event_key>`
+- couvre les epreuves:
+  - downhill, super-G, giant slalom, slalom, combined, mixed team, team combined, parallel giant slalom
+- stocke les podiums source en conservant les egalites:
+  - profils acceptes: `1,2,3`, `1,2,2`, `1,1,3`, `1,2,3,3`
+- couverture actuelle post-2000:
+  - `2001` -> `2025`, 144 events, 434 resultats
+  - championnats biennaux uniquement; `2026` sans edition FIS Alpine Worlds
+- participants:
+  - `type=athlete` pour les epreuves individuelles
+  - `type=team` pour le mixed team et le team combined
+- notes source:
+  - les podiums proviennent de la page Wikipedia des medalistes FIS Alpine
+  - l'edition 2003 est completee depuis la page annuelle 2003 car la page liste a ses cellules de medailles vides pour cette edition
+  - scope strict `year > 2000`
+
 ### 8f) Ingest ICC Cricket competitions mondiales (historique, ODI/Test/T20/Champions Trophy)
 
 ```bash

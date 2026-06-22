@@ -12,6 +12,7 @@ from .fei_world_championships_history_connector import FeiWorldChampionshipsHist
 from .fig_artistic_gymnastics_world_championships_history_connector import (
     FigArtisticGymnasticsWorldChampionshipsHistoryConnector,
 )
+from .fis_alpine_world_ski_championships_history_connector import FisAlpineWorldSkiChampionshipsHistoryConnector
 from .formulae_world_championship_history_connector import FormulaEWorldChampionshipHistoryConnector
 from .formula1_world_championship_history_connector import Formula1WorldChampionshipHistoryConnector
 from .fivb_volleyball_world_championship_history_connector import FivbVolleyballWorldChampionshipHistoryConnector
@@ -73,6 +74,7 @@ CONNECTOR_REGISTRY = {
     "fie_world_championships_history": FieWorldChampionshipsHistoryConnector,
     "fei_world_championships_history": FeiWorldChampionshipsHistoryConnector,
     "fig_artistic_gymnastics_world_championships_history": FigArtisticGymnasticsWorldChampionshipsHistoryConnector,
+    "fis_alpine_world_ski_championships_history": FisAlpineWorldSkiChampionshipsHistoryConnector,
     "formulae_world_championship_history": FormulaEWorldChampionshipHistoryConnector,
     "formula1_world_championship_history": Formula1WorldChampionshipHistoryConnector,
     "fivb_volleyball_world_championship_history": FivbVolleyballWorldChampionshipHistoryConnector,
