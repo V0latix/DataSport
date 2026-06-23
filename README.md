@@ -448,6 +448,38 @@ Comportement:
   - l'edition 2003 est completee depuis la page annuelle 2003 car la page liste a ses cellules de medailles vides pour cette edition
   - scope strict `year > 2000`
 
+### 8e5) Ingest World Figure Skating Championships (historique, podiums patinage artistique)
+
+```bash
+python -m pipelines.ingest --connector world_figure_skating_championships_history --year 2026
+```
+
+Comportement:
+- ingere le seed historique local:
+  - `data/raw/skating/world_figure_skating_championships_top3_seed.csv`
+  - seed reproductible via: `data/raw/skating/build_world_figure_skating_championships_seed.py`
+- cree la competition:
+  - `world_figure_skating_championships`
+- sport/discipline:
+  - sport parent `skating`
+  - discipline existante `figure-skating`
+- cree un event par edition + genre + epreuve:
+  - `world_figure_skating_championships_<YYYY>_<men|women|mixed>_<event_key>`
+- couvre les epreuves:
+  - men's singles, women's singles, pairs, ice dance
+- stocke les podiums source en profil strict:
+  - profils acceptes: `1,2,3`
+- couverture actuelle post-2000:
+  - `2001` -> `2026`, hors `2020` annulee
+  - 100 events, 300 resultats
+- participants:
+  - `type=athlete` pour les simples H/F
+  - `type=team` pour pairs et ice dance
+- notes source:
+  - les podiums proviennent des pages Wikipedia annuelles des championnats
+  - les pages legacy 2001-2008 sont parsees depuis les tables de resultats annuels
+  - scope strict `year > 2000`
+
 ### 8f) Ingest ICC Cricket competitions mondiales (historique, ODI/Test/T20/Champions Trophy)
 
 ```bash

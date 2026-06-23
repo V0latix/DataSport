@@ -1,0 +1,2 @@
+competition_id,sport_id,name,season_year,level,start_date,end_date,source_id
+world_figure_skating_championships,skating,World Figure Skating Championships,,international_championship,2001-12-31,2026-12-31,world_figure_skating_championships_history

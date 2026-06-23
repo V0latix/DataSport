@@ -48,6 +48,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] IIHF Ice Hockey World Championship (men/women, top 4 par edition, post-2000; hommes 2001-2026 hors 2020, femmes 2001-2025 selon annees disputees) ajoute via `iihf_ice_hockey_world_championship_history` (2026-06-20)
 - [x] FIG Artistic Gymnastics World Championships (podiums par epreuve H/F, post-2000; 250 events, 760 resultats, egalites conservees, 2001-2025) ajoute via `fig_artistic_gymnastics_world_championships_history` (2026-06-21)
 - [x] FIS Alpine World Ski Championships (podiums ski alpin H/F/mixed, post-2000; 144 events, 434 resultats, egalites conservees, 2001-2025) ajoute via `fis_alpine_world_ski_championships_history` (2026-06-22)
+- [x] World Figure Skating Championships (podiums par epreuve H/F/mixed, post-2000; 100 events, 300 resultats, 2001-2026 hors 2020 annulee) ajoute via `world_figure_skating_championships_history` (2026-06-23)
 
 ### Competitions mondiales
 
@@ -104,7 +105,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] IIHF Ice Hockey World Championship (men/women) (`iihf_ice_hockey_world_championship_history`)
 - [x] FIG Artistic Gymnastics World Championships (`fig_artistic_gymnastics_world_championships_history`)
 - [x] FIS Alpine World Ski Championships (`fis_alpine_world_ski_championships_history`)
-- [ ] World Figure Skating Championships
+- [x] World Figure Skating Championships (`world_figure_skating_championships_history`)
 
 
 ### Classements mondiaux (Top 10)
@@ -141,6 +142,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] ice-hockey (IIHF Ice Hockey World Championship integre via `iihf_ice_hockey_world_championship_history`)
 - [x] gymnastics (FIG Artistic Gymnastics World Championships integres via `fig_artistic_gymnastics_world_championships_history`)
 - [x] skiing (FIS Alpine World Ski Championships integres via `fis_alpine_world_ski_championships_history`)
+- [x] skating (World Figure Skating Championships integres via `world_figure_skating_championships_history`)
 - [x] motorsport hors F1 (Formula E integree via `formulae_world_championship_history`)
 
 

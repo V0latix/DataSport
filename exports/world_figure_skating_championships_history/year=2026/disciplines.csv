@@ -1,0 +1,2 @@
+discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
+figure-skating,Figure skating,figure-skating,skating,1.0,connector_world_figure_skating_championships_history,2026-06-23T07:12:49+00:00
