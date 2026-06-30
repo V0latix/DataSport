@@ -106,6 +106,9 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] FIG Artistic Gymnastics World Championships (`fig_artistic_gymnastics_world_championships_history`)
 - [x] FIS Alpine World Ski Championships (`fis_alpine_world_ski_championships_history`)
 - [x] World Figure Skating Championships (`world_figure_skating_championships_history`)
+- [ ] World Weightlifting Championships
+- [ ] World Karate Championships
+- [ ] World Boxing Championships
 
 
 ### Classements mondiaux (Top 10)
@@ -144,6 +147,9 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] skiing (FIS Alpine World Ski Championships integres via `fis_alpine_world_ski_championships_history`)
 - [x] skating (World Figure Skating Championships integres via `world_figure_skating_championships_history`)
 - [x] motorsport hors F1 (Formula E integree via `formulae_world_championship_history`)
+- [ ] weightlifting (World Weightlifting Championships a integrer)
+- [ ] karate (World Karate Championships a integrer)
+- [ ] boxing (World Boxing Championships a integrer)
 
 
 ### Qualite des donnees `competition/events`
