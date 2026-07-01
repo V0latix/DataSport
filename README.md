@@ -480,6 +480,38 @@ Comportement:
   - les pages legacy 2001-2008 sont parsees depuis les tables de resultats annuels
   - scope strict `year > 2000`
 
+### 8e6) Ingest World Weightlifting Championships (historique, podiums haltérophilie)
+
+```bash
+python -m pipelines.ingest --connector world_weightlifting_championships_history --year 2026
+```
+
+Comportement:
+- ingere le seed historique local:
+  - `data/raw/weightlifting/world_weightlifting_championships_top3_seed.csv`
+  - seed reproductible via: `data/raw/weightlifting/build_world_weightlifting_championships_seed.py`
+- cree la competition:
+  - `world_weightlifting_championships`
+- sport/discipline:
+  - sport parent `weightlifting`
+  - discipline existante `weightlifting`
+- cree un event par edition + genre + categorie de poids:
+  - `world_weightlifting_championships_<YYYY>_<men|women>_<event_key>`
+- couvre les categories historiques:
+  - flyweight, bantamweight, featherweight, lightweight, middleweight, light heavyweight, middle heavyweight, first heavyweight, heavyweight, super heavyweight
+- stocke les podiums source en profil strict:
+  - profils acceptes: `1,2,3`
+- couverture actuelle post-2000:
+  - `2001` -> `2025`, hors annees sans edition mondiale retenue dans la source (`2004`, `2008`, `2012`, `2016`, `2020`, `2026`)
+  - 332 events, 996 resultats
+- participants:
+  - `type=athlete`
+- notes source:
+  - les podiums proviennent des pages Wikipedia de listes des medailles hommes/femmes
+  - les tableaux source correspondent aux podiums Total par categorie de poids
+  - les codes pays source sont conserves, y compris les codes CIO non ISO (`INA`, `NGR`, `TPE`, etc.)
+  - scope strict `year > 2000`
+
 ### 8f) Ingest ICC Cricket competitions mondiales (historique, ODI/Test/T20/Champions Trophy)
 
 ```bash

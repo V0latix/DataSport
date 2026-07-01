@@ -39,6 +39,7 @@ def main() -> None:
             "world_figure_skating_championships_history | "
             "world_judo_championships_history | world_rowing_championships_history | "
             "world_wrestling_championships_history | "
+            "world_weightlifting_championships_history | "
             "icf_canoe_world_championships_history | "
             "paris_2024_summer_olympics | olympics_keith_history | "
             "uci_road_cycling_major_competitions_history | "

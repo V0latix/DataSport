@@ -57,6 +57,7 @@ from .world_rowing_championships_history_connector import WorldRowingChampionshi
 from .world_sailing_championships_history_connector import WorldSailingChampionshipsHistoryConnector
 from .world_taekwondo_championships_history_connector import WorldTaekwondoChampionshipsHistoryConnector
 from .world_triathlon_championship_series_history_connector import WorldTriathlonChampionshipSeriesHistoryConnector
+from .world_weightlifting_championships_history_connector import WorldWeightliftingChampionshipsHistoryConnector
 from .world_wrestling_championships_history_connector import WorldWrestlingChampionshipsHistoryConnector
 from .world_rugby_ranking_history_connector import WorldRugbyRankingHistoryConnector
 
@@ -108,6 +109,7 @@ CONNECTOR_REGISTRY = {
     "world_sailing_championships_history": WorldSailingChampionshipsHistoryConnector,
     "world_taekwondo_championships_history": WorldTaekwondoChampionshipsHistoryConnector,
     "world_triathlon_championship_series_history": WorldTriathlonChampionshipSeriesHistoryConnector,
+    "world_weightlifting_championships_history": WorldWeightliftingChampionshipsHistoryConnector,
     "world_wrestling_championships_history": WorldWrestlingChampionshipsHistoryConnector,
     "paris_2024_summer_olympics": Paris2024SummerOlympicsConnector,
     "olympics_keith_history": OlympicsKeithHistoryConnector,

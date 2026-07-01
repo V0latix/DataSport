@@ -49,6 +49,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] FIG Artistic Gymnastics World Championships (podiums par epreuve H/F, post-2000; 250 events, 760 resultats, egalites conservees, 2001-2025) ajoute via `fig_artistic_gymnastics_world_championships_history` (2026-06-21)
 - [x] FIS Alpine World Ski Championships (podiums ski alpin H/F/mixed, post-2000; 144 events, 434 resultats, egalites conservees, 2001-2025) ajoute via `fis_alpine_world_ski_championships_history` (2026-06-22)
 - [x] World Figure Skating Championships (podiums par epreuve H/F/mixed, post-2000; 100 events, 300 resultats, 2001-2026 hors 2020 annulee) ajoute via `world_figure_skating_championships_history` (2026-06-23)
+- [x] World Weightlifting Championships (podiums Total par categorie H/F, post-2000; 332 events, 996 resultats, 2001-2025 hors annees sans edition) ajoute via `world_weightlifting_championships_history` (2026-07-01)
 
 ### Competitions mondiales
 
@@ -106,7 +107,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] FIG Artistic Gymnastics World Championships (`fig_artistic_gymnastics_world_championships_history`)
 - [x] FIS Alpine World Ski Championships (`fis_alpine_world_ski_championships_history`)
 - [x] World Figure Skating Championships (`world_figure_skating_championships_history`)
-- [ ] World Weightlifting Championships
+- [x] World Weightlifting Championships (`world_weightlifting_championships_history`)
 - [ ] World Karate Championships
 - [ ] World Boxing Championships
 
@@ -147,7 +148,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] skiing (FIS Alpine World Ski Championships integres via `fis_alpine_world_ski_championships_history`)
 - [x] skating (World Figure Skating Championships integres via `world_figure_skating_championships_history`)
 - [x] motorsport hors F1 (Formula E integree via `formulae_world_championship_history`)
-- [ ] weightlifting (World Weightlifting Championships a integrer)
+- [x] weightlifting (World Weightlifting Championships integres via `world_weightlifting_championships_history`)
 - [ ] karate (World Karate Championships a integrer)
 - [ ] boxing (World Boxing Championships a integrer)
 
