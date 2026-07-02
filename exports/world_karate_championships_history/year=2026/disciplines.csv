@@ -1,0 +1,2 @@
+discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
+karate,Karate,karate,karate,1.0,connector_world_karate_championships_history,2026-07-02T09:25:12+00:00

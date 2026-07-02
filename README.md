@@ -512,6 +512,39 @@ Comportement:
   - les codes pays source sont conserves, y compris les codes CIO non ISO (`INA`, `NGR`, `TPE`, etc.)
   - scope strict `year > 2000`
 
+### 8e7) Ingest World Karate Championships (historique, podiums karaté)
+
+```bash
+python -m pipelines.ingest --connector world_karate_championships_history --year 2026
+```
+
+Comportement:
+- ingere le seed historique local:
+  - `data/raw/karate/world_karate_championships_top4_seed.csv`
+  - seed reproductible via: `data/raw/karate/build_world_karate_championships_seed.py`
+- cree la competition:
+  - `world_karate_championships`
+- sport/discipline:
+  - sport parent `karate`
+  - discipline existante `karate`
+- cree un event par edition + genre + epreuve:
+  - `world_karate_championships_<YYYY>_<men|women>_<event_key>`
+- couvre les epreuves seniors WKF:
+  - kata, team kata, kumite par categorie de poids, kumite open, team kumite selon les editions
+- stocke les podiums source avec double bronze:
+  - profils acceptes: `1,2,3,3`
+- couverture actuelle post-2000:
+  - `2002` -> `2025`, championnats biennaux ou decales selon la source
+  - 192 events, 768 resultats
+- participants:
+  - `type=athlete` pour les epreuves individuelles
+  - `type=team` pour team kata et team kumite
+- notes source:
+  - les podiums proviennent des pages Wikipedia annuelles des championnats
+  - Para Karate et le Team World Championship/Cup separe sont exclus
+  - les codes sportifs non ISO sont conserves (`ANA`, `RKF`, `WKF1`, `WKF2`, `YUG`, etc.)
+  - scope strict `year > 2000`
+
 ### 8f) Ingest ICC Cricket competitions mondiales (historique, ODI/Test/T20/Champions Trophy)
 
 ```bash

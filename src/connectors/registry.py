@@ -53,6 +53,7 @@ from .world_archery_championships_history_connector import WorldArcheryChampions
 from .world_amateur_team_championships_history_connector import WorldAmateurTeamChampionshipsHistoryConnector
 from .world_figure_skating_championships_history_connector import WorldFigureSkatingChampionshipsHistoryConnector
 from .world_judo_championships_history_connector import WorldJudoChampionshipsHistoryConnector
+from .world_karate_championships_history_connector import WorldKarateChampionshipsHistoryConnector
 from .world_rowing_championships_history_connector import WorldRowingChampionshipsHistoryConnector
 from .world_sailing_championships_history_connector import WorldSailingChampionshipsHistoryConnector
 from .world_taekwondo_championships_history_connector import WorldTaekwondoChampionshipsHistoryConnector
@@ -105,6 +106,7 @@ CONNECTOR_REGISTRY = {
     "world_amateur_team_championships_history": WorldAmateurTeamChampionshipsHistoryConnector,
     "world_figure_skating_championships_history": WorldFigureSkatingChampionshipsHistoryConnector,
     "world_judo_championships_history": WorldJudoChampionshipsHistoryConnector,
+    "world_karate_championships_history": WorldKarateChampionshipsHistoryConnector,
     "world_rowing_championships_history": WorldRowingChampionshipsHistoryConnector,
     "world_sailing_championships_history": WorldSailingChampionshipsHistoryConnector,
     "world_taekwondo_championships_history": WorldTaekwondoChampionshipsHistoryConnector,

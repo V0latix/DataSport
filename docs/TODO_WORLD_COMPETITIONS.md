@@ -50,6 +50,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] FIS Alpine World Ski Championships (podiums ski alpin H/F/mixed, post-2000; 144 events, 434 resultats, egalites conservees, 2001-2025) ajoute via `fis_alpine_world_ski_championships_history` (2026-06-22)
 - [x] World Figure Skating Championships (podiums par epreuve H/F/mixed, post-2000; 100 events, 300 resultats, 2001-2026 hors 2020 annulee) ajoute via `world_figure_skating_championships_history` (2026-06-23)
 - [x] World Weightlifting Championships (podiums Total par categorie H/F, post-2000; 332 events, 996 resultats, 2001-2025 hors annees sans edition) ajoute via `world_weightlifting_championships_history` (2026-07-01)
+- [x] World Karate Championships (podiums WKF seniors H/F avec double bronze, post-2000; 192 events, 768 resultats, 2002-2025; Para Karate exclu) ajoute via `world_karate_championships_history` (2026-07-02)
 
 ### Competitions mondiales
 
@@ -108,7 +109,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] FIS Alpine World Ski Championships (`fis_alpine_world_ski_championships_history`)
 - [x] World Figure Skating Championships (`world_figure_skating_championships_history`)
 - [x] World Weightlifting Championships (`world_weightlifting_championships_history`)
-- [ ] World Karate Championships
+- [x] World Karate Championships (`world_karate_championships_history`)
 - [ ] World Boxing Championships
 
 
@@ -149,7 +150,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] skating (World Figure Skating Championships integres via `world_figure_skating_championships_history`)
 - [x] motorsport hors F1 (Formula E integree via `formulae_world_championship_history`)
 - [x] weightlifting (World Weightlifting Championships integres via `world_weightlifting_championships_history`)
-- [ ] karate (World Karate Championships a integrer)
+- [x] karate (World Karate Championships integres via `world_karate_championships_history`)
 - [ ] boxing (World Boxing Championships a integrer)
 
 

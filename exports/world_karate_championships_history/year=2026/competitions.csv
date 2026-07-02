@@ -1,0 +1,2 @@
+competition_id,sport_id,name,season_year,level,start_date,end_date,source_id
+world_karate_championships,karate,World Karate Championships,,international_championship,2002-12-31,2025-12-31,world_karate_championships_history
