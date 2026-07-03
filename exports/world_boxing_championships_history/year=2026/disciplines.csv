@@ -1,0 +1,2 @@
+discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
+boxing,Boxing,boxing,boxing,1.0,connector_world_boxing_championships_history,2026-07-03T09:33:52+00:00

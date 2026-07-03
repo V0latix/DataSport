@@ -545,6 +545,39 @@ Comportement:
   - les codes sportifs non ISO sont conserves (`ANA`, `RKF`, `WKF1`, `WKF2`, `YUG`, etc.)
   - scope strict `year > 2000`
 
+### 8e8) Ingest World Boxing Championships (historique, podiums boxe)
+
+```bash
+python -m pipelines.ingest --connector world_boxing_championships_history --year 2026
+```
+
+Comportement:
+- ingere le seed historique local:
+  - `data/raw/boxing/world_boxing_championships_top4_seed.csv`
+  - seed reproductible via: `data/raw/boxing/build_world_boxing_championships_seed.py`
+- cree trois competitions:
+  - `iba_mens_world_boxing_championships`
+  - `iba_womens_world_boxing_championships`
+  - `world_boxing_championships`
+- sport/discipline:
+  - sport parent `boxing`
+  - discipline existante `boxing`
+- cree un event par competition + edition + genre + categorie de poids:
+  - `<competition_id>_<YYYY>_<men|women>_<event_key>`
+- stocke les podiums source:
+  - profils acceptes: `1,2,3,3`
+  - profil `1,2,3` accepte quand la source officielle ne liste qu'un bronze
+- couverture actuelle post-2000:
+  - `2001` -> `2025`, selon les editions IBA et World Boxing disponibles dans les sources
+  - 262 events, 1047 resultats
+- participants:
+  - `type=athlete`
+- notes source:
+  - les podiums proviennent des pages Wikipedia annuelles IBA hommes/femmes et World Boxing 2025
+  - les doubles bronzes compactes dans certaines cellules sources sont separes par athlete/pays
+  - les codes sportifs non ISO sont conserves (`BUL`, `GER`, `PHI`, `SCG`, `TBF`, `TPE`, etc.)
+  - scope strict `year > 2000`
+
 ### 8f) Ingest ICC Cricket competitions mondiales (historique, ODI/Test/T20/Champions Trophy)
 
 ```bash

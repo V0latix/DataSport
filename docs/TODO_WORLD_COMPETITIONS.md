@@ -51,6 +51,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] World Figure Skating Championships (podiums par epreuve H/F/mixed, post-2000; 100 events, 300 resultats, 2001-2026 hors 2020 annulee) ajoute via `world_figure_skating_championships_history` (2026-06-23)
 - [x] World Weightlifting Championships (podiums Total par categorie H/F, post-2000; 332 events, 996 resultats, 2001-2025 hors annees sans edition) ajoute via `world_weightlifting_championships_history` (2026-07-01)
 - [x] World Karate Championships (podiums WKF seniors H/F avec double bronze, post-2000; 192 events, 768 resultats, 2002-2025; Para Karate exclu) ajoute via `world_karate_championships_history` (2026-07-02)
+- [x] World Boxing Championships (IBA men/women + World Boxing, podiums H/F par categorie, post-2000; 262 events, 1047 resultats, 2001-2025; profils double bronze et single bronze source) ajoute via `world_boxing_championships_history` (2026-07-03)
 
 ### Competitions mondiales
 
@@ -110,7 +111,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] World Figure Skating Championships (`world_figure_skating_championships_history`)
 - [x] World Weightlifting Championships (`world_weightlifting_championships_history`)
 - [x] World Karate Championships (`world_karate_championships_history`)
-- [ ] World Boxing Championships
+- [x] World Boxing Championships (`world_boxing_championships_history`)
 
 
 ### Classements mondiaux (Top 10)
@@ -151,7 +152,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] motorsport hors F1 (Formula E integree via `formulae_world_championship_history`)
 - [x] weightlifting (World Weightlifting Championships integres via `world_weightlifting_championships_history`)
 - [x] karate (World Karate Championships integres via `world_karate_championships_history`)
-- [ ] boxing (World Boxing Championships a integrer)
+- [x] boxing (World Boxing Championships integres via `world_boxing_championships_history`)
 
 
 ### Qualite des donnees `competition/events`
