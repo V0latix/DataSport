@@ -578,6 +578,40 @@ Comportement:
   - les codes sportifs non ISO sont conserves (`BUL`, `GER`, `PHI`, `SCG`, `TBF`, `TPE`, etc.)
   - scope strict `year > 2000`
 
+### 8e9) Ingest Biathlon World Championships (historique, podiums biathlon)
+
+```bash
+python -m pipelines.ingest --connector biathlon_world_championships_history --year 2026
+```
+
+Comportement:
+- ingere le seed historique local:
+  - `data/raw/biathlon/biathlon_world_championships_top3_seed.csv`
+  - seed reproductible via: `data/raw/biathlon/build_biathlon_world_championships_seed.py`
+- cree la competition:
+  - `biathlon_world_championships`
+- sport/discipline:
+  - sport parent `biathlon`
+  - discipline existante `biathlon`
+- cree un event par edition + genre + epreuve:
+  - `biathlon_world_championships_<YYYY>_<men|women|mixed>_<event_key>`
+- couvre les epreuves mondiales:
+  - individuel, sprint, poursuite, mass start, relais H/F, relais mixte et single mixed relay
+- stocke les podiums source:
+  - profils acceptes: `1,2,3`
+  - profil `1,3` accepte pour la poursuite femmes 2003, ou l'argent n'est pas attribue dans la source
+- couverture actuelle post-2000:
+  - `2001` -> `2025`, selon les tableaux event medalists de la page source
+  - 216 events, 647 resultats
+- participants:
+  - `type=athlete` pour les epreuves individuelles
+  - `type=team` pour les relais, avec membres conserves dans `score_raw`
+- notes source:
+  - les podiums proviennent de la page Wikipedia centrale Biathlon World Championships
+  - les relais sont modelises par nation; les equipes d'une meme nation dans le meme event sont distinguees par leurs membres
+  - les codes sportifs non ISO sont conserves (`GER`, `SLO`, `BUL`, etc.)
+  - scope strict `year > 2000`
+
 ### 8f) Ingest ICC Cricket competitions mondiales (historique, ODI/Test/T20/Champions Trophy)
 
 ```bash

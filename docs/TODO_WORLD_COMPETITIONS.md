@@ -52,6 +52,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] World Weightlifting Championships (podiums Total par categorie H/F, post-2000; 332 events, 996 resultats, 2001-2025 hors annees sans edition) ajoute via `world_weightlifting_championships_history` (2026-07-01)
 - [x] World Karate Championships (podiums WKF seniors H/F avec double bronze, post-2000; 192 events, 768 resultats, 2002-2025; Para Karate exclu) ajoute via `world_karate_championships_history` (2026-07-02)
 - [x] World Boxing Championships (IBA men/women + World Boxing, podiums H/F par categorie, post-2000; 262 events, 1047 resultats, 2001-2025; profils double bronze et single bronze source) ajoute via `world_boxing_championships_history` (2026-07-03)
+- [x] Biathlon World Championships (podiums H/F/mixed par epreuve, post-2000; 216 events, 647 resultats, 2001-2025; relais modelises par nation) ajoute via `biathlon_world_championships_history` (2026-07-05)
 
 ### Competitions mondiales
 
@@ -112,7 +113,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] World Weightlifting Championships (`world_weightlifting_championships_history`)
 - [x] World Karate Championships (`world_karate_championships_history`)
 - [x] World Boxing Championships (`world_boxing_championships_history`)
-- [ ] Biathlon World Championships
+- [x] Biathlon World Championships (`biathlon_world_championships_history`)
 
 
 ### Classements mondiaux (Top 10)
@@ -136,7 +137,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 
 ### Sports deja presents dans `sports.csv` mais encore sans couverture competition dediee
 
-- [ ] biathlon (Biathlon World Championships a integrer; biathlon present uniquement via `olympics_keith_history` a ce stade)
+- [x] biathlon (Biathlon World Championships integres via `biathlon_world_championships_history`)
 - [x] hockey (FIH World Cup integree via `fih_hockey_world_cup_history`)
 - [x] rowing (World Rowing Championships integre via `world_rowing_championships_history`)
 - [x] canoe (ICF Canoe Sprint/Slalom World Championships integres via `icf_canoe_world_championships_history`)
