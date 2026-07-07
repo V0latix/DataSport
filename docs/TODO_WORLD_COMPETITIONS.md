@@ -114,6 +114,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] World Karate Championships (`world_karate_championships_history`)
 - [x] World Boxing Championships (`world_boxing_championships_history`)
 - [x] Biathlon World Championships (`biathlon_world_championships_history`)
+- [ ] World Curling Championships
 
 
 ### Classements mondiaux (Top 10)
@@ -137,6 +138,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 
 ### Sports deja presents dans `sports.csv` mais encore sans couverture competition dediee
 
+- [ ] curling (World Curling Championships a integrer; aucune competition curling dediee detectee)
 - [x] biathlon (Biathlon World Championships integres via `biathlon_world_championships_history`)
 - [x] hockey (FIH World Cup integree via `fih_hockey_world_cup_history`)
 - [x] rowing (World Rowing Championships integre via `world_rowing_championships_history`)
