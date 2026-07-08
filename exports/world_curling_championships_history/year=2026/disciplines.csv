@@ -1,0 +1,2 @@
+discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
+curling,Curling,curling,curling,1.0,connector_world_curling_championships_history,2026-07-08T08:35:30+00:00

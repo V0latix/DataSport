@@ -1,0 +1,5 @@
+competition_id,sport_id,name,season_year,level,start_date,end_date,source_id
+world_mens_curling_championship,curling,World Men's Curling Championship,,international_championship,2001-12-31,2026-12-31,world_curling_championships_history
+world_mixed_curling_championship,curling,World Mixed Curling Championship,,international_championship,2015-12-31,2024-12-31,world_curling_championships_history
+world_mixed_doubles_curling_championship,curling,World Mixed Doubles Curling Championship,,international_championship,2008-12-31,2026-12-31,world_curling_championships_history
+world_womens_curling_championship,curling,World Women's Curling Championship,,international_championship,2001-12-31,2026-12-31,world_curling_championships_history

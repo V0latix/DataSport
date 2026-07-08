@@ -1,0 +1,229 @@
+event_id,participant_id,rank,medal,score_raw,points_awarded
+world_mens_curling_championship_2001,SWE,1,gold,event=Men;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mens_curling_championship_2001,SUI,2,silver,event=Men;source_country=Switzerland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mens_curling_championship_2001,NOR,3,bronze,event=Men;source_country=Norway;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mens_curling_championship_2002,CAN,1,gold,event=Men;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mens_curling_championship_2002,NOR,2,silver,event=Men;source_country=Norway;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mens_curling_championship_2002,SCO,3,bronze,event=Men;source_country=Scotland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mens_curling_championship_2003,CAN,1,gold,event=Men;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mens_curling_championship_2003,SUI,2,silver,event=Men;source_country=Switzerland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mens_curling_championship_2003,NOR,3,bronze,event=Men;source_country=Norway;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mens_curling_championship_2004,SWE,1,gold,event=Men;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mens_curling_championship_2004,GER,2,silver,event=Men;source_country=Germany;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mens_curling_championship_2004,CAN,3,bronze,event=Men;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mens_curling_championship_2005,CAN,1,gold,event=Men;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mens_curling_championship_2005,SCO,2,silver,event=Men;source_country=Scotland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mens_curling_championship_2005,GER,3,bronze,event=Men;source_country=Germany;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mens_curling_championship_2006,SCO,1,gold,event=Men;source_country=Scotland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mens_curling_championship_2006,CAN,2,silver,event=Men;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mens_curling_championship_2006,NOR,3,bronze,event=Men;source_country=Norway;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mens_curling_championship_2007,CAN,1,gold,event=Men;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mens_curling_championship_2007,GER,2,silver,event=Men;source_country=Germany;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mens_curling_championship_2007,USA,3,bronze,event=Men;source_country=United States;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mens_curling_championship_2008,CAN,1,gold,event=Men;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mens_curling_championship_2008,SCO,2,silver,event=Men;source_country=Scotland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mens_curling_championship_2008,NOR,3,bronze,event=Men;source_country=Norway;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mens_curling_championship_2009,SCO,1,gold,event=Men;source_country=Scotland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mens_curling_championship_2009,CAN,2,silver,event=Men;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mens_curling_championship_2009,NOR,3,bronze,event=Men;source_country=Norway;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mens_curling_championship_2010,CAN,1,gold,event=Men;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mens_curling_championship_2010,NOR,2,silver,event=Men;source_country=Norway;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mens_curling_championship_2010,SCO,3,bronze,event=Men;source_country=Scotland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mens_curling_championship_2011,CAN,1,gold,event=Men;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mens_curling_championship_2011,SCO,2,silver,event=Men;source_country=Scotland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mens_curling_championship_2011,SWE,3,bronze,event=Men;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mens_curling_championship_2012,CAN,1,gold,event=Men;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mens_curling_championship_2012,SCO,2,silver,event=Men;source_country=Scotland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mens_curling_championship_2012,SWE,3,bronze,event=Men;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mens_curling_championship_2013,SWE,1,gold,event=Men;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mens_curling_championship_2013,CAN,2,silver,event=Men;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mens_curling_championship_2013,SCO,3,bronze,event=Men;source_country=Scotland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mens_curling_championship_2014,NOR,1,gold,event=Men;source_country=Norway;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mens_curling_championship_2014,SWE,2,silver,event=Men;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mens_curling_championship_2014,SUI,3,bronze,event=Men;source_country=Switzerland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mens_curling_championship_2015,SWE,1,gold,event=Men;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mens_curling_championship_2015,NOR,2,silver,event=Men;source_country=Norway;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mens_curling_championship_2015,CAN,3,bronze,event=Men;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mens_curling_championship_2016,CAN,1,gold,event=Men;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mens_curling_championship_2016,DEN,2,silver,event=Men;source_country=Denmark;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mens_curling_championship_2016,USA,3,bronze,event=Men;source_country=United States;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mens_curling_championship_2017,CAN,1,gold,event=Men;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mens_curling_championship_2017,SWE,2,silver,event=Men;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mens_curling_championship_2017,SUI,3,bronze,event=Men;source_country=Switzerland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mens_curling_championship_2018,SWE,1,gold,event=Men;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mens_curling_championship_2018,CAN,2,silver,event=Men;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mens_curling_championship_2018,SCO,3,bronze,event=Men;source_country=Scotland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mens_curling_championship_2019,SWE,1,gold,event=Men;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mens_curling_championship_2019,CAN,2,silver,event=Men;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mens_curling_championship_2019,SUI,3,bronze,event=Men;source_country=Switzerland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mens_curling_championship_2021,SWE,1,gold,event=Men;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mens_curling_championship_2021,SCO,2,silver,event=Men;source_country=Scotland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mens_curling_championship_2021,SUI,3,bronze,event=Men;source_country=Switzerland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mens_curling_championship_2022,SWE,1,gold,event=Men;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mens_curling_championship_2022,CAN,2,silver,event=Men;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mens_curling_championship_2022,ITA,3,bronze,event=Men;source_country=Italy;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mens_curling_championship_2023,SCO,1,gold,event=Men;source_country=Scotland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mens_curling_championship_2023,CAN,2,silver,event=Men;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mens_curling_championship_2023,SUI,3,bronze,event=Men;source_country=Switzerland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mens_curling_championship_2024,SWE,1,gold,event=Men;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mens_curling_championship_2024,CAN,2,silver,event=Men;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mens_curling_championship_2024,ITA,3,bronze,event=Men;source_country=Italy;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mens_curling_championship_2025,SCO,1,gold,event=Men;source_country=Scotland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mens_curling_championship_2025,SUI,2,silver,event=Men;source_country=Switzerland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mens_curling_championship_2025,CAN,3,bronze,event=Men;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mens_curling_championship_2026,SWE,1,gold,event=Men;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mens_curling_championship_2026,CAN,2,silver,event=Men;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mens_curling_championship_2026,SCO,3,bronze,event=Men;source_country=Scotland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mixed_curling_championship_2015,NOR,1,gold,event=Mixed;source_country=Norway;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mixed_curling_championship_2015,SWE,2,silver,event=Mixed;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mixed_curling_championship_2015,CHN,3,bronze,event=Mixed;source_country=China;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mixed_curling_championship_2016,RUS,1,gold,event=Mixed;source_country=Russia;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mixed_curling_championship_2016,SWE,2,silver,event=Mixed;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mixed_curling_championship_2016,SCO,3,bronze,event=Mixed;source_country=Scotland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mixed_curling_championship_2017,SCO,1,gold,event=Mixed;source_country=Scotland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mixed_curling_championship_2017,CAN,2,silver,event=Mixed;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mixed_curling_championship_2017,CZE,3,bronze,event=Mixed;source_country=Czech Republic;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mixed_curling_championship_2018,CAN,1,gold,event=Mixed;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mixed_curling_championship_2018,ESP,2,silver,event=Mixed;source_country=Spain;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mixed_curling_championship_2018,RUS,3,bronze,event=Mixed;source_country=Russia;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mixed_curling_championship_2019,CAN,1,gold,event=Mixed;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mixed_curling_championship_2019,GER,2,silver,event=Mixed;source_country=Germany;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mixed_curling_championship_2019,NOR,3,bronze,event=Mixed;source_country=Norway;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mixed_curling_championship_2022,CAN,1,gold,event=Mixed;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mixed_curling_championship_2022,SCO,2,silver,event=Mixed;source_country=Scotland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mixed_curling_championship_2022,SUI,3,bronze,event=Mixed;source_country=Switzerland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mixed_curling_championship_2023,SWE,1,gold,event=Mixed;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mixed_curling_championship_2023,ESP,2,silver,event=Mixed;source_country=Spain;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mixed_curling_championship_2023,CAN,3,bronze,event=Mixed;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mixed_curling_championship_2024,SWE,1,gold,event=Mixed;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mixed_curling_championship_2024,JPN,2,silver,event=Mixed;source_country=Japan;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mixed_curling_championship_2024,SUI,3,bronze,event=Mixed;source_country=Switzerland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mixed_doubles_curling_championship_2008,SUI,1,gold,event=Mixed Doubles;source_country=Switzerland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mixed_doubles_curling_championship_2008,FIN,2,silver,event=Mixed Doubles;source_country=Finland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mixed_doubles_curling_championship_2008,SWE,3,bronze,event=Mixed Doubles;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mixed_doubles_curling_championship_2009,SUI,1,gold,event=Mixed Doubles;source_country=Switzerland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mixed_doubles_curling_championship_2009,HUN,2,silver,event=Mixed Doubles;source_country=Hungary;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mixed_doubles_curling_championship_2009,CAN,3,bronze,event=Mixed Doubles;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mixed_doubles_curling_championship_2010,RUS,1,gold,event=Mixed Doubles;source_country=Russia;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mixed_doubles_curling_championship_2010,NZL,2,silver,event=Mixed Doubles;source_country=New Zealand;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mixed_doubles_curling_championship_2010,CHN,3,bronze,event=Mixed Doubles;source_country=China;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mixed_doubles_curling_championship_2011,SUI,1,gold,event=Mixed Doubles;source_country=Switzerland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mixed_doubles_curling_championship_2011,RUS,2,silver,event=Mixed Doubles;source_country=Russia;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mixed_doubles_curling_championship_2011,FRA,3,bronze,event=Mixed Doubles;source_country=France;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mixed_doubles_curling_championship_2012,SUI,1,gold,event=Mixed Doubles;source_country=Switzerland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mixed_doubles_curling_championship_2012,SWE,2,silver,event=Mixed Doubles;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mixed_doubles_curling_championship_2012,AUT,3,bronze,event=Mixed Doubles;source_country=Austria;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mixed_doubles_curling_championship_2013,HUN,1,gold,event=Mixed Doubles;source_country=Hungary;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mixed_doubles_curling_championship_2013,SWE,2,silver,event=Mixed Doubles;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mixed_doubles_curling_championship_2013,CZE,3,bronze,event=Mixed Doubles;source_country=Czech Republic;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mixed_doubles_curling_championship_2014,SUI,1,gold,event=Mixed Doubles;source_country=Switzerland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mixed_doubles_curling_championship_2014,SWE,2,silver,event=Mixed Doubles;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mixed_doubles_curling_championship_2014,ESP,3,bronze,event=Mixed Doubles;source_country=Spain;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mixed_doubles_curling_championship_2015,HUN,1,gold,event=Mixed Doubles;source_country=Hungary;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mixed_doubles_curling_championship_2015,SWE,2,silver,event=Mixed Doubles;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mixed_doubles_curling_championship_2015,NOR,3,bronze,event=Mixed Doubles;source_country=Norway;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mixed_doubles_curling_championship_2016,RUS,1,gold,event=Mixed Doubles;source_country=Russia;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mixed_doubles_curling_championship_2016,CHN,2,silver,event=Mixed Doubles;source_country=China;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mixed_doubles_curling_championship_2016,USA,3,bronze,event=Mixed Doubles;source_country=United States;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mixed_doubles_curling_championship_2017,SUI,1,gold,event=Mixed Doubles;source_country=Switzerland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mixed_doubles_curling_championship_2017,CAN,2,silver,event=Mixed Doubles;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mixed_doubles_curling_championship_2017,CHN,3,bronze,event=Mixed Doubles;source_country=China;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mixed_doubles_curling_championship_2018,SUI,1,gold,event=Mixed Doubles;source_country=Switzerland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mixed_doubles_curling_championship_2018,RUS,2,silver,event=Mixed Doubles;source_country=Russia;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mixed_doubles_curling_championship_2018,CAN,3,bronze,event=Mixed Doubles;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mixed_doubles_curling_championship_2019,SWE,1,gold,event=Mixed Doubles;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mixed_doubles_curling_championship_2019,CAN,2,silver,event=Mixed Doubles;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mixed_doubles_curling_championship_2019,USA,3,bronze,event=Mixed Doubles;source_country=United States;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mixed_doubles_curling_championship_2021,SCO,1,gold,event=Mixed Doubles;source_country=Scotland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mixed_doubles_curling_championship_2021,NOR,2,silver,event=Mixed Doubles;source_country=Norway;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mixed_doubles_curling_championship_2021,SWE,3,bronze,event=Mixed Doubles;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mixed_doubles_curling_championship_2022,SCO,1,gold,event=Mixed Doubles;source_country=Scotland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mixed_doubles_curling_championship_2022,SUI,2,silver,event=Mixed Doubles;source_country=Switzerland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mixed_doubles_curling_championship_2022,GER,3,bronze,event=Mixed Doubles;source_country=Germany;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mixed_doubles_curling_championship_2023,USA,1,gold,event=Mixed Doubles;source_country=United States;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mixed_doubles_curling_championship_2023,JPN,2,silver,event=Mixed Doubles;source_country=Japan;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mixed_doubles_curling_championship_2023,NOR,3,bronze,event=Mixed Doubles;source_country=Norway;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mixed_doubles_curling_championship_2024,SWE,1,gold,event=Mixed Doubles;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mixed_doubles_curling_championship_2024,EST,2,silver,event=Mixed Doubles;source_country=Estonia;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mixed_doubles_curling_championship_2024,NOR,3,bronze,event=Mixed Doubles;source_country=Norway;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mixed_doubles_curling_championship_2025,ITA,1,gold,event=Mixed Doubles;source_country=Italy;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mixed_doubles_curling_championship_2025,SCO,2,silver,event=Mixed Doubles;source_country=Scotland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mixed_doubles_curling_championship_2025,AUS,3,bronze,event=Mixed Doubles;source_country=Australia;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_mixed_doubles_curling_championship_2026,AUS,1,gold,event=Mixed Doubles;source_country=Australia;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_mixed_doubles_curling_championship_2026,SWE,2,silver,event=Mixed Doubles;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_mixed_doubles_curling_championship_2026,CAN,3,bronze,event=Mixed Doubles;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_womens_curling_championship_2001,CAN,1,gold,event=Women;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_womens_curling_championship_2001,SWE,2,silver,event=Women;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_womens_curling_championship_2001,DEN,3,bronze,event=Women;source_country=Denmark;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_womens_curling_championship_2002,SCO,1,gold,event=Women;source_country=Scotland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_womens_curling_championship_2002,SWE,2,silver,event=Women;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_womens_curling_championship_2002,NOR,3,bronze,event=Women;source_country=Norway;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_womens_curling_championship_2003,USA,1,gold,event=Women;source_country=United States;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_womens_curling_championship_2003,CAN,2,silver,event=Women;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_womens_curling_championship_2003,SWE,3,bronze,event=Women;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_womens_curling_championship_2004,CAN,1,gold,event=Women;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_womens_curling_championship_2004,NOR,2,silver,event=Women;source_country=Norway;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_womens_curling_championship_2004,SUI,3,bronze,event=Women;source_country=Switzerland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_womens_curling_championship_2005,SWE,1,gold,event=Women;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_womens_curling_championship_2005,USA,2,silver,event=Women;source_country=United States;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_womens_curling_championship_2005,NOR,3,bronze,event=Women;source_country=Norway;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_womens_curling_championship_2006,SWE,1,gold,event=Women;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_womens_curling_championship_2006,USA,2,silver,event=Women;source_country=United States;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_womens_curling_championship_2006,CAN,3,bronze,event=Women;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_womens_curling_championship_2007,CAN,1,gold,event=Women;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_womens_curling_championship_2007,DEN,2,silver,event=Women;source_country=Denmark;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_womens_curling_championship_2007,SCO,3,bronze,event=Women;source_country=Scotland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_womens_curling_championship_2008,CAN,1,gold,event=Women;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_womens_curling_championship_2008,CHN,2,silver,event=Women;source_country=China;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_womens_curling_championship_2008,SUI,3,bronze,event=Women;source_country=Switzerland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_womens_curling_championship_2009,CHN,1,gold,event=Women;source_country=China;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_womens_curling_championship_2009,SWE,2,silver,event=Women;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_womens_curling_championship_2009,DEN,3,bronze,event=Women;source_country=Denmark;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_womens_curling_championship_2010,GER,1,gold,event=Women;source_country=Germany;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_womens_curling_championship_2010,SCO,2,silver,event=Women;source_country=Scotland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_womens_curling_championship_2010,CAN,3,bronze,event=Women;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_womens_curling_championship_2011,SWE,1,gold,event=Women;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_womens_curling_championship_2011,CAN,2,silver,event=Women;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_womens_curling_championship_2011,CHN,3,bronze,event=Women;source_country=China;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_womens_curling_championship_2012,SUI,1,gold,event=Women;source_country=Switzerland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_womens_curling_championship_2012,SWE,2,silver,event=Women;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_womens_curling_championship_2012,CAN,3,bronze,event=Women;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_womens_curling_championship_2013,SCO,1,gold,event=Women;source_country=Scotland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_womens_curling_championship_2013,SWE,2,silver,event=Women;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_womens_curling_championship_2013,CAN,3,bronze,event=Women;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_womens_curling_championship_2014,SUI,1,gold,event=Women;source_country=Switzerland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_womens_curling_championship_2014,CAN,2,silver,event=Women;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_womens_curling_championship_2014,RUS,3,bronze,event=Women;source_country=Russia;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_womens_curling_championship_2015,SUI,1,gold,event=Women;source_country=Switzerland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_womens_curling_championship_2015,CAN,2,silver,event=Women;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_womens_curling_championship_2015,RUS,3,bronze,event=Women;source_country=Russia;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_womens_curling_championship_2016,SUI,1,gold,event=Women;source_country=Switzerland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_womens_curling_championship_2016,JPN,2,silver,event=Women;source_country=Japan;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_womens_curling_championship_2016,RUS,3,bronze,event=Women;source_country=Russia;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_womens_curling_championship_2017,CAN,1,gold,event=Women;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_womens_curling_championship_2017,RUS,2,silver,event=Women;source_country=Russia;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_womens_curling_championship_2017,SCO,3,bronze,event=Women;source_country=Scotland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_womens_curling_championship_2018,CAN,1,gold,event=Women;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_womens_curling_championship_2018,SWE,2,silver,event=Women;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_womens_curling_championship_2018,RUS,3,bronze,event=Women;source_country=Russia;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_womens_curling_championship_2019,SUI,1,gold,event=Women;source_country=Switzerland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_womens_curling_championship_2019,SWE,2,silver,event=Women;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_womens_curling_championship_2019,KOR,3,bronze,event=Women;source_country=South Korea;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_womens_curling_championship_2021,SUI,1,gold,event=Women;source_country=Switzerland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_womens_curling_championship_2021,RUS,2,silver,event=Women;source_country=Russia;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_womens_curling_championship_2021,USA,3,bronze,event=Women;source_country=United States;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_womens_curling_championship_2022,SUI,1,gold,event=Women;source_country=Switzerland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_womens_curling_championship_2022,KOR,2,silver,event=Women;source_country=South Korea;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_womens_curling_championship_2022,CAN,3,bronze,event=Women;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_womens_curling_championship_2023,SUI,1,gold,event=Women;source_country=Switzerland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_womens_curling_championship_2023,NOR,2,silver,event=Women;source_country=Norway;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_womens_curling_championship_2023,CAN,3,bronze,event=Women;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_womens_curling_championship_2024,CAN,1,gold,event=Women;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_womens_curling_championship_2024,SUI,2,silver,event=Women;source_country=Switzerland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_womens_curling_championship_2024,KOR,3,bronze,event=Women;source_country=South Korea;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_womens_curling_championship_2025,CAN,1,gold,event=Women;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_womens_curling_championship_2025,SUI,2,silver,event=Women;source_country=Switzerland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_womens_curling_championship_2025,CHN,3,bronze,event=Women;source_country=China;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0
+world_womens_curling_championship_2026,SUI,1,gold,event=Women;source_country=Switzerland;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,10.0
+world_womens_curling_championship_2026,CAN,2,silver,event=Women;source_country=Canada;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,7.0
+world_womens_curling_championship_2026,SWE,3,bronze,event=Women;source_country=Sweden;source_url=https://en.wikipedia.org/wiki/World_Curling_Championships,5.0

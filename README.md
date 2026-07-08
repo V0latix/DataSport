@@ -612,6 +612,42 @@ Comportement:
   - les codes sportifs non ISO sont conserves (`GER`, `SLO`, `BUL`, etc.)
   - scope strict `year > 2000`
 
+### 8e10) Ingest World Curling Championships (historique, podiums curling)
+
+```bash
+python -m pipelines.ingest --connector world_curling_championships_history --year 2026
+```
+
+Comportement:
+- ingere le seed historique local:
+  - `data/raw/curling/world_curling_championships_top3_seed.csv`
+  - seed reproductible via: `data/raw/curling/build_world_curling_championships_seed.py`
+- cree quatre competitions:
+  - `world_mens_curling_championship`
+  - `world_womens_curling_championship`
+  - `world_mixed_curling_championship`
+  - `world_mixed_doubles_curling_championship`
+- sport/discipline:
+  - sport parent existant `curling`
+  - discipline existante `curling`
+- cree un event par competition + edition:
+  - `<competition_id>_<YYYY>`
+- stocke les podiums source:
+  - profil strict `1,2,3`
+- couverture actuelle post-2000:
+  - hommes: `2001` -> `2026`
+  - femmes: `2001` -> `2026`
+  - mixed: `2015` -> `2024`, selon editions tenues
+  - mixed doubles: `2008` -> `2026`
+  - 76 events, 228 resultats
+- participants:
+  - `type=team`, `participant_id` = code pays/equipe nationale
+- notes source:
+  - les podiums proviennent de la page Wikipedia centrale World Curling Championships
+  - les epreuves wheelchair sont exclues du connecteur
+  - les codes sportifs non ISO/domaines sont conserves (`SCO`, `ENG`, `GER`, `SUI`, etc.)
+  - scope strict `year > 2000`
+
 ### 8f) Ingest ICC Cricket competitions mondiales (historique, ODI/Test/T20/Champions Trophy)
 
 ```bash

@@ -1,0 +1,23 @@
+participant_id,type,display_name,country_id
+SWE,team,Sweden,SWE
+SUI,team,Switzerland,SUI
+NOR,team,Norway,NOR
+CAN,team,Canada,CAN
+SCO,team,Scotland,SCO
+GER,team,Germany,GER
+USA,team,United States,USA
+DEN,team,Denmark,DEN
+ITA,team,Italy,ITA
+CHN,team,China,CHN
+RUS,team,Russia,RUS
+CZE,team,Czech Republic,CZE
+ESP,team,Spain,ESP
+JPN,team,Japan,JPN
+FIN,team,Finland,FIN
+HUN,team,Hungary,HUN
+NZL,team,New Zealand,NZL
+FRA,team,France,FRA
+AUT,team,Austria,AUT
+EST,team,Estonia,EST
+AUS,team,Australia,AUS
+KOR,team,South Korea,KOR
