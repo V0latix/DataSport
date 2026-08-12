@@ -116,6 +116,10 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] World Boxing Championships (`world_boxing_championships_history`)
 - [x] Biathlon World Championships (`biathlon_world_championships_history`)
 - [x] World Curling Championships (`world_curling_championships_history`)
+- [ ] Davis Cup
+- [ ] Billie Jean King Cup
+- [ ] World Netball Cup
+- [ ] FIS Nordic World Ski Championships
 
 
 ### Classements mondiaux (Top 10)
