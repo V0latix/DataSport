@@ -4,6 +4,7 @@ from .balldontlie_nba_connector import BallDontLieNBAConnector
 from .biathlon_world_championships_history_connector import BiathlonWorldChampionshipsHistoryConnector
 from .bwf_world_championships_history_connector import BwfWorldChampionshipsHistoryConnector
 from .bwf_thomas_uber_cup_history_connector import BwfThomasUberCupHistoryConnector
+from .davis_cup_history_connector import DavisCupHistoryConnector
 from .fiba_basketball_world_cup_history_connector import FibaBasketballWorldCupHistoryConnector
 from .fiba_ranking_history_connector import FibaRankingHistoryConnector
 from .fih_hockey_world_cup_history_connector import FihHockeyWorldCupHistoryConnector
@@ -73,6 +74,7 @@ CONNECTOR_REGISTRY = {
     "biathlon_world_championships_history": BiathlonWorldChampionshipsHistoryConnector,
     "bwf_world_championships_history": BwfWorldChampionshipsHistoryConnector,
     "bwf_thomas_uber_cup_history": BwfThomasUberCupHistoryConnector,
+    "davis_cup_history": DavisCupHistoryConnector,
     "ittf_world_table_tennis_championships_history": IttfWorldTableTennisChampionshipsHistoryConnector,
     "fiba_ranking_history": FibaRankingHistoryConnector,
     "fiba_basketball_world_cup_history": FibaBasketballWorldCupHistoryConnector,

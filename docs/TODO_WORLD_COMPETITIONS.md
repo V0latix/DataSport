@@ -54,6 +54,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] World Boxing Championships (IBA men/women + World Boxing, podiums H/F par categorie, post-2000; 262 events, 1047 resultats, 2001-2025; profils double bronze et single bronze source) ajoute via `world_boxing_championships_history` (2026-07-03)
 - [x] Biathlon World Championships (podiums H/F/mixed par epreuve, post-2000; 216 events, 647 resultats, 2001-2025; relais modelises par nation) ajoute via `biathlon_world_championships_history` (2026-07-05)
 - [x] World Curling Championships (men/women/mixed/mixed doubles, podiums top 3 post-2000; 76 events, 228 resultats, 2001-2026 selon formats; wheelchair exclu) ajoute via `world_curling_championships_history` (2026-07-08)
+- [x] Davis Cup (tennis equipes nationales hommes, finalistes post-2000; 24 events, 48 resultats, 2001-2025; pas de 3e place) ajoute via `davis_cup_history` (2026-08-13)
 
 ### Competitions mondiales
 
@@ -116,7 +117,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] World Boxing Championships (`world_boxing_championships_history`)
 - [x] Biathlon World Championships (`biathlon_world_championships_history`)
 - [x] World Curling Championships (`world_curling_championships_history`)
-- [ ] Davis Cup
+- [x] Davis Cup (`davis_cup_history`)
 - [ ] Billie Jean King Cup
 - [ ] World Netball Cup
 - [ ] FIS Nordic World Ski Championships

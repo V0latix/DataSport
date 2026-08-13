@@ -648,6 +648,36 @@ Comportement:
   - les codes sportifs non ISO/domaines sont conserves (`SCO`, `ENG`, `GER`, `SUI`, etc.)
   - scope strict `year > 2000`
 
+### 8e11) Ingest Davis Cup (historique, finalistes tennis par nations)
+
+```bash
+python -m pipelines.ingest --connector davis_cup_history --year 2026
+```
+
+Comportement:
+- ingere le seed historique local:
+  - `data/raw/tennis/davis_cup_finalists_seed.csv`
+  - seed reproductible via: `data/raw/tennis/build_davis_cup_seed.py`
+- cree la competition:
+  - `davis_cup`
+- sport/discipline:
+  - sport parent existant `tennis`
+  - discipline existante `tennis`
+- cree un event par edition:
+  - `davis_cup_<YYYY>`
+- stocke les finalistes source:
+  - profil strict `1,2`
+  - la Davis Cup ne publie pas de match pour la 3e place; aucun bronze n'est cree
+- couverture actuelle post-2000:
+  - `2001` -> `2025`, avec `2020-21` normalise en `2021`
+  - 24 events, 48 resultats
+- participants:
+  - `type=team`, `participant_id` = code pays/equipe nationale
+- notes source:
+  - les finalistes proviennent de la page Wikipedia List of Davis Cup champions
+  - `RTF` est conserve comme code source non ISO pour Russian Tennis Federation
+  - scope strict `year > 2000`
+
 ### 8f) Ingest ICC Cricket competitions mondiales (historique, ODI/Test/T20/Champions Trophy)
 
 ```bash
