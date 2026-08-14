@@ -1,0 +1,16 @@
+participant_id,type,display_name,country_id
+BEL,team,Belgium,BEL
+RUS,team,Russia,RUS
+SVK,team,Slovakia,SVK
+ESP,team,Spain,ESP
+FRA,team,France,FRA
+USA,team,United States,USA
+ITA,team,Italy,ITA
+CZE,team,Czech Republic,CZE
+SRB,team,Serbia,SRB
+GER,team,Germany,GER
+BLR,team,Belarus,BLR
+AUS,team,Australia,AUS
+RTF,team,RTF,RTF
+SUI,team,Switzerland,SUI
+CAN,team,Canada,CAN

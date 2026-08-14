@@ -678,6 +678,36 @@ Comportement:
   - `RTF` est conserve comme code source non ISO pour Russian Tennis Federation
   - scope strict `year > 2000`
 
+### 8e12) Ingest Billie Jean King Cup (historique, finalistes tennis par nations)
+
+```bash
+python -m pipelines.ingest --connector billie_jean_king_cup_history --year 2026
+```
+
+Comportement:
+- ingere le seed historique local:
+  - `data/raw/tennis/billie_jean_king_cup_finalists_seed.csv`
+  - seed reproductible via: `data/raw/tennis/build_billie_jean_king_cup_seed.py`
+- cree la competition:
+  - `billie_jean_king_cup`
+- sport/discipline:
+  - sport parent existant `tennis`
+  - discipline existante `tennis`
+- cree un event par edition:
+  - `billie_jean_king_cup_<YYYY>`
+- stocke les finalistes source:
+  - profil strict `1,2`
+  - la Billie Jean King Cup ne publie pas de match pour la 3e place; aucun bronze n'est cree
+- couverture actuelle post-2000:
+  - `2001` -> `2025`, avec `2020-21` normalise en `2021`
+  - 24 events, 48 resultats
+- participants:
+  - `type=team`, `participant_id` = code pays/equipe nationale
+- notes source:
+  - les finalistes proviennent de la page Wikipedia List of Billie Jean King Cup champions
+  - `RTF` est conserve comme code source non ISO pour Russian Tennis Federation
+  - scope strict `year > 2000`
+
 ### 8f) Ingest ICC Cricket competitions mondiales (historique, ODI/Test/T20/Champions Trophy)
 
 ```bash

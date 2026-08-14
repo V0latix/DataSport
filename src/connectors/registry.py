@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from .balldontlie_nba_connector import BallDontLieNBAConnector
+from .billie_jean_king_cup_history_connector import BillieJeanKingCupHistoryConnector
 from .biathlon_world_championships_history_connector import BiathlonWorldChampionshipsHistoryConnector
 from .bwf_world_championships_history_connector import BwfWorldChampionshipsHistoryConnector
 from .bwf_thomas_uber_cup_history_connector import BwfThomasUberCupHistoryConnector
@@ -71,6 +72,7 @@ CONNECTOR_REGISTRY = {
     "wikidata": WikidataConnector,
     "football_data": FootballDataConnector,
     "balldontlie_nba": BallDontLieNBAConnector,
+    "billie_jean_king_cup_history": BillieJeanKingCupHistoryConnector,
     "biathlon_world_championships_history": BiathlonWorldChampionshipsHistoryConnector,
     "bwf_world_championships_history": BwfWorldChampionshipsHistoryConnector,
     "bwf_thomas_uber_cup_history": BwfThomasUberCupHistoryConnector,

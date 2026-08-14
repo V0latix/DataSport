@@ -21,6 +21,7 @@ def main() -> None:
         required=True,
         help=(
             "wikidata | football_data | balldontlie_nba | fiba_ranking_history | "
+            "billie_jean_king_cup_history | "
             "biathlon_world_championships_history | "
             "bwf_world_championships_history | bwf_thomas_uber_cup_history | "
             "davis_cup_history | "
