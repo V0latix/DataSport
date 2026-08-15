@@ -1,0 +1,7 @@
+event_id,competition_id,discipline_id,gender,event_class,event_date
+world_netball_cup_2003,world_netball_cup,netball,women,final_ranking_top4,2003-12-31
+world_netball_cup_2007,world_netball_cup,netball,women,final_ranking_top4,2007-12-31
+world_netball_cup_2011,world_netball_cup,netball,women,final_ranking_top4,2011-12-31
+world_netball_cup_2015,world_netball_cup,netball,women,final_ranking_top4,2015-12-31
+world_netball_cup_2019,world_netball_cup,netball,women,final_ranking_top4,2019-12-31
+world_netball_cup_2023,world_netball_cup,netball,women,final_ranking_top4,2023-12-31

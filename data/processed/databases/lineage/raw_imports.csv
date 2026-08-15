@@ -177,3 +177,5 @@ import_c3993cc7db71201b80a4176c14ec48108c38bcc4,biathlon_world_championships_his
 import_a93d8fc17a660e4faa48c6844ba11829478f8e02,world_curling_championships_history,2026-07-08T08:35:30+00:00,/Users/romain/dev/DataSport/data/raw/world_curling_championships_history/20260708T083530Z,success,
 import_6933938ce45ff36fc5696f628e74edcb9ffedb18,davis_cup_history,2026-08-13T07:04:39+00:00,/Users/romain/dev/DataSport/data/raw/davis_cup_history/20260813T070439Z,success,
 import_c6938408f1d6170b60b259eb0ffafd78ab511620,billie_jean_king_cup_history,2026-08-14T07:04:19+00:00,/Users/romain/dev/DataSport/data/raw/billie_jean_king_cup_history/20260814T070419Z,success,
+import_88d3b0e6d9910914a052e694b0ed7d06eb54c3cf,world_netball_cup_history,2026-08-15T07:05:20+00:00,/Users/romain/dev/DataSport/data/raw/world_netball_cup_history/20260815T070520Z,success,
+import_551058fc75f74492817af586d3b1a3fd574a0726,world_netball_cup_history,2026-08-15T07:06:00+00:00,/Users/romain/dev/DataSport/data/raw/world_netball_cup_history/20260815T070600Z,success,

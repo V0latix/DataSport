@@ -1,0 +1,25 @@
+competition_id,competition_name,year,event_date,discipline_key,discipline_name,gender,rank,medal,participant_type,participant_name,country_name,country_code,host,final_score,third_place_score,source_url
+world_netball_cup,World Netball Cup,2003,2003-12-31,netball,Netball,women,1,gold,team,New Zealand,New Zealand,NZL,Jamaica,49–47,46–40,https://en.wikipedia.org/wiki/Netball_World_Cup
+world_netball_cup,World Netball Cup,2003,2003-12-31,netball,Netball,women,2,silver,team,Australia,Australia,AUS,Jamaica,49–47,46–40,https://en.wikipedia.org/wiki/Netball_World_Cup
+world_netball_cup,World Netball Cup,2003,2003-12-31,netball,Netball,women,3,bronze,team,Jamaica,Jamaica,JAM,Jamaica,49–47,46–40,https://en.wikipedia.org/wiki/Netball_World_Cup
+world_netball_cup,World Netball Cup,2003,2003-12-31,netball,Netball,women,4,,team,England,England,ENG,Jamaica,49–47,46–40,https://en.wikipedia.org/wiki/Netball_World_Cup
+world_netball_cup,World Netball Cup,2007,2007-12-31,netball,Netball,women,1,gold,team,Australia,Australia,AUS,New Zealand,42–38,53–52,https://en.wikipedia.org/wiki/Netball_World_Cup
+world_netball_cup,World Netball Cup,2007,2007-12-31,netball,Netball,women,2,silver,team,New Zealand,New Zealand,NZL,New Zealand,42–38,53–52,https://en.wikipedia.org/wiki/Netball_World_Cup
+world_netball_cup,World Netball Cup,2007,2007-12-31,netball,Netball,women,3,bronze,team,Jamaica,Jamaica,JAM,New Zealand,42–38,53–52,https://en.wikipedia.org/wiki/Netball_World_Cup
+world_netball_cup,World Netball Cup,2007,2007-12-31,netball,Netball,women,4,,team,England,England,ENG,New Zealand,42–38,53–52,https://en.wikipedia.org/wiki/Netball_World_Cup
+world_netball_cup,World Netball Cup,2011,2011-12-31,netball,Netball,women,1,gold,team,Australia,Australia,AUS,Singapore,58–57,70–49,https://en.wikipedia.org/wiki/Netball_World_Cup
+world_netball_cup,World Netball Cup,2011,2011-12-31,netball,Netball,women,2,silver,team,New Zealand,New Zealand,NZL,Singapore,58–57,70–49,https://en.wikipedia.org/wiki/Netball_World_Cup
+world_netball_cup,World Netball Cup,2011,2011-12-31,netball,Netball,women,3,bronze,team,England,England,ENG,Singapore,58–57,70–49,https://en.wikipedia.org/wiki/Netball_World_Cup
+world_netball_cup,World Netball Cup,2011,2011-12-31,netball,Netball,women,4,,team,Jamaica,Jamaica,JAM,Singapore,58–57,70–49,https://en.wikipedia.org/wiki/Netball_World_Cup
+world_netball_cup,World Netball Cup,2015,2015-12-31,netball,Netball,women,1,gold,team,Australia,Australia,AUS,Australia,58–55,66–44,https://en.wikipedia.org/wiki/Netball_World_Cup
+world_netball_cup,World Netball Cup,2015,2015-12-31,netball,Netball,women,2,silver,team,New Zealand,New Zealand,NZL,Australia,58–55,66–44,https://en.wikipedia.org/wiki/Netball_World_Cup
+world_netball_cup,World Netball Cup,2015,2015-12-31,netball,Netball,women,3,bronze,team,England,England,ENG,Australia,58–55,66–44,https://en.wikipedia.org/wiki/Netball_World_Cup
+world_netball_cup,World Netball Cup,2015,2015-12-31,netball,Netball,women,4,,team,Jamaica,Jamaica,JAM,Australia,58–55,66–44,https://en.wikipedia.org/wiki/Netball_World_Cup
+world_netball_cup,World Netball Cup,2019,2019-12-31,netball,Netball,women,1,gold,team,New Zealand,New Zealand,NZL,England,52–51,58–42,https://en.wikipedia.org/wiki/Netball_World_Cup
+world_netball_cup,World Netball Cup,2019,2019-12-31,netball,Netball,women,2,silver,team,Australia,Australia,AUS,England,52–51,58–42,https://en.wikipedia.org/wiki/Netball_World_Cup
+world_netball_cup,World Netball Cup,2019,2019-12-31,netball,Netball,women,3,bronze,team,England,England,ENG,England,52–51,58–42,https://en.wikipedia.org/wiki/Netball_World_Cup
+world_netball_cup,World Netball Cup,2019,2019-12-31,netball,Netball,women,4,,team,South Africa,South Africa,ZAF,England,52–51,58–42,https://en.wikipedia.org/wiki/Netball_World_Cup
+world_netball_cup,World Netball Cup,2023,2023-12-31,netball,Netball,women,1,gold,team,Australia,Australia,AUS,South Africa,61–45,52–45,https://en.wikipedia.org/wiki/Netball_World_Cup
+world_netball_cup,World Netball Cup,2023,2023-12-31,netball,Netball,women,2,silver,team,England,England,ENG,South Africa,61–45,52–45,https://en.wikipedia.org/wiki/Netball_World_Cup
+world_netball_cup,World Netball Cup,2023,2023-12-31,netball,Netball,women,3,bronze,team,Jamaica,Jamaica,JAM,South Africa,61–45,52–45,https://en.wikipedia.org/wiki/Netball_World_Cup
+world_netball_cup,World Netball Cup,2023,2023-12-31,netball,Netball,women,4,,team,New Zealand,New Zealand,NZL,South Africa,61–45,52–45,https://en.wikipedia.org/wiki/Netball_World_Cup

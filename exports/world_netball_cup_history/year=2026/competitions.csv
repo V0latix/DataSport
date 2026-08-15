@@ -1,0 +1,2 @@
+competition_id,sport_id,name,season_year,level,start_date,end_date,source_id
+world_netball_cup,netball,World Netball Cup,,national_team_tournament,2003-12-31,2023-12-31,world_netball_cup_history

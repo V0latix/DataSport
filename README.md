@@ -708,6 +708,37 @@ Comportement:
   - `RTF` est conserve comme code source non ISO pour Russian Tennis Federation
   - scope strict `year > 2000`
 
+### 8e13) Ingest World Netball Cup (historique, top 4 netball)
+
+```bash
+python -m pipelines.ingest --connector world_netball_cup_history --year 2026
+```
+
+Comportement:
+- ingere le seed historique local:
+  - `data/raw/netball/world_netball_cup_top4_seed.csv`
+  - seed reproductible via: `data/raw/netball/build_world_netball_cup_seed.py`
+- cree la competition:
+  - `world_netball_cup`
+- sport/discipline:
+  - nouveau sport `netball`
+  - nouvelle discipline `netball`
+- cree un event par edition:
+  - `world_netball_cup_<YYYY>`
+- stocke le classement final top 4:
+  - profil strict `1,2,3,4`
+  - medailles `gold`, `silver`, `bronze`; le 4e rang n'a pas de medaille
+- couverture actuelle post-2000:
+  - `2003` -> `2023`
+  - 6 events, 24 resultats
+  - l'edition `2027` est exclue car future
+- participants:
+  - `type=team`, `participant_id` = code pays/equipe nationale
+- notes source:
+  - les classements proviennent de la table tournoi Wikipedia Netball World Cup
+  - `ENG` et `ZAF` sont conserves comme codes equipes nationales
+  - scope strict `year > 2000`
+
 ### 8f) Ingest ICC Cricket competitions mondiales (historique, ODI/Test/T20/Champions Trophy)
 
 ```bash
