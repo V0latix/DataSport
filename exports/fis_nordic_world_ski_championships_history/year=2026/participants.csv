@@ -1,0 +1,191 @@
+participant_id,type,display_name,country_id
+SWE_Per_Elofsson,athlete,Per Elofsson,SWE
+SWE_Mathias_Fredriksson,athlete,Mathias Fredriksson,SWE
+NOR_Odd-Bjørn_Hjelmeset,athlete,Odd-Bjørn Hjelmeset,NOR
+EST_Andrus_Veerpalu,athlete,Andrus Veerpalu,EST
+NOR_Frode_Estil,athlete,Frode Estil,NOR
+RUS_Mikhail_Ivanov,athlete,Mikhail Ivanov,RUS
+NOR,team,Norway,NOR
+SWE,team,Sweden,SWE
+DEU,team,Germany,DEU
+ESP_Johann_Mühlegg,athlete,Johann Mühlegg,ESP
+DEU_René_Sommerfeldt,athlete,René Sommerfeldt,DEU
+RUS_Sergey_Kriyanin,athlete,Sergey Kriyanin,RUS
+RUS_Vitaly_Denisov,athlete,Vitaly Denisov,RUS
+NOR_Tor_Arne_Hetland,athlete,Tor Arne Hetland,NOR
+ITA_Cristian_Zorzi,athlete,Cristian Zorzi,ITA
+NOR_Håvard_Solbakken,athlete,Håvard Solbakken,NOR
+RUS,team,Russia,RUS
+ITA,team,Italy,ITA
+DEU_Marco_Baacke,athlete,Marco Baacke,DEU
+FIN_Samppa_Lajunen,athlete,Samppa Lajunen,FIN
+DEU_Ronny_Ackermann,athlete,Ronny Ackermann,DEU
+NOR_Bjarte_Engen_Vik,athlete,Bjarte Engen Vik,NOR
+AUT_Felix_Gottwald,athlete,Felix Gottwald,AUT
+AUT,team,Austria,AUT
+FIN,team,Finland,FIN
+DEU_Martin_Schmitt,athlete,Martin Schmitt,DEU
+POL_Adam_Maysz,athlete,Adam Małysz,POL
+FIN_Janne_Ahonen,athlete,Janne Ahonen,FIN
+AUT_Martin_Höllwarth,athlete,Martin Höllwarth,AUT
+DEU_Axel_Teichmann,athlete,Axel Teichmann,DEU
+EST_Jaak_Mae,athlete,Jaak Mae,EST
+NOR_Thomas_Alsgaard,athlete,Thomas Alsgaard,NOR
+NOR_Anders_Aukland,athlete,Anders Aukland,NOR
+CZE_Martin_Koukal,athlete,Martin Koukal,CZE
+SWE_Anders_Södergren,athlete,Anders Södergren,SWE
+SWE_Jörgen_Brink,athlete,Jörgen Brink,SWE
+NOR_Tore_Ruud_Hofstad,athlete,Tore Ruud Hofstad,NOR
+SWE_Thobias_Fredriksson,athlete,Thobias Fredriksson,SWE
+NOR_Håvard_Bjerkeli,athlete,Håvard Bjerkeli,NOR
+USA_Johnny_Spillane,athlete,Johnny Spillane,USA
+FIN_Matti_Hautamäki,athlete,Matti Hautamäki,FIN
+JPN_Noriaki_Kasai,athlete,Noriaki Kasai,JPN
+JPN,team,Japan,JPN
+NOR_Tommy_Ingebrigtsen,athlete,Tommy Ingebrigtsen,NOR
+ITA_Pietro_Piller_Cottrer,athlete,Pietro Piller Cottrer,ITA
+ITA_Fulvio_Valbusa,athlete,Fulvio Valbusa,ITA
+FRA_Vincent_Vittoz,athlete,Vincent Vittoz,FRA
+ITA_Giorgio_Di_Centa,athlete,Giorgio Di Centa,ITA
+RUS_Vasily_Rochev,athlete,Vasily Rochev,RUS
+CZE,team,Czech Republic,CZE
+NOR_Magnus_Moan,athlete,Magnus Moan,NOR
+NOR_Kristian_Hammer,athlete,Kristian Hammer,NOR
+DEU_Björn_Kircheisen,athlete,Björn Kircheisen,DEU
+NOR_Roar_Ljøkelsøy,athlete,Roar Ljøkelsøy,NOR
+CZE_Jakub_Janda,athlete,Jakub Janda,CZE
+SVN_Rok_Benkovi,athlete,Rok Benkovič,SVN
+SVN,team,Slovenia,SVN
+NOR_Lars_Berger,athlete,Lars Berger,NOR
+BLR_Leanid_Karneyenka,athlete,Leanid Karneyenka,BLR
+DEU_Tobias_Angerer,athlete,Tobias Angerer,DEU
+DEU_Jens_Filbrich,athlete,Jens Filbrich,DEU
+NOR_Jens_Arne_Svartedal,athlete,Jens Arne Svartedal,NOR
+SWE_Mats_Larsson,athlete,Mats Larsson,SWE
+NOR_Eldar_Rønning,athlete,Eldar Rønning,NOR
+FIN_Hannu_Manninen,athlete,Hannu Manninen,FIN
+USA_Bill_Demong,athlete,Bill Demong,USA
+FIN_Anssi_Koivuranta,athlete,Anssi Koivuranta,FIN
+CHE_Simon_Ammann,athlete,Simon Ammann,CHE
+FIN_Harri_Olli,athlete,Harri Olli,FIN
+AUT_Thomas_Morgenstern,athlete,Thomas Morgenstern,AUT
+CZE_Luká_Bauer,athlete,Lukáš Bauer,CZE
+FIN_Matti_Heikkinen,athlete,Matti Heikkinen,FIN
+NOR_Petter_Northug,athlete,Petter Northug,NOR
+RUS_Maxim_Vylegzhanin,athlete,Maxim Vylegzhanin,RUS
+NOR_Ola_Vigen_Hattestad,athlete,Ola Vigen Hattestad,NOR
+NOR_Johan_Kjølstad,athlete,Johan Kjølstad,NOR
+RUS_Nikolay_Morilov,athlete,Nikolay Morilov,RUS
+FRA_Jason_Lamy-Chappuis,athlete,Jason Lamy-Chappuis,FRA
+USA_Todd_Lodwick,athlete,Todd Lodwick,USA
+NOR_Jan_Schmid,athlete,Jan Schmid,NOR
+DEU_Tino_Edelmann,athlete,Tino Edelmann,DEU
+CHE_Andreas_Küttel,athlete,Andreas Küttel,CHE
+NOR_Anders_Jacobsen,athlete,Anders Jacobsen,NOR
+AUT_Wolfgang_Loitzl,athlete,Wolfgang Loitzl,AUT
+AUT_Gregor_Schlierenzauer,athlete,Gregor Schlierenzauer,AUT
+USA_Lindsey_Van,athlete,Lindsey Van,USA
+DEU_Ulrike_Gräßler,athlete,Ulrike Gräßler,DEU
+NOR_Anette_Sagen,athlete,Anette Sagen,NOR
+NOR_Martin_Johnsrud_Sundby,athlete,Martin Johnsrud Sundby,NOR
+NOR_Tord_Asle_Gjerdalen,athlete,Tord Asle Gjerdalen,NOR
+RUS_Ilia_Chernousov,athlete,Ilia Chernousov,RUS
+SWE_Marcus_Hellner,athlete,Marcus Hellner,SWE
+SWE_Emil_Jönsson,athlete,Emil Jönsson,SWE
+CAN,team,Canada,CAN
+DEU_Johannes_Rydzek,athlete,Johannes Rydzek,DEU
+DEU_Eric_Frenzel,athlete,Eric Frenzel,DEU
+AUT_Andreas_Kofler,athlete,Andreas Kofler,AUT
+POL_Adam_Malysz,athlete,Adam Malysz,POL
+AUT_Daniela_Iraschko,athlete,Daniela Iraschko,AUT
+ITA_Elena_Runggaldier,athlete,Elena Runggaldier,ITA
+FRA_Coline_Mattel,athlete,Coline Mattel,FRA
+SWE_Johan_Olsson,athlete,Johan Olsson,SWE
+CHE_Dario_Cologna,athlete,Dario Cologna,CHE
+KAZ_Alexey_Poltoranin,athlete,Alexey Poltoranin,KAZ
+NOR_Sjur_Røthe,athlete,Sjur Røthe,NOR
+RUS_Nikita_Kryukov,athlete,Nikita Kryukov,RUS
+CAN_Alex_Harvey,athlete,Alex Harvey,CAN
+KAZ,team,Kazakhstan,KAZ
+USA,team,United States,USA
+AUT_Bernhard_Gruber,athlete,Bernhard Gruber,AUT
+AUT_Mario_Stecher,athlete,Mario Stecher,AUT
+FRA,team,France,FRA
+POL_Kamil_Stoch,athlete,Kamil Stoch,POL
+SVN_Peter_Prevc,athlete,Peter Prevc,SVN
+POL,team,Poland,POL
+NOR_Anders_Bardal,athlete,Anders Bardal,NOR
+USA_Sarah_Hendrickson,athlete,Sarah Hendrickson,USA
+JPN_Sara_Takanashi,athlete,Sara Takanashi,JPN
+AUT_Jacqueline_Seifriedsberger,athlete,Jacqueline Seifriedsberger,AUT
+FRA_Maurice_Manificat,athlete,Maurice Manificat,FRA
+NOR_Anders_Gløersen,athlete,Anders Gløersen,NOR
+FRA_François_Braud,athlete,François Braud,FRA
+ITA_Alessandro_Pittin,athlete,Alessandro Pittin,ITA
+DEU_Severin_Freund,athlete,Severin Freund,DEU
+NOR_Rune_Velta,athlete,Rune Velta,NOR
+AUT_Stefan_Kraft,athlete,Stefan Kraft,AUT
+DEU_Carina_Vogt,athlete,Carina Vogt,DEU
+JPN_Yki_It,athlete,Yūki Itō,JPN
+AUT_Daniela_Iraschko-Stolz,athlete,Daniela Iraschko-Stolz,AUT
+FIN_Iivo_Niskanen,athlete,Iivo Niskanen,FIN
+NOR_Niklas_Dyrhaug,athlete,Niklas Dyrhaug,NOR
+RUS_Sergey_Ustiugov,athlete,Sergey Ustiugov,RUS
+NOR_Finn_Hågen_Krogh,athlete,Finn Hågen Krogh,NOR
+ITA_Federico_Pellegrino,athlete,Federico Pellegrino,ITA
+NOR_Johannes_Høsflot_Klæbo,athlete,Johannes Høsflot Klæbo,NOR
+JPN_Akito_Watabe,athlete,Akito Watabe,JPN
+DEU_Andreas_Wellinger,athlete,Andreas Wellinger,DEU
+POL_Piotr_ya,athlete,Piotr Żyła,POL
+DEU_Markus_Eisenbichler,athlete,Markus Eisenbichler,DEU
+RUS_Alexander_Bessmertnykh,athlete,Alexander Bessmertnykh,RUS
+NOR_Hans_Christer_Holund,athlete,Hans Christer Holund,NOR
+RUS_Alexander_Bolshunov,athlete,Alexander Bolshunov,RUS
+RUS_Gleb_Retivykh,athlete,Gleb Retivykh,RUS
+AUT_Franz-Josef_Rehrl,athlete,Franz-Josef Rehrl,AUT
+NOR_Jarl_Magnus_Riiber,athlete,Jarl Magnus Riiber,NOR
+DEU_Karl_Geiger,athlete,Karl Geiger,DEU
+CHE_Killian_Peier,athlete,Killian Peier,CHE
+POL_Dawid_Kubacki,athlete,Dawid Kubacki,POL
+NOR_Maren_Lundby,athlete,Maren Lundby,NOR
+DEU_Katharina_Althaus,athlete,Katharina Althaus,DEU
+NOR_Simen_Hegstad_Krüger,athlete,Simen Hegstad Krüger,NOR
+NOR_Harald_Østberg_Amundsen,athlete,Harald Østberg Amundsen,NOR
+NOR_Emil_Iversen,athlete,Emil Iversen,NOR
+NOR_Erik_Valnes,athlete,Erik Valnes,NOR
+NOR_Håvard_Solås_Taugbøl,athlete,Håvard Solås Taugbøl,NOR
+CHE,team,Switzerland,CHE
+AUT_Johannes_Lamparter,athlete,Johannes Lamparter,AUT
+FIN_Ilkka_Herola,athlete,Ilkka Herola,FIN
+NOR_Jens_Lurås_Oftebro,athlete,Jens Lurås Oftebro,NOR
+NOR_Gyda_Westvold_Hansen,athlete,Gyda Westvold Hansen,NOR
+NOR_Mari_Leinan_Lund,athlete,Mari Leinan Lund,NOR
+NOR_Marte_Leinan_Lund,athlete,Marte Leinan Lund,NOR
+NOR_Robert_Johansson,athlete,Robert Johansson,NOR
+SVN_Ane_Laniek,athlete,Anže Lanišek,SVN
+SVN_Nika_Krinar,athlete,Nika Križnar,SVN
+SVN_Ema_Klinec,athlete,Ema Klinec,SVN
+NOR_Pål_Golberg,athlete,Pål Golberg,NOR
+SWE_William_Poromaa,athlete,William Poromaa,SWE
+FRA_Jules_Chappaz,athlete,Jules Chappaz,FRA
+DEU_Julian_Schmid,athlete,Julian Schmid,DEU
+DEU_Nathalie_Armbruster,athlete,Nathalie Armbruster,DEU
+JPN_Haruka_Kasai,athlete,Haruka Kasai,JPN
+SVN_Timi_Zajc,athlete,Timi Zajc,SVN
+JPN_Ryy_Kobayashi,athlete,Ryōyū Kobayashi,JPN
+CAN_Alexandria_Loutitt,athlete,Alexandria Loutitt,CAN
+AUT_Eva_Pinkelnig,athlete,Eva Pinkelnig,AUT
+NOR_Anna_Odine_Strøm,athlete,Anna Odine Strøm,NOR
+NOR_Martin_Løwstrøm_Nyenget,athlete,Martin Løwstrøm Nyenget,NOR
+FIN_Lauri_Vuorinen,athlete,Lauri Vuorinen,FIN
+NOR_Jørgen_Graabak,athlete,Jørgen Graabak,NOR
+DEU_Vinzenz_Geiger,athlete,Vinzenz Geiger,DEU
+NOR_Ida_Marie_Hagen,athlete,Ida Marie Hagen,NOR
+AUT_Lisa_Hirner,athlete,Lisa Hirner,AUT
+JPN_Yuna_Kasai,athlete,Yuna Kasai,JPN
+SVN_Domen_Prevc,athlete,Domen Prevc,SVN
+AUT_Jan_Hörl,athlete,Jan Hörl,AUT
+NOR_Marius_Lindvik,athlete,Marius Lindvik,NOR
+SVN_Nika_Prevc,athlete,Nika Prevc,SVN
+DEU_Selina_Freitag,athlete,Selina Freitag,DEU
+NOR_Eirin_Maria_Kvandal,athlete,Eirin Maria Kvandal,NOR

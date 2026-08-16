@@ -448,6 +448,38 @@ Comportement:
   - l'edition 2003 est completee depuis la page annuelle 2003 car la page liste a ses cellules de medailles vides pour cette edition
   - scope strict `year > 2000`
 
+### 8e4b) Ingest FIS Nordic World Ski Championships (historique, podiums ski nordique)
+
+```bash
+python -m pipelines.ingest --connector fis_nordic_world_ski_championships_history --year 2026
+```
+
+Comportement:
+- ingere le seed historique local:
+  - `data/raw/skiing/fis_nordic_world_ski_championships_top3_seed.csv`
+  - seed reproductible via: `data/raw/skiing/build_fis_nordic_world_ski_championships_seed.py`
+- cree la competition:
+  - `fis_nordic_world_ski_championships`
+- sport/discipline:
+  - sport parent existant `skiing`
+  - disciplines existantes `cross-country-skiing`, `ski-jumping`, `nordic-combined-skiing`
+- cree un event par edition + discipline + genre + epreuve:
+  - `fis_nordic_world_ski_championships_<YYYY>_<discipline>_<men|women|mixed>_<event_key>`
+- stocke les podiums source:
+  - profil strict `1,2,3`
+  - les equipes de relais/team sont modelisees par nation avec membres dans `score_raw`
+- couverture actuelle post-2000:
+  - `2001` -> `2025`
+  - 219 events, 657 resultats
+  - annees sans championnat ou sans edition terminee jusqu'a `2026` documentees dans `fetch_meta.json`
+- participants:
+  - `type=athlete` pour les epreuves individuelles
+  - `type=team` pour les relais/equipes
+- notes source:
+  - les podiums proviennent des listes Wikipedia medalists cross-country, ski jumping et nordic combined
+  - le doublon historique `nordic-combined` rattache a son propre sport n'est pas utilise; le connecteur retient `nordic-combined-skiing` sous `skiing`
+  - scope strict `year > 2000`
+
 ### 8e5) Ingest World Figure Skating Championships (historique, podiums patinage artistique)
 
 ```bash

@@ -57,6 +57,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] Davis Cup (tennis equipes nationales hommes, finalistes post-2000; 24 events, 48 resultats, 2001-2025; pas de 3e place) ajoute via `davis_cup_history` (2026-08-13)
 - [x] Billie Jean King Cup (tennis equipes nationales femmes, finalistes post-2000; 24 events, 48 resultats, 2001-2025; pas de 3e place) ajoute via `billie_jean_king_cup_history` (2026-08-14)
 - [x] World Netball Cup (netball equipes nationales femmes, top 4 post-2000; 6 events, 24 resultats, 2003-2023; 2027 exclu car futur) ajoute via `world_netball_cup_history` (2026-08-15)
+- [x] FIS Nordic World Ski Championships (cross-country, ski jumping, nordic combined; podiums H/F/mixed post-2000; 219 events, 657 resultats, 2001-2025) ajoute via `fis_nordic_world_ski_championships_history` (2026-08-16)
 
 ### Competitions mondiales
 
@@ -122,7 +123,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] Davis Cup (`davis_cup_history`)
 - [x] Billie Jean King Cup (`billie_jean_king_cup_history`)
 - [x] World Netball Cup (`world_netball_cup_history`)
-- [ ] FIS Nordic World Ski Championships
+- [x] FIS Nordic World Ski Championships (`fis_nordic_world_ski_championships_history`)
 
 
 ### Classements mondiaux (Top 10)

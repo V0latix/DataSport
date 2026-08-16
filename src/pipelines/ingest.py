@@ -30,6 +30,7 @@ def main() -> None:
             "fih_hockey_world_cup_history | fih_world_ranking_history | fie_world_championships_history | "
             "fig_artistic_gymnastics_world_championships_history | "
             "fis_alpine_world_ski_championships_history | "
+            "fis_nordic_world_ski_championships_history | "
             "formulae_world_championship_history | "
             "formula1_world_championship_history | "
             "fifa_ranking_history | fifa_women_ranking_history | "
