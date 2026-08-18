@@ -771,6 +771,37 @@ Comportement:
   - `ENG` et `ZAF` sont conserves comme codes equipes nationales
   - scope strict `year > 2000`
 
+### 8e14) Ingest World Lacrosse Championship (historique, top 4 lacrosse hommes)
+
+```bash
+python -m pipelines.ingest --connector world_lacrosse_championship_history --year 2026
+```
+
+Comportement:
+- ingere le seed historique local:
+  - `data/raw/lacrosse/world_lacrosse_championship_top4_seed.csv`
+  - seed reproductible via: `data/raw/lacrosse/build_world_lacrosse_championship_seed.py`
+- cree la competition:
+  - `world_lacrosse_championship`
+- sport/discipline:
+  - sport parent existant `lacrosse`
+  - nouvelle discipline `field-lacrosse`
+- cree un event par edition:
+  - `world_lacrosse_championship_<YYYY>`
+- stocke le classement final top 4:
+  - profil strict `1,2,3,4`
+  - medailles `gold`, `silver`, `bronze`; le 4e rang n'a pas de medaille
+- couverture actuelle post-2000:
+  - `2002` -> `2023`
+  - 6 events, 24 resultats
+  - l'edition `2027` est exclue car future
+- participants:
+  - `type=team`, `participant_id` = code pays/equipe nationale
+- notes source:
+  - les classements proviennent de la table appearances Wikipedia World Lacrosse Men's Championship
+  - `HAU` est conserve comme code domaine non ISO pour Haudenosaunee
+  - scope strict `year > 2000`
+
 ### 8f) Ingest ICC Cricket competitions mondiales (historique, ODI/Test/T20/Champions Trophy)
 
 ```bash
