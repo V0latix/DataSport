@@ -126,6 +126,15 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] World Netball Cup (`world_netball_cup_history`)
 - [x] FIS Nordic World Ski Championships (`fis_nordic_world_ski_championships_history`)
 - [x] World Lacrosse Championship (`world_lacrosse_championship_history`)
+- [ ] Women's Lacrosse World Cup (`world_lacrosse_womens_world_cup_history`)
+- [ ] World Games (multi-sport, sports non olympiques; podiums par epreuve) (`world_games_history`)
+- [ ] World Baseball Classic (equipes nationales hommes, top 4 par edition) (`world_baseball_classic_history`)
+- [ ] FIFA Futsal World Cup (equipes nationales hommes, top 4 par edition) (`fifa_futsal_world_cup_history`)
+- [ ] FIFA Beach Soccer World Cup (equipes nationales hommes, top 4 par edition) (`fifa_beach_soccer_world_cup_history`)
+- [ ] FIDE Chess Olympiad (open/women, equipes nationales, podiums) (`fide_chess_olympiad_history`)
+- [ ] World Squash Team Championships (men/women, equipes nationales, podiums) (`world_squash_team_championships_history`)
+- [ ] IFAF Flag Football World Championship (men/women, equipes nationales, top 4 par edition) (`ifaf_flag_football_world_championship_history`)
+- [ ] World Boccia Championships (podiums par epreuve, verifier modele para-sport) (`world_boccia_championships_history`)
 
 
 ### Classements mondiaux (Top 10)
@@ -171,6 +180,14 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] boxing (World Boxing Championships integres via `world_boxing_championships_history`)
 - [x] lacrosse (World Lacrosse Championship integre via `world_lacrosse_championship_history`)
 
+### Nouveaux sports ou disciplines a evaluer
+
+- [ ] futsal (discipline probable sous football; source cible: FIFA Futsal World Cup)
+- [ ] beach-soccer (discipline probable sous football; source cible: FIFA Beach Soccer World Cup)
+- [ ] chess (sport a creer si retenu; source cible: FIDE Chess Olympiad)
+- [ ] squash (sport a creer si retenu; source cible: World Squash Team Championships)
+- [ ] flag-football (discipline probable sous american-football; source cible: IFAF Flag Football World Championship)
+- [ ] boccia (sport a creer ou para-discipline a modeliser explicitement; source cible: World Boccia Championships)
 
 ### Qualite des donnees `competition/events`
 
