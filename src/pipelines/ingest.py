@@ -44,7 +44,7 @@ def main() -> None:
             "world_curling_championships_history | "
             "world_figure_skating_championships_history | "
             "world_judo_championships_history | world_karate_championships_history | "
-            "world_lacrosse_championship_history | "
+            "world_lacrosse_championship_history | world_lacrosse_womens_world_cup_history | "
             "world_netball_cup_history | "
             "world_rowing_championships_history | "
             "world_wrestling_championships_history | "

@@ -802,6 +802,36 @@ Comportement:
   - `HAU` est conserve comme code domaine non ISO pour Haudenosaunee
   - scope strict `year > 2000`
 
+### 8e15) Ingest Women's Lacrosse World Cup (historique, top 4 lacrosse femmes)
+
+```bash
+python -m pipelines.ingest --connector world_lacrosse_womens_world_cup_history --year 2026
+```
+
+Comportement:
+- ingere le seed historique local:
+  - `data/raw/lacrosse/world_lacrosse_womens_world_cup_top4_seed.csv`
+  - seed reproductible via: `data/raw/lacrosse/build_world_lacrosse_womens_world_cup_seed.py`
+- cree la competition:
+  - `world_lacrosse_womens_world_cup`
+- sport/discipline:
+  - sport parent existant `lacrosse`
+  - discipline existante `field-lacrosse`
+- cree un event par edition:
+  - `world_lacrosse_womens_world_cup_<YYYY>`
+- stocke le classement final top 4:
+  - profil strict `1,2,3,4`
+  - medailles `gold`, `silver`, `bronze`; le 4e rang n'a pas de medaille
+- couverture actuelle post-2000:
+  - `2001` -> `2026`
+  - 7 events, 28 resultats
+- participants:
+  - `type=team`, `participant_id` = code pays/equipe nationale
+- notes source:
+  - les classements proviennent de la table past results Wikipedia World Lacrosse Women's Championship
+  - `ENG` et `HAU` sont conserves comme codes equipes nationales/domaine
+  - scope strict `year > 2000`
+
 ### 8f) Ingest ICC Cricket competitions mondiales (historique, ODI/Test/T20/Champions Trophy)
 
 ```bash
