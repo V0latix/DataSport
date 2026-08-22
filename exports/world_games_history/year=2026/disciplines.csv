@@ -1,0 +1,2 @@
+discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
+world-games-overall-medal-table,World Games overall medal table,world-games-overall-medal-table,world-games,1.0,connector_world_games_history,2026-08-22T07:08:51+00:00

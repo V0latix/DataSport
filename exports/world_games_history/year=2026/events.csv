@@ -1,0 +1,8 @@
+event_id,competition_id,discipline_id,gender,event_class,event_date
+world_games_overall_medal_table_2001,world_games,world-games-overall-medal-table,mixed,overall_medal_table_top10,2001-12-31
+world_games_overall_medal_table_2005,world_games,world-games-overall-medal-table,mixed,overall_medal_table_top10,2005-12-31
+world_games_overall_medal_table_2009,world_games,world-games-overall-medal-table,mixed,overall_medal_table_top10,2009-12-31
+world_games_overall_medal_table_2013,world_games,world-games-overall-medal-table,mixed,overall_medal_table_top10,2013-12-31
+world_games_overall_medal_table_2017,world_games,world-games-overall-medal-table,mixed,overall_medal_table_top10,2017-12-31
+world_games_overall_medal_table_2022,world_games,world-games-overall-medal-table,mixed,overall_medal_table_top10,2022-12-31
+world_games_overall_medal_table_2025,world_games,world-games-overall-medal-table,mixed,overall_medal_table_top10,2025-12-31

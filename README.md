@@ -832,6 +832,37 @@ Comportement:
   - `ENG` et `HAU` sont conserves comme codes equipes nationales/domaine
   - scope strict `year > 2000`
 
+### 8e16) Ingest World Games (historique, classement general des medailles top 10)
+
+```bash
+python -m pipelines.ingest --connector world_games_history --year 2026
+```
+
+Comportement:
+- ingere le seed historique local:
+  - `data/raw/world_games/world_games_medal_table_top10_seed.csv`
+  - seed reproductible via: `data/raw/world_games/build_world_games_medal_table_seed.py`
+- cree la competition:
+  - `world_games`
+- sport/discipline:
+  - sport parent `world-games`
+  - discipline `world-games-overall-medal-table`
+- cree un event par edition:
+  - `world_games_overall_medal_table_<YYYY>`
+- stocke le classement general des medailles top 10:
+  - profil strict `1,2,3,4,5,6,7,8,9,10`
+  - `score_raw` conserve les compteurs `gold`, `silver`, `bronze`, `total`
+  - `points_awarded` = `3*gold + 2*silver + bronze`
+- couverture actuelle post-2000:
+  - `2001` -> `2025`
+  - 7 events, 70 resultats
+- participants:
+  - `type=team`, `participant_id` = code pays/equipe nationale
+- notes source:
+  - les classements proviennent des tables Wikipedia des editions World Games
+  - `GER`, `NED`, `RUS`, `TPE` sont conserves comme codes domaine/source quand presents
+  - scope strict `year > 2000`
+
 ### 8f) Ingest ICC Cricket competitions mondiales (historique, ODI/Test/T20/Champions Trophy)
 
 ```bash

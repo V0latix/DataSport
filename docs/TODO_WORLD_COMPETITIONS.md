@@ -60,6 +60,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] FIS Nordic World Ski Championships (cross-country, ski jumping, nordic combined; podiums H/F/mixed post-2000; 219 events, 657 resultats, 2001-2025) ajoute via `fis_nordic_world_ski_championships_history` (2026-08-16)
 - [x] World Lacrosse Championship (field lacrosse equipes nationales hommes, top 4 post-2000; 6 events, 24 resultats, 2002-2023; 2027 exclu car futur) ajoute via `world_lacrosse_championship_history` (2026-08-18)
 - [x] Women's Lacrosse World Cup (field lacrosse equipes nationales femmes, top 4 post-2000; 7 events, 28 resultats, 2001-2026) ajoute via `world_lacrosse_womens_world_cup_history` (2026-08-21)
+- [x] World Games (classement general des medailles top 10 par edition post-2000; 7 events, 70 resultats, 2001-2025) ajoute via `world_games_history` (2026-08-22)
 
 ### Competitions mondiales
 
@@ -128,7 +129,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] FIS Nordic World Ski Championships (`fis_nordic_world_ski_championships_history`)
 - [x] World Lacrosse Championship (`world_lacrosse_championship_history`)
 - [x] Women's Lacrosse World Cup (`world_lacrosse_womens_world_cup_history`)
-- [ ] World Games (multi-sport, sports non olympiques; podiums par epreuve) (`world_games_history`)
+- [x] World Games (classement general des medailles top 10 par edition) (`world_games_history`)
 - [ ] World Baseball Classic (equipes nationales hommes, top 4 par edition) (`world_baseball_classic_history`)
 - [ ] FIFA Futsal World Cup (equipes nationales hommes, top 4 par edition) (`fifa_futsal_world_cup_history`)
 - [ ] FIFA Beach Soccer World Cup (equipes nationales hommes, top 4 par edition) (`fifa_beach_soccer_world_cup_history`)

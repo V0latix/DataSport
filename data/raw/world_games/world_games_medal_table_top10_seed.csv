@@ -1,0 +1,71 @@
+competition_id,competition_name,year,event_date,discipline_key,discipline_name,gender,rank,participant_type,participant_name,country_name,country_code,gold,silver,bronze,total,source_url
+world_games,World Games,2001,2001-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,1,team,Russia,Russia,RUS,24,15,5,44,https://en.wikipedia.org/wiki/2001_World_Games
+world_games,World Games,2001,2001-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,2,team,United States,United States,USA,15,8,8,31,https://en.wikipedia.org/wiki/2001_World_Games
+world_games,World Games,2001,2001-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,3,team,France,France,FRA,12,5,6,23,https://en.wikipedia.org/wiki/2001_World_Games
+world_games,World Games,2001,2001-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,4,team,Germany,Germany,GER,10,10,15,35,https://en.wikipedia.org/wiki/2001_World_Games
+world_games,World Games,2001,2001-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,5,team,Australia,Australia,AUS,10,10,3,23,https://en.wikipedia.org/wiki/2001_World_Games
+world_games,World Games,2001,2001-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,6,team,Italy,Italy,ITA,9,11,8,28,https://en.wikipedia.org/wiki/2001_World_Games
+world_games,World Games,2001,2001-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,7,team,Japan,Japan,JPN,9,6,10,25,https://en.wikipedia.org/wiki/2001_World_Games
+world_games,World Games,2001,2001-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,8,team,Spain,Spain,ESP,5,4,1,10,https://en.wikipedia.org/wiki/2001_World_Games
+world_games,World Games,2001,2001-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,9,team,Great Britain,Great Britain,GBR,4,7,11,22,https://en.wikipedia.org/wiki/2001_World_Games
+world_games,World Games,2001,2001-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,10,team,Netherlands,Netherlands,NED,4,3,3,10,https://en.wikipedia.org/wiki/2001_World_Games
+world_games,World Games,2005,2005-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,1,team,Russia,Russia,RUS,27,19,11,57,https://en.wikipedia.org/wiki/2005_World_Games
+world_games,World Games,2005,2005-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,2,team,Germany,Germany,GER,19,18,20,57,https://en.wikipedia.org/wiki/2005_World_Games
+world_games,World Games,2005,2005-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,3,team,Italy,Italy,ITA,13,9,13,35,https://en.wikipedia.org/wiki/2005_World_Games
+world_games,World Games,2005,2005-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,4,team,France,France,FRA,12,12,11,35,https://en.wikipedia.org/wiki/2005_World_Games
+world_games,World Games,2005,2005-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,5,team,Australia,Australia,AUS,7,9,4,20,https://en.wikipedia.org/wiki/2005_World_Games
+world_games,World Games,2005,2005-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,6,team,United States,United States,USA,7,7,9,23,https://en.wikipedia.org/wiki/2005_World_Games
+world_games,World Games,2005,2005-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,7,team,Ukraine,Ukraine,UKR,7,6,8,21,https://en.wikipedia.org/wiki/2005_World_Games
+world_games,World Games,2005,2005-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,8,team,Spain,Spain,ESP,6,6,3,15,https://en.wikipedia.org/wiki/2005_World_Games
+world_games,World Games,2005,2005-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,9,team,Netherlands,Netherlands,NED,5,8,4,17,https://en.wikipedia.org/wiki/2005_World_Games
+world_games,World Games,2005,2005-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,10,team,Denmark,Denmark,DEN,5,1,0,6,https://en.wikipedia.org/wiki/2005_World_Games
+world_games,World Games,2009,2009-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,1,team,Russia,Russia,RUS,19,13,15,47,https://en.wikipedia.org/wiki/2009_World_Games
+world_games,World Games,2009,2009-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,2,team,Italy,Italy,ITA,16,12,13,41,https://en.wikipedia.org/wiki/2009_World_Games
+world_games,World Games,2009,2009-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,3,team,China,China,CHN,14,10,5,29,https://en.wikipedia.org/wiki/2009_World_Games
+world_games,World Games,2009,2009-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,4,team,United States,United States,USA,13,8,5,26,https://en.wikipedia.org/wiki/2009_World_Games
+world_games,World Games,2009,2009-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,5,team,France,France,FRA,11,14,13,38,https://en.wikipedia.org/wiki/2009_World_Games
+world_games,World Games,2009,2009-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,6,team,Ukraine,Ukraine,UKR,9,12,10,31,https://en.wikipedia.org/wiki/2009_World_Games
+world_games,World Games,2009,2009-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,7,team,Chinese Taipei,Chinese Taipei,TPE,8,9,7,24,https://en.wikipedia.org/wiki/2009_World_Games
+world_games,World Games,2009,2009-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,8,team,Germany,Germany,GER,6,6,10,22,https://en.wikipedia.org/wiki/2009_World_Games
+world_games,World Games,2009,2009-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,9,team,South Korea,South Korea,KOR,6,3,5,14,https://en.wikipedia.org/wiki/2009_World_Games
+world_games,World Games,2009,2009-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,10,team,Australia,Australia,AUS,5,10,5,20,https://en.wikipedia.org/wiki/2009_World_Games
+world_games,World Games,2013,2013-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,1,team,Italy,Italy,ITA,18,13,18,49,https://en.wikipedia.org/wiki/2013_World_Games
+world_games,World Games,2013,2013-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,2,team,Russia,Russia,RUS,17,24,12,53,https://en.wikipedia.org/wiki/2013_World_Games
+world_games,World Games,2013,2013-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,3,team,France,France,FRA,16,11,13,40,https://en.wikipedia.org/wiki/2013_World_Games
+world_games,World Games,2013,2013-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,4,team,Germany,Germany,GER,15,7,8,30,https://en.wikipedia.org/wiki/2013_World_Games
+world_games,World Games,2013,2013-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,5,team,China,China,CHN,14,6,2,22,https://en.wikipedia.org/wiki/2013_World_Games
+world_games,World Games,2013,2013-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,6,team,United States,United States,USA,11,4,4,19,https://en.wikipedia.org/wiki/2013_World_Games
+world_games,World Games,2013,2013-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,7,team,Ukraine,Ukraine,UKR,9,10,9,28,https://en.wikipedia.org/wiki/2013_World_Games
+world_games,World Games,2013,2013-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,8,team,Colombia,Colombia,COL,8,13,10,31,https://en.wikipedia.org/wiki/2013_World_Games
+world_games,World Games,2013,2013-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,9,team,Great Britain,Great Britain,GBR,6,6,3,15,https://en.wikipedia.org/wiki/2013_World_Games
+world_games,World Games,2013,2013-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,10,team,Chinese Taipei,Chinese Taipei,TPE,5,5,8,18,https://en.wikipedia.org/wiki/2013_World_Games
+world_games,World Games,2017,2017-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,1,team,Russia,Russia,RUS,28,21,14,63,https://en.wikipedia.org/wiki/2017_World_Games
+world_games,World Games,2017,2017-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,2,team,Germany,Germany,GER,17,10,14,41,https://en.wikipedia.org/wiki/2017_World_Games
+world_games,World Games,2017,2017-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,3,team,Italy,Italy,ITA,16,13,13,42,https://en.wikipedia.org/wiki/2017_World_Games
+world_games,World Games,2017,2017-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,4,team,France,France,FRA,14,14,15,43,https://en.wikipedia.org/wiki/2017_World_Games
+world_games,World Games,2017,2017-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,5,team,Ukraine,Ukraine,UKR,10,7,9,26,https://en.wikipedia.org/wiki/2017_World_Games
+world_games,World Games,2017,2017-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,6,team,Colombia,Colombia,COL,9,11,1,21,https://en.wikipedia.org/wiki/2017_World_Games
+world_games,World Games,2017,2017-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,7,team,Japan,Japan,JPN,9,6,7,22,https://en.wikipedia.org/wiki/2017_World_Games
+world_games,World Games,2017,2017-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,8,team,China,China,CHN,8,7,5,20,https://en.wikipedia.org/wiki/2017_World_Games
+world_games,World Games,2017,2017-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,9,team,United States,United States,USA,7,10,5,22,https://en.wikipedia.org/wiki/2017_World_Games
+world_games,World Games,2017,2017-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,10,team,Belgium,Belgium,BEL,7,9,8,24,https://en.wikipedia.org/wiki/2017_World_Games
+world_games,World Games,2022,2022-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,1,team,Germany,Germany,GER,24,7,16,47,https://en.wikipedia.org/wiki/2022_World_Games
+world_games,World Games,2022,2022-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,2,team,United States,United States,USA,16,18,10,44,https://en.wikipedia.org/wiki/2022_World_Games
+world_games,World Games,2022,2022-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,3,team,Ukraine,Ukraine,UKR,16,12,17,45,https://en.wikipedia.org/wiki/2022_World_Games
+world_games,World Games,2022,2022-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,4,team,Italy,Italy,ITA,13,24,12,49,https://en.wikipedia.org/wiki/2022_World_Games
+world_games,World Games,2022,2022-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,5,team,France,France,FRA,11,15,16,42,https://en.wikipedia.org/wiki/2022_World_Games
+world_games,World Games,2022,2022-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,6,team,Hungary,Hungary,HUN,11,7,9,27,https://en.wikipedia.org/wiki/2022_World_Games
+world_games,World Games,2022,2022-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,7,team,Belgium,Belgium,BEL,11,4,5,20,https://en.wikipedia.org/wiki/2022_World_Games
+world_games,World Games,2022,2022-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,8,team,Japan,Japan,JPN,10,11,12,33,https://en.wikipedia.org/wiki/2022_World_Games
+world_games,World Games,2022,2022-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,9,team,Colombia,Colombia,COL,9,10,6,25,https://en.wikipedia.org/wiki/2022_World_Games
+world_games,World Games,2022,2022-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,10,team,China,China,CHN,9,4,1,14,https://en.wikipedia.org/wiki/2022_World_Games
+world_games,World Games,2025,2025-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,1,team,China,China,CHN,36,17,11,64,https://en.wikipedia.org/wiki/2025_World_Games
+world_games,World Games,2025,2025-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,2,team,Germany,Germany,GER,17,14,14,45,https://en.wikipedia.org/wiki/2025_World_Games
+world_games,World Games,2025,2025-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,3,team,Ukraine,Ukraine,UKR,16,14,14,44,https://en.wikipedia.org/wiki/2025_World_Games
+world_games,World Games,2025,2025-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,4,team,Italy,Italy,ITA,13,25,19,57,https://en.wikipedia.org/wiki/2025_World_Games
+world_games,World Games,2025,2025-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,5,team,France,France,FRA,11,11,16,38,https://en.wikipedia.org/wiki/2025_World_Games
+world_games,World Games,2025,2025-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,6,team,United States,United States,USA,11,10,7,28,https://en.wikipedia.org/wiki/2025_World_Games
+world_games,World Games,2025,2025-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,7,team,Hungary,Hungary,HUN,11,8,5,24,https://en.wikipedia.org/wiki/2025_World_Games
+world_games,World Games,2025,2025-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,8,team,Spain,Spain,ESP,8,2,13,23,https://en.wikipedia.org/wiki/2025_World_Games
+world_games,World Games,2025,2025-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,9,team,Japan,Japan,JPN,7,12,5,24,https://en.wikipedia.org/wiki/2025_World_Games
+world_games,World Games,2025,2025-12-31,world-games-overall-medal-table,World Games overall medal table,mixed,10,team,Colombia,Colombia,COL,7,8,6,21,https://en.wikipedia.org/wiki/2025_World_Games
