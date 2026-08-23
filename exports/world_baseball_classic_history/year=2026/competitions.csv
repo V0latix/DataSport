@@ -1,0 +1,2 @@
+competition_id,sport_id,name,season_year,level,start_date,end_date,source_id
+world_baseball_classic,baseball,World Baseball Classic,,national_team_tournament,2006-12-31,2026-12-31,world_baseball_classic_history

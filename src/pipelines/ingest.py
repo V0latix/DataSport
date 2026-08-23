@@ -40,6 +40,7 @@ def main() -> None:
             "icc_team_ranking_history | "
             "icc_cricket_world_cup_history | world_cup_history | "
             "world_athletics_championships_history | world_aquatics_championships_history | "
+            "world_baseball_classic_history | "
             "world_boxing_championships_history | "
             "world_curling_championships_history | "
             "world_figure_skating_championships_history | "

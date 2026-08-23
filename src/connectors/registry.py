@@ -54,6 +54,7 @@ from .world_cup_history_connector import WorldCupHistoryConnector
 from .world_athletics_championships_history_connector import WorldAthleticsChampionshipsHistoryConnector
 from .world_aquatics_championships_history_connector import WorldAquaticsChampionshipsHistoryConnector
 from .world_archery_championships_history_connector import WorldArcheryChampionshipsHistoryConnector
+from .world_baseball_classic_history_connector import WorldBaseballClassicHistoryConnector
 from .world_boxing_championships_history_connector import WorldBoxingChampionshipsHistoryConnector
 from .world_curling_championships_history_connector import WorldCurlingChampionshipsHistoryConnector
 from .world_amateur_team_championships_history_connector import WorldAmateurTeamChampionshipsHistoryConnector
@@ -117,6 +118,7 @@ CONNECTOR_REGISTRY = {
     "world_athletics_championships_history": WorldAthleticsChampionshipsHistoryConnector,
     "world_aquatics_championships_history": WorldAquaticsChampionshipsHistoryConnector,
     "world_archery_championships_history": WorldArcheryChampionshipsHistoryConnector,
+    "world_baseball_classic_history": WorldBaseballClassicHistoryConnector,
     "world_boxing_championships_history": WorldBoxingChampionshipsHistoryConnector,
     "world_curling_championships_history": WorldCurlingChampionshipsHistoryConnector,
     "world_amateur_team_championships_history": WorldAmateurTeamChampionshipsHistoryConnector,

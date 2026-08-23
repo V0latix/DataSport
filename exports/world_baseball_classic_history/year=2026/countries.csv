@@ -1,0 +1,11 @@
+country_id,iso2,iso3,name_en,name_fr
+JPN,JP,JPN,Japan,
+CUB,CU,CUB,Cuba,
+KOR,KR,KOR,South Korea,
+DOM,DO,DOM,Dominican Republic,
+VEN,VE,VEN,"Venezuela, Bolivarian Republic of",
+USA,US,USA,United States,
+PRI,PR,PRI,Puerto Rico,
+NED,,NED,Netherlands,
+MEX,MX,MEX,Mexico,
+ITA,IT,ITA,Italy,

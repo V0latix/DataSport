@@ -984,6 +984,36 @@ Comportement:
   - `softball` (discipline du sport `baseball`)
 - `participant_id` est le code pays (avec mapping pour codes non-ISO usuels, ex: `Chinese Taipei -> TPE`)
 
+### 8j2) Ingest World Baseball Classic (historique, hommes, top 4)
+
+```bash
+python -m pipelines.ingest --connector world_baseball_classic_history --year 2026
+```
+
+Comportement:
+- ingere le seed historique local:
+  - `data/raw/baseball/world_baseball_classic_top4_seed.csv`
+  - seed reproductible via: `data/raw/baseball/build_world_baseball_classic_seed.py`
+- cree la competition:
+  - `world_baseball_classic`
+- sport/discipline:
+  - sport parent existant `baseball`
+  - discipline existante `baseball`
+- cree un event par edition:
+  - `world_baseball_classic_<YYYY>`
+- stocke le classement final top 4:
+  - profil strict `1,2,3,4`
+  - medailles `gold`, `silver`, `bronze`; le 4e rang n'a pas de medaille
+- couverture actuelle post-2000:
+  - `2006` -> `2026`
+  - 6 events, 24 resultats
+- participants:
+  - `type=team`, `participant_id` = code pays/equipe nationale
+- notes source:
+  - les classements proviennent de la table editions Wikipedia World Baseball Classic
+  - `DOM`, `KOR`, `NED`, `PRI` sont conserves comme codes equipes nationales/domaine
+  - scope strict `year > 2000`
+
 ### 8k) Ingest BWF World Championships (historique, 5 disciplines, top 4)
 
 ```bash
