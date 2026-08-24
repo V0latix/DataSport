@@ -62,6 +62,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] Women's Lacrosse World Cup (field lacrosse equipes nationales femmes, top 4 post-2000; 7 events, 28 resultats, 2001-2026) ajoute via `world_lacrosse_womens_world_cup_history` (2026-08-21)
 - [x] World Games (classement general des medailles top 10 par edition post-2000; 7 events, 70 resultats, 2001-2025) ajoute via `world_games_history` (2026-08-22)
 - [x] World Baseball Classic (baseball equipes nationales hommes, top 4 post-2000; 6 events, 24 resultats, 2006-2026) ajoute via `world_baseball_classic_history` (2026-08-23)
+- [x] FIFA Futsal World Cup (futsal equipes nationales hommes, top 4 post-2000; 6 events, 24 resultats, 2004-2024; 2028 exclu car futur/incomplet) ajoute via `fifa_futsal_world_cup_history` (2026-08-24)
 
 ### Competitions mondiales
 
@@ -132,7 +133,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 - [x] Women's Lacrosse World Cup (`world_lacrosse_womens_world_cup_history`)
 - [x] World Games (classement general des medailles top 10 par edition) (`world_games_history`)
 - [x] World Baseball Classic (equipes nationales hommes, top 4 par edition) (`world_baseball_classic_history`)
-- [ ] FIFA Futsal World Cup (equipes nationales hommes, top 4 par edition) (`fifa_futsal_world_cup_history`)
+- [x] FIFA Futsal World Cup (equipes nationales hommes, top 4 par edition) (`fifa_futsal_world_cup_history`)
 - [ ] FIFA Beach Soccer World Cup (equipes nationales hommes, top 4 par edition) (`fifa_beach_soccer_world_cup_history`)
 - [ ] FIDE Chess Olympiad (open/women, equipes nationales, podiums) (`fide_chess_olympiad_history`)
 - [ ] World Squash Team Championships (men/women, equipes nationales, podiums) (`world_squash_team_championships_history`)
@@ -185,7 +186,7 @@ Objectif: prioriser les prochaines ingestions mondiales pour enrichir `competiti
 
 ### Nouveaux sports ou disciplines a evaluer
 
-- [ ] futsal (discipline probable sous football; source cible: FIFA Futsal World Cup)
+- [x] futsal (discipline sous football; FIFA Futsal World Cup integree via `fifa_futsal_world_cup_history`)
 - [ ] beach-soccer (discipline probable sous football; source cible: FIFA Beach Soccer World Cup)
 - [ ] chess (sport a creer si retenu; source cible: FIDE Chess Olympiad)
 - [ ] squash (sport a creer si retenu; source cible: World Squash Team Championships)

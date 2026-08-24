@@ -1014,6 +1014,37 @@ Comportement:
   - `DOM`, `KOR`, `NED`, `PRI` sont conserves comme codes equipes nationales/domaine
   - scope strict `year > 2000`
 
+### 8j3) Ingest FIFA Futsal World Cup (historique, hommes, top 4)
+
+```bash
+python -m pipelines.ingest --connector fifa_futsal_world_cup_history --year 2026
+```
+
+Comportement:
+- ingere le seed historique local:
+  - `data/raw/football/fifa_futsal_world_cup_top4_seed.csv`
+  - seed reproductible via: `data/raw/football/build_fifa_futsal_world_cup_seed.py`
+- cree la competition:
+  - `fifa_futsal_world_cup`
+- sport/discipline:
+  - sport parent existant `football`
+  - discipline `futsal`
+- cree un event par edition:
+  - `fifa_futsal_world_cup_<YYYY>`
+- stocke le classement final top 4:
+  - profil strict `1,2,3,4`
+  - medailles `gold`, `silver`, `bronze`; le 4e rang n'a pas de medaille
+- couverture actuelle post-2000:
+  - `2004` -> `2024`
+  - 6 events, 24 resultats
+  - `2028` exclu car edition future/incomplete
+- participants:
+  - `type=team`, `participant_id` = code pays/equipe nationale
+- notes source:
+  - les classements proviennent de la table editions Wikipedia FIFA Futsal World Cup
+  - `IRN` et `RUS` sont conserves comme codes equipes nationales/domaine
+  - scope strict `year > 2000`
+
 ### 8k) Ingest BWF World Championships (historique, 5 disciplines, top 4)
 
 ```bash

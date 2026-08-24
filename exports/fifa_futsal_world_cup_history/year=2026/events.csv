@@ -1,0 +1,7 @@
+event_id,competition_id,discipline_id,gender,event_class,event_date
+fifa_futsal_world_cup_2004,fifa_futsal_world_cup,futsal,men,final_ranking_top4,2004-12-31
+fifa_futsal_world_cup_2008,fifa_futsal_world_cup,futsal,men,final_ranking_top4,2008-12-31
+fifa_futsal_world_cup_2012,fifa_futsal_world_cup,futsal,men,final_ranking_top4,2012-12-31
+fifa_futsal_world_cup_2016,fifa_futsal_world_cup,futsal,men,final_ranking_top4,2016-12-31
+fifa_futsal_world_cup_2021,fifa_futsal_world_cup,futsal,men,final_ranking_top4,2021-12-31
+fifa_futsal_world_cup_2024,fifa_futsal_world_cup,futsal,men,final_ranking_top4,2024-12-31

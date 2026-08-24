@@ -1,0 +1,2 @@
+discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
+futsal,Futsal,futsal,football,1.0,connector_fifa_futsal_world_cup_history,2026-08-24T07:51:25+00:00
