@@ -1,0 +1,16 @@
+participant_id,type,display_name,country_id
+FRA,team,France,FRA
+PRT,team,Portugal,PRT
+BRA,team,Brazil,BRA
+JPN,team,Japan,JPN
+URU,team,Uruguay,URU
+MEX,team,Mexico,MEX
+ITA,team,Italy,ITA
+ESP,team,Spain,ESP
+SUI,team,Switzerland,SUI
+RUS,team,Russia,RUS
+SLV,team,El Salvador,SLV
+TAH,team,Tahiti,TAH
+IRN,team,Iran,IRN
+SEN,team,Senegal,SEN
+BLR,team,Belarus,BLR

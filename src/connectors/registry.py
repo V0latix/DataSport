@@ -21,6 +21,7 @@ from .formulae_world_championship_history_connector import FormulaEWorldChampion
 from .formula1_world_championship_history_connector import Formula1WorldChampionshipHistoryConnector
 from .fivb_volleyball_world_championship_history_connector import FivbVolleyballWorldChampionshipHistoryConnector
 from .fifa_ranking_history_connector import FifaRankingHistoryConnector
+from .fifa_beach_soccer_world_cup_history_connector import FifaBeachSoccerWorldCupHistoryConnector
 from .fifa_futsal_world_cup_history_connector import FifaFutsalWorldCupHistoryConnector
 from .fifa_women_ranking_history_connector import FifaWomenRankingHistoryConnector
 from .fifa_women_world_cup_history_connector import FifaWomenWorldCupHistoryConnector
@@ -98,6 +99,7 @@ CONNECTOR_REGISTRY = {
     "formula1_world_championship_history": Formula1WorldChampionshipHistoryConnector,
     "fivb_volleyball_world_championship_history": FivbVolleyballWorldChampionshipHistoryConnector,
     "fifa_ranking_history": FifaRankingHistoryConnector,
+    "fifa_beach_soccer_world_cup_history": FifaBeachSoccerWorldCupHistoryConnector,
     "fifa_futsal_world_cup_history": FifaFutsalWorldCupHistoryConnector,
     "fifa_women_ranking_history": FifaWomenRankingHistoryConnector,
     "fifa_women_world_cup_history": FifaWomenWorldCupHistoryConnector,

@@ -1045,6 +1045,38 @@ Comportement:
   - `IRN` et `RUS` sont conserves comme codes equipes nationales/domaine
   - scope strict `year > 2000`
 
+### 8j4) Ingest FIFA Beach Soccer World Cup (historique, hommes, top 4)
+
+```bash
+python -m pipelines.ingest --connector fifa_beach_soccer_world_cup_history --year 2026
+```
+
+Comportement:
+- ingere le seed historique local:
+  - `data/raw/football/fifa_beach_soccer_world_cup_top4_seed.csv`
+  - seed reproductible via: `data/raw/football/build_fifa_beach_soccer_world_cup_seed.py`
+- cree la competition:
+  - `fifa_beach_soccer_world_cup`
+- sport/discipline:
+  - sport parent existant `football`
+  - discipline `beach-soccer`
+- cree un event par edition:
+  - `fifa_beach_soccer_world_cup_<YYYY>`
+- stocke le classement final top 4:
+  - profil strict `1,2,3,4`
+  - medailles `gold`, `silver`, `bronze`; le 4e rang n'a pas de medaille
+- couverture actuelle post-2000:
+  - `2005` -> `2025`
+  - 13 events, 52 resultats
+  - `2027` exclu car edition future/incomplete
+- participants:
+  - `type=team`, `participant_id` = code pays/equipe nationale
+- notes source:
+  - les classements proviennent de la table editions Wikipedia FIFA Beach Soccer World Cup
+  - `RFU[RFU]` est normalise en `Russia`/`RUS`
+  - `TAH`, `URU` et `SUI` sont conserves comme codes equipes nationales/domaine
+  - scope strict `year > 2000`
+
 ### 8k) Ingest BWF World Championships (historique, 5 disciplines, top 4)
 
 ```bash
