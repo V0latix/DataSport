@@ -186,3 +186,5 @@ import_5034db6fdcb49ed7ab22eb1dbde770c79f134680,world_games_history,2026-08-22T0
 import_0b442ed66ba0c2b9a55e9f47c3f0fad34f55972b,world_baseball_classic_history,2026-08-23T07:03:35+00:00,/Users/romain/dev/DataSport/data/raw/world_baseball_classic_history/20260823T070335Z,success,
 import_081a47257c31cd8ece7653f8c9746f5f7c97d113,fifa_futsal_world_cup_history,2026-08-24T07:51:25+00:00,/Users/romain/dev/DataSport/data/raw/fifa_futsal_world_cup_history/20260824T075125Z,success,
 import_0ab4fd03a81687781cd184a1ff7ae15d640b004e,fifa_beach_soccer_world_cup_history,2026-08-25T08:35:21+00:00,/Users/romain/dev/DataSport/data/raw/fifa_beach_soccer_world_cup_history/20260825T083521Z,success,
+import_fec6230a8ea3d2d9c6f515f42ddd03c9aad071be,fide_chess_olympiad_history,2026-08-26T07:59:23+00:00,/Users/romain/dev/DataSport/data/raw/fide_chess_olympiad_history/20260826T075923Z,success,
+import_746edea2af97a70d69577b11e2466f8769ec09ef,fide_chess_olympiad_history,2026-08-26T08:00:00+00:00,/Users/romain/dev/DataSport/data/raw/fide_chess_olympiad_history/20260826T080000Z,success,

@@ -1077,6 +1077,41 @@ Comportement:
   - `TAH`, `URU` et `SUI` sont conserves comme codes equipes nationales/domaine
   - scope strict `year > 2000`
 
+### 8j5) Ingest FIDE Chess Olympiad (historique, open/femmes, podiums)
+
+```bash
+python -m pipelines.ingest --connector fide_chess_olympiad_history --year 2026
+```
+
+Comportement:
+- ingere le seed historique local:
+  - `data/raw/chess/fide_chess_olympiad_team_podium_seed.csv`
+  - seed reproductible via: `data/raw/chess/build_fide_chess_olympiad_seed.py`
+- cree deux competitions:
+  - `fide_chess_olympiad_open`
+  - `fide_chess_olympiad_women`
+- sport/discipline:
+  - sport parent `chess`
+  - discipline `chess-team`
+- cree un event par edition et par competition:
+  - `fide_chess_olympiad_open_<YYYY>`
+  - `fide_chess_olympiad_women_<YYYY>`
+- stocke les podiums par edition:
+  - profil strict `1,2,3`
+  - medailles `gold`, `silver`, `bronze`
+- couverture actuelle post-2000:
+  - `2002` -> `2024`
+  - 22 events, 66 resultats
+  - editions physiques retenues; Olympiades en ligne 2020/2021 exclues car format de medailles atypique
+  - editions 2026/2028 exclues car futures/incompletes
+- participants:
+  - `type=team`, `participant_id` = code pays/equipe nationale
+  - `India 2` en open 2022 est conserve comme participant `IND2`, rattache au pays `IND`
+- notes source:
+  - les podiums open proviennent de la table Wikipedia Chess Olympiad
+  - les podiums femmes proviennent de la table Wikipedia Women's Chess Olympiad
+  - scope strict `year > 2000`
+
 ### 8k) Ingest BWF World Championships (historique, 5 disciplines, top 4)
 
 ```bash

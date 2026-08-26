@@ -1,0 +1,67 @@
+competition_id,competition_name,year,event_date,discipline_key,discipline_name,gender,rank,medal,participant_type,participant_id,participant_name,country_name,country_id,source_url
+fide_chess_olympiad_open,FIDE Chess Olympiad (Open),2002,2002-12-31,chess-team,Team chess,open,1,gold,team,RUS,Russia,Russia,RUS,https://en.wikipedia.org/wiki/Chess_Olympiad
+fide_chess_olympiad_open,FIDE Chess Olympiad (Open),2002,2002-12-31,chess-team,Team chess,open,2,silver,team,HUN,Hungary,Hungary,HUN,https://en.wikipedia.org/wiki/Chess_Olympiad
+fide_chess_olympiad_open,FIDE Chess Olympiad (Open),2002,2002-12-31,chess-team,Team chess,open,3,bronze,team,ARM,Armenia,Armenia,ARM,https://en.wikipedia.org/wiki/Chess_Olympiad
+fide_chess_olympiad_open,FIDE Chess Olympiad (Open),2004,2004-12-31,chess-team,Team chess,open,1,gold,team,UKR,Ukraine,Ukraine,UKR,https://en.wikipedia.org/wiki/Chess_Olympiad
+fide_chess_olympiad_open,FIDE Chess Olympiad (Open),2004,2004-12-31,chess-team,Team chess,open,2,silver,team,RUS,Russia,Russia,RUS,https://en.wikipedia.org/wiki/Chess_Olympiad
+fide_chess_olympiad_open,FIDE Chess Olympiad (Open),2004,2004-12-31,chess-team,Team chess,open,3,bronze,team,ARM,Armenia,Armenia,ARM,https://en.wikipedia.org/wiki/Chess_Olympiad
+fide_chess_olympiad_open,FIDE Chess Olympiad (Open),2006,2006-12-31,chess-team,Team chess,open,1,gold,team,ARM,Armenia,Armenia,ARM,https://en.wikipedia.org/wiki/Chess_Olympiad
+fide_chess_olympiad_open,FIDE Chess Olympiad (Open),2006,2006-12-31,chess-team,Team chess,open,2,silver,team,CHN,China,China,CHN,https://en.wikipedia.org/wiki/Chess_Olympiad
+fide_chess_olympiad_open,FIDE Chess Olympiad (Open),2006,2006-12-31,chess-team,Team chess,open,3,bronze,team,USA,United States,United States,USA,https://en.wikipedia.org/wiki/Chess_Olympiad
+fide_chess_olympiad_open,FIDE Chess Olympiad (Open),2008,2008-12-31,chess-team,Team chess,open,1,gold,team,ARM,Armenia,Armenia,ARM,https://en.wikipedia.org/wiki/Chess_Olympiad
+fide_chess_olympiad_open,FIDE Chess Olympiad (Open),2008,2008-12-31,chess-team,Team chess,open,2,silver,team,ISR,Israel,Israel,ISR,https://en.wikipedia.org/wiki/Chess_Olympiad
+fide_chess_olympiad_open,FIDE Chess Olympiad (Open),2008,2008-12-31,chess-team,Team chess,open,3,bronze,team,USA,United States,United States,USA,https://en.wikipedia.org/wiki/Chess_Olympiad
+fide_chess_olympiad_open,FIDE Chess Olympiad (Open),2010,2010-12-31,chess-team,Team chess,open,1,gold,team,UKR,Ukraine,Ukraine,UKR,https://en.wikipedia.org/wiki/Chess_Olympiad
+fide_chess_olympiad_open,FIDE Chess Olympiad (Open),2010,2010-12-31,chess-team,Team chess,open,2,silver,team,RUS,Russia,Russia,RUS,https://en.wikipedia.org/wiki/Chess_Olympiad
+fide_chess_olympiad_open,FIDE Chess Olympiad (Open),2010,2010-12-31,chess-team,Team chess,open,3,bronze,team,ISR,Israel,Israel,ISR,https://en.wikipedia.org/wiki/Chess_Olympiad
+fide_chess_olympiad_open,FIDE Chess Olympiad (Open),2012,2012-12-31,chess-team,Team chess,open,1,gold,team,ARM,Armenia,Armenia,ARM,https://en.wikipedia.org/wiki/Chess_Olympiad
+fide_chess_olympiad_open,FIDE Chess Olympiad (Open),2012,2012-12-31,chess-team,Team chess,open,2,silver,team,RUS,Russia,Russia,RUS,https://en.wikipedia.org/wiki/Chess_Olympiad
+fide_chess_olympiad_open,FIDE Chess Olympiad (Open),2012,2012-12-31,chess-team,Team chess,open,3,bronze,team,UKR,Ukraine,Ukraine,UKR,https://en.wikipedia.org/wiki/Chess_Olympiad
+fide_chess_olympiad_open,FIDE Chess Olympiad (Open),2014,2014-12-31,chess-team,Team chess,open,1,gold,team,CHN,China,China,CHN,https://en.wikipedia.org/wiki/Chess_Olympiad
+fide_chess_olympiad_open,FIDE Chess Olympiad (Open),2014,2014-12-31,chess-team,Team chess,open,2,silver,team,HUN,Hungary,Hungary,HUN,https://en.wikipedia.org/wiki/Chess_Olympiad
+fide_chess_olympiad_open,FIDE Chess Olympiad (Open),2014,2014-12-31,chess-team,Team chess,open,3,bronze,team,IND,India,India,IND,https://en.wikipedia.org/wiki/Chess_Olympiad
+fide_chess_olympiad_open,FIDE Chess Olympiad (Open),2016,2016-12-31,chess-team,Team chess,open,1,gold,team,USA,United States,United States,USA,https://en.wikipedia.org/wiki/Chess_Olympiad
+fide_chess_olympiad_open,FIDE Chess Olympiad (Open),2016,2016-12-31,chess-team,Team chess,open,2,silver,team,UKR,Ukraine,Ukraine,UKR,https://en.wikipedia.org/wiki/Chess_Olympiad
+fide_chess_olympiad_open,FIDE Chess Olympiad (Open),2016,2016-12-31,chess-team,Team chess,open,3,bronze,team,RUS,Russia,Russia,RUS,https://en.wikipedia.org/wiki/Chess_Olympiad
+fide_chess_olympiad_open,FIDE Chess Olympiad (Open),2018,2018-12-31,chess-team,Team chess,open,1,gold,team,CHN,China,China,CHN,https://en.wikipedia.org/wiki/Chess_Olympiad
+fide_chess_olympiad_open,FIDE Chess Olympiad (Open),2018,2018-12-31,chess-team,Team chess,open,2,silver,team,USA,United States,United States,USA,https://en.wikipedia.org/wiki/Chess_Olympiad
+fide_chess_olympiad_open,FIDE Chess Olympiad (Open),2018,2018-12-31,chess-team,Team chess,open,3,bronze,team,RUS,Russia,Russia,RUS,https://en.wikipedia.org/wiki/Chess_Olympiad
+fide_chess_olympiad_open,FIDE Chess Olympiad (Open),2022,2022-12-31,chess-team,Team chess,open,1,gold,team,UZB,Uzbekistan,Uzbekistan,UZB,https://en.wikipedia.org/wiki/Chess_Olympiad
+fide_chess_olympiad_open,FIDE Chess Olympiad (Open),2022,2022-12-31,chess-team,Team chess,open,2,silver,team,ARM,Armenia,Armenia,ARM,https://en.wikipedia.org/wiki/Chess_Olympiad
+fide_chess_olympiad_open,FIDE Chess Olympiad (Open),2022,2022-12-31,chess-team,Team chess,open,3,bronze,team,IND2,India 2,India,IND,https://en.wikipedia.org/wiki/Chess_Olympiad
+fide_chess_olympiad_open,FIDE Chess Olympiad (Open),2024,2024-12-31,chess-team,Team chess,open,1,gold,team,IND,India,India,IND,https://en.wikipedia.org/wiki/Chess_Olympiad
+fide_chess_olympiad_open,FIDE Chess Olympiad (Open),2024,2024-12-31,chess-team,Team chess,open,2,silver,team,USA,United States,United States,USA,https://en.wikipedia.org/wiki/Chess_Olympiad
+fide_chess_olympiad_open,FIDE Chess Olympiad (Open),2024,2024-12-31,chess-team,Team chess,open,3,bronze,team,UZB,Uzbekistan,Uzbekistan,UZB,https://en.wikipedia.org/wiki/Chess_Olympiad
+fide_chess_olympiad_women,FIDE Chess Olympiad (Women),2002,2002-12-31,chess-team,Team chess,women,1,gold,team,CHN,China,China,CHN,https://en.wikipedia.org/wiki/Women%27s_Chess_Olympiad
+fide_chess_olympiad_women,FIDE Chess Olympiad (Women),2002,2002-12-31,chess-team,Team chess,women,2,silver,team,RUS,Russia,Russia,RUS,https://en.wikipedia.org/wiki/Women%27s_Chess_Olympiad
+fide_chess_olympiad_women,FIDE Chess Olympiad (Women),2002,2002-12-31,chess-team,Team chess,women,3,bronze,team,POL,Poland,Poland,POL,https://en.wikipedia.org/wiki/Women%27s_Chess_Olympiad
+fide_chess_olympiad_women,FIDE Chess Olympiad (Women),2004,2004-12-31,chess-team,Team chess,women,1,gold,team,CHN,China,China,CHN,https://en.wikipedia.org/wiki/Women%27s_Chess_Olympiad
+fide_chess_olympiad_women,FIDE Chess Olympiad (Women),2004,2004-12-31,chess-team,Team chess,women,2,silver,team,USA,United States,United States,USA,https://en.wikipedia.org/wiki/Women%27s_Chess_Olympiad
+fide_chess_olympiad_women,FIDE Chess Olympiad (Women),2004,2004-12-31,chess-team,Team chess,women,3,bronze,team,RUS,Russia,Russia,RUS,https://en.wikipedia.org/wiki/Women%27s_Chess_Olympiad
+fide_chess_olympiad_women,FIDE Chess Olympiad (Women),2006,2006-12-31,chess-team,Team chess,women,1,gold,team,UKR,Ukraine,Ukraine,UKR,https://en.wikipedia.org/wiki/Women%27s_Chess_Olympiad
+fide_chess_olympiad_women,FIDE Chess Olympiad (Women),2006,2006-12-31,chess-team,Team chess,women,2,silver,team,RUS,Russia,Russia,RUS,https://en.wikipedia.org/wiki/Women%27s_Chess_Olympiad
+fide_chess_olympiad_women,FIDE Chess Olympiad (Women),2006,2006-12-31,chess-team,Team chess,women,3,bronze,team,CHN,China,China,CHN,https://en.wikipedia.org/wiki/Women%27s_Chess_Olympiad
+fide_chess_olympiad_women,FIDE Chess Olympiad (Women),2008,2008-12-31,chess-team,Team chess,women,1,gold,team,GEO,Georgia,Georgia,GEO,https://en.wikipedia.org/wiki/Women%27s_Chess_Olympiad
+fide_chess_olympiad_women,FIDE Chess Olympiad (Women),2008,2008-12-31,chess-team,Team chess,women,2,silver,team,UKR,Ukraine,Ukraine,UKR,https://en.wikipedia.org/wiki/Women%27s_Chess_Olympiad
+fide_chess_olympiad_women,FIDE Chess Olympiad (Women),2008,2008-12-31,chess-team,Team chess,women,3,bronze,team,USA,United States,United States,USA,https://en.wikipedia.org/wiki/Women%27s_Chess_Olympiad
+fide_chess_olympiad_women,FIDE Chess Olympiad (Women),2010,2010-12-31,chess-team,Team chess,women,1,gold,team,RUS,Russia,Russia,RUS,https://en.wikipedia.org/wiki/Women%27s_Chess_Olympiad
+fide_chess_olympiad_women,FIDE Chess Olympiad (Women),2010,2010-12-31,chess-team,Team chess,women,2,silver,team,CHN,China,China,CHN,https://en.wikipedia.org/wiki/Women%27s_Chess_Olympiad
+fide_chess_olympiad_women,FIDE Chess Olympiad (Women),2010,2010-12-31,chess-team,Team chess,women,3,bronze,team,GEO,Georgia,Georgia,GEO,https://en.wikipedia.org/wiki/Women%27s_Chess_Olympiad
+fide_chess_olympiad_women,FIDE Chess Olympiad (Women),2012,2012-12-31,chess-team,Team chess,women,1,gold,team,RUS,Russia,Russia,RUS,https://en.wikipedia.org/wiki/Women%27s_Chess_Olympiad
+fide_chess_olympiad_women,FIDE Chess Olympiad (Women),2012,2012-12-31,chess-team,Team chess,women,2,silver,team,CHN,China,China,CHN,https://en.wikipedia.org/wiki/Women%27s_Chess_Olympiad
+fide_chess_olympiad_women,FIDE Chess Olympiad (Women),2012,2012-12-31,chess-team,Team chess,women,3,bronze,team,UKR,Ukraine,Ukraine,UKR,https://en.wikipedia.org/wiki/Women%27s_Chess_Olympiad
+fide_chess_olympiad_women,FIDE Chess Olympiad (Women),2014,2014-12-31,chess-team,Team chess,women,1,gold,team,RUS,Russia,Russia,RUS,https://en.wikipedia.org/wiki/Women%27s_Chess_Olympiad
+fide_chess_olympiad_women,FIDE Chess Olympiad (Women),2014,2014-12-31,chess-team,Team chess,women,2,silver,team,CHN,China,China,CHN,https://en.wikipedia.org/wiki/Women%27s_Chess_Olympiad
+fide_chess_olympiad_women,FIDE Chess Olympiad (Women),2014,2014-12-31,chess-team,Team chess,women,3,bronze,team,UKR,Ukraine,Ukraine,UKR,https://en.wikipedia.org/wiki/Women%27s_Chess_Olympiad
+fide_chess_olympiad_women,FIDE Chess Olympiad (Women),2016,2016-12-31,chess-team,Team chess,women,1,gold,team,CHN,China,China,CHN,https://en.wikipedia.org/wiki/Women%27s_Chess_Olympiad
+fide_chess_olympiad_women,FIDE Chess Olympiad (Women),2016,2016-12-31,chess-team,Team chess,women,2,silver,team,POL,Poland,Poland,POL,https://en.wikipedia.org/wiki/Women%27s_Chess_Olympiad
+fide_chess_olympiad_women,FIDE Chess Olympiad (Women),2016,2016-12-31,chess-team,Team chess,women,3,bronze,team,UKR,Ukraine,Ukraine,UKR,https://en.wikipedia.org/wiki/Women%27s_Chess_Olympiad
+fide_chess_olympiad_women,FIDE Chess Olympiad (Women),2018,2018-12-31,chess-team,Team chess,women,1,gold,team,CHN,China,China,CHN,https://en.wikipedia.org/wiki/Women%27s_Chess_Olympiad
+fide_chess_olympiad_women,FIDE Chess Olympiad (Women),2018,2018-12-31,chess-team,Team chess,women,2,silver,team,UKR,Ukraine,Ukraine,UKR,https://en.wikipedia.org/wiki/Women%27s_Chess_Olympiad
+fide_chess_olympiad_women,FIDE Chess Olympiad (Women),2018,2018-12-31,chess-team,Team chess,women,3,bronze,team,GEO,Georgia,Georgia,GEO,https://en.wikipedia.org/wiki/Women%27s_Chess_Olympiad
+fide_chess_olympiad_women,FIDE Chess Olympiad (Women),2022,2022-12-31,chess-team,Team chess,women,1,gold,team,UKR,Ukraine,Ukraine,UKR,https://en.wikipedia.org/wiki/Women%27s_Chess_Olympiad
+fide_chess_olympiad_women,FIDE Chess Olympiad (Women),2022,2022-12-31,chess-team,Team chess,women,2,silver,team,GEO,Georgia,Georgia,GEO,https://en.wikipedia.org/wiki/Women%27s_Chess_Olympiad
+fide_chess_olympiad_women,FIDE Chess Olympiad (Women),2022,2022-12-31,chess-team,Team chess,women,3,bronze,team,IND,India,India,IND,https://en.wikipedia.org/wiki/Women%27s_Chess_Olympiad
+fide_chess_olympiad_women,FIDE Chess Olympiad (Women),2024,2024-12-31,chess-team,Team chess,women,1,gold,team,IND,India,India,IND,https://en.wikipedia.org/wiki/Women%27s_Chess_Olympiad
+fide_chess_olympiad_women,FIDE Chess Olympiad (Women),2024,2024-12-31,chess-team,Team chess,women,2,silver,team,KAZ,Kazakhstan,Kazakhstan,KAZ,https://en.wikipedia.org/wiki/Women%27s_Chess_Olympiad
+fide_chess_olympiad_women,FIDE Chess Olympiad (Women),2024,2024-12-31,chess-team,Team chess,women,3,bronze,team,USA,United States,United States,USA,https://en.wikipedia.org/wiki/Women%27s_Chess_Olympiad

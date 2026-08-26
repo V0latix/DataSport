@@ -108,3 +108,5 @@ world_games,world-games,World Games,,multi_sport_games,2001-12-31,2025-12-31,wor
 world_baseball_classic,baseball,World Baseball Classic,,national_team_tournament,2006-12-31,2026-12-31,world_baseball_classic_history
 fifa_futsal_world_cup,football,FIFA Futsal World Cup,,national_team_tournament,2004-12-31,2024-12-31,fifa_futsal_world_cup_history
 fifa_beach_soccer_world_cup,football,FIFA Beach Soccer World Cup,,national_team_tournament,2005-12-31,2025-12-31,fifa_beach_soccer_world_cup_history
+fide_chess_olympiad_open,chess,FIDE Chess Olympiad (Open),,national_team_tournament,2002-12-31,2024-12-31,fide_chess_olympiad_history
+fide_chess_olympiad_women,chess,FIDE Chess Olympiad (Women),,national_team_tournament,2002-12-31,2024-12-31,fide_chess_olympiad_history

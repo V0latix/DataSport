@@ -1,0 +1,2 @@
+discipline_id,discipline_name,discipline_slug,sport_id,confidence,mapping_source,created_at_utc
+chess-team,Team chess,chess-team,chess,1.0,connector_fide_chess_olympiad_history,2026-08-26T08:00:00+00:00

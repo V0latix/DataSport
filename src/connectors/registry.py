@@ -25,6 +25,7 @@ from .fifa_beach_soccer_world_cup_history_connector import FifaBeachSoccerWorldC
 from .fifa_futsal_world_cup_history_connector import FifaFutsalWorldCupHistoryConnector
 from .fifa_women_ranking_history_connector import FifaWomenRankingHistoryConnector
 from .fifa_women_world_cup_history_connector import FifaWomenWorldCupHistoryConnector
+from .fide_chess_olympiad_history_connector import FideChessOlympiadHistoryConnector
 from .football_data_connector import FootballDataConnector
 from .ihf_handball_world_championship_history_connector import IhfHandballWorldChampionshipHistoryConnector
 from .iihf_ice_hockey_world_championship_history_connector import (
@@ -103,6 +104,7 @@ CONNECTOR_REGISTRY = {
     "fifa_futsal_world_cup_history": FifaFutsalWorldCupHistoryConnector,
     "fifa_women_ranking_history": FifaWomenRankingHistoryConnector,
     "fifa_women_world_cup_history": FifaWomenWorldCupHistoryConnector,
+    "fide_chess_olympiad_history": FideChessOlympiadHistoryConnector,
     "world_rugby_ranking_history": WorldRugbyRankingHistoryConnector,
     "rugby_league_world_cup_history": RugbyLeagueWorldCupHistoryConnector,
     "rugby_world_cup_history": RugbyWorldCupHistoryConnector,
